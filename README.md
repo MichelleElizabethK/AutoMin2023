@@ -26,3 +26,7 @@
 - XSum Dataset
   - on HuggingFace
   - news articles and summaries
+
+## Models
+### Pretrained summarization models
+- https://huggingface.co/models?pipeline_tag=summarization&sort=downloads
