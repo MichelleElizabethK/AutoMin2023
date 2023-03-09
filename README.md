@@ -46,5 +46,10 @@
 - Many work done, but not documented properly
 - Some documentation: https://elitr.eu/deliverables/
 
+### Additional Information related to the topic
+- https://nlp-yang.github.io/Dialogue_Summarization.pdf
+- https://www.catalyzex.com/s/Meeting%20Summarization
+
+
 ## TODO
 1. Try some HuggingFace summarization pretrained models and finetune it on the minuting dataset
