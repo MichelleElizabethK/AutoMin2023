@@ -1,0 +1,1480 @@
+(PERSON25) Čau, [PERSON5].
+(PERSON5) Čau, čau.
+<other_noise/>
+(PERSON25) Přijde ještě někdo?
+(PERSON8) Vůbec nevím.
+<laugh/>
+<other_noise/>
+Na Slacku nikdo nic nepsal.
+(PERSON25) <unintelligible/>.
+(PERSON8) A koukal jsem, že na Gitu se nic nestalo za poslední tejden.
+<laugh/>
+(PERSON25) Ano, to jsem taky koukal, no.
+<other_noise/>
+A jak dopadl ten, ten váš Hackathoníček?
+(PERSON5) No, podle [PERSON8] to asi bylo atraktivní.
+<other_noise/>
+Hele, [PERSON8].
+(PERSON8) Čau.
+(PERSON5) Čau.
+(PERSON8) [PERSON5], ty lemro líná, jaktože sedíš doma?
+<laugh/>
+Když to máš do práce 5 minut?
+(PERSON5) Protože mně nikdo nic nevodpověděl na Slacku.
+<laugh/>
+(PERSON8) Ses na nic neptal.
+(PERSON5) Jakto?
+(PERSON25) Ale jo, <unintelligible/>.
+Já jsem se ptal.
+(PERSON8) [PERSON25] se ptal, jestli je meeting.
+(PERSON8) No.
+(PERSON5) Já jsem psal, že možná, ale že nevím.
+(PERSON8) <unintelligible/>.
+(PERSON5) A nikdo nic nepsal, tak jsem nechodil do práce.
+Protože co bych tam chodil, když nevím, jestli je meeting.
+<laugh/>
+(PERSON8) Jasný, no.
+(PERSON25) Hm.
+(PERSON8) A [PERSON12] tam máš?
+(PERSON8) Ne.
+<laugh/>
+Nikdo tady není.
+(PERSON5) A [PERSON16] má dovolenou.
+(PERSON8) Co?
+(PERSON5) A [PERSON16] má dovolenou.
+(PERSON8) To nevím, asi jo.
+Taky mám ten dojem.
+(PERSON5) <unintelligible/> každej má dovolenou.
+(PERSON8) To tady najdu.
+<other_noise/>
+Z toho, co je na Slacku jsem vydedukoval, že je meeting, tak jsem šel do práce.
+<laugh/>
+Tady jsem 5 minut zapínal počítač, protože se zase instalovali nějaký aktualizace Windows.
+<other_noise/>
+(PERSON5) No, to jsem psal já, že si myslím, že je meeting, ale myslel jsem si, že se to <unintelligible/> nějak jako definuje tím, co si všichni dohromady myslíme.
+<laugh/>
+<other_noise/>
+(PERSON8) Hm.
+(PERSON5) A teď jsem koukal na GitHub, že jsme stejně nikdo nic neudělali za poslední tejden.
+<laugh/>
+(PERSON8) Hm.
+(PERSON25) A -
+(PERSON8) Přitom minulej tejden byl [PERSON16] v práci, ne?
+To moh něco dělat.
+<laugh/>
+(PERSON25) No, ty jsi taky moh něco dělat, ne?
+(PERSON5) Já jsem taky moh něco dělat.
+Já jsem dělal [PROJECT1].
+A recenzoval na EMNLP.
+Jasně, to je to, co jsem dělal -
+<laugh/>
+Minulej tejden.
+(PERSON25) Kolik jsi měl paperů?
+<other_noise/>
+(PERSON5) 6.
+(PERSON25) No, já taky, to je hrozně moc.
+<other_noise/>
+(PERSON5) Hm.
+Ale koukal jsem, že už jsou konečně ty, eh, že už vidím ty recenze vod tech vostatních lidí.
+(PERSON25) Aaa.
+<other_noise/>
+(PERSON5) Tak jsem na to koukal a zjistil jsem, že se víceméně shodnem, tak to je fajn.
+(PERSON25) Tak na to jsem ještě, eh -
+Tam na to jsem ještě nekoukal.
+Zjistil jsem omylem, že recenzuju ty samý články jako [PERSON29].
+<laugh/>
+(PERSON5) [PERSON29]-, eh, [PERSON29], jo?
+(PERSON25) No.
+(PERSON5) <unintelligible/>.
+(PERSON25) Protože jsme si navzájem posílali -
+My jsme vyfasovali samý papery, který nás citujou.
+(PERSON5) Hm.
+(PERSON25) A posílali jsme si navzájem vtipný claimy vo našich paperech.
+<laugh/>
+A tak jsme zjistili, že recenzujem ty samý.
+<laugh/>
+(PERSON5) Hm.
+No, já předpokládám, že s [PERSON16] možná taky recenzujem nějaký stejný.
+Ale neto-, neporovnávali jsme si to až tak explicitně.
+(PERSON25) A n-, ne-, největší pecka je, že, eh, v jednom paperu psali, že, eh, se udělal ten neural machine translation a <unintelligible/> researcher started to be bored for <unintelligible/> -
+<other_noise/>
+<unintelligible/> modality.
+<unintelligible/>.
+<other_noise/>
+<laugh/>
+(PERSON5) Ale tak to tak asi je.
+<laugh/>
+(PERSON25) A jinak ten článek byl tragickej, ale psali tam spousty -
+<other_noise/>
+vtipnejch hlášek.
+<laugh/>
+(PERSON5) To je hezký.
+<laugh/>
+No, tak takto nějak podobně psal ten můj student tu bakalářku, s kterou ho pak vyhodili.
+<laugh/>
+No.
+No, já mám -
+No, minimálně dva z tech článků, co jsem recenzoval, nás citovaly.
+<other_noise/>
+<unintelligible/>, že jsem měl šest článků -
+<other_noise/>
+A asi tak pět z nich bylo, eh, nějaký prostě attentiony v transformeru a něco -
+<other_noise/>
+s tím někdo <unintelligible/>.
+(PERSON25) Aha.
+(PERSON5) Tak to bylo jako dobrý, no.
+<other_noise/>
+Jsem konečně moh klikat jako dobrou tu, tu reviewer confidence, že to jako docela vím.
+<laugh/>
+Ale ten jedinej, co mi přišel vopravdu dobrej, -
+<other_noise/>
+tak tam dělá nějaký divoký integrály, aby zjistil, co ty attentiony dělaj.
+(PERSON25) Jé.
+(PERSON5) Tak jsem tomu moc nerozuměl.
+Ale přišlo mi to, že to asi je dobrý, že to je asi tak něco, -
+<other_noise/>
+co by se asi mělo dělat.
+<other_noise/>
+<laugh/>
+(PERSON25) Jo.
+<laugh/>
+<other_noise/>
+(PERSON5) Ale napsal jsem tam, že tomu nerozumím.
+<laugh/>
+(PERSON25) No, to jsi napsal dobře.
+<laugh/>
+Eh -
+<other_noise/>
+A -
+A s tou knihou, prosím tě, máme nějakej deadline?
+Nebo?
+<laugh/>
+Nebo jak to jako je?
+(PERSON5) No -
+<laugh/>
+Jako [PERSON16] zřejmě ten deadline neví.
+Jakože -
+<laugh/>
+Tak nějak jako říkal, že jako, čím to bude dřív, tak tím líp.
+A čím to bude pozdějc, tak tím to taky nějak dycky jde, protože se nějak -
+Jednak jako není jasný, dokdy dovopravdy to musí bejt hotový, aby se to stihlo poslat recenzentům.
+<other_noise/>
+(PERSON25) Aha.
+(PERSON5) A zároveň těm recenzentům to asi stejně chceme poslat dřív, než to bude hotový.
+(PERSON25) <unintelligible/>.
+(PERSON5) Protože <unintelligible/> budeme chvilku jako s-, štelovat obrázky, asi není podstatný.
+(PERSON25) Aha.
+(PERSON5) A -
+A ty na to maj mít, myslím, dva měsíce nebo tak něco.
+A pak to má jít do tisku někdy v říjnu, v ří-, v listopadu, co já vím.
+Prostě v září snad se to má posílat těm recenzentům -
+No.
+Ale když se to nějak nestihne, tak se stejně dá to plnění toho grantu [ORGANIZATION4] nějak ještě jako vodložit.
+Že se nějak jenom napíše, že ta kniha jako se doloží pozdějc.
+A to nějak se taky dá.
+A jenom to nějak nechceme dělat.
+(PERSON25) Jo.
+(PERSON5) Ale -
+<laugh/>
+Tím pádem ten deadline nějak reálně asi není -
+<laugh/>
+Nevím, jestli nějak jako do roka vod ukončení grantu [ORGANIZATION4] musíš doložit ty výsledky nebo tak.
+<laugh/>
+Takže asi, kdybysme to psali ještě rok, tak to jako nikomu nevadí nebo já nevím.
+<laugh/>
+<unintelligible/>.
+<laugh/>
+Jenom nám.
+<laugh/>
+(PERSON25) No, jasně, no.
+<laugh/>
+<other_noise/>
+(PERSON5) Ale reálně to asi chceme během srpna dodělat, abysme to v září poslali recenzentům nebo tak něco.
+Já nevím, jak to pochopil [PERSON8]?
+(PERSON8) No, já jsem to nepochopil.
+(PERSON5) No.
+<other_noise/>
+(PERSON8) Já jsem pochopil, že to chceme mít co nejdřív.
+(PERSON5) Ano.
+(PERSON25) Takže tam nikdo nic nedělá, rozumím.
+<other_noise/>
+(PERSON5) <unintelligible/>.
+<laugh/>
+A <unintelligible/>, když něco vopravdu musí bejt za tejden, tak to je jiná věc, než když [PERSON16] řek, že to má bejt za tejden, ale že to nevadí, když to bude pozdějc.
+<laugh/>
+(PERSON8) Jsou jiný věci, který musí bejt ještě dřív.
+(PERSON5) No.
+(PERSON8) <unintelligible/>.
+(PERSON5) Hlavně <unintelligible/>.
+No.
+<laugh/>
+Měli jsme ten brighting Hackathon, což mně přišlo krutě defektivní.
+<laugh/>
+Pak jsme seděli asi pět hodin či-, já a, eh, [PERSON8] a [PERSON16] a koukali jsme do nějaký tý kapitoly vo interpretaci toho, nebo která to byla.
+Taková nějaká z tech středně úvodních.
+A tak jsme jako za tech pět hodin zvládli napsat asi tak stránku textu nebo tak něco.
+Ve třech lidech.
+<laugh/>
+A -
+<laugh/>
+[PERSON8] s [PERSON16] se tvářili, že to je efektivní, protože aspoň už jsme to napsali, a už je to rovnou jako pěkný.
+A, a všichni jsme se na tom shodli, že takhle to chceme.
+A mně přišlo, že za tu dobu bych klidně napsal deset jinejch stránek, ale tak nevím.
+<laugh/>
+(PERSON25) No, jo, no.
+Eh -
+Já, to je možná pozdě bycha honit, ale měl jsem z tý kapitoly vo tý interpretabilitě pocit, že je to šitý na míru tý další [PERSON8] kapitole.
+Že to jako nepřímo říká:
+,,Kdo dělá intepretabilitu superwise, je hovado."
+,,Protože tam najde jenom to, co hledá."
+Tak to -
+Tak, tak se to musí dělat unsuperwise.
+Pak je ta [PERSON8] kapitola, kde se to dělá unsuperwise.
+A pak jsou ty dvě kapitoly, kde se to dělá superwise.
+<laugh/>
+<other_noise/>
+<laugh/>
+<other_noise/>
+(PERSON25) Tak -
+Tak nevím, jestli je to jako dobrý pro celkový vyznění tý knihy.
+<laugh/>
+<other_noise/>
+Ale možná jste to změnili, takže to má nějaký jako přátelštější vyznění k těm superwise metodám.
+<other_noise/>
+(PERSON5) Já už si to nepamatuju.
+Já jsem to psal, ale nečet.
+<laugh/>
+(PERSON8) Hm.
+(PERSON25) <unintelligible/>.
+<other_noise/>
+(PERSON5) A tak ty, ty, že jo, takový ty attentiony, ty taky nejsou tak úplně superwised.
+Ani prime superwised.
+(PERSON25) Hm.
+<other_noise/>
+(PERSON5) Jo, furt se tady píše, že ten probing vlastně je trochu debilní.
+A tak to si asi myslíme, že je trochu debilní, no.
+(PERSON25) No.
+(PERSON5) Možná by se tam někde mělo psát -
+To nevím, jestli tam někde je, jako vo tý síle toho modelu, že jo.
+To je to, co ty lidi řešej u toho probingu.
+Že když natrénuješ prostě třívrstvý MLP s vobrovskejma hidden layers, tak jako to se naučí cokoliv.
+<other_noise/>
+<unintelligible/> aktivně ty modely nezahodili.
+A tak ty lidi dělaj takový to, že když udělaj jenom <unintelligible/> projekci, tak nějak jim to přijde, že teda ta se nenaučí jako složitý věci.
+A když i ta lineární projekce tam něco najde, tak to tam asi spíš <unintelligible/>.
+To nevím, -
+(PERSON25) No, ale -
+(PERSON5) jestli vo tom někde mluvíme.
+(PERSON25) To nevím, ale c-, v tom tutoriálu na ACL argumentovali nějak opačně.
+<laugh/>
+(PERSON5) To já jsem neviděl, no, tak to já nevím.
+<laugh/>
+(PERSON8) Tak se na něj podívej.
+<other_noise/>
+(PERSON5) Ale nevím, kde ho najdu ani.
+A ještě je to určitě hrozně dlouhý.
+(PERSON8) Je, ale stačí to, co říká [PERSON9].
+(PERSON5) Hm.
+(PERSON25) No, a ty já, eh -
+A m-, měl tam k tomu nějaký jako t-, t-
+(PERSON8) <unintelligible/>.
+(PERSON25) argumenty z teorie informace.
+<other_noise/>
+(PERSON5) Kdyby se to někdy vyhlásilo jako společný [OTHER1] koukání, tak už jsem to byl dávno viděl.
+(PERSON8) Dyť se to bylo vyhlásilo jako společný <unintelligible/> -
+(PERSON5) No, ale neřeklo <unintelligible/> na co se bude koukat, a kdy se na to bude koukat.
+Co já vím, kde jsou tutoriály, a co na nich je.
+<laugh/>
+(PERSON8) <unintelligible/> -
+(PERSON25) <unintelligible/> a to bylo v neděli, mimochodem.
+(PERSON5) No, to jsem ani nemoh v neděli.
+V neděli <unintelligible/> krom toho, že <unintelligible/>, tak jsem dělal něco jinýho.
+<other_noise/>
+No.
+(PERSON8) Tak nekecej, že bys byl, když bys byl nebyl, když -
+<laugh/>
+by jsi <unintelligible/>.
+(PERSON5) <unintelligible/> vo tom, že tohleto chcem vidět, kdo to chce vidět, tydle tři lidi.
+Kdy se na to můžou koukat?
+Ve čtvrtek.
+A mohli jsme na to koukat ve čtvrtek, no.
+To bylo nějaký jako -
+(PERSON8) <unintelligible/> -
+(PERSON5) <unintelligible/>.
+(PERSON8) My jsme si mysleli, že to bude live.
+(PERSON5) Hm.
+(PERSON8) Tak jsme na to koukali v ten den, kdy to bylo v tom programu napsaný.
+<laugh/>
+To jsme až potom zjistili, že ani ty tutoriály nejsou live.
+(PERSON5) Hm.
+(PERSON25) Jak který.
+(PERSON8) No vidíš, tak to jsme prostě nevěděli vůbec.
+<other_noise/>
+(PERSON5) Hm.
+Ale <unintelligible/> -
+(PERSON8) <unintelligible/>.
+(PERSON5) <unintelligible/>, ale přijde mi to, že to bylo celý dementní.
+<laugh/>
+(PERSON8) No.
+(PERSON25) Já jsem to taky nevěděl, ale pak js-, pak jsem zjistil, že některý naopak jako byly live.
+A když jsem se na ně nekoukal, když byly, tak už je neuvidím.
+<laugh/>
+(PERSON5) Ach jo.
+(PERSON8) Hm.
+(PERSON5) To je fakt demence.
+Doufám -
+<laugh/>
+<unintelligible/> -
+Já jsem si vždycky říkal, že je to kravina, že prostě tisíc lidí cestuje po celým světě na to, aby koukali na nějaký prezentace.
+A že by to šlo dělat online a bylo by to mnohem levnější a jednodušší.
+A teď už si to úplně nemyslím.
+<laugh/>
+(PERSON25) No.
+<laugh/>
+(PERSON5) Teď si myslím, že -
+(PERSON25) Jo, mimochodem <unintelligible/> -
+(PERSON5) <unintelligible/> nějakej, nevím, kdo to říkal, že by mělo bejt jako větší ty lokální konference -
+<laugh/>
+(PERSON25) <unintelligible/>.
+(PERSON5) <unintelligible/> tak daleko.
+(PERSON25) Eh, co se zvažuje, no.
+Protože lidi nadávali na to, že na ty Q&A session nikdo nechodil.
+<other_noise/>
+A, eh -
+(PERSON5) No.
+<unintelligible/> ani nikdo nevěděl předem, že to bude Q&A session, že jo, lidi přišli a mysleli si, že bude ta prezentace.
+A zjistili, že to už se měli podívat předtím.
+<unintelligible/> u těch paperů to bylo jak?
+(PERSON25) U těch paperů to bylo tak, že byly dopředu nahraný ty prezentace, a pak byly jako sloty, kde byly ty zoom roomy.
+(PERSON5) Jo.
+Ale to jsme taky pochopili až nějak z oběhu tý konference.
+Aspoň u nás -
+(PERSON25) <unintelligible/>.
+(PERSON5) v <unintelligible/>.
+<laugh/>
+(PERSON25) No, tak, tak to já jsem chápal od začátku todleto.
+<laugh/>
+Ale bylo divný to, že jako kdykoliv jsem se přišel někam zeptat, tak tam byli nějaký jako lidi a tak jsem řek:
+,,Jo, tak vy jste tu byli dřív, tak se ptejte dřív."
+A často, a často ty autoři řekli:
+,,Ne, voni přišli jenom poslouchat."
+,,A, a, a za celou dobu jako nic neřekli."
+<laugh/>
+,,A jenom tam jsou."
+<laugh/>
+Nebo řekli, že přišli jenom poslouchat.
+<laugh/>
+A nic se tam <unintelligible/>.
+<laugh/>
+A nebo tam klábosili, klábosili autoři spolu ve svým rodným jazyce a -
+<laugh/>
+A radovali se, že se jim tam přišel někdo na něco zeptat.
+(PERSON5) No, <unintelligible/> říkal, že se ho akorát [PERSON17] přišel na něco zeptat.
+<laugh/>
+Jako někdo vod nás.
+(PERSON25) A pak -
+(PERSON5) Už nevím, kdo to říkal.
+<laugh/>
+(PERSON25) A pak taky půlka, eh, Mnichovanů by je tam, eh, vy-, vy-, vyzoombombovali.
+<laugh/>
+A ještě ty autoři totiž nebyli admini těch místností.
+To byli nějaký prostě jako brigádníci z tý ACL.
+Takže ty, takže ty bombery museli vyhojo-, v-, eh, vyhazovat nějaký ty, co to měli na starosti.
+Ale těch bomberů bylo prostě tolik -
+<laugh/>
+Že -
+<laugh/>
+Že, že tak jako průběžně čtvrtina těch místností byla zabombovaná.
+<laugh/>
+(PERSON5) Jakto?
+<laugh/>
+Ach jo.
+(PERSON25) Takže jako větši-, většina Mnichovanů, který měli tu Q&A session, tak -
+Tak dostali aspoň jednoho bombera.
+<laugh/>
+Který se jako lišili různejma věcma.
+Jestli tam jenom pouštěj nesnesitelnej zvuk a všem vostatním vypínaj mikrofony -
+<laugh/>
+<censored/>
+<laugh/>
+(PERSON5) Ach jo.
+<laugh/>
+Hm.
+A to jsme jako, ty jo, informatici všichni.
+<laugh/>
+(PERSON25) No.
+<laugh/>
+Vono to zas jako není jednoduchý prostě spíchnout takhle narychlo, no.
+<unintelligible/> jako na, na další konferenci už jako víš, že ty autoři těch paperů by asi měli bejt admini, aby mohli vykopávat ty -
+(PERSON5) Hm.
+(PERSON25) <unintelligible/>.
+<other_noise/>
+(PERSON5) Hm.
+<other_noise/>
+No.
+Ale i tak tam jsou věci, který nevím, jestli budou jako fungovat dobře, no.
+Že jo, tam prostě pro mě je největší ta psychologická bariéra, že když tam musím dojet, tam musím na tu přednášku jít, abych ji viděl.
+Tak už tam teda jdu.
+Tak vidím hodně tech přednášek.
+A když to je takhle někde online a můžu se na to podívat kdykoliv, tak se na to nepodívám nikdy.
+<laugh/>
+(PERSON25) No, to se musíš prostě tvářit, že, že se na to, eh, eh, že, jakože seš na tý konferenci, no.
+(PERSON5) To jsme udělali a částečně to fungovalo, no.
+Jeden den jsme se tam sešli na nějaký ty, ty trileri-, related papery.
+A tak jsme nějaký ty věci viděli.
+Ale stejně, jako ještě si s tím plánovat někde nějaký Q&A je nějaký složitý.
+(PERSON25) A -
+(PERSON5) <unintelligible/> to nějak nebylo jednoduše dostupný, kdy teda, co má q-ray a celý to bylo v pdfku, a tak.
+Ale i tak, jakože asi by člověk spíš měl teda <unintelligible/> -
+(PERSON25) <unintelligible/>.
+<unintelligible/>, když je do toho registrovanej, tak <unintelligible/> dobrou aplikaci.
+To bylo -
+To nebylo jenom -
+(PERSON5) Hm.
+(PERSON25) v tom pdfku.
+(PERSON5) Hm.
+(PERSON25) Ale třeba v Mnichově se to podporovalo tím, že se prostě zrušili všechny meetingy na ten, na ten tejden.
+(PERSON5) Hm.
+(PERSON25) Kdy bylo ACL.
+A napsal se z centrály -
+(PERSON5) <unintelligible/> -
+(PERSON25) Napsal se z centrály e-mail všem studentům, že jsou zrušený konzultace.
+(PERSON5) Hm.
+Hm, hm.
+Jako tak u nás toho moc nebylo, že jo, červenec.
+Ale, eh, přijde mi, že člověk by vlastně měl jako na ty talky kouknout spíš tak tejden před tou konferencí.
+Aby pak už moh chodit na ty Q&A, že jo.
+(PERSON25) No.
+(PERSON5) Protože takhle, co se jako stane, že jo, že prostě se koukneš na nějaký ty věci, a když tě to zajímá, tak teprve si řekneš:
+Aha, tak to bych chtěl na to Q&A, kdy to je, aha, včera.
+<laugh/>
+(PERSON25) Aby byly dvakrát všechny ty Q&A.
+(PERSON5) Hm.
+<laugh/>
+(PERSON8) Hi, I am [PERSON9] -
+<laugh/>
+(PERSON5) <unintelligible/>.
+(PERSON8) To máš na celej večer.
+<laugh/>
+<other_noise/>
+Hm, hm, hm, hm, hm.
+<other_noise/>
+Tady máš vodkaz, [PERSON5], podívej se na [PERSON9] aspoň.
+(PERSON5) Ok.
+Kouknu se na [PERSON9].
+(PERSON8) Když už nic jinýho.
+<other_noise/>
+(PERSON5) Hi, I am [PERSON9].
+<laugh/>
+(PERSON25) Já mám sluchátka, tak to nemůžu pustit.
+<laugh/>
+<other_noise/>
+(PERSON5) Jo.
+Já jako doufám, že když už teďka ta konference byla online a ví se, co fungovalo, a co ne, tak třeba EMNLP bude strašně skvělý.
+Ale nevím, no.
+(PERSON25) Hm.
+EACL má bejt prej dovopravdicky v Kyjevě, si zatím myslej.
+(PERSON5) A kdy to má bejt?
+(PERSON25) Někdy v dubnu.
+Hm, jeden týpek vod nás je mezi nějakejma těma, eh, vysokejma čérama.
+Ale von teď zrovna vodešel na Technickou univerzitu ve Vídni.
+Tak asi přijdu vo -
+(PERSON5) Hm.
+(PERSON25) čerstvý zprávy vo v-, vo EACL.
+(PERSON5) Hm.
+No, vlastně mi přišlo, že by dávalo smysl to, co jsme trošku se snažili dělat.
+Že když jako nějaká skupina spolu na něčem dělá, tak si spolu najdou ty papery, co je zajímaj a spolu se na ty prezentace kouknou.
+To jsme tak trochu vymejšleli, nakonec jsme koukali i dohromady prostě s [PERSON29] a dalšíma lidma, který za chvilku začali votravovat, že už je to generování nebaví.
+<laugh/>
+Že je to nezajímá.
+<laugh/>
+(PERSON25) No, jo, no.
+<laugh/>
+(PERSON19) Ale předtím říkali, že to je debilní koukat zvlášť, že to budem koukat všichni dohromady.
+<laugh/>
+A -
+No.
+Jakože kdybych prostě jenom seděl doma, tak i kdybych to měl zaregistrovaný, tak asi na to nebudu až tak koukat.
+Že nějak to je -
+(PERSON25) No, to já jsem koukal celej den.
+(PERSON5) No.
+Takovej ten jako social pressure prostě, že tam seš s těma vostatníma lidma, tak teda na to koukáte.
+To na mě nějak jako funguje.
+(PERSON25) No, <unintelligible/>.
+<other_noise/>
+Když já smím do práce až v listopadu.
+<laugh/>
+<cough/>
+(PERSON5) No.
+U nás nikdo neví, ale -
+<laugh/>
+Furt tam můžem.
+Nebo v podstatě zas taky nikdy nikdo oficiálně neřek, že už můžem chodit do toho IMPAKTu.
+<laugh/>
+(PERSON25) Aha.
+<laugh/>
+<unintelligible/>.
+<laugh/>
+(PERSON5) To se jenom tak jako konstituuje.
+<laugh/>
+<other_noise/>
+Prostě jsme tak nějak čekali, kdy přijde ten oficiální pokyn.
+A v nějakou chvíli s-, jsem usoudil, že ten asi nikdy nepřijde, a tak jsem prostě tak jako pokynul.
+A usoudil jsem, že -
+(PERSON25) Hm.
+(PERSON5) když už nám dali klíče vod kanclů, tak už můžem a -
+<laugh/>
+<other_noise/>
+(PERSON25) No.
+Já teda jako můžu do práce, ale musím se nahlásit vrátnýmu.
+A mů-, a může prostě na těch departmentech bejt nějakej omezenej počet lidí, jenom.
+(PERSON5) Hm.
+(PERSON25) A můžu taky tomu vrátnýmu zavolat dopředu, že přijdu.
+<laugh/>
+Takže von si mě tam jako někam napíše, a pak mě, a pak mě pustí a jako, a nestane se, že bych přišel a nesměl tam, třeba.
+(PERSON5) Hm, hm, hm.
+<laugh/>
+(PERSON25) A mimo kancelář musím chodit v roušce.
+(PERSON5) Hm.
+To my jsme taky ze začátku museli a nepřišlo mi, že úplně by se to na [ORGANIZATION2] dodržovalo.
+(PERSON25) Hm.
+No, tak tady je to jako poněkud jiný, no.
+(PERSON5) Hm.
+(PERSON25) Před supermarketem -
+(PERSON5) A přijde mi, že -
+(PERSON25) stojí sekuriťák.
+(PERSON5) Hm.
+(PERSON25) A nepustí tě dovnitř bez roušky.
+(PERSON5) Hm.
+<censored/>
+<unintelligible/> -
+(PERSON5) Jako u nás mi přijde, že <unintelligible/> už se trošku jako vomezilo takovej ten public shaming lidí s rouškama.
+<laugh/>
+Že už jako potkávám lidi v rouškách v tramvaji třeba, protože prostě je to takový doporučení a -
+Jakože nepřijde mi, že by na ně u-, lidi jako úplně blbě koukali.
+<other_noise/>
+<other_yawn/>
+No nic, no.
+Tak já <unintelligible/>, jestli chceme něco důležitýho vyřešit?
+(PERSON25) No, nevím, asi ne.
+(PERSON8) A [PERSON25], ty už jsi čet tu třetí kapitolu, po tom, co jsme ji, eh, s [PERSON5] a [PERSON16] přepsali?
+(PERSON25) Ne.
+(PERSON8) Tak kdyby ses někdy nudil, tak si můžeš číst třetí kapitolu.
+Ta by měla bejt -
+<other_noise/>
+v podstatě hotová, si myslím.
+(PERSON25) Jo.
+(PERSON8) <unintelligible/>.
+(PERSON25) A neměl bych číst radši něco, co jsem ještě nečet?
+<other_noise/>
+(PERSON8) No, ale to je všechno nehotový.
+<unintelligible/> -
+<other_noise/>
+(PERSON5) Moji kapitolu už <unintelligible/>.
+Myslím.
+(PERSON25) Ne, ne, ne, ne, ne, tam jsem někde skončil.
+(PERSON5) No.
+<other_noise/>
+No.
+(PERSON25) Tam, kde končej ty moje poznámky, tam jsem skončil, nejspíš.
+Koukám, že <unintelligible/> s něma -
+(PERSON5) <unintelligible/>.
+<unintelligible/>, jestli užs to náhodou někdy nedočet.
+(PERSON25) Ne.
+(PERSON5) To klidně můžeš <unintelligible/> někdy dočíst, no.
+<laugh/>
+<other_noise/>
+Já stejně nejdřív budu dělat na tom úvodu, kterej chybí a na tech tvejch poznámkách a -
+(PERSON25) Jo.
+<other_noise/>
+(PERSON5) Takže tam na ten konec, kterej jsi ještě nečet, tak na ten se stejně ještě nějakou dobu nedostanu.
+(PERSON25) Aha.
+(PERSON5) Protože nevím, co bych s ním teď měl dělat.
+<laugh/>
+(PERSON25) <unintelligible/>.
+(PERSON5) Ale -
+<other_noise/>
+(PERSON25) Ok.
+A vo tý [PERSON16] kapitole nevíte nikdo nic, co?
+(PERSON8) Ne.
+(PERSON5) No -
+Že jo, nejdřív byl meeting, kde jsi byl ty, ale nebyl tam [PERSON16].
+<laugh/>
+Pak byl zase meeting, kde byl [PERSON16] a nebyl jsi tam ty.
+Takže [PERSON16] to napsal a tys to vokomentoval, tak to nikdy nebylo úplně -
+<laugh/>
+jako na místě to řešit, no.
+Takže [PERSON16] jako o tý svojí kapitole něco říkal, ale protože my jsme to nečetli, tak -
+<laugh/>
+To nebylo moc užitečný.
+<laugh/>
+(PERSON25) Ok.
+<other_noise/>
+(PERSON5) Jo, nechceš, [PERSON25], navrhnout nejaký recenzenty knihy?
+(PERSON25) Nevím, spíš ne.
+<other_noise/>
+(PERSON5) <unintelligible/> jako bavili, že chcem -
+No.
+Nevíme koho, ale já jsem navrhoval, že když to vlastně píšem pro [PERSON23] a pro [PERSON22], tak třeba někoho jako [PERSON26] nebo takový nějaký spíš lingvisty, který s-, dělaj trochu NLP a známe je.
+A pak jsme se bavili vo tom, že nevíme, jestli ale vlastně se nám to povedlo pro ně úplně napsat.
+(PERSON8) Dyť to ještě můžem celý přepsat.
+<other_noise/>
+(PERSON5) No, jasně.
+Nakonec to celý přepíšem.
+<laugh/>
+Že vlastně tak nějak úplně jsme nevymysleli jako, koho vlastně chceme jako ty recenzenty, no.
+<other_noise/>
+(PERSON25) Eh, no, já jsem jako <unintelligible/>-
+(PERSON5) Jakože <unintelligible/> chci říct [PERSON26].
+Ale možná tomu nebude prostě rozumět, protože je mo-, moc lingvistka.
+A pro ni by to vlastně jako mělo bejt psaný, ale nevím, jestli je.
+(PERSON25) No, já asi neznám žádný lidi, který by byli buď lingvisti, nebo se jako věnovali tý interpretabilitě.
+<other_noise/>
+(PERSON5) Ty znáš takový ty lidi, co říkaj, že interpretabilita je píčovina, ne?
+Ty by si to mohli přečíst.
+<laugh/>
+(PERSON25) <unintelligible/>.
+No, právě.
+<laugh/>
+(PERSON5) Řeknou nám, že je to píčovina.
+<laugh/>
+Stejně nevím, jak to jako funguje s těma recenzema.
+Já mám pocit, že je to spíš jako formální požadavek.
+Že ten recenzent hlavně musí napsat tu stránku až dvě tý recenze.
+A je vlastně asi jedno, jestli to čet a nevím, co se pak s tou recenzí dělá.
+Jestli to musíme jako všechno nějak přepsat, nebo jestli je to jedno <unintelligible/>.
+<laugh/>
+(PERSON25) No podle mě jako <unintelligible/>-
+(PERSON5) Ale <unintelligible/> tak jako mlží, takže asi se to úplně nějak krutě jako neřeší.
+(PERSON25) Eh, [PERSON27] se, podle mě, ptát nemůžu, protože s těma jsem, jako úzce spolupracuju.
+(PERSON5) Hm.
+(PERSON25) A [PERSON3] si myslej, že interpretabilita je píčovina.
+(PERSON5) No, [PERSON17] jako výslovně říkal, že ohledně conflict of interest jako nejsou moc rigorózní.
+<other_noise/>
+No.
+(PERSON25) No.
+<other_noise/>
+(PERSON5) No, to my tam stejně asi úplně nepíšeme, proč je ta interpretabilita dobrá, ne?
+To spíš tak jako předpokládáme, že je to dobrý, mi přijde.
+Jako je tam ten <unintelligible/> face.
+<other_noise/>
+Kterej říká, že je dobrý tomu rozumět, co to dělá.
+A asi víc vo tom neříkáme.
+(PERSON25) Hm.
+(PERSON8) No, ve třetí kapitole se něco říká.
+<other_noise/>
+(PERSON25) No.
+A neznáme nějaký ty [ORGANIZATION1], který -
+<other_noise/>
+Eh, který dělaj m-, multimodální věci.
+A vod toho multimodálního překladu přešli k nějakejm jako úlohám, jako visional question answering.
+(PERSON5) Hm.
+Možná by to mohlo zajímat takový unsuperwised lidi.
+<other_noise/>
+Ty by moh [PERSON16] nějaký znát.
+(PERSON25) No.
+(PERSON5) Že to je takový jako, hm, jako to, kam se rela-, reálně vyvíjí unsuperwised NLP, že jo.
+Prostě dneska to nepotřebuješ dělat unsuperwised, protože to u-, prostě vytáhneš, co potřebuješ tady vocaď.
+<other_noise/>
+(PERSON25) Hm.
+<other_noise/>
+(PERSON5) Já jsem vlastně -
+Aha.
+Já jsem zapomněl už.
+Já jsem do toho [OTHER1] dokumentu meetingovacího dal nějaký vodkazy na nějaký lidi, eh, který jsou jako PhD studenti.
+Ale jsou to takový ty články, co hodně citujeme.
+Jako třeba takovej ten [PERSON21] and [PERSON15], tak ten [PERSON21] je prostě nějakej [PERSON15] PhD student.
+A [PERSON17] nám nikdy neřek, že ten recenzent musí bejt aspoň doktor.
+<laugh/>
+<other_noise/>
+A, co si budem povídat, jako nějakej doktorand <unintelligible/> [PERSON15] bude stokrát lepší recenzent než nějakej doktor z Bulharska.
+(PERSON25) Hm.
+<unintelligible/>.
+(PERSON5) <unintelligible/>.
+<laugh/>
+(PERSON8) Co je dneska za den?
+Úterý?
+(PERSON25) No.
+(PERSON8) Hm.
+<other_noise/>
+<laugh/>
+(PERSON5) To nevím jako, jestli -
+<laugh/>
+je nějak relevantní.
+<laugh/>
+(PERSON8) Není, ale tak jako <unintelligible/>.
+[PERSON21] taky není relevantní, si myslím.
+(PERSON5) <unintelligible/>.
+(PERSON8) Hlavně bych to neposílal nikomu, koho často citujeme, nebo to špatně dopadne.
+(PERSON25) Tak.
+<other_noise/>
+(PERSON5) Takže co?
+Spíš se jako bojíme to posílat lidem, co tomu moc rozuměj?
+(PERSON25) Jo.
+<other_noise/>
+(PERSON8) Jo.
+(PERSON5) No.
+A zase lidi, který tomu moc nerozuměj, tak tam nebudou asi rozumět tý knížce.
+(PERSON25) Hm.
+(PERSON8) No, tak ty by měli rozumět tý knížce.
+<other_noise/>
+Když jí nebudou rozumět a napíšou nám, že tomu nerozuměj, tak to bude užitečná recenze.
+<other_noise/>
+(PERSON5) No, a jak moc tomu maj nerozumět?
+Takže prostě lingvistům?
+<other_noise/>
+Byste to dávali?
+(PERSON25) No, možná.
+(PERSON5) Prostě takovejm -
+(PERSON8) Jo.
+(PERSON5) jako <unintelligible/> a [PERSON22], který jako si myslej, že je zajímá NLP.
+Ale jsou to spíš lingvisti.
+<other_noise/>
+(PERSON8) Těm bych to dával.
+(PERSON5) Ok.
+No, tak to jsou například ty dvě ženský, co jsem tam napsal zatím já do poznámek.
+Tak tech se klidně můžu zeptat.
+<other_noise/>
+(PERSON25) A znáš je osobně?
+(PERSON5) Ty znám osobně, no.
+(PERSON25) Jo.
+No.
+Já bych chce-, já si vo tý knize nem-, eh, jako nakonec může bejt dobrá, jo, <unintelligible/>.
+Těžko říct, jak to dopadne.
+Ale jako zatím všechno nasvědčujeee tomu, že bysme si spíš někde mohli udělat vostudu.
+(PERSON5) Hm.
+(PERSON8) Hm.
+(PERSON25) Takže bych spíš uvažoval přizdisráčsky vo recenzentech.
+(PERSON5) No.
+No, s tím, že [PERSON17] nějak, že jo, psal, že to maj bejt určitě mimo, eh, ústav.
+<other_noise/>
+A ideálně mimo zemi.
+(PERSON25) Hm.
+(PERSON5) A stejně jsme pak koukali na ty vydaný knihy, který vesměs recenzujou lidi z [ORGANIZATION5] nebo z [ORGANIZATION3].
+<other_noise/>
+<laugh/>
+A -
+<laugh/>
+<other_noise/>
+Tak taky měli <unintelligible/> -
+(PERSON25) <unintelligible/> knížek, ne?
+<other_noise/>
+(PERSON5) Co?
+<other_noise/>
+(PERSON25) Že je jich půlka česky těch knížek, tak -
+<other_noise/>
+(PERSON5) Hm.
+(PERSON25) To se <unintelligible/> potom shání jinde.
+(PERSON5) Hm.
+(PERSON8) No -
+(PERSON5) Ale <unintelligible/> myslím, že to takhle je.
+<laugh/>
+(PERSON8) Já mám taky takovej dojem.
+Počkej, já se podívám.
+<unintelligible/>, teď jsem si tady nějak <unintelligible/> překlik prohlížeče.
+<other_noise/>
+(PERSON5) Book <unintelligible/> so far can be found here.
+(PERSON8) Hm.
+(PERSON5) Jak člověk rychle zjistí, kdo to recenzoval?
+To musí votevřít celou tu knihu?
+(PERSON25) Jo, no, asi.
+(PERSON8) No, ne.
+Tak třeba tady, [PERSON14] napsal knihu anglicky, The world of tokens, tags and trees.
+<other_noise/>
+A recenzovali to [PERSON6] a [PERSON18].
+(PERSON5) No.
+(PERSON25) A ještě za to dostal pak cenu vod děkana.
+<other_noise/>
+<laugh/>
+(PERSON5) Jo.
+<laugh/>
+Tak [PERSON24] má Coreference něco, to recenzoval [PERSON6] a [PERSON33].
+(PERSON25) <unintelligible/> -
+(PERSON8) No, protože -
+(PERSON25) <unintelligible/> to byla ta jeho disertace, že jo.
+(PERSON8) Hm, právě.
+(PERSON5) Jo, to von mu posuzoval disertaci, jo?
+(PERSON25) No, no, no.
+(PERSON8) Takže tam museli sehnat zahraničního oponenta, protože k disertaci bejt musí.
+<other_noise/>
+(PERSON5) Nemusí.
+(PERSON8) Nemusí?
+(PERSON25) Nemusí.
+To jenom [PERSON23] tak chce.
+(PERSON8) Jo, takhle.
+<other_noise/>
+<laugh/>
+Tak [PERSON23] sehnal zahraničního recenzenta, protože to tak chce.
+<laugh/>
+Pak už recenzoval i tu knihu.
+<other_noise/>
+(PERSON5) No.
+<other_noise/>
+No, tak [PERSON2], Sentiment analysis in Czech.
+Reviewers [PERSON6] a [PERSON31].
+<laugh/>
+(PERSON8) Tak to vypadá, že [PERSON6] je koncentní.
+<laugh/>
+(PERSON5) No, tak to by nám to moh taky recenzovat.
+<laugh/>
+(PERSON8) Hm.
+Ten chudák nedělá celej rok nic jinýho, než že recenzuje [ORGANIZATION5] knihy, ne?
+(PERSON5) Hele, [PERSON28], ten by moh mít nějaký dobrý recenzenty.
+Exploiting linguistic data in machine translation.
+A, [PERSON10] <unintelligible/> a [PERSON32].
+<laugh/>
+<other_noise/>
+(PERSON8) Hm.
+<laugh/>
+<censored/>
+<laugh/>
+Už to bude i v zápise.
+<laugh/>
+(PERSON25) By se mělo zapisovat tou konverzační analýzou, co posílal teď ten [PERSON13], nebo jak se jmenuje.
+(PERSON8) Jo.
+Ještě jsem na to nekoukal.
+Ale -
+(PERSON5) Syntactic analysis in machine translation, reviewers [PERSON30], [PERSON20].
+<laugh/>
+<other_noise/>
+No.
+(PERSON8) <unintelligible/> já myslím, že na todle už jsme koukali asi tak šestkrát.
+<other_noise/>
+(PERSON5) No.
+A co tam vyplývá?
+Takže řeknem [PERSON6]?
+<laugh/>
+<other_noise/>
+Ale nevím, jestli si chci <unintelligible/> u [PERSON6] dělat vostudu.
+<laugh/>
+Možná je jednodušší si dělat vostudu někde u Bulharů.
+<laugh/>
+(PERSON8) Nevím.
+Kdo to je ten [PERSON6]?
+(PERSON5) Toho neznáš?
+(PERSON8) Ne.
+(PERSON5) Hm, to je -
+Je na takovým tom [ORGANIZATION5], co je na [ORGANIZATION3].
+[ORGANIZATION], nebo jak se to jmenuje?
+<other_noise/>
+A -
+(PERSON25) Prostě tam u toho [PERSON4], tam je.
+(PERSON5) No.
+A učí u nás nějaký lingvistický teorie a gramatický formalismy.
+<other_noise/>
+A myslím si, že něco dělá s Českým národním korpusem.
+Že nějak prostě -
+(PERSON8) No, <unintelligible/>.
+(PERSON5) dělá i nějakou korpusovou lingvistiku, no.
+<other_noise/>
+(PERSON8) Toho jsem nikdy neviděl.
+(PERSON5) Ale chodívá na pondělní semináře, docela pravidelně.
+(PERSON8) No, to je možný, ale tam choděj různý divný lidi, který neznám.
+(PERSON5) No.
+<other_noise/>
+A mluví moc hezky anglicky.
+Já jsem si nějakou dobu myslel, že není Čech.
+<laugh/>
+(PERSON25) Hm.
+No, to je pravda.
+[PERSON6] je takový jméno -
+(PERSON5) No.
+<other_noise/>
+A moc hezky anglicky tam zas tolik lidí nemluví.
+<laugh/>
+(PERSON25) Třeba [PERSON7].
+(PERSON5) [PERSON7] mluví moc pěkně.
+<laugh/>
+No, dobře.
+Eh -
+Já tady do dokumentu píšu -
+<other_noise/>
+<laugh/>
+<other_noise/>
+[PERSON6].
+<other_noise/>
+(PERSON8) Jo a já tady do Slacku píšu, kam půjdu na voběd.
+<laugh/>
+<other_noise/>
+(PERSON5) No, já nevím, říkali jsme, že to píšem pro [PERSON23] a [PERSON22], tak co dát recenzovat [PERSON23] a M-, [PERSON23] a [PERSON22]?
+<laugh/>
+<other_noise/>
+(PERSON8) Já se bojím, aby nám to [PERSON23] nevomlátil vo hlavu.
+(PERSON5) [PERSON23] by nám to asi vomlátil vo hlavu, ale -
+Ale mezitím by se třeba dověděl i něco zajímavýho.
+(PERSON25) No.
+(PERSON5) Ale u [PERSON23] si asi nechcem dělat vostudu.
+<laugh/>
+<other_noise/>
+(PERSON25) [PERSON23] ví, že jsme marný, ne?
+<other_noise/>
+(PERSON5) No, ale evidentně správnej trik, aby to nebyli lidi z [ORGANIZATION5] jsou takoví ti lidi, co jsou z [ORGANIZATION5], ale už z něj vodešli.
+<laugh/>
+<other_noise/>
+(PERSON8) Hm.
+<other_noise/>
+(PERSON5) Ok.
+Tak aspoň tady s tím jsme pokročili.
+<other_noise/>
+Protože já jako znám, že jo, spoustu lidí, ale prostě, když nevím, jaký chceme recenzenty, tak se to těžko vybírá.
+<other_noise/>
+No.
+(PERSON25) Takový, u kterejch nevadí, že si uděláme vostudu, no.
+<other_noise/>
+Například bych a priori vyloučil ty, se kterejma někdy chceme žádat vo nějakej evropskej projekt.
+<laugh/>
+(PERSON5) Já nevím, jestli je ta kniha až tak vostudná, no.
+Jako není to nejaký skvělý.
+Ale kdybych chtěl rovnou tu knihu napsat vostudnou, tak to jsem <unintelligible/> nemusel trávit tolik času.
+<laugh/>
+(PERSON25) No, vždyť já říkám, že možná to celý dopadne dobře.
+<laugh/>
+(PERSON5) To já nevím, no.
+Asi bysme to měli nějakejm recenzentům poslat brzo.
+<other_noise/>
+Nejdřív asi tomu [PERSON6].
+<laugh/>
+A podle toho, jak moc hrozný mu to bude připadat, tak vybrat ty další oponenty.
+<laugh/>
+<other_noise/>
+Já tak nějak čím dál tím míň vím, proč tu knihu vlastně píšeme krom toho, že musíme.
+<other_noise/>
+<unintelligible/> přijde, že prostě ty podstatný věci, co tam píšem, tak to si člověk může přečíst nějakou dvaceti stránkovou survey a to důležitý se tam doví taky.
+(PERSON25) No.
+<other_noise/>
+(PERSON8) Hm.
+(PERSON5) Nebo se koukne třeba na ten tutoriál, co jsem neviděl.
+<other_noise/>
+(PERSON25) Hm.
+No, a tak těch pragmatickejch důvodů je hodně, ne?
+<laugh/>
+<other_noise/>
+Kromě toho, že jsme to slíbili do toho grantu a [PERSON16] bude mít průšvih, když ji nenapíšem.
+Tak se nám to všem bude hodit, až se budeme habilitovat.
+(PERSON5) Hm.
+<other_noise/>
+(PERSON25) Až budeme žádat vo další granty [ORGANIZATION4].
+A na tydlety divný český věci.
+(PERSON5) Hm.
+<other_noise/>
+A máme slíbenou knihu vod [PROJECT1].
+Tam na rozdíl tady vod tech divnejch surveyí cizích prací, normálně jenom napíšeme, co jsme udělali na tom grantu.
+<laugh/>
+To si myslím, že bude mnohem lepší.
+(PERSON25) To jo.
+To si představuju, že vyjde ten text tý hry, ne?
+A, a k tomu tam připíšete, jak to vzniklo.
+(PERSON5) No.
+Tak nějak bych to dělal, no.
+(PERSON25) To je hezký.
+(PERSON5) No.
+Ale tam je to takový hezký self contain, že prostě -
+Jako ty rešerše v podstatě už máme.
+Ty se udělaly už do nějakýho toho článku, co už se někam poslal.
+A vono toho moc novýho jako asi nebude, prostě.
+Objevuje se GPT 3, no, tak třeba někdo taky mezitím udělá nějakou hru.
+Tak pak do tý knihy se napíše i vo cizích hrách, ale -
+<other_noise/>
+Máme trošku náskok -
+(PERSON25) <unintelligible/> -
+(PERSON5) Víme, že nejsou data.
+<laugh/>
+(PERSON25) Hm.
+K tomu GPT 3 ještě není žádnej rozumnej přístup, co?
+(PERSON5) Nevím.
+[PERSON8] vo něj žádal.
+Nevím, jak to funguje.
+(PERSON8) Jsem požádal a nedostal jsem žádnou odpověď.
+Můžeš taky požádat, třeba -
+<other_noise/>
+ti to dá, i když seš větší researcher než já.
+<other_noise/>
+(PERSON5) A co vlastně pak člověku dají?
+Jenom, že si můžeš stáhnout ten model, nebo že to můžeš někde online si u nich pouštět?
+(PERSON8) Nějaký API.
+(PERSON5) Hustý.
+To už jako jim přijde zase tak secret, že to nechtěj jen tak někomu dát, jo?
+<laugh/>
+(PERSON8) Těžko říct.
+(PERSON5) Chtěj mít kontrolu nad tím, na co to lidi -
+(PERSON8) No.
+(PERSON5) dovopravdy používaj.
+(PERSON8) <unintelligible/> nějakej hodně velkej.
+<other_noise/>
+Mě tady to nahrávání omezuje v mým lexiku.
+<laugh/>
+(PERSON5) Si můžeš vyžádat, že to chceš anonymizovat.
+<laugh/>
+(PERSON8) No.
+Ani nevím, jestli se to dá vůbec pouštět na nějakým rozumným normálním hardwaru.
+<other_noise/>
+(PERSON25) No, spíš asi ne.
+(PERSON8) Taky mám ten pocit.
+<other_noise/>
+(PERSON5) No, tak to asi -
+Hm.
+No.
+<other_noise/>
+A když dostanem API.
+<other_noise/>
+Tak teoreticky je to ideální, ale záleží, -
+<laugh/>
+jaký <unintelligible/> -
+(PERSON8) Nedostanem API.
+<other_noise/>
+(PERSON25) Eh, dostanem webový rozhraní, ne?
+Nebo?
+(PERSON8) Nedostanem nic nejspíš, ale -
+<laugh/>
+kdybysme něco dostali, tak -
+<other_noise/>
+Nevím, co by to -
+Myslím si, že tam psali, že, hm, přístup k nějakýmu API.
+(PERSON5) Hm.
+<other_noise/>
+Kdybysme měli přístup k API, tak ho můžem prostě zasadit do [PROJECT1] a -
+Otočit to.
+<laugh/>
+(PERSON25) To se asi nesmí.
+(PERSON5) Co z toho?
+(PERSON25) No, strčit to jejich API do nějaký tvý aplikace.
+Podle toho, co píšou lidi na Twitteru, tak, tak máš něja-, na nějaký jako -
+Omezenou dobu nějaký zkoušeníčko.
+<other_noise/>
+(PERSON5) Hm.
+K čemu to vlastně pak je?
+Jako tak si to vyzkoušíš a řekneš:
+,,Dobrý."
+A oni ti řeknou:
+,,Tak Vám zase seberem přístup."
+,,Jsme rádi, že jste si to vyzkoušeli."
+<laugh/>
+(PERSON25) To je prostě celý PR, že jo.
+(PERSON5) Hm.
+(PERSON8) Právě.
+Mezitím jim děláš reklamu těma Tweetama, typu -
+<other_noise/>
+Co tam bylo?
+Kdo byl prezidentem, když vznikal GPT 2.
+(PERSON5) Hm.
+(PERSON8) <unintelligible/> čtyři, pět, šest, sedum, vosum.
+(PERSON5) Jo, jo, jo.
+<other_noise/>
+Ok, no.
+Tak zase voni maj PRkovej projekt, my máme PRkovej projekt.
+<laugh/>
+<other_noise/>
+No.
+Ok.
+<other_noise/>
+Jo a taky jsme se vlastně na minulým meetingu [OTHER1] bavili vo tom, jakej máme mít motto.
+<laugh/>
+<other_noise/>
+(PERSON25) Eh -
+(PERSON5) Stejně jako <unintelligible/>.
+(PERSON25) Já bych tam dal něco jako <unintelligible/>, jestli se vám to přijde dobrý?
+(PERSON8) Mně to přijde dobrý, ale -
+(PERSON5) <unintelligible/>.
+(PERSON8) [PERSON5] říká, že tomu nerozumí.
+(PERSON5) <unintelligible/> -
+(PERSON25) Tak si to někdy vyříkejte u chobotniček.
+(PERSON5) Co?
+(PERSON25) Tak si to někdy mezi chobotničkama vyříkejte.
+<laugh/>
+(PERSON5) To už jsme dělali, a pak jsme to vzdali.
+<laugh/>
+<other_noise/>
+My jsme s [PERSON16] hlavně dlouho nechápali, co je tam to being.
+<laugh/>
+<other_noise/>
+A [PERSON8] nám to úplně nevysvětlil.
+<other_noise/>
+(PERSON8) <unintelligible/> na tom není, co vysvětlovat.
+To je prostě obecnej pojem.
+Nejobecnější možnej.
+<unintelligible/> -
+(PERSON5) Pro mě being je třeba bytost.
+<laugh/>
+(PERSON8) Ano.
+Proč ne.
+(PERSON5) Hm.
+(PERSON8) Ale tím se nemyslí nějaká živá bytost nebo nějaká konkrétní bytost.
+Tím se myslí to samotný bytí.
+<other_noise/>
+(PERSON5) Ostatně jak je v zápise hned další bod -
+<laugh/>
+Podle mě, třeba pračka je tím pádem jazyk, protože pračce je možný rozumět.
+A to jsme se neshodli, jestli to znamená nebo neznamená.
+(PERSON8) No, to neznamená.
+(PERSON5) No a můžeš rozumět pračce?
+Můžeš.
+(PERSON8) Nemůžeš.
+Pračka nic nevyjadřuje.
+(PERSON25) No.
+<laugh/>
+<other_noise/>
+(PERSON5) Třeba pere prádlo, co je na tom k nerozumění?
+<laugh/>
+(PERSON8) No, ale ty trénuješ nějaký jako s-
+<other_noise/>
+svoje -
+(PERSON5) No.
+(PERSON8) Svoje pojetí pojmu, eh, rozumění a, eh, seš línej si představit, že by slovem rozumět moh někdo, konkrétně [PERSON11], myslet něco trochu jinýho než ty.
+A -
+(PERSON5) A tys nám nevysvětlil ani co je being, ani co je understand.
+<laugh/>
+Tak pak moc nevíme, co to vo tom jazyce říká.
+(PERSON8) No a ne všechno se dá vysvětlit tak, jak se dá vysvětlit pračka.
+<laugh/>
+Ty musíš se taky sám trochu snažit tomu dát nějakou interpretaci.
+(PERSON5) No, to já jsem tomu interpretaci dal, ale debilní.
+<laugh/>
+(PERSON8) No, a teď kdyby ses snažil tomu dát nějakou nedebilní interpretaci, tak bys třeba nějakou našel.
+Když se vůbec nesnažíš a hledáš schválně debilní interpretace <unintelligible/>.
+(PERSON5) No, tak já bych třeba aspoň rád viděl nějaký příklady toho, co teda je jazyk, a co není jazyk.
+Abych si udělal představu, vo tom, co ty pojmy znamenaj.
+(PERSON25) <unintelligible/> spíš jako by ses měl ptát, jestli ten jazyk náhodou nepředchází tomu, eh, že si myslíš s-, že víš, co dělá pračka.
+(PERSON8) No.
+(PERSON25) Nebo že rozumíš nějakýmu přirodnímu fenoménu.
+(PERSON5) Dobře.
+A kdybych neměl jazyk a rozebral tu pračku a pozoroval, jak se chová, tak třeba taky budu rozumět tý pračce.
+(PERSON8) No, nebudeš.
+<laugh/>
+(PERSON25) No, třeba jo, třeba ne.
+Ale nevíme, nevíme o nikom, kdo by neuměl mluvit.
+A byl schopnej rozebírat pračku.
+A i kdybys jí rozuměl, jak my bysme poznali, že jí rozumíš, kdyby jsi neuměl mluvit?
+(PERSON5) No.
+Vo tom jsme se taky minulej tejden bavili, že spíš jako, když někdo nemluví, tak třeba něčemu rozumí.
+Ale není schopnej nám říct, že tomu rozumí.
+No, ale to jako asi neumíme určit.
+Prostě jako, já nevím -
+(PERSON8) <unintelligible/>.
+(PERSON5) <unintelligible/>.
+<unintelligible/> tak asi rozuměj tomu, že když tam jsou ty brouci a voni tam strčej ten klacek, tak vyšťouraj ty brouky.
+(PERSON8) Ježíš, ale to je přesně to, že jo, ty do toho pojmu rozumění jako s-, vkládáš nějakej svůj význam a odmítáš připustit, že by to někdo moh myslet jinak.
+Například v nějaký pragmatický verzi, kde prostě to, co nejsi schopnej vysvětlit, tak tomu nerozumíš.
+Protože je zbytečný uvažovat vo tom, že někdo rozumí pračce, pokud <unintelligible/> nám to není schopnej sdělit.
+Tak prostě ty věci, který jsou nepozorovatelný neuvažujem, protože je to zbytečný.
+A potom jako všechno, čemu rozumíš, musíš bejt schopnej popsat.
+(PERSON5) Jo.
+A tak pak to tvrzení je možná <unintelligible/> triviální.
+(PERSON8) <unintelligible/>.
+No, <unintelligible/> jo, no.
+(PERSON5) Když jako -
+Když jako řekneš, že prostě potřebuješ jazyk na to, aby jsi -
+Že aby jsi něčemu rozuměl, tak to musíš umět popsat.
+Na to, abys to moh popsat, potřebuješ jazyk.
+No tak -
+<laugh/>
+To už to pak <unintelligible/>-
+(PERSON25) No, ale <unintelligible/> možnost popsat, že tomu rozumíš.
+<other_noise/>
+Takže jako -
+(PERSON8) No.
+A toho našeho projektu se to týká tak, že my tam máme ty matice plný čísel, a dokud je nepopíšeme, tak tomu nerozumíme.
+Tomu, co se tam děje.
+A popsat je musíme v nějakejch jako srozumitelnejch pojmech.
+A zároveň to, co se tam dostává do těch strojů a vypadává z nich, je uspořádaný v těch samejch pojmech.
+To je zajímavý.
+<other_noise/>
+Že je to tam jako na nějakejch dvou úrovních, no, prostě.
+(PERSON25) No.
+Ten je cool.
+<other_noise/>
+(PERSON8) A -
+A mezitím jsou ty čísla.
+A je hrozně zvláštní, eh -
+<other_noise/>
+že my nejsme schopný ty čísla popsat přesto, že jednou vznikly z jazyka a my je chcem zase jenom popsat v jazyce.
+A že mezitím ty čísla něco smysluplnýho dělaj.
+<other_noise/>
+(PERSON5) Jo.
+Takže jakoby ta tvoje aplikace tady toho na nás je, že když jsme schopný popsat, co dělaj ty čísla v tech neuronkách, tak to znamená, že jim rozumíme.
+A když jim rozumíme, tak, tak -
+Čísla jsou jazyk nebo ty neuronky zachycujou jazyk, nebo jak bysme to vrátili zpátky do toho?
+(PERSON8) Hm, <unintelligible/> -
+(PERSON25) Jo, kdybysme -
+Asi kdybysme to jako uměli jako dokonale popsat.
+Což neumíme, že jo.
+Tak tím dosáhneme nějaký jako totální jednoty.
+<laugh/>
+(PERSON8) <unintelligible/> ty čísla <unintelligible/> jazyk.
+(PERSON25) No.
+(PERSON8) Aby jenom <unintelligible/> nějakej překlad.
+(PERSON25) Pře-
+Prostě všechno by se stalo, všechno by se stalo jedním a tím samým jazykem.
+Jako krev, která spojuje jednu rodinu.
+Nicméně to se asi nikdy nestane, tak -
+<laugh/>
+(PERSON5) Ale jo -
+(PERSON25) Minimálně ne <unintelligible/>.
+(PERSON5) <unintelligible/>.
+<unintelligible/> mi to přijde dobrý, no.
+Jakože to nějak jako je relevantní k tomu, co děláme a něco to říká.
+<other_noise/>
+Takže asi nejdivnější mi tam přijde z-, hlavně to slovo being.
+Protože tím being se asi většina věcí vlastně nemyslí, byť je to obecný.
+Čímž se může myslet leccos.
+(PERSON8) No ne, tím se naopak myslí úplně leccos.
+(PERSON5) Takže ta pračka by taky mohla bejt jazyk.
+<laugh/>
+(PERSON8) No -
+Pračka nic, nic nevyjadřuje.
+Tý nemůžeš rozumět.
+<other_noise/>
+(PERSON5) Jak nevyjadřuje?
+No, tak to se nemyslí tím pádem obecně.
+Myslí se něco, co něco vyjadřuje.
+<other_noise/>
+(PERSON8) <unintelligible/> -
+(PERSON5) <unintelligible/> ve smyslu jako, já nevím, sděluje, nebo?
+(PERSON8) No, ale understanding je, eh, vázanej na něco, co něco sděluje.
+Ne being.
+<other_noise/>
+Rozumět v tomhle smyslu můžeš -
+(PERSON5) <unintelligible/> -
+(PERSON8) nějakýmu sdělení.
+(PERSON5) <unintelligible/>.
+Prostě koloběhu vody v přírodě buď rozumíš, nebo nerozumíš.
+(PERSON8) No, právěže ne, že jo.
+Jako -
+<laugh/>
+Koloběhu -
+<other_noise/>
+Tam s-, s-
+(PERSON5) Prostě, když seš -
+<other_noise/>
+jako nějakej <unintelligible/>, tak prostě víš, že vobčas prší a nerozumíš tomu, proč.
+No, a pak někdy zjistíš, že ta voda někdy vodejde a někdy zase přijde a je v tom nějakej cyklus.
+A najednou tomu rozumíš.
+Jsi schopnej to někomu jinýmu vysvětlit.
+(PERSON8) No a ty máš ještě kromě -
+(PERSON25) No, ale už <unintelligible/> -
+(PERSON8) Tom-
+(PERSON25) Už to <unintelligible/> v tom jazyce to, to poznání.
+(PERSON8) No, ale hlavně, eh, eh, [PERSON5], ty máš hrozně to, jako, eh -
+<other_noise/>
+Přímočarou teorii vědy v tomhle <unintelligible/>.
+<unintelligible/> prostě <unintelligible/>, že, eh, rozumíš koloběhu vody tak, jak to je.
+To je absurdní.
+To prostě -
+Ty máš nějakou konceptualizaci koloběhu vody.
+A ty jí můžeš rozumět a <unintelligible/> můžeš sdělovat.
+Ale jenom s koloběhem vody jako takovým, tam není žádná přímá spojitost.
+<other_noise/>
+Nebo jako je, ale nemůžeš říct, že rozumíš koloběhu vody, no.
+Prostě rozumíš tý konceptualizaci, kterou sis vytvořil.
+Jakoby nemáš přímej přístup epistemologickej ke koloběhu vody.
+<other_noise/>
+To je s-
+Jako m-
+Jak potom todlecten přístup dáš dohromady s tím, že <unintelligible/> v nějaký době lidi rozuměli <unintelligible/>?
+Nebo éteru.
+<other_noise/>
+A dneska si myslíme, že to neexistuje.
+Tak to jako tehdy tomu rozuměli a měli k tomu jako -
+<laugh/>
+Jako čemu rozuměli, když to neexistovalo?
+Co, co to bylo za -
+(PERSON5) <unintelligible/>.
+(PERSON8) Za bizární svět.
+(PERSON5) No a dobře, a kde máš ty věci, kterejm teda jako dovopravdy rozumíš?
+Tak když budeš mít tady ty čísla v tech neuronkách a budeš si myslet, že jim rozumíš, tak taky máš jenom nějakou konceptualizaci tech čísel.
+(PERSON8) No, dyť jo.
+(PERSON25) To jo, no, ale -
+Prozatím ale nemáme ani to.
+(PERSON5) No.
+A tak není tohleto zase jako úplně prázdný?
+Když vo všem řekneš, že tomu nikdy nemůžeš rozumět a rozumíš jenom nějaký svojí konceptualizaci?
+(PERSON8) No, ale tak to prostě je.
+(PERSON25) <unintelligible/> v nějakým vztahu s tím světem.
+(PERSON5) No, ale tak -
+(PERSON8) <unintelligible/> -
+V komplikovaným vztahu s tím světem.
+(PERSON25) <unintelligible/>.
+<other_noise/>
+(PERSON5) Jediný, čemu rozumíme, jsou konceptualizace.
+(PERSON25) Hm.
+<other_noise/>
+(PERSON5) Ale ty jsme si sami vymysleli.
+<other_noise/>
+(PERSON25) Hm.
+Ale jsou v nějakým vztahu se světem.
+(PERSON5) Jo.
+(PERSON25) A když přijdeš na to, že jsou v hodně blbým vztahu se světem, tak je nahradíš něčím jiným.
+(PERSON5) No, ale pak je divná zase vazba na ten jazyk.
+Že jazyk není něco, co jsme si vy-, vymysleli jako shora dolů, že jo.
+(PERSON8) No, voni ani ty konceptualizace nejsou vymyšlený shoda dolů.
+Tady je nějaká spousta mrtvýho hmyzu, jak se sem dostal?
+<other_noise/>
+<laugh/>
+Dyť by tady všechno mělo bejt utěsněný a -
+<laugh/>
+Klimatizovaný.
+<laugh/>
+(PERSON5) Třeba vypadnul z tý klimatizace.
+(PERSON25) Hm, přišel pěšky pode dveřma.
+<laugh/>
+<other_noise/>
+(PERSON8) Tam je lišta, která se zavře, když se ty dveře zavřou.
+<laugh/>
+(PERSON5) No, jo a nejdou <unintelligible/>.
+(PERSON25) <unintelligible/>.
+<other_noise/>
+(PERSON5) Já bych to nahlásil.
+<laugh/>
+Bude se to <unintelligible/> tý firmě.
+<laugh/>
+(PERSON8) Cože?
+(PERSON5) Že dveře se budou reklamovat tý firmě.
+<laugh/>
+(PERSON8) Jo.
+Ok.
+<other_noise/>
+(PERSON5) Jsem myslel, že třeba přijde ten pán a nějak to pošteluje, ale furt je to stejně jako ta rozbitá židle, co tam furt sedí pod tou tabulí.
+<laugh/>
+(PERSON8) Hm.
+<laugh/>
+<other_noise/>
+No, jestli se ti to nelíbí, klidně najdi lepší motto.
+(PERSON5) Já už jsem motto našel.
+<laugh/>
+(PERSON8) To není lepší.
+<laugh/>
+<other_noise/>
+Já taky zkusím najít ještě nějaký motto, který by s tím souviselo nějak přímočařejš.
+<other_noise/>
+(PERSON25) No, mně se todle líbí.
+<other_noise/>
+(PERSON8) No, mně se to taky líbí, ale, hm, jsme jenom dva ze čtyř.
+(PERSON5) Hm.
+(PERSON25) <unintelligible/>-
+(PERSON8) Tak třeba by bylo lepší najít něco, s čím by souhlasili aspoň tři ze čtyř, aby to nebyla úplná plichta.
+<other_noise/>
+<laugh/>
+(PERSON5) Já nevím, jestli [PERSON1] bude taky spoluautorem?
+<other_noise/>
+Když do toho nějak přispívá.
+<other_noise/>
+(PERSON25) Já nevím.
+Asi by bylo fér, kdyby byl, ne?
+(PERSON5) Mně to tak přijde, no.
+(PERSON8) To by asi bylo, no.
+(PERSON5) Zatím tam není.
+Bysme ho tam mohli přidat, ať máme aspoň nějakou aktivitu dneska.
+<laugh/>
+<other_noise/>
+Ale ten nevím, jestli něco říkal tady vo našich filozofickejch problémech.
+<other_noise/>
+(PERSON8) Asi neříkal.
+Já myslím, že jsme se vo tom nehádali v jeho přítomnosti.
+<laugh/>
+<other_noise/>
+(PERSON25) Hm.
+<unintelligible/>.
+<other_noise/>
+<censored/>
+(PERSON8) Já myslím, že ne.
+<laugh/>
+<other_noise/>
+(PERSON5) Ale když bude [PERSON1] mezi spoluautorama, tak se ho zeptáme, co si myslí vo [PERSON11] a -
+<laugh/>
+Ten to rozsekne.
+<laugh/>
+(PERSON25) Hm.
+(PERSON5) Nebo můžem vrazit do GPTčka něco a nechat si vygenerovat motta.
+(PERSON25) To si udělej v [PROJECT1].
+<laugh/>
+Napiš tam motto dvojtečka a, a hned to budeš mít.
+(PERSON5) No.
+Dám tam ty dvě, co máme.
+<laugh/>
+<unintelligible/> poradí.
+(PERSON25) Nebo m-, eh, můžeme parafrázovat nějakou kravinu.
+Třeba můžeme napsat, že lingvisti nemaj co ztratit, kromě svých okovů.
+<laugh/>
+<other_noise/>
+(PERSON5) Kromě čeho?
+<laugh/>
+(PERSON25) Svých okovů.
+<laugh/>
+To je z komunistickýho manifestu.
+<laugh/>
+<other_noise/>
+(PERSON5) Můžem parafrázovat komunistickej manifest, no.
+<laugh/>
+Světem obchází strašidlo GPT.
+<laugh/>
+<other_noise/>
+(PERSON8) Hm.
+<other_noise/>
+(PERSON25) <unintelligible/> v, eh, v Lenbachhausu je teď taková pěkná protikapitalistická výstava.
+<laugh/>
+(PERSON8) Jo, vidíš, já jsem chtěl vlastně někdy -
+<other_noise/>
+Nic.
+<other_noise/>
+Ach jo.
+Dddddam.
+Hm, no.
+<other_noise/>
+<unintelligible/> voběd?
+(PERSON25) <unintelligible/> si dejte, viď.
+<laugh/>
+(PERSON8) Jdeš na voběd, [PERSON5], nebo jíš doma?
+(PERSON5) Já tady mám uvaříno vod včerejška.
+<laugh/>
+(PERSON8) Tak jo.
+Asi půjdu sám, teda.
+(PERSON5) Ty jsi psal, že jdeš na burger, a to bych porušil klimatickej závazek.
+(PERSON8) Ježíš, nemusíš si dávat burger.
+Ale jestli máš uvařeno doma, tak si jez doma, no.
+Hm.
+(PERSON5) Já nevím, co maj, kromě burgeru.
+(PERSON8) Já už jsem to zase zavřel, ale můžu to ještě votevřit.
+(PERSON5) Já už zase nevím, kde mám ten vodkaz na to.
+(PERSON8) <unintelligible/> můžeš <unintelligible/>-
+(PERSON5) <unintelligible/> -
+(PERSON8) Jedinej životně důležitej vodkaz.
+<laugh/>
+<other_noise/>
+(PERSON5) Ach.
+Menu.
+<other_noise/>
+<unintelligible/>.
+(PERSON8) Jako blbý je, že polívka je taky hovězí, takže -
+<laugh/>
+Bys porušil klimatickej závazek tak jako tak.
+Maj maďarský rizoto sypaný sýrem -
+<other_noise/>
+Kuřecí roládu se špenátem.
+(PERSON5) Hm.
+(PERSON8) Nebo salát <unintelligible/>.
+<laugh/>
+Pokud nechceš hovězí burger se slaninou a sýrem.
+Což já jednoznačně chci.
+(PERSON5) Hm.
+Tak dobrou chuť.
+(PERSON8) Děkuju.
+A -
+(PERSON5) Jo, <unintelligible/> zejtra jedeš tím vlakem?
+(PERSON8) No -
+To je to, no, votázka.
+To je otázka.
+<laugh/>
+(PERSON5) Jako pokud nejedeš, tak já určitě nejedu.
+<laugh/>
+A pokud jedeš, tak nevím.
+Ale -
+<laugh/>
+(PERSON8) Hm.
+Možná bych <unintelligible/> -
+(PERSON5) <unintelligible/> zamejšlet.
+(PERSON8) Možná to přesunem na, na 19.
+(PERSON5) <unintelligible/> -
+(PERSON25) A kam jedete vlakem, klucí?
+(PERSON8) Hele, na <unintelligible/>.
+<laugh/>
+Ale asi nikam, teda, zejtra.
+<other_yawn/>

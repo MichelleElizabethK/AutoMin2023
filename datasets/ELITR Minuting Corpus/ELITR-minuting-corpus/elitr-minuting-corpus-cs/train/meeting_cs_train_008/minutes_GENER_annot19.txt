@@ -1,0 +1,39 @@
+Úcastníci: [PERSON2], [PERSON8], [PERSON9], [PERSON16], [PERSON6], [PERSON13], [PERSON15]
+Úcel schuzky: rozdělení práce na článku
+Datum schuzky: 6. 4. 2020
+Shrnutí schuzky:
+- Embest list navigation se jako task nelíbil
+- je udelané demo, jak by mohlo uživatelské rozhraní vypadat
+- task ješte není splnený, ale je toho velká cást
+- [OTHER3] dva, na experimentu se pracuje, ale nejspíš to nebude stežejní vec
+- [OTHER3] je rešení elbow translation, i když není úplne presne podle plánovaných tasku
+- source complexity by se dal definovat, zda ho umí nebo neumí prekladový systém preložit
+- lovarin complexity delá clovek a [OTHER3] je nástroj k tomu, aby to clovek mohl udelat
+- lovarin source complexity – úloha se reší uživatelem, který musí vedet co a jak a reší se parafrázováním
+- opustit source variation, protože se moc nedá testovat a [OTHER3] je zpusob, kterým se to testovat dá
+- [PERSON12] má dohodu DPP, je v Curychu a je možnost ho zapojit do projektu
+- trénuje prekladové systémy s parafrází
+- source complexity je špatný název a melo by se zkusit najít rešení, s kterým budeme srozumeni
+- je potreba vyrešit inevstic navigation a embest list navigation
+- je potreba, aby systém delal povinne nejaký slova a pak se systém vyhýbal nekterým slovum
+- parabang rewriter je trenovaný na anglicko anglických datách – je možnost zvolit, které slovo chceme a nechceme
+- pokud bude ješte neco k vybádání, bude možnost napsat clánek 
+- existuje dekodér, kterému mužeme zakázat nejaké slova, ale nemužeme mu ríct, že má nejaké použití
+- musí to být integrované ve Firefoxu
+- je potreba dostat emebest list z prekladace
+- parabang a parabang rewriter – delají filtrace a obsahují jen plnovýznamové slova a predložky, ale tady není potreba predložky zahrnovat
+- tento task je na velmi dobré ceste
+- lovarin source complexity dál zkoušet
+- [OTHER3] nyní ješte stojí na dvou vecech – je potreba vyrešit technickou záležitost a potom polite destination
+- ješte by šlo použít, že celá obrazovka je rozmazaná a musí se jezdit myší, kam se chce uživatel podívat
+- pro uživatele by to bylo, ale nejspíše už velmi komplikované
+- u [OTHER3] jsou už stimuly všechny hotové
+- dát všechny tasky do word package, vcetne lovarin source complexity
+- psát cesky
+
+- jeden clánek nevzali – dát na archiv a pokud se to na archiv nedá, tak dát do toho textu jako prílohu, že je to clánek, který je in submition a nepsat, kde všude ho nevzali
+- udelat tan sheety za brezen
+- je možné, že review se bude presouvat
+
+
+Zapsala: [ANNOTATOR1]

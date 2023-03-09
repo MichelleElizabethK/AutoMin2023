@@ -1,0 +1,47 @@
+Účastníci: [PERSON27], [PERSON21], [PERSON24], [PERSON28], [PERSON37], [PERSON32], [PERSON7], [PERSON14], [PERSON11], [PERSON10],
+
+Účel schůzky: probrání novinek
+
+Datum schůzky: 16. 9. 2020
+
+
+Shrnutí schůzky:
+
+- v polovině příštího týdne by měla být možnost opět chodit do kanceláře, ale s rouškami a s jednáními na terase
+
+- pokud někdo bude mít příznaky či se setká s nemocným, dát vědět
+
+- v pátek by se měla konat [ORGANIZATION5], která bude snad přenášená a měla by se týkat oblasti [PROJECT17]
+
+- na [PROJECT2] se objevila  další možná varianta, která se bude prověřovat, jedná se o [PROJECT15] na Smíchově, kdy se rozšiřuje zadání o další ověřovací studie
+
+- příští týden v úterý 22. proběhne workshop k [PROJECT6], každý dostane odkaz na připojení
+
+- na [PROJECT7] se bude dělat drobná objemová studie
+
+- bude se dělat studie na [PROJECT11], která bude obsahovat analýzu produkčních ploch v Praze, celkové výrobní produkční plochy pro Prahu a bude se přitom možná spolupracovat s externistama, stratégama
+
+- jako první se bude vycházet z nakreslení řešení území, kterého se to bude v Malešicích týkat, zítra by k k tomu měla být schůzka online ve 13:00
+
+- ke studii [PROJECT14] se zatím dolaďuje tisk a ten se zadá, až se na to bude muset napsat zadání pro studii, finance se na to budou čerpat až příští rok, zadání bude muset být doladěné i s [ORGANIZATION7]
+
+- musí se vypsat nová studie na [PROJECT3] a zároveň se vypíše záměr na [PROJECT16]
+
+- koncepční zadaní na [PROJECT10] se nyní urguje u Dopraváků
+
+- [PROJECT4] by mělo být hotové do konce měsíce
+
+- připomenout se [ORGANIZATION11] ohledně přípravy zadání na [ORGANIZATION21]
+
+- zatím se neodpovědělo panu náměstkovi ohledně bezmotorové komunikaci v Libni, protože se čeká na odpověď od městské části
+
+- dnes v 17:00 proběhne workshop na [PROJECT8]
+
+- podívat se na zádaní na [PROJECT12]
+
+- zítra ve 14:00 proběhne jednání o [PROJECT12], kdy je potřeba ještě sepsat všechny připomínky od stakeholderů a dát do složky připomínky od [ORGANIZATION1] a [ORGANIZATION16]
+
+- dát k podpisu ředitele [ORGANIZATION12] a EJU
+
+
+Zapsala: [ANNOTATOR1]

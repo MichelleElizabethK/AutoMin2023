@@ -1,0 +1,27 @@
+Zápis ze schůzky
+
+Datum schůzky: 8.6.2020
+
+Téma: Schůzka projektu [OTHER3]
+Vedoucí schůzky: [PERSON8]
+Účastníci: [PERSON8], [PERSON10], [PERSON9], [PERSON7]
+
+Zápis:
+
+- Quality estimation: obdrženy anotace: po kontrole budou postoupeny [ORGANIZATION3] a [ORGANIZATION2];
+- Návrh sloučit německá data s českými: německá však mají jiný způsob hodnocení: dohodnuto použití pouze dat českých;
+- [OTHER1]: 2B: 418 potvrzených stimulů segmentu: návrh provést vyhodnocení shromážděných dat
+         - Deadline na submit: za dva měsíce;
+- Focus na deliverable: třeba doplnit;
+- Překlady: třeba vyhodnotit;
+- Deliverable: zahájen proofreading: návrh provést vyhodnocení konfigurací: deadline na odevzdání: konec června
+         - Call v pátek: dořešit;
+- Trénovány tři systémy: využití pouze zdrojových dat: využití pouze parafrází: multi-source s jednou parafrází.
+
+
+
+
+
+
+
+Zapsala: [ANNOTATOR1]

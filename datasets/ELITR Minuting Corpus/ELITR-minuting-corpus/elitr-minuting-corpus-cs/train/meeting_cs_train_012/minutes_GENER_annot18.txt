@@ -1,0 +1,16 @@
+Schůzka [OTHER2], 2020-04-14
+
+Přítomni: [PERSON10], [PERSON12], [PERSON16], [PERSON11]
+
+Na schůzce bylo probráno:
+
+- publikován článek na Archive
+- podívat se na článek, jestli by bylo možné ho poslat na TSD
+- probrány poznámky k části, kterou napsal [PERSON10]
+- do 22. dopsat knihu
+- řešen název knihy, vybrán název Hidden in the layers
+- jako podnapis u názvu bude Neural networks for natural language processing
+- zjistit informace ohledně tisku knihy a možnostech barevné varianty
+- na závěr návrhy, jak nazvat [PERSON11] projekt na grant [ORGANIZATION2]
+
+Zápis sepsala: [ANNOTATOR1]

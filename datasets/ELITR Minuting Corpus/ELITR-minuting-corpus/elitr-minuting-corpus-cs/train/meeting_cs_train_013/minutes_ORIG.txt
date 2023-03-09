@@ -1,0 +1,123 @@
+[OTHER2]
+25. 2. 2020 11:00 - Vítězný únor
+
+
+* 
+[PERSON22]: jak jsou na tom surveje?
+    *
+
+™: Nápady na témata/možné akcenty v knize:
+
+
+        *
+
+A very boring book on a very interesting topic
+        *
+
+Vizualizace
+        *
+
+Několik příběhů?
+
+
+            *
+
+Gender bias.
+        *
+
+
+Bude tam něco orignálního, nebo to bude jenom kompilát?
+    *
+
+
+[PERSON15]: moje surveje … vyplývá mi z toho několik oblastí k pokrytí:
+
+
+        *
+
+neural language models ([PERSON3]'03, [PERSON16]v'14, [PERSON8]'14, [PERSON2]'17…)
+        *
+
+contextual embedding models (CoVe, ELMO, BERT, GPT…)
+
+
+            *
+
+fine-tuning (or not, or feature extraction), pre-training (which task, special methods)
+       *
+
+
+        *
+
+
+analysis of hidden states
+
+
+            *
+
+differentiate from contextual word embs? -- ne, to je to samý, prostě se tomu začlo řikat jinak, nebudem to rozlišovat, jen o tom něco poznamenáme
+            *
+
+my take: people tried using and analyzing hidden states from various models, found that they encode useful information and can be used as contextual embeddings, so people started training models explicitly to be used in this way
+        *
+
+
+analysis of contextual word embeddings
+        *
+
+analysis of sentence embeddings ???
+
+
+            *
+
+to se dělá třeba kontextový embedinky + meanpool
+
+
+
+    *
+
+Introduction -- deep learning
+    *
+
+W2v jako začátek dense fyčur
+    *
+
+Attention jako efektivní mechanismus pro word-alignment a pak syntax, který se zdánlivě dá interpretovat
+    *
+
+GPT jako návrat „tradičních“ LM
+    *
+
+Kontextové embeddingy jako un-hidden staty
+    *
+
+Debiasing jako vohybání reprezentací
+    *
+
+(appendixy s matematikou)
+
+
+
+    *
+
+anizotropní contextual word embs: [PERSON1] 2019 How contextual are contextualized word representations? comparing the geometry of BERT, ELMo, and GPT-2 embeddings
+
+
+
+    *
+
+[PERSON21] nahraje bibliografii ze Zotera do bibtextu
+
+
+        *
+
+prerekvizita: [PERSON18] importne bibliografii ze svojí dizertace do zotera do spešl složky
+
+
+            *
+
+prerekvizita: [PERSON21] připraví nějak jinak složky v Zoteru
+        *
+
+
+klíče vypadaj jako lample_unsupervised_2018 (příjmení prvního autora, první slovo názvu, rok)

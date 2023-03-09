@@ -1,0 +1,30 @@
+Zápis ze schůzky
+
+Datum schůzky: 20.5.2020
+
+Téma: Porada [ORGANIZATION7]
+Vedoucí schůzky: [PERSON44]
+Účastníci: [PERSON47], [PERSON43], [PERSON27], [PERSON8], [PERSON3], [PERSON45], [PERSON40], [PERSON6], [PERSON35], [PERSON46], [PERSON28], [PERSON4]
+
+Zápis:
+
+- Elektronické podpisy: nutno zveřejnit smlouvy nebo dodatky ke smlouvám 30 dní před platným termínem;
+- [PROJECT1]: bude vypsána soutěž na návrh: zadání dostupné k nahlédnutí;
+- [PROJECT22]: třeba dopracovat zadání: v příštím týdnu proběhne schůzka
+         - Nutno potvrdit hranici;
+- [PROJECT4]: třeba zjistit možnost odeslání důvodové zprávy;
+- [PROJECT11]: hlasí se zájemci: návrh provést otevřené řízení;
+- [PROJECT20]: v úterý schůzka se správcovskou firmou: trvalé úpravy ve fázi studie: požadavek na tipy možných úprav proveditelných ihned bez nutnosti povolení;
+- [PROJECT14]: není reálné vysadit zeleň do stávajícího profilu: připravované prodloužení tramvajové trati;
+- [PROJECT18]: bude proveden průzkum: probíhá shromažďování podkladů;
+- [PROJECT15]: požadavek na zpracování koncepčního zadání;
+- [PROJECT12]: požadavek na výsadbu stromů;
+- [ORGANIZATION5]: podpořena tramvajová trať: nutno dořešit smluvně;
+- [PROJECT8]: řešena zástavba: potřeba podkladová studie;
+- Studie [PROJECT9]: studie bude upravena na základě připomínek: odsouhlaseno navýšení.
+
+
+
+
+
+Zapsala: [ANNOTATOR2]

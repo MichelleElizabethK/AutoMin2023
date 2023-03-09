@@ -1,0 +1,32 @@
+Zápis ze schůzky
+                                                                                              
+                                                                                                 Datum schůzky: 8.10.2019
+
+Účastníci: [PERSON26], [PERSON15], [PERSON1], [PERSON2]
+Vedoucí schůzky: [PERSON1]
+Téma: Porada ohledně [OTHER8] spolupráce
+Zápis:
+• Kontrola progresu u dříve zadaných úkolů: dva články (multilinguální BERT);
+• Návrh neprovádět další experimenty a věnovat se psaní článku: článek nahrát do konce října na archive
+•  návrh psát článek formou pozorování: učinit multilingválního BERTa crosslinguálním: provedeno přidání adverseriálního klasifikátoru na každou vrstvu: vyloučena crosslingualita;
+• Nevypracované další věci z alignmentu: třeba vypracovat: pokud možno začít psát článek: do konce října nahrát na archive
+• ACL:  deadline 9. prosince;
+• Návrh založit dokument k zaznamenávání relevantních deadlinů: odsouhlaseno;
+• Článek (standartní BERT): nahrát článek alespoň na Archive: na EMNLP odeslat pozděj;
+• Domluva ohledně možnosti rozdělení práce na článcích i mezi stážisty a diplomanty;
+• Projekt na XPENEBL AI: podmínky pro českého uchazeče budou vycházet z programu [OTHER4]
+• třeba nastudovat a zjistit bližší informace: vyhlášení bude na konci října;
+• Kniha: zatím žádný pokrok: podnět k sestavení osnovy obsahu: deadline červen/červenec: třeba začít články řadit a uspořádávat: vymazat related work
+• obrázky: lze přidávat na základě typu licence: CC licence lze zkopírovat: pokud je obrázek bez licence, nutno požádat autora o povolení: po vytvoření osnovy začít přidávat relevantní články;
+• Návrh na založení účtu  na Zotero: odsouhlaseno: po založení zaslat na účet obsah knihy;
+• EMNLP meeting (konání 21.10.): možnost prezentace posteru
+• Příští call za 14 dní
+
+
+
+
+
+
+
+
+Zapsala: [ANNOTATOR2]

@@ -1,0 +1,31 @@
+Přítomni
+[PERSON26], [PERSON2], [PERSON15], [PERSON1]
+
+Zmínilo se
+[PERSON2] popisoval Berta, multilinguální Bert není crosslinguální, navrhoval vycentrováním zlepšení crosslinguality
+[PERSON26] neudělal úkoly z alignmentu
+Deadline na ACL (v prosinci), na knihu (červen, červenec)
+A navrhnul článek nahrát alespoň na archive, nebo ho předat stážistům, diplomantům
+[PERSON20], kdo je s ním v kontaktu
+Debata o článku, na kterém spolupracuje [PERSON6] a [PERSON20]
+Proběhla otázka, zda je někdo v kontaktu s [PERSON31]
+Řešili grant na XPENEBL AI, jaké jsou podmínky [ORGANIZATION5], s kým se případně spojit
+Diskuse o plánované knize, jak pojmout obsah atd.
+Kam ukládat články vhodné pro knihu
+[PERSON15] a [PERSON26] popsali program na správu citací Zotero
+Debata o EMNLP meetupu
+Zmíněna schůze [ORGANIZATION11] 21.10.
+
+Splněno před schůzí
+[PERSON2] přidal na každou vrstvu adverseriální klasifikátor, crosslingualitu Berta neovlivnilo
+
+Úkoly
+[PERSON26] dodělá slibované úkoly z alignmentu
+[PERSON26] napíše článek do konce října a nahraje na Archive
+[PERSON15] vytvoří dokument s deadliny
+A zjistí podmínky grantu v kombinaci s [ORGANIZATION5], osloví Helsinky na možnou spolupráci
+[PERSON26] pošle A osnovu na knihu
+[PERSON15] zjistí podrobnosti o citačním programu Zotero, založí i skupinu pro ostatní, [PERSON26] najde obsah knihy
+[PERSON26] najde poster o Bertovi
+[PERSON15] s [PERSON1] call za týden, všichni jednou za 14 dní
+

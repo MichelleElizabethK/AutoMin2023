@@ -1,0 +1,14 @@
+Schůzka [OTHER1] 2020-04-28
+
+Přítomni: [PERSON15], [PERSON10], [PERSON3], [PERSON13]
+
+Na schůzce bylo řešeno:
+
+- splněn jeden článek
+- [PERSON3] s [PERSON12] bude posílat ještě jeden článek
+- primární je dopsat knihu, poté se bude řešit chybějící článek
+- nový deadline na napsání prví verze textu knihy je 18. května
+- každý si rozdělí svou část knihy na 3 části, které musí postupně napsat během následujících tří týdnů
+- až se bude vědět počet stránek, tak tiskárna podle požadavku sdělí cenu tisku
+
+Zápis sepsala: [ANNOTATOR2]

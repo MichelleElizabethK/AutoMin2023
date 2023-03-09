@@ -1,0 +1,21 @@
+Schůzka [ORGANIZATION3], 2020-05-27
+
+Přítomni: [PERSON15], [PERSON20], [PERSON6], [PERSON25], [PERSON33], [PERSON12], [PERSON37], [PERSON9], [PERSON3], [PERSON31], [PERSON8], [PERSON1], [PERSON24], [PERSON22], [PERSON7]
+Omluveni: [PERSON11]
+
+Na schůzce bylo řešeno:
+
+- na pracoviště se opět vrací přísnější opatření
+- je potřeba sepsat jednotlivé požadavky na mobilní telefony pro pracovníky
+- paní [PERSON36] a pan [PERSON16] odstoupili z [ORGANIZATION12]
+- byl založen [ORGANIZATION2] s dočasným ředitelem [PERSON21]
+- do přílohy budou zaslány poznatky a doporučení, jak využít nové zkušenosti z home office
+- je schváleno, že se může zadat autorský dohled na [PROJECT15] a [PROJECT9]
+- 1. 6. se bude prezentovat [PROJECT5] na [ORGANIZATION21]
+- bude vypsaná soutěž na novou [PROJECT3], bude to připravovat [ORGANIZATION20]
+- podnět na [PROJECT2] bude stáhnutý nebo jej zamítne výbor
+- zjistit, proč je potřeba shromáždit podklady k programu [PROJECT17]
+- bude se domlouvat zadání rozšíření [PROJECT12] a [ORGANIZATION4] Zličín
+- [PROJECT18] postupuje, aby se vše stihlo
+
+Zápis sepsala: [ANNOTATOR2]

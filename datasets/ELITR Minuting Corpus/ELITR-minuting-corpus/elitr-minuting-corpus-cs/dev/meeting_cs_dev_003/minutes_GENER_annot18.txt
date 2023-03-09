@@ -1,0 +1,53 @@
+Schůzka [OTHER1] 2019-12-05, Zúčastnili se: [PERSON8], [PERSON11], [PERSON18], [PERSON4]
+1. [PERSON8] článek
+
+• [PERSON8] na to něco pustil a zjistli, že na rozdíl od PCA to ICA nekoreluje s morfologickými kategoriemi, má problém určit hranici, od které je strana strana
+• [PERSON11] navrhl určit to podle Gaussiány
+• [PERSON8] sdílel obrázky ke článku, které ostatním popsal
+• Hlavní zpráva [PERSON8] článku má být o tom, že se tam vydělují velmi specifické morfologické kategorie
+• [PERSON18] navrhl odříznout půlku nebo poslední čtvrtinu ocasu, nějakou standardní odchylku nebo vzít vždy 10 na kraji
+• [PERSON11] navrhl zkusit to odříznout tam, kde se protínají dvě Gaussovky nebo vzít N na kraji
+• [PERSON8] to tedy zkusí ještě nějak odříznout a vygenerovat, pokud se z toho nic nevyklube do pondělí, bude ho směřovat na SRV
+
+2. [PERSON18] článek s [PERSON4]
+
+• [PERSON18] už přijde článek hotový, udělal článek přesně na 4 strany tím, že zestručnil některé formulace, bral v potaz jen některé [PERSON3] poznámky
+• Podle [PERSON4] jsou [PERSON3] poznámky zajímavé a [PERSON18] by se na ně měl ještě podívat a vzít je v potaz všechny
+• Článek se jmenuje How language neutral is multilingual BERT?
+• Podle [PERSON18] je hlavní zpráva článku ta, že BERT má jazykově neutrální, lexikálně sémantickou komponentu
+• Podle [PERSON4] quality estimation potřebuje nějakou pokročilejší sémantiku, než jenom lexikální, a proto to na ní selhává, chce připsat do článku toto sdělení
+• [PERSON4] psal někdo z Belgie, že také používali BERTa na element a že jim vychází horší než Fasteline a lepší než Giza (vzhledem k manuálnímu elementu)
+• [PERSON4] by tedy do článku dopsal jen poznámku o Gize, že možná bude vycházet lépe
+
+3. [PERSON18] článek s [PERSON15]
+
+• Podle [PERSON11] je problém, že tam jsou velmi malé figury, které vůbec nejdou přečíst, problém s červenými křížky
+• Shodli se, že by se některé figury měly dát do apendixu
+• [PERSON18] s [PERSON15] se snažili vypočítat precision (vysvětlil ostatním způsob výpočtu) a vyšly jim divné čísla (do článku to dávat asi nebudou, protože neví, co o tom říct)
+• [PERSON18] s [PERSON15] se snažili najít všechny hlavy kupole, co dělají subjekt, poté zjistili, že když kupole převěší, jako kdyby to byly normální slovesa, tak jim stoupne accuracy
+• Podle [PERSON11] by měli v článku vysvětlit, proč to převěšovali a vysvětlit, co jsou expletiva a positional base line
+• Do článku ještě [PERSON15] musí doplnit popisy tabulek a linky na tabulky.
+• [PERSON18] si myslí, že u článku je nejdůležitější, že kombinují víc hlav a převyšují UD, kompletně nové je to, že tahají jednu relaci z několika hlav
+• [PERSON4] navrhuje tyto hlavní věci napsat do abstraktu i do introduction, [PERSON18] s tím souhlasí
+• Hlavní zjištění je podle [PERSON18], že hlavy nepasují na relations one to one, to poté reflektují v té metodě a mají lepší parsing, dále také modifikují UD
+• Podle [PERSON4] představují novou metodologii jak měřit, jak si to tu syntax představuje
+• [PERSON18] chce ve článku říct, že způsobů, jak anotovat syntaxi, je hodně, tak proč by to dělaly zrovna UD, také chce zmínit, že veškeré modifikace, které mají, odpovídají surface UD
+• Podle [PERSON8] by měla být podstatná pointa článku, neměřte BERTa podle UD, ale podle SUD, protože takto BERT funguje, že SUD zachycuje jazyk lépe než UD
+• Podle [PERSON8] by tam měla být diskuze, proč nedělají levé nebo pravé řetízky
+
+4. [PERSON11] článek
+
+• [PERSON11] vzal dvě architektury (transformer a druhá je s attentiong bridge) a překládali z angličtiny do více jazyků
+• Cíl článku je podle [PERSON11] ukázat, že pokud se trénuje překladač do více jazyků, tak je v tom enkodéru lépe reprezentovaná syntaxe
+• [PERSON11] uvádí, že zkouší různé syntaktické  probingy a to, co dělali na attentionech, evalují a chtějí ukázat, že čím se tam dá víc jazyků, tím je to syntaktičtější
+• [PERSON11] uvedl, že o tom zatím nikdo nepsal, ale problém je, že výsledky nejsou zcela přímočaré (dělají v SentEvalu a syntactic probing)
+• [PERSON11] uvádí, že tam mají u transtofmeru negative result, mělo to stoupat, ale stoupá to jen někdy
+• [PERSON11] uvádí, že attention bridge je lepší (kromě coordination inversion a tense)
+• Podle [PERSON11] je výsledek, že s počtem jazyků to stoupá
+• [PERSON11] s [PERSON18] se shodli, že by chtělo porovnat transformer a RNN
+• Podle [PERSON4] se dá říct, že k multilinguální generalizaci se použije syntax
+• [PERSON11] zkoumal, jak se hlavy v attention bridge dívají na různé fráze ve větách, ale vůbec nic to nepřineslo
+• [PERSON18] s [PERSON11] se shodli, že by bylo dobré porovnat kapacitu transformeru a RNN
+• [PERSON8] se podíval na SentEval a podle něj by to mělo vycházet 50 %, což nevychází
+• [PERSON11] se na to zkusí ještě podívat, má spoustu výsledků, ale úplně přesně neví, jak je interpretovat, co ty výsledky ukazují
+• [PERSON18] doporučuje se podívat, jestli to nekazí mean pooling

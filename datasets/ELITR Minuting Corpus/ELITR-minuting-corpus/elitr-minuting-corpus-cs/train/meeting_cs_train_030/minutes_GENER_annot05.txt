@@ -1,0 +1,31 @@
+ Zápis ze schůzky
+
+Datum schůzky: 7.4.2020
+
+Téma: Schůzka projektu [OTHER1]
+Vedoucí schůzky: [PERSON6]
+Účastníci: [PERSON6], [PERSON18], [PERSON8], [PERSON23]
+
+
+Zápis:
+
+- Vytvořeny poznámky k rozpracovaným článkům;
+- Language modely: návrh vyjmenovat všechny terminologie týkající se neurolanguage modelů: používat jedno označení;
+- Word2vec: přidat obrázek se šipkami;
+- Návrh vkládat obrázky výhradně na anglických datech: zkusit vygenerovat;
+- Návrh využívat jednotnou paletu barev a sjednotit styl grafů;
+- Debiassing: případná bonusová kapitola;
+- Attentiony: nad only parsing přidat koreferenční linky a sémantické role: nutno upravit některé použité termíny a formulace;
+- Embeddingy: návrh vytvořit poutavější úvod;
+- Hidden staty: prostudovat a doplnit;
+- Třeba seřadit kapitoly;
+- MT LSTM: napsat lépe;
+- Deadline: 22.4.;
+- Do příští schůzky nutno napsat ke každému článku 5 stránek.
+
+
+
+
+
+
+Zapsala: [ANNOTATOR2]

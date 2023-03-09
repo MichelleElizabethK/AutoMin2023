@@ -1,0 +1,31 @@
+Zápis ze schůzky
+
+Datum schůzky: 15.6.2020
+
+Téma: Schůzka projektu [OTHER3]
+Vedoucí schůzky: [PERSON29]
+Účastníci: [PERSON29], [PERSON21], [PERSON7], [PERSON9], [PERSON23]
+
+Zápis:
+
+- Deliverable: Sekce jedna: třeba doplnit: žádost o kontrolu introductionů ve všech kapitolách;
+- Sekce dva: objeveno pár paragrafů: návrh rozepsat bod 5 do bodů: zbylé čtyři body - vypracovat shrnutí: report F1 - návrh vložit čísla k recallu
+         - Crosslingual: nezmíněný: návrh připsat pár vět;	
+- Sekce tři: [ORGANIZATION4]: odkaz na element: v dataset collection vzpomínané strong teacher modely: nutno doplnit;
+- en-cs: možno vytvořit odkaz na [OTHER2]: popisovány systémy;
+- [ORGANIZATION1]: není známo množství získaných dat pro estonštinu: nutno doplnit;
+- Source variation: doplněno: vytvořena struktura: záměr dopsat u systémů i score
+         - Rozdíly zapříčiněné odlišným BIM size;
+- Sekce čtyři: u [OTHER2] chybí citace: nutno dopsat a provést úpravy;
+- Třeba doplnit celkový conclusion: návrh založit sekci: každá sekce by měla obsahovat 2 – 3 věty;
+- WMT submission: přidat modely a popsat check human evaluation;
+- Příští call: v pátek;
+- Nábory: uskutečnit call se třemi vybranými účastníky: nabídnout jim sloty.
+
+
+
+
+
+
+
+Zapsala: [ANNOTATOR1]

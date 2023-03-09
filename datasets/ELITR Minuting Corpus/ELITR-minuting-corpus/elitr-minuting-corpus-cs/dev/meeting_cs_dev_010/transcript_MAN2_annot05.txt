@@ -1,0 +1,810 @@
+(PERSON1) Tak jo. 
+Tak to je dobře, že jsme se tady sešli v tak hojném počtu.
+(PERSON26) Hm.
+(PERSON1) Já asi teď tady mám milion oken a musím si najít, kde máme [OTHER8] schůzky a -
+(PERSON1) Hm.
+(PERSON26) Tak nejdřív bysem se chtěl zeptat, jak jste na tom?
+Máme tady dva články.
+Multilinguálního [PROJECT5].
+Jaký na to máte plány a kdo má kolik času?
+(PERSON2) Eh, tak plány jsou asi takový, že všechny ty, eh, že už asi bych další experimenty nedělal a snažil se napsat článek a -
+(PERSON1) Já jsem si zkusil přečíst to, co tam teďka je, ale ono tam toho zatím moc není.
+Takže já to asi zvládnu akorát tak číst a komentovat, což vzhledem k tomu, že jsem u toho moc nebyl, tak to budu asi jen číst, no.
+(PERSON2) Jo, jo, jo.
+To je asi, to je asi to nejlepší, co můžeš dělat.
+No, taky to moc nedává smysl, to, co je tam napsaný, ale jako, eh, story toho článku bych si představoval takovou, že to bude prostě jako pozorování, že ten multilinguální [PROJECT5], ten chudák vůbec není crosslinguální a můžeme ho udělat trochu crosslinguálního, když ho vycentrujeme, protože se tam, protože se tam krásně shlukujou ty jazyky.
+Eh, a můžeme ho udělat hodně crosslinguálního, když máme byť jenom trošku paralelních dat.
+(PERSON1) Hm.
+(PERSON2) A paradoxně věci, o kterejch si myslíme, že by ho mohly udělat víc crosslinguální, tak s ním nic nedělají.
+(PERSON26) Hm, hm.
+Hm.
+(PERSON2) Což je ten k-, což je ten kon-, kondratjukův fine-tuningovanej a ten fine-tuning, co jsem zkoušel já.
+(PERSON26) Hm.
+(PERSON1) To je, to je ten, co jsi zkoušel, aby to, eh, počkat, co to bylo?
+(PERSON2) Přidal jsem tam na každou vrstvu adverseriální klasifikátor, kterej se ze všech sil snažil, aby z toho nešlo poznat, co je to za jazyk.
+(PERSON1) Jo, jasně.
+Nešlo publikovat jazyk.
+(PERSON26) A to se projevilo tak, že se vyloučila ta crosslingualita.
+(PERSON2) No, to se, to se povedlo, že z toho ten jazyk nejde poznat, ale není to kvůli tomu crosslinguálnější.
+(PERSON1) Jo.
+(PERSON26) No, ale není to ani horší, ne?
+Jsi říkal teďkom.
+(PERSON2)  Že to není co?
+(PERSON26) Že to ani není horší.
+(PERSON2) Ne, není to ani horší.
+Prostě nezmění to na tom vůbec nic.
+(PERSON15) Vy tam nemáte nějakou klidnou místnost na cally?
+(PERSON2) Hm, máme tam jednu klidnou místnost na cally, ve který je obsazeno.
+(PERSON1) Hm.
+<laugh/>
+(PERSON15) Zlatej [ORGANIZATION8].
+Zlatý Podolí.
+(PERSON26) V Podolí je spousta místností na cally.
+<laugh/>
+(PERSON2) Neboj -
+(PERSON26) Mně to přijde jako dobrá zkušenost <unintelligible/>.
+Hm.
+(PERSON1) Cože?
+<laugh/>
+(PERSON26) To by moh bejt klidně i on.
+<laugh/>
+(PERSON15) Když to napíše [PERSON26], tak <unintelligible/>.
+<laugh/>
+(PERSON1) [PERSON26] <unintelligible/>.
+(PERSON26) <unintelligible/>
+<laugh/>
+A takže na mně teďka nevisíme s těma dalšíma experimentama?
+Já vím, že jsem měl udělat nějaký další věci z alignmentu, co jsem neudělal, co ještě mám udělat.
+(PERSON2) No, jasně.
+To udělej.
+(PERSON26) A ještě něco na mně visí?
+(PERSON2) Ne.
+Ale kdybys chtěl psát ten článek, tak ho piš.
+(PERSON26) No, to jo.
+To, s tím počítám.
+(PERSON1) Můžeš psát ten článek, já bych si ho rád přečet.
+<laugh/>
+Protože jsem si to sice přečet dneska, ale spousta věcí jsem si musel domyslet.
+A, a ještě porád úplně nevím, o čem to, co tam vlastně je, takže -
+Kdybyste psali -
+A bylo by dobrý, abyste to mohli, že jo, abyste to mohli summitnout, do, do konce října na ten, na archive.
+(PERSON26) No, jasný.
+(PERSON2) No, bezpečný, to by podle mě, tam nahrát tak 6., 7. listopadu.
+(PERSON26) Hm.
+Prostě budem počítat do konce října, tím pádem to stihnem do toho 6. listopadu.
+(PERSON2) No.
+<laugh/>
+(PERSON1) Tak další, pokud teda k tomuhle tomu nechcete už nic?
+(PERSON2) Asi ne.
+(PERSON1) A jinak posíláme to normálně na [ORGANIZATION9] nebo [ORGANIZATION10] nebo co to bude?
+(PERSON1) No, [ORGANIZATION10].
+(PERSON2) No, na [ORGANIZATION9] to normálně pošleme.
+(PERSON26) [ORGANIZATION9] má deadline kdy?
+(PERSON2) Co jsi říkal?
+(PERSON26) [ORGANIZATION9] má kdy deadline?
+Devátýho?
+(PERSON1) 9., 9. prosince.
+Hele, já slyším strašně.
+Slyším Vás čím dál tím hůř.
+(PERSON26) <unintelligible/>
+Myslím, že už jede.
+No, můžem.
+Můžem.
+My jsme se trochu přidali, abyste nás slyšeli víc.
+(PERSON1) Jo.
+Tak je to lepší.
+Tak je to lepší.
+(PERSON15) No, víte, co bysme mohli udělat?
+Ještě bysme mohli založit nějakej dokument a do něj bysme si třeba mohli napsat relevantní deadliny.
+Já si to klidně vezmu za úkol, protože stejně jsem chtěl sepsat nějaký deadliny.
+(PERSON26) Hm.
+(PERSON15) Abysme se na to nemuseli pokaždý navzájem ptát, když si to stejně nikdo z nás nepamatuje.
+(PERSON26) Jsem pro.
+(PERSON1) Tak klidně.
+(PERSON2) Je to jednoduchý.
+Teď je deadline na [ORGANIZATION9] v prosinci, a pak všechno je hrozně za dlouho.
+(PERSON1) Hm, no.
+Tak nějak.
+(PERSON15) Já tam sepíšu, co se dá najít, ať to máme po ruce.
+(PERSON26) Taky někdy je asi deadline na tu knihu, co ještě nepíšeme.
+<laugh/>
+(PERSON1) Deadline na knihu je -
+No, je červen, červenec.
+(PERSON26) Hm.
+(PERSON1) Tak, takže jo.
+Tak můžeš napsat deadliny.
+Další věc je, ten článek, ten, jak jsme chtěli posílat na [PROJECT4]?
+Jak nakonec jsme -
+(PERSON26) Jo, ty dvě holky?
+(PERSON1) Jak jsme minulou noc zjistili, že ty dvě ženský to dělají daleko líp?
+(PERSON26) Jo.
+(PERSON1) Jestli víte co?
+S tím standardním [PROJECT5], jo?
+No, právě.
+A já nevím, kdo má kolik času.
+Ono mi přijde, že nikdo žádnej čas na to nemá?
+(PERSON26) Já teď moc ne.
+(PERSON1) Jestli by -
+Jestli by nebylo lepší to, jako mně přijde zase škoda to úplně jako -
+Protože teďka, když to necháme shnít, tak ono to shnije, že jo.
+(PERSON26) Tak můžem -
+(PERSON1) Tak jestli bysme to nemohli dát na archive třeba aspoň?
+(PERSON26) Mně teďka přijede za tejden na dva měsíce stážista.
+No a máme takový ty, ty diplomanty, že jo.
+Máme toho [PERSON20].
+(PERSON1) No.
+(PERSON26) A teďka ještě se mi ozval takovej ten [PERSON31].
+(PERSON1) Jo, [PERSON31].
+(PERSON26) Ten mi psal nějaký [OTHER8] věci.
+A tomu to taky přišlo zajímavý.
+Takže takhle máme v podstatě až tři lidi a někoho, někdo z nich by to klidně mohl dělat.
+(PERSON1) No, tak pokud, pokud to někam, někomu udáme, tak jo.
+Jo, co se týče [PERSON20] ještě.
+(PERSON26) Hm.
+(PERSON1) <censored/>
+(PERSON2) No, jasně.
+(PERSON1) <unintelligible/> a ten co má s [PERSON20] ten článek, tak je teď v Oslu a chystá se k nám.
+Teda k nám, chystá se do Helsinek spolupracovat na něčem.
+(PERSON26) Hm.
+(PERSON1) Bude tady asi druhou, druhou půlku října.
+(PERSON26) Hm.
+(PERSON1) Takže.
+Takže jsem řešil i s [PERSON20], že bysme se měli ještě koordinovat s [PERSON20], protože [PERSON20] chce taky pokračovat víceméně na tom článku.
+Nebo nevím.
+Eh, mluvili jste někdo s [PERSON20] nebo ozval se někomu z vás?
+Asi ne?
+Haló?
+(PERSON26) Ne.
+(PERSON2) Ne.
+(PERSON1) Tak ty jsi mu akorát [PERSON26] posílal dneska ten email?
+(PERSON26) Eh, tam ten o těch uru myslíš?
+(PERSON1) Jo, o těch uru.
+(PERSON26) Jo, o těch uru.
+To jsem posílal různým lidem včetně něj.
+(PERSON1) Já jsem to vůbec nepochopil.
+Já jsem nejdřív myslel, žes to posílal na [ORGANIZATION11], a pak jsem zjistil, že to posíláš jenom těm.
+Dobrý.
+(PERSON26) Ne, jenom jako -
+(PERSON1) Jo, já jsem právě nevěděl, jestli s [PERSON20] jsi neměl nějaký, jste se nějak nedomlouvali.
+Dobře, takže -
+(PERSON26) Teda já se můžu podívat, jestli mezi těma 30 mailama něco nepíše [PERSON20].
+(PERSON1) Ne.
+(PERSON26) To popravdě nevím, ale asi ne.
+(PERSON1) Tobě přišlo 30 mailů na to, jo?
+(PERSON26) Co?
+(PERSON1) Nebo co?
+Nebo co 30 mailů?
+(PERSON26) No, já jsem včera v noci poslal spousta mailů, a tak mi přišla spousta odpovědí, tak jsem je ještě dneska -
+(PERSON1) Jo, ty jsi poslal spousta hromadnejch emailů.
+Jasně.
+<laugh/>
+Tak dobrý.
+Takže my budem mít totiž ještě [ORGANIZATION2] s [PERSON] a ten chce dělat taky nějaký taky ty věci k tomu jejich článku s [PERSON20].
+Takže bysme mohli do toho spláchnout i [PERSON20] a ještě domluvit se rovnou s [PERSON20], co bude dělat [PERSON20] a -
+(PERSON26) Já už zase nevím, co byl ten článek s [PERSON6].
+Vy to víte všichni?
+(PERSON15) Já ne.
+(PERSON1) To byly.
+Probovaly [PROJECT5].
+Přes různý jazyky, multilinguálního [PROJECT5] přes různý jazyky a probovali různý věci.
+(PERSON26) Hm.
+(PERSON1) A teď už jsem zase zapomněl -
+Já jsem to čet, ale už jsem zase zapomněl, co přesně tam dělali.
+Jak -
+(PERSON26) Hm.
+Jo, to zní dobře, to ať dělaj.
+(PERSON1) No, takže -
+Tak jo, takže až, jestli jste byli dom-
+Ten [PERSON31] se zatím neozval nijak, nebo?
+(PERSON26) Eh, no, [PERSON31] jsem psal o [PROJECT2].
+(PERSON1) Jo.
+(PERSON26) A on v pondělí psal mně.
+(PERSON1) A tys to posílal mně.
+(PERSON26) Že ho zajímaly ty [PROJECT2] věci nebo kdy.
+Teď někdy prostě psal, že jako mu to přijde zajímavý a já jsem mu akorát teďka přeposílal tu uru, ale -
+<laugh/>
+(PERSON1) Jo, takže -
+(PERSON26) Na ty [PROJECT2] věci jsem nic nepsal novýho.
+(PERSON1) Jo.
+Takže pokud, pokud to nějak pokročí, tak si nějak dáme vědět.
+Jak s [PERSON20], tak s [PERSON31].
+(PERSON26) <censored/>
+(PERSON1) <censored/>
+(PERSON26) Hm.
+(PERSON1) <censored/>
+(PERSON26) Hm, supr.
+(PERSON1) Takže -
+Já jsem ani netušil, že v Oslu je nějaký [PROJECT4].
+Tak asi je.
+(PERSON26) Oblastní [PROJECT4].
+(PERSON1) Jo.
+A -
+To je dobrý, takže to je todle.
+Nebo ještě další věc [PERSON8] posílal takový to, ten call nějakej, eh, nějakej evropskej, ale spojenej s [ORGANIZATION1].
+Na XPENEBL [PROJECT4].
+Ne, XPENEML, XPENEBL AI nebo něco takovýho.
+Což by možná -
+(PERSON26) Já myslím, že -
+(PERSON1) Se hodilo k tomu, co my děláme, ale já vůbec jsem nenašel nikde žádný podmínky, vůbec nevím, jo, co, co, o co tam jde a vlastně nevím, jestli -
+Nemám žádný partnery, leda Helsinky, a nevím, jestli chci žádat o nějaký takovýhle grant, ale -
+(PERSON2) No, tak když je to [ORGANIZATION1], tak potřebuješ nějakou firmu, ne?
+Nějakýho kámoše?
+(PERSON1) Právě bych potřeboval nějakou firmu asi, protože to je [ORGANIZATION1].
+Já jsem to právě pořádně nepochopil, protože to je, že jo, to je, to je nějakej evropskej call, ale u nás to zaštiťuje [ORGANIZATION1], takže nějaká část peněz jde z [ORGANIZATION1], část peněz jde odněkud jinud.
+Já vůbec netuším.
+Ale já jsem to dneska sice se zase na to náhodou, náhodou natrefil, ale vůbec jsem, nedostal jsem se k nějakým pořádným informacím, protože na [ORGANIZATION1] nic pořádnýho není, a tak nevím, jestli to vůbec řešit.
+(PERSON26) Hm.
+(PERSON1) Anebo jestli se na to nevykašlat.
+Asi nemáte žádný?
+(PERSON26) No, nevím.
+Já teďka budu podávat [ORGANIZATION1] na tu uru.
+(PERSON1) Já vím.
+(PERSON26) Takže se mi nechce asi podávat dva [ORGANIZATION1] zároveň.
+<laugh/>
+(PERSON1) Já se můžu maximálně zeptat [PERSON8], jak, jestli neví o tom něco víc, protože tady prostě o tom, že jo -
+Na [ORGANIZATION1] potřebuju nějakou firmu a mělo by to bejt asi praktic-, dost jako praktičtěj zaměřený, že jo.
+Což nevím, jestli jsme, my asi spíš nejsme.
+(PERSON26) No, tak to bysme asi sehnali když tak někoho.
+By se řeklo nějakýmu [ORGANIZATION] nebo [ORGANIZATION] nebo někomu, kdo by chtěl do toho jít nebo -
+(PERSON15) Ňákýmu -
+No, záleží, co bysme dělali.
+Kdybysme třeba chtěli dělat x play na blog překlad, že jo, tak je spousta firem.
+To by bylo zrovna zajímavý téma i.
+(PERSON26) No.
+[ORGANIZATION], že jo, to s náma má nějakou tu rámcovou smlouvu o spolupráci nebo tak něco a i to asi myslej vážně, že by možná někdy na něčem spolupracovali.
+(PERSON2) A tak jestli to je překlad a má to bejt česká firma, tak jedině [ORGANIZATION] podle mě.
+(PERSON26) Jako česká, česká, česká.
+(PERSON15) Nemusí to bejt překlad.
+To byl jenom příklad.
+(PERSON26) No, já nevím, jestli -
+(PERSON1) Nemusí to bejt.
+Je tam x play nebo IA, AI, prostě to je cokoliv.
+Ale je to prostě, že jo, je to na porozumění, co to, co se neuronový sítě učí, že jo.
+Ale mělo by to bejt aplikovaný.
+(PERSON26) Hm.
+(PERSON15) No, právě.
+Aplikovaný.
+Nejaplikovanější je překlad.
+(PERSON26) Dobrý vztahy máme s [OTHER3].
+To jsou sice neschopný šašci, ale -
+<laugh/>
+Třeba by do toho šli.
+(PERSON2) [OTHER3] jsou neschopný šašci, tak napište [PERSON24].
+(PERSON26) <unintelligible/> [PERSON24].
+(PERSON15) No, já nevím -
+(PERSON1) Já jsem se, já jsem se snažil i zjistit, co, co, jak vlastně, že jo, jsem někde předpokládal, že, jak má vypadat to, že jo, ty, to, to [ORGANIZATION3] nebo kdo jako na tom by měl všechno spolupracovat, kolik má bejt firem a kolik má bejt univerzit nebo já vůbec nevím a, a nikde jsem se k ničemu nedoklikal.
+Tak maximálně můžu se zeptat [PERSON8], jestli o tom ví něco nebo jestli mi pošle nějaký linky.
+(PERSON15) Ale píšou tady: 
+Maximální finanční částka podpory na jeden projekt 1 milion euro.
+Tohle je myslím dost.
+(PERSON1) No.
+Maximální, ale dohromady je to taky 1 milion euro na všechny, tuším, ne?
+Že tam nějak píšou.
+(PERSON15) Jo, už chápu.
+(PERSON26) To není moc.
+<laugh/>
+(PERSON1) No, takže -
+(PERSON26) To je v dnešní době <unintelligible/>, no.
+(PERSON15) <unintelligible/> tady píšou: nejvyšší povolená intenzita podpory na českou stranu projektu je 70 %.
+(PERSON1) Eh, na českou stranu projektu.
+(PERSON26) Takže existuje nějaká česká strana projektu, z čehož dovozuju, že existuje i nějaká nečeská strana projektu, takže ty projekty asi musej být mezinárodní?
+(PERSON1) No, ty projekty určitě musej bejt mezinárodní, ale -
+(PERSON26) No, podmínky pro českýho uchazeče budou vycházet z programu [OTHER4].
+V programu [OTHER4] je na webu [ORGANIZATION1] ňákejch 100 stránek různejch pdfek, kde se píše úplně všechno.
+<laugh/>
+<unintelligible/> tady chcou odkaz.
+(PERSON15) Hm.
+Jéžiš, to budeme číst myslím dva tejdny, to.
+(PERSON26) No.
+Je to v dokumentě.
+(PERSON1) Eh, já jsem na to dneska, jako já jsem tomu dneska věnoval asi tak 5 minut, takže já jsem to ještě -
+Ale jako -
+(PERSON26) No, [ORGANIZATION1] jsem pochopil, že má už u nás na starosti [PERSON5], která teda tenhle tejden není, není na [ORGANIZATION11], ale, eh, bude mi pomáhat s tím [ORGANIZATION1] na to uru.
+Tak asi by jako pomohla i s [ORGANIZATION1] tady na to.
+(PERSON1) Jo, takže když tak, takže se ptát když tak jí.
+(PERSON26) Hm, jako s tím, že o tom moc jako neví, ale jako má v popisu práce to zjistit.
+Protože když jsem se jí ptal na nějakej ten [ORGANIZATION1] na uru, tak jsme se o tom bavili ráno a večer už mi poslala různý jako dokumenty a různý věci, který z nich zjistila, a tak.
+(PERSON1) Jo.
+(PERSON26) Takže je ochotná jako prostě číst ty papíry, co my nechceme číst, a něco z toho zjišťovat.
+(PERSON15) No, jo.
+Taky je ochotná pořád někam telefonovat.
+To jsou velmi užitečný skilly, který my nemáme tady v tý situaci.
+(PERSON26) No, no, no.
+(PERSON1) No, to já vůbec nemám, no.
+To je nejhorší, někam zatelefonovat.
+Obzvlášť lidem, který jsem nikdy předtím neviděl.
+(PERSON26) Hm.
+(PERSON1) Tak dobře, tak já se když tak, to můžu zkusit.
+Když mi, bude, budu mít nějakej čas, tak to můžu zkusit, se zeptat a řešit.
+Jako minimálně jako, jak má vypadat ten tým, jako kolik, jako, že jo, ten, kolik univerzit nebo já nevím, že jo.
+Vždycky v těch evropské grantech je potřeba nějaký množství různejch zahraničních univerzit nebo firem a nevím, jak je to tady ještě zkombinovaný s tím [ORGANIZATION1].
+Tak vůbec netuším, jak to funguje.
+(PERSON26) Nevím.
+No, asi, já si myslím, že když napíšeš [PERSON5], tak že ona ti to zjistí.
+(PERSON1) Jo.
+Dobře.
+(PERSON15) Hm.
+Je na to nějakej deadline?
+Píše se tam v tom programu?
+(PERSON26) Konec října.
+(PERSON15) No.
+(PERSON1) Píše se, na konci října se to ote-, se to otevře.
+(PERSON26) Jo, votevře.
+Já jsem myslel, že se to podá ke konci října.
+(PERSON1) Počkej, já se podívám.
+(PERSON26) Jo, bude vyhlášená.
+Aha!
+Tak to teprve se vyhlásí.
+Tak to se ještě neví.
+(PERSON1) No, tak ono možná bude daleko víc informací na konci října.
+(PERSON26) Jo.
+Tak to jo.
+(PERSON1) Ale -
+(PERSON26) Já jsem myslel, že -
+(PERSON1) To by se mohlo ještě <unintelligible/>.
+Když poslal [PERSON8] ten, ten, ten email, tak ani nešlo, ani nefungovaly ty odkazy, který tam, který tam byly z těch stránek někam jinam.
+Takže teďka už tam fungujou a je tam nějaký pdfko, ve kterým dohromady nic není, ale -
+(PERSON26) Hm.
+(PERSON1) Nějak se to posunuje, takže -
+(PERSON26) No.
+No, tak tím pádem, jestli to bude teprve vyhlášený, tak to já mezitím budu mít podanej tam ten [ORGANIZATION1] a klidně se můžu tady toho taky účastnit.
+(PERSON1) Jo.
+(PERSON26) Protože to bysme tím pádem asi chtěli.
+Já jsem myslel, že to je zase nějaký hrozně na honem, na honem, ale takhle to asi.
+(PERSON1) No, vypadá to, že není, no.
+Kdo se má taky, že jo, to je takovejch, takovejch mailů chodí od [PERSON8] a -
+(PERSON26) No.
+No, já jsem ho označil jako přečtenej, ale nečet jsem ho.
+<laugh/>
+(PERSON1) No, takže dobře.
+Tak já zkusím todlecto nezvrtat.
+A případně spolupracovat, třeba říct Helsinkám, jestli by se chtěli účastnit.
+(PERSON26) Hm.
+(PERSON1) A nevím koho dalšího.
+(PERSON26) Hm.
+(PERSON15) Dík.
+<laugh/>
+(PERSON26) No, no, tak klidně.
+(PERSON1) Tak.
+Tak -
+(PERSON26) Já bych taky měl pomalu, že jo, o něco žádat a tak, tak to je asi dobrej nápad o něco začít žádat.
+(PERSON1) No.
+Ono taky, že jo, já už budu moct zase žádat o další [ORGANIZATION1] v březnu.
+(PERSON26) Hm.
+(PERSON1) A nevím, no.
+Ono to nějak, nějak to, nějak to dopadne.
+(PERSON26) Hm.
+(PERSON1) To se pobavíme když tak potom, jestli bysme chtěli pokračovat nebo dělat něco jinýho nebo, nebo, nebo uvidíme.
+Jo.
+(PERSON26) Hm.
+(PERSON1) Další bod programu mám knihu, pro změnu.
+Eh, já jsem, asi jsi [PERSON26] nic, jak jsme se tenkrát bavili, nic jsi neudělal, že jo?
+Nikdo nic neudělal, předpokládám?
+(PERSON26) Můžeš jenom kliknout.
+(PERSON1) Tady je, tady není zatím nic na tom odkazu, co jsem tam dal, ale předpokládám, já jsem <unintelligible/> -
+Že jo, zatím jsem tam dal jenom to, co bylo v tom, to, co bylo na tom, na tom [ORGANIZATION13].
+(PERSON26) Jo, jo, jo.
+(PERSON1) Je to hodně, je to hodně, protože tam nic víc nebylo.
+Jenom tadleta osnova prostě, tam byly jinak samý blbosti.
+A představoval bych si, že by možná bylo lepší, kdyby jsme začali plodit nějakej, nějakou osnovu, nějakej obsah, co tam všechno chceme mít, sem.
+Nebo o čem přemýšlíte?
+(PERSON26) Jo, to bude asi <unintelligible/>.
+(PERSON1) To jako až potom, až budem mít, mít jako rámcovou představu, co všechno tam budeme chtít napsat a jakou to bude mít strukturu.
+(PERSON2) Někde na nějaký schůzi jsme dali dohromady nějakou osnovu, která nám nakonec přišla dobrá a [PERSON26] jako -
+(PERSON1) [PERSON26] s-
+(PERSON2) Strašně dlouho sliboval, že ji dá do toho [ORGANIZATION13].
+A, a já jsem tak jako jednou za tejden udělal [ORGANIZATION13] půl a toho se nikdy nic nezměnilo a do tý osnovy jsem slíbil nakopírovat relevantní věci z mojí dizertace.
+(PERSON1) Jasně.
+A ta osnova, na kterou jsme se shodli, byla daleko větší, než to tvoje v tom [ORGANIZATION13] teda, jo?
+(PERSON26) No, jako ne, spíš to není -
+(PERSON2) No, já jsem -
+(PERSON26) Já tu osnovu najdu.
+<laugh/>
+A někomu vám ji pošlu.
+<laugh/>
+(PERSON1) Jako když tak ji pošli mně.
+(PERSON26) Hm.
+(PERSON1) Já jako, jak jsem o tom uvažoval, tak jako, že jo, jsem přemejšlel, kolik, kolik věcí by mělo bejt těch našich a kolik věcí by mělo bejt jako cizích?
+Nevím.
+Spíš mi přijde, že by to spíš mohla bejt taková jako <unintelligible/> plus naše věci, že by to mohlo bejt tak jako -
+My jsme, my přece jenom, že jo, máme nějaký články, ale je to takový dost, jako omezený, že jo.
+Vždycky jsou to nějaký kousíčky něčeho.
+A stejně tam bude muset bejt related work.
+(PERSON26) Hm.
+(PERSON1) A mně to třeba přijde, že by bylo lepší jako, kdyby třeba to bylo dvě třetiny related něco k tý naší, nebo něco takovýho.
+Ale už nevím jako teda.
+Co?
+(PERSON2) Jo.
+To myslím, že už jsme se taky na tom jednou domluvili, že to bude takhle.
+(PERSON1) Jo.
+(PERSON15) Jo.
+A tady koukám, že je kapitola related work v tý knize.
+A to nevím, jestli by nebylo lepší to prostě celý třídit po těch -
+(PERSON1) Ano, to by bylo, jo.
+Určitě.
+Já jsem tam zatím
+(PERSON26) <unintelligible/> related work, prostě by to byla taková encyklopedie probingu.
+(PERSON1) Jo.
+(PERSON26) S důrazem na naší práci.
+(PERSON1) Jo.
+Přesně tak.
+(PERSON2) Já myslím, že to už jsme jednou říkali a related work jsme škrtli.
+(PERSON15) No, ano.
+(PERSON26) Hele, todleto je, todle to je to, co bylo na [ORGANIZATION13].
+Já totiž žádný jiný věci nemám, tak já jsem to od něj zkopíroval to, co bylo na [ORGANIZATION13].
+Přesně tak.
+Related work si škrtnout.
+Škrtám ji.
+Hm.
+No, já se omlouvám, já jsem se k tomu nějak úplně nedostal, no.
+Takový ty deadliny jako za 2 roky.
+(PERSON1) Ne.
+V pohodě.
+Jenom, jenom to prosím tě najdi a když tak mi to pošli.
+Asi jsme už to řešili.
+Je to pravda.
+A možná jsi to někam posílal, nějaký, že jo, ty tvoje poznámky někam.
+To je taky možný.
+(PERSON26) Je to možný, no.
+To najdu.
+(PERSON2) Dlouho jsme to čmárali na chodbě na tabuli, a pak si to [PERSON26] přepsal do tý svý magický krabičky.
+(PERSON26) No, tak to tam bude.
+(PERSON1) Do který z těch mnoha?
+<laugh/>
+Do tý placatý, do tý nejplacatější.
+<laugh/>
+(PERSON2) No.
+(PERSON26) To bylo tak zhruba v únoru, ne?
+Si představuju.
+(PERSON1) No, už to bylo hodně dávno.
+(PERSON2) Nevím.
+(PERSON26) No.
+(PERSON1) To je jedno, tak -
+No, tak když tak mi to jenom pošli.
+Já to zkusím tam nahodit.
+A možná bysme tam mohli jako házet i, i člá-, jako asi i related články, že jo?
+Bych do toho asi rovnou házel.
+(PERSON26) Hm.
+(PERSON2) Hm.
+(PERSON1) A abysme věděli a -
+Ano?
+(PERSON15) Ke článkům tam mám ještě bod, ale k tomu se dostanem asi potom.
+(PERSON1) Jo, jo, jo.
+To jsem, na to jsem chtěl potom plynule přejít.
+Že ty články by bylo dobrý někde nějak, eh, dobře sortit nebo uspořádávat.
+A nevím, nevím, co to je, co to je [OTHER2], ale, ale -
+Takže jo.
+Takže pro tu knihu, zkus [PERSON26] mi to poslat nebo to tam zkus překlopit do toho dokumentu a mohli bysme to tam nějak, by se to mohlo začít, začít bobtnat v tom dokumentu, abysme věděli, co, co všechno máme.
+A potom tady nevím, jako jak, když se bude dělat ta, ta survey, jestli, jak se to řeší potom, když tam budem chtít přidat nějaký obrázky.
+To se normálně zeptáme těch autorů a voni nám to dovolí?
+Nebo jak, jak, nevíte, jak se?
+Nevíte, jak se?
+Dělali jste někdy něco takovýho?
+(PERSON26) Některý články že jo maj explicitní nějakou CCčkovou licenci, takže to tam prostě zkopíruješ tak, jak ti to dovolí ta licence.
+Když některý články nemají žádnou licenci, tak by ses asi měl zeptat toho autora.
+(PERSON1) Jo.
+(PERSON2) Pokud ta knížka bude vydaná v Česku, tak jo.
+(PERSON1) Hm.
+(PERSON2) Pokud by, pokud by byla vydaná třeba v Británii nebo v Americe, tak tam mají koncept fair use, a to většinou, když je to vědecká, vědecká publikace, tak za nějakejch okolností se to považuje za fair use a můžeš to tam plácnout bez ptaní.
+(PERSON1) Jo.
+(PERSON2) Když to náležitě ocituješ.
+(PERSON1) Jo.
+No, tak já předpokládám, že většinou nějaký ty lidi.
+Jo.
+Většinou nám to ty lidi stejně jako dovolí, když tam, pokud tam bude odkaz na ten jejich článek a u toho obrázku bude rovnou citace a bude to nějak rozumný, tak snad, snad to půjde.
+No, tak -
+(PERSON26) Zároveň některý ty lidi by to třeba mohli rovnou ten obrázek poslat i v nějakým jako zdrojovým formátu.
+(PERSON1) Ano, přesně tak.
+Aby to, aby to, abysme to nemuseli nějak z toho, z toho escapem z toho vyndavat.
+(PERSON26) Hm.
+(PERSON2) [PERSON15] to pak všechno překreslí fixou, protože bude s každým obrázkem nespokojenej.
+<laugh/>
+(PERSON1) No takže, takže já mám v plánu teda, mám v plánu tam sypat nějaký, můžete tam taky sypat taky prostě relevantní -
+Nejdřív musíme udělat tu osnovu, a pak tam sypat relevantní články.
+Nebo, nebo takhle, někdy někam musíme, někde bysme měli shromažďovat ty, ty články., abysme měli všechny.
+Protože já, já v jednom kuse, já nevím, jak vy, ale já v jednom kuse prostě hledám to, co jsem už nacházel kdysi dávno.
+Prostě vždycky vím, že jsem to někde čet a hledám to desetkrát.
+Nemám v tom, nemám v tom žádnej systém.
+(PERSON15) No, tak tím se dostáváme k -
+K bodu číslo 1.
+(PERSON1) Ano?
+(PERSON15) Což mi přijde to, že přesně tady to, že pořád něco hledám a hlavně mě teď irituje, jak na [ORGANIZATION12] vždycky vylezou ty citace z archivů a musíš hledat, kde to nakonec vyšlo, jestli to někde vyšlo.
+(PERSON1) No, jasný, no.
+(PERSON15) U poloviny článků zjistíš, že to nikde nevyšlo a musíš to citovat z archivů.
+No, tak jsem si řekl, že to konečně budu někde shromažďovat nějak přehledně a <unintelligible/> jsem si k tomu link od [OTHER2], což mi doporučil [PERSON14], kterej to prej používá a je to dobrý.
+No a to je prostě program na správu citací.
+A když si tam založíte nějakej účet, tak si to pak můžete, ty citace, synchronizovat mezi počítačema přes nějakej jejich server.
+A nejlepší, to má tu funkcionalitu, že se tam dají založit skupiny a můžeme sdílet ty citace mezi sebou.
+(PERSON1) A to je teda online nebo to je?
+(PERSON15) Co?
+(PERSON1) To je online?
+(PERSON15) Je to nějaký online.
+Anebo i offline.
+To je nějak jako všechno.
+(PERSON1) Jo.
+(PERSON15) Jakože když máš účet, tak si to můžeš nějak spravovat na tom jejich webu, anebo si prostě nainstaluješ ten program a ten se s tím webem synchronizuje.
+(PERSON1) Jo.
+(PERSON2) No, tak j-, já mám k tomu několik poznámek.
+<laugh/>
+Myslím si, že to je placený.
+Nebo to kdysi bylo placený, když to chceš, když to chceš s někým, když to chceš sdílet s víc než s jedním člověkem, tak za to musíš zaplatit.
+(PERSON15) Jo.
+To je možný, to jsem nezkoumal zatím.
+(PERSON2) A bylo taky, je to celý nějak open source, a taky bylo možný si rozběhnout nějakej vlastní server, kterej běži u [PERSON14] doma na Raspberry Pi.
+Eh, používal to taky [PERSON25] a jemu se to zdálo nejdřív hrozně přehledný a říkal, že prostě, když nejseš [PERSON14], kterej si tam každej den pečlivě šlechtí svoje citace, tak se ti to za půl roku zafláká a nemůžeš tam nic najít a stejně ty články hledáš na [ORGANIZATION14].
+(PERSON1) Hm.
+(PERSON26) To u mě nehrozí.
+Ten článek <unintelligible/>.
+(PERSON2) A takže ta free verze nic neumí, takže pak byl připojen na [PERSON14] server, a pak to celý smazal, protože tam stejně pak už nebyl schopnej nic najít, protože si to na rozdíl od [PERSON14] nešlechtil každej, každej den článkama z archivu, který si tam poctivě labeluje.
+(PERSON15) Hm, tak -
+(PERSON26) No, tak [PERSON15] nám to bude šlechtit a my to budem používat.
+<laugh/>
+(PERSON15) No, ono otázka je, jak je to s tou placeností.
+Tak já to zjistím ještě.
+A -
+(PERSON2) A kdyby to bylo blbě, tak si, tak můžeme přesvědčit [PERSON27], že to, že to potřebuje, že to potřebujeme rozběhnout na [ORGANIZATION11].
+(PERSON15) Hm.
+(PERSON26) Hm.
+(PERSON15) Hm.
+(PERSON26) A bude to asi stejně pitomý jako ten [OTHER5], který vždycky nějak nefungoval a, a tak.
+(PERSON15) No, jako v závislosti na tom, jak moc je to náročný, což asi nebude příliš.
+Tak si to můžu pustit na svým serveru.
+Můj má tu výhodu, že neběží na Raspberry Pi, ale běží na <unintelligible/> ňákým, takže když ho prostě nevykopnu doma omylem ze zásuvky a tak dále.
+(PERSON2) No, tak to, tak to nějak, tak to nějak vyšetři.
+Byl tu i problém s [ORGANIZATION11] [OTHER5] byl, že tam psali tu knihu o diskurzu a, a tu furt, tu furt dokola kompilovat bylo tak náročný, že ten server furt padal.
+<laugh/>
+(PERSON1) Ach jo.
+(PERSON26) Ale na webu [OTHER2] píšou, že to můžeš sdílet s kolika lidma chceš zadarmo.
+(PERSON15) No, <unintelligible/>.
+No, čili, já si myslím, že to stojí za pokus.
+Já si tam teda prozatím organizuju <unintelligible/> svoje věci, ale kdybyste se k tomu chtěli přidat a vytvořit tam ňákou tu grupu, tak -
+(PERSON2) Jo, tak minimálně ty věci pro tu [OTHER8] knížku tam můžeme zkusit.
+Pokud je to možný sdílet v tolika lidech.
+(PERSON15) Tady píšou, že jo.
+(PERSON26) To zkusíme.
+Já jsem pro to zkusit.
+(PERSON1) Jo.
+(PERSON26) Já <unintelligible/> nic nemám.
+Takže většinou to dělám tak, že, že jo, hledám ty citace, když píšu nějaký článek.
+A když píšu nějakej další, tak hledám ten předchozí článek, kde jsem to citoval, abych tam našel ten správnej [OTHER7].
+(PERSON15) A to je hrozná otrava.
+(PERSON26) No.
+(PERSON15) Jo, tak si tam zřídíme účty a -
+(PERSON1) Já mám -
+(PERSON15) Já tam zkusím zřídit ňákou tu grupu.
+(PERSON26) Měl jsem na to někdy ňákej [ORGANIZATION4] a ten hrozně zlobil s diakritikou, takže ten mě dost štval, protože když píšeš všecky články s [PERSON7] a [PERSON4], tak ta diakritika tě dost otráví.
+<laugh/>
+(PERSON15) Jo a tady to [OTHER2] má velmi příjemnej import z [OTHER6] a ještě lepší export do [OTHER7], že si prostě jenom označíš ty články v tý databázi, označíš si jich tam kolik chceš najednou, že jo, a pak jenom zmáčkneš exportovat do schránky a máš ve schránce uloženej [OTHER7].
+Když si nastavíš jako -
+(PERSON2) To je hezký.
+(PERSON15) Jako defaultní export [OTHER7].
+(PERSON2) Eh, [PERSON30] z [ORGANIZATION], teď už z [ORGANIZATION] používal ten [ORGANIZATION4] a nutil mě to používat taky a nějak se to, měl jsem ho nainstalovanej na windowsovým počítači a jeden na linuxovým počítači a kdykoliv se mezi sebou synchronizovaly, tak všechno, co obsahovalo v názvu diakritiku, se tam nakopírovalo ještě jednou.
+(PERSON26) No, no.
+Něco takovýho mi to taky dělalo, no.
+Já mám pocit, že se tady to opakovalo, že to tam furt přidávalo nějaký ty, ty backslashe a složený závorky, až to tam fakt bylo pětkrát.
+Ale [PERSON15] tvrdil, že to [OTHER2] to nedělá.
+(PERSON15) No, zatím jsem to nezkoušel na [OTHER1], tak -
+<laugh/>
+Tohle <unintelligible/> nemůžu úplně potvrdit, ale mně se zdá, že to <unintelligible/> za pokus stojí.
+(PERSON1) Jo, zkusit to můžem.
+Ale mít [OTHER2].
+Hm.
+(PERSON26) Jo a navíc jsme se s [PERSON15] bavili o tom, že to teďka je jako o důvod víc s tím, že jako to [ORGANIZATION6] není, že jo, nebo [ORGANIZATION6] je jenom z [ORGANIZATION11] místní ten.
+No, tak je to dost jako nepříjemný, že vždycky, když chci citovat svůj článek, tak jsem zvyklej si ho najít v [ORGANIZATION6], kde mám správně ten [OTHER7] a to teďka jako nejde jednoduše dělat.
+(PERSON2) Hm, taky jsem se tam dneska přeřazoval.
+(PERSON26) Hm.
+(PERSON1) Jo, to já vůbec nevím.
+Já jsem nějak měl dobrý.
+Tak to budu muset taky zatunelovat.
+No, to mám radost.
+Dobrý, takže -
+(PERSON26) Takže [PERSON15] nám založí [OTHER2] a vy si -
+(PERSON1) [PERSON15] nám založí [OTHER2] a -
+(PERSON15) No, pak tam můžem poslat knihu.
+(PERSON1) [PERSON26] pošle, [PERSON26] pošle, [PERSON26] najde obsah knihy.
+(PERSON26) Jo, jo, jo.
+To udělám.
+(PERSON1) Tak.
+Co dál?
+Máme ještě něco?
+(PERSON26) <unintelligible/> speech [PROJECT4] meetup?
+<laugh/>
+(PERSON15) Jo, bude ňáký ten meet up, divnej. 
+Co pořádá [PERSON21] nebo možná to pořádají nějaký jiný ligy, ale -
+(PERSON26) Pořádá to [PERSON23] s [PERSON16] -
+(PERSON1) No.
+(PERSON15) Ale [PERSON21] o tom psal email.
+(PERSON26) Z [ORGANIZATION11] tam bude asi 16 lidí.
+(PERSON1) Ty jo.
+(PERSON15) No, vidíš, ty máš i takovýhle tabulky.
+To ke mně nedošlo vůbec.
+No, tak mě zajímalo hlavně to, jestli ty [PERSON26] tam budeš něco prezentovat a -
+(PERSON26) Já tam budu.
+<laugh/>
+A, no, tam, tam myslím, že je poster sekce.
+(PERSON15) No.
+(PERSON26) A já nemám asi poster žádnej rozumnej.
+(PERSON15) Ty nemáš žádnej rozumnej poster?
+(PERSON26) Já jsem měl, teď ty nejlepší věci jsem prezentoval vždycky orálně.
+(PERSON15) Jo.
+(PERSON1) My jsme vlastně dělali takovej poster na toho [PROJECT3], co?
+Na toho divnýho [PROJECT5].
+(PERSON26) No, toho divnýho [PROJECT5] máme, ale to je divný.
+To bych spíš tam vzal ňákej [PERSON15] poster.
+(PERSON1) No, to [PERSON15] poster určitě.
+(PERSON2) Hm, no, dobře.
+(PERSON15) Já mám teda takovej technickej problém a to je ten, že ten můj poster z [PROJECT1] vez do Prahy [PERSON17], takže musím zjistit, kde ten poster skončil.
+(PERSON26) No, na to máš dva tejdny.
+To je tak akorát.
+<laugh/>
+(PERSON1) To mi připomíná, že -
+(PERSON2) To se zjistí snadno.
+[PERSON17] odpovídá na maily hned.
+(PERSON15) Jo.
+(PERSON1) Že ten náš pěknej poster, kterej byl loni na [PROJECT4] s těma vlaječkama, vez domů [PERSON3].
+<laugh/>
+(PERSON26) Já nevím jakej.
+(PERSON1) Taky bych si ho rád -
+No, jak jsme měli ten multi-, ten překlad, eh, překlad, ten parsing těch loudy source jazyků.
+(PERSON26) Jo todle.
+No, to by bylo hezkej -
+(PERSON1) Ten bych zrovna chtěl, protože ten mi dal spousty jako, spousta práce a bylo tam spousta hezkejch vlaječek takových.
+<laugh/>
+(PERSON26) A mám ho tam vzít, když ho zas najdu?
+(PERSON1) Když ho najdeš, tak -
+(PERSON26) Takže já řeknu [PERSON3] -
+(PERSON1) No, nevím, nevím, na tudle tu akci ne.
+Todle to asi, jenom, jenom mě prostě, že tento projekt bych si chtěl někde pověsit na zeď.
+<laugh/>
+(PERSON26) Tak jako ho můžu najít tak jako tak a -
+<laugh/>
+(PERSON1) Pověsíme si ho do [LOCATION1].
+(PERSON26) No, tak do [LOCATION1].
+(PERSON1) <unintelligible/> posterama.
+<laugh/>
+(PERSON2) Jo, jinak ten [PERSON23] říkal, že chce politiku, že bez posterů vstup zakázán.
+<laugh/>
+(PERSON26) Co by chtěl?
+(PERSON1) No.
+(PERSON15) Bez posterů zakázán vstup.
+(PERSON1) Tak [PERSON26], když tak vem ty vlaječky, pokud nebudeš mít žádnej jinej.
+Ten je pěknej.
+(PERSON26) Já můžu vzít svůj sloní poster o generování divadelní -
+(PERSON1) Nebo můžeš vzít, no.
+Anebo můžeš vzít slona.
+<laugh/>
+(PERSON26) To bych radši vzal ty vlaječky.
+(PERSON15) Vytvoř nějakej hezkej [OTHER8] poster, kde shrneš všechnu naši práci.
+(PERSON26) Já mám jiný věci na práci, než shrnovat práci.
+<laugh/>
+(PERSON15) Hele, koukám, že [PERSON24] tam bude.
+(PERSON26) Hm.
+(PERSON2) No, tak s ním rovnou domluvte ten [ORGANIZATION1].
+(PERSON1) Jo.
+Můžeme se zeptat, minimálně.
+(PERSON15) Co dělá tady firma s [PERSON13]?
+(PERSON26) Těžko říct.
+(PERSON2) Ta firma s [PERSON13] -
+(PERSON15) Asi něco omílaj pořád dokola.
+(PERSON2) Eh, teď dělá nějakou chytrou domácnost -
+(PERSON26) A, to, to dělá -
+(PERSON15) Hlasově ovládanou.
+(PERSON26) Já vím, že to dělala ta jeho NG věc, nebo jak se to jmenovalo, a z toho pak utek.
+A chytrou domácnost dělá furt, jo?
+(PERSON2) No.
+(PERSON1) No, já bych se taky rád někam koukal do tabulky, ale nemám tady žádnou.
+<laugh/>
+(PERSON26) Tak já ji můžu nějak nasdílet, ale nevím jak.
+Asi mailem nejlíp třeba.
+(PERSON1) Ne, to je jedno asi, jestli, to asi nemá smysl.
+(PERSON26) No, tak vy tam asi nepojedete.
+<laugh/>
+(PERSON1) No, právě.
+Tím emailem by to nešlo asi, co?
+Že bych se na to podíval?
+Ale to je jedno.
+(PERSON26) Jej, teď jsem kliknul na něco, co jsem nechtěl.
+Tak posílám.
+(PERSON1) Call room, aha.
+Ty jo.
+(PERSON15) No, tak to vypadá, že z agendy je to všecko.
+(PERSON1) A není náhodou 21.10., i ta [ORGANIZATION11] semiterm, ta schůze?
+(PERSON26) No, je.
+To [PERSON9] vyhlásila na dobu, kdy tam půlka lidí nebude fikaně.
+(PERSON1) Aha, no, tak to je dobrý.
+(PERSON26) Bude schůze.
+(PERSON1) Vidíte, já jsem dneska psal paní [PERSON10] smutnej mail, jestli nemůžu, nemůžu se zúčastnit školení a -
+(PERSON15) Takže počkej, mám taky napsat paní [PERSON10], že se nemůžu zúčastnit školení?
+(PERSON1) Ale ona mi vodepsala, že to je jenom pro nový, že to je jenom pro nový doktorandy, tak já nevím.
+Přitom to jakoby nevypadalo tak, že -
+(PERSON26) <unintelligible/> někomu, kde [PERSON18] psala [PERSON9], že tam nebudem, protože budeme na tom meetingu.
+[PERSON29] pak poslal [PERSON9] odkaz tady na tu tabulku.
+(PERSON15) Jo.
+(PERSON26) Takže [PERSON9] už tuší, že jí tam půlka lidí nepřijde.
+(PERSON15) Jo.
+(PERSON26) Ale to je holt riziko povolání, když to člověk usmlouvá na blbej termín, no.
+(PERSON1) No, jo, no.
+(PERSON26) <censored/>
+<laugh/>
+(PERSON15) Co tam bude dělat takovej [PERSON22]?
+(PERSON26) Vrkú, vrkú, no.
+(PERSON15) No.
+(PERSON1) I [PERSON22], jo?
+(PERSON2) Připravím ho o lup, o lup.
+<laugh/>
+(PERSON26) No.
+(PERSON15) Píšou se tu někde postery?
+(PERSON1) Hej, tady jsou lidi, který vůbec neznám.
+(PERSON15) <unintelligible/> posterů.
+(PERSON1) <unintelligible/>
+(PERSON26) Máme 10 novejch doktorandů a ještě nějaký pod doky.
+(PERSON2) Wau.
+(PERSON1) Ty jo.
+To až se vrátím, tak to tam nepoznám.
+(PERSON26) No.
+To ne.
+(PERSON1) Wau.
+(PERSON2) Minulej tejden to tam vypadalo dost stejně.
+Snědly se ty divný wafle, [PERSON26]?
+<laugh/>
+(PERSON26) Měl jsem ňáký divný wafle, když všichni odešli.
+<laugh/>
+Ale pak tam ňáky ještě byly, ale pak už tam nebyly, tak někam zmizely.
+(PERSON2) No, dobrý.
+(PERSON1) Hm.
+(PERSON26) A rozhodně, když jsem odcházel z práce, tak už jich tam moc nebylo.
+(PERSON1) Prý tam bude [PERSON12] z Plzně, tak ho můžete pozdravit za mě.
+(PERSON26) No, Plzeňáků tam taky bude jak psů.
+[PERSON19].
+(PERSON1) No, [PERSON11].
+<laugh/>
+(PERSON15) No, [PERSON28] je tady psanej za [ORGANIZATION7].
+<laugh/>
+(PERSON1) Ty jo.
+Jo, ono to tam <unintelligible/> je takto.
+Jo, už jsem se lek, že je nějaká dlouhá.
+No, jo, [PERSON28].
+Se divím, [PERSON28].
+<laugh/>
+Tak jo, takže -
+(PERSON26) Takže my tam s [PERSON15] pudem a vy tam nebudete.
+(PERSON15) Hm.
+(PERSON26) A my tam neznáme žádný ty lidi.
+<laugh/>
+Tak je třeba aspoň poznáme.
+(PERSON2) No, tak se -
+Tak se tam seznámíte.
+Od toho to je, ne.
+(PERSON1) Hm.
+Jo.
+Kdy uděláme další call?
+Za 14 dní asi stačí, ne?
+Nebo jak to vidíte.
+(PERSON15) Jo.
+(PERSON26) Asi jo.
+Pokud nebudeme mít nic novýho.
+(PERSON1) To bude den po tom, den po-, den po tý akci.
+(PERSON26) Jo, to bude dobrý.
+(PERSON1) Jo.
+(PERSON2) Tak jo.
+(PERSON1) Takhle vám to vyhovuje odpoledne?
+(PERSON26) Mně jo.
+(PERSON2) No.
+(PERSON15) Jo.
+Optimální
+(PERSON2) Jo.
+(PERSON1) Přičemž s [PERSON15] se teda můžem scházet určitě ty druhý tejdny.
+A když bude call, tak se můžem sejít takto vždycky před tím, půlhodiny.
+Nebo záleží, jak bude mít, co bude mít zrovna na, na pořadu.
+(PERSON15) Jo, takže teda my dva máme call příští tejden ve stejnou dobu.
+(PERSON1) Jo, my dva máme call normálně příští tejden ve stejnou dobu a uvidíme jako, kolik toho budem potřebovat řešit.
+(PERSON15) Jo, dobře.
+(PERSON1) No, tak to je asi všechno.
+(PERSON2) Tak se mějte famfárově kucí.
+(PERSON1) Mějte se a udělejte si domácí úkoly.
+<laugh/>
+(PERSON26) No.
+Tak je to dobrý, cally tu mám.
+Hm, tak čau.
+(PERSON15) Čau.
+(PERSON1) Čau.

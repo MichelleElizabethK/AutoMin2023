@@ -1,0 +1,26 @@
+Meeting 27. 4., 2020:
+- Meeting ID: [NUMBER]
+- Meeting Password: 1234
+- Join URL:
+- [URL1]
+- Attendance:
+-	
+- Administrativa:
+- Timesheety - chybí: [PERSON17]; všichni ostatní mají pochvalu :)
+- Review odloženo? - mail od [PERSON2]:
+- I can't imagine the review will be in person.  For one, I can't legally enter Luxembourg at the moment.  But I've also had no communication regarding a postponement.
+- Pokud víte, že na projektu z jakéhokoliv důvodu budete končit, tak se prosím pokuste za sebe najít nějakou náhradu
+- Deliverable:
+- Probrali jsme, ze je zalozen.
+- QE se [ORGANIZATION7]
+- [PERSON12] mel call se [ORGANIZATION7]
+- Bude se sbirat i data v opacnem rezimu
+- [OTHER1] clanek na WMT
+- zacaty je uz od prosince
+- ceka se na QE (nyni nemame)
+- model slabe cestiny ([PERSON10] natrenoval, deployment trval)
+- nemame cesky parafrazovaci backend
+- N-best list navigation:
+- potrebujeme nahradu za [PERSON5]
+-	
+

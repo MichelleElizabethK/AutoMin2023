@@ -1,0 +1,36 @@
+Zápis ze schůzky
+
+Datum schůzky: 22.4.2020
+
+Téma: Porada [ORGANIZATION2]
+Vedoucí schůzky: [PERSON28]
+Účastníci: [PERSON33], [PERSON18], [PERSON16], [PERSON36], [PERSON9], [PERSON10], [PERSON45], [PERSON38], [PERSON12], [PERSON1], [PERSON29], [PERSON13], [PERSON7], [PERSON31], [PERSON34], [PERSON3]
+
+Zápis:
+
+- Nutno aktualizovat rozpočet jednotlivých rozpracovaných akcí;
+- Koordinační vyjádření [PROJECT1]: podepsáno;
+- [PROJECT14]: schůzka proběhne 28.4.;
+- [PROJECT6]: nutno pokročit;
+- [PROJECT4]/[PROJECT18]: ukončit;
+- [PROJECT22]: proběhne videokonference o způsobu parkování;
+- [PROJECT28]: proběhlo jednání: třeba se domluvit, kdo bude požádán o spolupráci: nutno získat vyjádření ke zjištěným bodům;
+- [PROJECT24]: založen spis: shromažďovány podklady;
+- [ORGANIZATION17]: žádost o nástavbu: do příštího čtvrtka podat vyjádření k odvolání;
+- Studie [PROJECT3]: proběhla schůzka s městskou částí: domluva na prezentaci
+         - Další jednání: 5.5.;
+- [PROJECT11]: aktuálně zadávána studie na zahradnické úpravy: na podzim bude zadávána studie na pojetí celého okrsku;
+- [PROJECT12]: bude se jednat o celém území;
+- [ORGANIZATION24] – záměr vybudovat naučnou stezku;
+- [PROJECT9]: připravován tisk do rady;
+- [PROJECT17]: nutno vypsat studii;
+- [PROJECT7] ulice: návrh začít shromažďovat podněty na koncepční zadání;
+- [PROJECT8]: zpracovávána EJA;
+- [ORGANIZATION21] na Butovici: proběhne soutěž: výsledky na podzim;
+- [PROJECT19]: v řešení;
+- [PROJECT18]: zaslán návrh vnitřního sdělení na prodloužení termínu a navýšení ceny.
+
+
+
+
+Zapsala: [ANNOTATOR2]

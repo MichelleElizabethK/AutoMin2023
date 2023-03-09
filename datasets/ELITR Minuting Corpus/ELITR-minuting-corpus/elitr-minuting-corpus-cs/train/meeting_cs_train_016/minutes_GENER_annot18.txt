@@ -1,0 +1,13 @@
+Schůzka [OTHER1], 2020-06-02
+
+Přítomni: [PERSON17], [PERSON6], [PERSON20], [PERSON11]
+
+Na schůzce bylo probíráno:
+
+- vysvětlení, proč nikdo nedopsal knihu
+- po [PERSON6] úvodu bude ještě jedna kapitola, kde budou vysvětlené některé modely
+- plán je společně se scházet v kanceláři v [LOCATION2] a vzájemně se motivovat psát knihu
+- check boxy při zasílání práce na EMNLP
+- místa pro budoucí doktorandy v [LOCATION2]
+
+Zápis sepsala: [ANNOTATOR1]

@@ -1,0 +1,33 @@
+Schůzka [ORGANIZATION2] 2020-04-22
+
+Přítomni: [PERSON10], [PERSON1], [PERSON28], [PERSON3], [PERSON33], [PERSON7], [PERSON45], [PERSON12], [PERSON36], [PERSON9], [PERSON34], [PERSON18], [PERSON29], [PERSON13], [PERSON16], [PERSON38], [PERSON31]
+
+Na schůzce bylo řešeno:
+
+- je potřeba aktualizovat rozpočet, bude řešeno individuálně
+- elektronické záznamy z jednání, souhlas s nahráváním stačí příští týden
+- odeslat podepsané koordinační vyjádření [PROJECT1]
+- osobní schůzka [PROJECT14] bude 28. dubna
+- je potřeba přidat se [PROJECT6]
+- ukončit [PROJECT4] a [PROJECT18]
+- bude se konat videokonference [PROJECT22] o způsobu parkování
+- je potřeba připravit se na jednání o [PROJECT28]
+- [PROJECT24] je potřeba probrat s poradci
+- dopracovat odvolání ohledně nástavby [ORGANIZATION17]
+- [PERSON34] se zúčastnila jednání s městskou částí, kde se jednalo o tom, jak na veřejnost prezentovat území [ORGANIZATION25]
+- 5. května bude další jednání o [PERSON34]
+- zadání studie a na zahradnické a další úpravy na [PROJECT11]
+- [PERSON13] bude řešit [PROJECT12]
+- [PERSON7] bude osloven občanskou iniciativou z [ORGANIZATION24] ohledně budování naučné stezky
+- možná bude potřeba konzultace ohledně [PROJECT9]
+- vypsání studie na [PROJECT17], individuální řešení s [PERSON18]
+- odpoledne je jednání [PROJECT5]
+- [PERSON9] bude mít dvě jednání na [ORGANIZATION2]
+- [PERSON9] do konce týdne zašle návrh koncepčního zadání ohledně přístřešků nad vstupy do vestibulu metra
+- [PERSON16] začne pracovat na koncepčním zadáním ohledně [PROJECT7]
+- [PERSON9] zpracovává EJU na [PROJECT8]
+- [ORGANIZATION4] dala dodatečnou regulérnost soutěže na [PROJECT10] na Butovici, výsledky by měly být na podzim
+- sděleny názory na [PROJECT19]
+
+
+Zápis sepsala: [ANNOTATOR1]

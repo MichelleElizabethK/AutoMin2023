@@ -1,0 +1,72 @@
+
+Datum: 2020/06/29
+Přítomni: [PERSON4], [PERSON17], [PERSON6], [PERSON14], [PERSON16]
+Jednání: [OTHER2] deliverable
+
+
+Projednané body:
+
+[PERSON17], [PERSON16]
+- v [ORGANIZATION3] deliverable jsou už doplněné měřené časy u autoregresivního překladu.
+
+[PERSON17], [PERSON6]
+- změna závěrečné tabulky, sloučené dohromady.
+- Třeba zkontrolovat srozumitelnost.
+
+[PERSON17], [PERSON6], [PERSON4]
+- doplňuje conclusion.
+- V principu vyřešené, odevzdatelná forma.
+
+[PERSON6], [PERSON14]
+- diskutují možnosti řešení source variation, filtrované jazyky.
+- Vybraný 41 pivot s vyselektovanými nejsilnějšími jazyky, aby nebyl uživatel zahlcený výsledky.
+- 5 pivot není tolik diverzifikovaný.
+
+[PERSON17], [PERSON6], [PERSON4],
+- na GitHub přidělen úkol integrace Albans Translation do Firefox do konce července.
+- Zatím nejasné zadání, [PERSON1] musí specifikovat - zajistí [PERSON17].
+- Pomáhá backtranslation, v nejjednodušší verzi může být výsledkem integrace, kde se ukáže backtranslation u formulářů.
+- Musel by být definován Albans Translation pivot, source complexity není funkční prototyp, source variation ano, ale musel by být přetrénován na offline.
+- Lze zabezpečit model k dodávání výsledků backtranslation, případně k paraphrazingu.
+- Možné dodat modely, které se budou používat na inbound translation.
+- Možné poskytnout kód, který už je na GitHub.
+- Musí nastavit UI nebo [ORGANIZATION2].
+- Není kapacita na programování.
+
+[PERSON16], [PERSON4]
+- informuje o ACL, od neděle do pátku, do 10. 7. včetně workshopů.
+- Konferenční poplatek lze zaplatit.
+
+[PERSON17], [PERSON6], [PERSON4]
+- diskutují formu prezentace.
+- 15-30 minut, redukce dle požadavků.
+- [PERSON5] musí poskytnout agendu a je třeba zjistit, zda je plánován cvičný remote - zajistí [PERSON17].
+
+[PERSON4], [PERSON6], [PERSON17], [PERSON16]
+- řeší konferenci v Lucemburku.
+- Osobně se zúčastní [PERSON6] a [PERSON17], [PERSON4] může být online.
+
+[PERSON4], [PERSON16]
+- otázka plateb cizincům.
+- informuje o Transferwise - tváří se jako lokální, nemá český účet - poslat [PERSON9] jako možnost.
+
+[PERSON4], [PERSON6], [PERSON17], [PERSON16], [PERSON14]
+- call příští týden zrušen.
+
+Úkoly:
+
+[PERSON17]
+- zjistí od [PERSON5] agendu a cvičný remote.
+- zajistí specifikaci integrace od [PERSON1].
+
+
+
+
+
+Zapsala: [ANNOTATOR1]
+
+		
+
+
+
+

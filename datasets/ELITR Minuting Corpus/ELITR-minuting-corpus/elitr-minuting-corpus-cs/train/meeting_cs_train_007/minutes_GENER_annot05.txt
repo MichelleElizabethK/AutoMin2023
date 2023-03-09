@@ -1,0 +1,32 @@
+Zápis ze schůzky
+
+Datum schůzky: 29.6.2020
+
+Téma: Schůzka projektu [OTHER2]
+Vedoucí schůzky: [PERSON4]
+Účastníci: [PERSON4], [PERSON17], [PERSON14], [PERSON6], [PERSON2]
+
+
+Zápis:
+
+- Deliverable: autoregresivní překlad: třeba vložit časy: deadline: 30.6., 17:00
+         - Vyřešeno;
+- Pozměněna závěrečná tabulka s výsledky: sloučeny dvě tabulky;
+- Conclusion: téměř dokončeno;
+- Sekce source variation: paraphrasing: provedena filtrace jazyků: vyselektovány nejsilnější jazyky;
+- Firefox: integrace Albans translation: návrh dodat pouze modely: deadline: konec července;
+- Slidy: řešit příští týden: třeba připravit hrubou strukturu: zjistit časový slot;
+- ACL: 5.7. – 10.7.: pouze online: zorganizován přímý přenos v [LOCATION3];
+- WGNT: 10.7.;
+- Call v pondělí neproběhne.
+
+
+
+
+
+
+
+Zapsala: [ANNOTATOR2]
+
+
+

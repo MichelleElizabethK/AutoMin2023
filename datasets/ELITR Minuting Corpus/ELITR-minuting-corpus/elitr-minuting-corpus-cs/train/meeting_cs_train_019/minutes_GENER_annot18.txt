@@ -1,0 +1,17 @@
+Schůzka [OTHER1], 2020-05-19
+
+Přítomni: [PERSON17], [PERSON20], [PERSON19], [PERSON7], [PERSON15]
+
+Na schůzce bylo probíráno:
+
+- rozebrána část knihy o interpretabilitě, která vycházela z článku [PERSON14]
+- do textu zařadit, že interpretabilita začala být zajímavé téma až s neuronkama
+- dále do textu zařadit, že NLP interpretabilitu řešilo později a některé modely nejsou intepretovatelné
+- prozkoumat knihu Interpretable machine learning od [PERSON18]
+- doplnit informaci, že nás zajímá post hoc interpretabilita
+- definovat v knize obecným způsobem probing
+- [PERSON20] dokončí svou kapitolu do konce týdne
+- [PERSON17] udělá kritický review článků, které vybral [PERSON7], zapsat, které se budou hodit do knihy více
+
+
+Zápis sepsala: [ANNOTATOR1]

@@ -1,0 +1,17 @@
+Schůzka [OTHER1], 2020-05-12
+
+Přítomni: [PERSON3], [PERSON9], [PERSON2], [PERSON15]
+
+Na schůzce bylo řešeno:
+
+- je potřeba začít opravdu pracovat na knize, aby byla dopsaná do 18. května
+- bylo by dobré se scházet v kanceláři kvůli vzájemné podpoře, aby se na knize více pracovalo
+- v knize by mělo být v úvodu napsáno, co je interpratace, jak to vidí autoři a jak to vidí ostatní
+- založena předkapitola, do které se budou dávat odkazy a texty ohledně interpretace
+- smazat rovnici Jensen-Shannon, rovnici TVD ponechat
+- itemized psát kapitalizovaně
+- kniha bude psaná americkou angličtinou
+- stylopis bude podle chicagského manuálu
+- informace o kancelářích ve [LOCATION2] a možném stěhování
+
+Zápis sepsala: [ANNOTATOR1]

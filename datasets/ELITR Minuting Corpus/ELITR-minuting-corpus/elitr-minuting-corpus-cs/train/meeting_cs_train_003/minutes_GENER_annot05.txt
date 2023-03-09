@@ -1,0 +1,50 @@
+Zápis ze schůzky
+
+Datum schůzky: 1.7.2020
+
+Téma: Porada [ORGANIZATION4]
+Vedoucí schůzky: [PERSON30]
+Účastníci: [PERSON15], [PERSON25], [PERSON8], [PERSON40], [PERSON35], [PERSON3], [PERSON1], [PERSON32], [PERSON14], [PERSON38], [PERSON34], [PERSON18], [PERSON36]
+
+Zápis:
+
+- Připravovány spisy: větší množství než na jaře;
+- Dopis pro developery: žádost o zasílání dokumentace v elektronické podobě: cílem vynechat skenování: zákon o státní správě platný od roku 2022;
+- Home office: třeba vyplnit žádost: možnost využívat čtvrtky a pátky: možno požadovat výjimku;
+- Třeba nahlásit nová mobilní čísla: již funkční;
+- Nutná nová šablona na portfolia k soutěžím: není k dispozici přesný počet znaků požadovaný od uchazečů;
+- Pracovní skupina na [PROJECT8]: odpoledne proběhne schůzka: třeba zjistit informace ohledně způsobu vypracování zadání;
+- [PROJECT23]: požádat na příští poradě vedení;
+- [PROJECT26]: odesláno na radnici;
+- [PROJECT5]: odprezentovat řediteli sekce: po 14.7.;
+- [PROJECT12]: [PROJECT16]: informace budou rozeslány během dneška: připraven tisk a zadání úkolu: třeba postoupit ke konzultaci [ORGANIZATION15]: případně něco doplnit: žádost od města: prověřit v detailu vybraná místa na povrchu: zadat prověřovací studii
+         - Třeba formulovat tisk, a poté zadání;
+- [PROJECT27]: bude zahájena práce na zadání: třeba informace ohledně podmínek: zatím nespecifikovány: nutno zorganizovat schůzku ohledně konzultace stávající verze
+         - Termín dokončení zadání: půlka října;
+- [PROJECT31]: dohodnuto s městskou částí vypracování dopravního prověření celé lokality: bude použito i pro [PROJECT27];
+- Seminář o [PROJECT13]: informace doručeny e-mailem;
+- Koordinační schůzky o dopravě: přes léto se nekonají: problémy sepisovat: poté obeslat všechny účastníky schůzek: žádat o vyjádření, případně svolat jednání;
+- [PROJECT28]: problém s udržováním zeleně při komunikaci: řešit s náměstky;
+- [PROJECT2]: pokročeno: doručeny veškeré podklady: požádáno o termíny skrz brožuru;
+- [PROJECT29]: téměř dokončeno;
+- [PROJECT30]: vyčkávána oficiální žádost od městské části: zásadní bude rozhodnutí týkající se jižního obchvatu;
+- [PROJECT14]: zatím nekonzultováno;
+- [PROJECT17]: pouze tisk;
+- [PROJECT15]: prověřováno využití celého bloku: momentální územní plán nepočítá se stávajícím stavem vozovny;
+- [PROJECT20], [PROJECT18]: minulý týden proběhlo jednání na [ORGANIZATION27]: veřejná prezentace přeložena na září;
+- [PROJECT21]: dokončena studie na základě koncepčního zadání z roku 2015: doručena žádost o koncepční vyjádření: zpracována územní vizualizace: plánováno projednání s veřejností
+- Studie [PROJECT11]: nutno co nejrychleji shromáždit připomínky ke studii: třeba zjistit termín odevzdání: změna místostarosty: nutno sjednat schůzku s novým vedením;
+- Nutno pořizovat záznamy z jednání;
+- [PROJECT6]: rozeslána žádost o vydání stanoviska ke konceptu projektové dokumentace pro územní a stavební rozhodnutí;
+- [PROJECT24]: vypsána soutěž: nabídka na účast v porotě soutěžní komise;
+- Bude zřízena nová pozice Senior;
+- Projekt [PROJECT19]: drážní promenáda k nádraží: územní plán umožňuje stavět: usilováno o směnu pozemků
+         - Třeba vyřešit zakončení Novgorodské ulice.
+
+
+
+
+
+
+
+Zapsala: [ANNOTATOR1]

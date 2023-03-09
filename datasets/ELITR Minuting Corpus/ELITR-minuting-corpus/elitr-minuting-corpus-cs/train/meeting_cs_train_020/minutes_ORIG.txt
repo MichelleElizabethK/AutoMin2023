@@ -1,0 +1,25 @@
+[OTHER3] internal meeting
+8. 6., 2020:
+- Meeting ID: [NUMBER]
+- Meeting Password: 1234
+- Join URL: [URL1]
+- Attendance:
+- [PERSON9], [PERSON10], [PERSON7], [PERSON8]
+V patek call
+Nabory:
+- jake lidi chceme na projekt?
+- following research directions?
+Deliverable:
+- nektere cisla z [OTHER1] budou az po internal review, ale doplnit je snad muzeme i po internal review
+- proofreading:
+- [PERSON10] (source-complexity, zkratit), [PERSON7]
+- [PERSON10]: doplnit multi-source (data, results)
+- [PERSON6]: doplnit multi-source, XLM
+- [PERSON7]: doplnit [OTHER1]
+- [PERSON9]: spocitat (a doplnit) vysledky [OTHER1] 2b, posláno
+- [ORGANIZATION3]: QE stale chybi
+- [OTHER1]:
+- 2b: Zatím vše běží ok, máme 418 potvrzených stimuli segmentů (pilot měl 1001). Použijeme částečně do delivebrale
+- 2a: Jak je na tom EDIN? Cca stíháme.
+- Timelime: Od 7. 7. bude moci [PERSON9] fulltime interpretovat výsledky a psát článek. Je však třeba udělat second round of annotation.
+

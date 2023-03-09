@@ -1,0 +1,21 @@
+Schůzka [ORGANIZATION32], 2020-06-17
+
+Přítomni: [PERSON32], [PERSON34], [PERSON27], [PERSON20], [PERSON22], [PERSON16], [PERSON29], [PERSON4], [PERSON3], [PERSON34], [PERSON17], [PERSON2]
+Omluveni: [PERSON19], [PERSON33]
+
+Na schůzce bylo řešeno:
+
+- řešilo se [PERSON35] a mělo by se to dělat podle starého podnětu
+- do konce srpna by se měl podat čistopis podkladové studie [PROJECT5]
+- [ORGANIZATION11] do čtvrtka pracuje na home office
+- v rámci [ORGANIZATION24] vznikla nová pracovní skupina, která se má zabývat ulicemi a jejich zlepšením
+- během čtvrtku a pátku projít aktualizace, které se týkají záměrů v území
+- je potřeba za [ORGANIZATION32] sepsat komentář ke zprávě NPU za loňský rok
+- [PERSON11] bude posílat všem zápis z porady
+- [PERSON27] řeší žádost o výjimku ze stavební uzávěry, jedná se o [PROJECT3]
+- je potřeba podepsat studii pro Městskou část [ORGANIZATION16], aby to měli do 24. 6.
+- [PERSON16] si přeje, aby vrátnice vždy volala, když přijdou externisté, a upozornila, aby si vzali roušku
+- paní radní [PERSON15] z [ORGANIZATION6] psala ohledně ploch TVE, přeje si, aby se [ORGANIZATION32] nějak postavil k jejím obecně-koncepčním dotazům
+- když se píše vyjádření, je potřeba zkontrolovat rozdělovník
+
+Zápis sepsala: [ANNOTATOR2]

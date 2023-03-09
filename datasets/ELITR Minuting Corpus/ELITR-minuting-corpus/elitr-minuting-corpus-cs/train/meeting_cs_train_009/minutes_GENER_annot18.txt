@@ -1,0 +1,17 @@
+Schůzka [OTHER1] 2020-04-21
+
+Přítomni: [PERSON12], [PERSON4], [PERSON13], [PERSON2]
+Na schůzce bylo řešeno:
+
+- vyřešeno, co znamená odborná kniha
+- v knize bude rejstřík, který se dodělá až na konci
+- rozebrány a zodpovězeny [PERSON4] dotazy ohledně citací a language modelů
+- obrázky v knize budou anglické i české
+- v knize bude obrázek one-hot vectoru
+- obrázky se budou primárně citovat, případně potom generovat
+- na Slack každý den budou všichni psát, co udělali
+- conslusion bude napsán až nakonec
+- [PERSON13] upraví článek, který si ostatní přečtou, a pošle ho na TSD, aby byl splněn jeden článek v časopisu
+- na konci schůzky probráno obdržené hodnocení za minulý rok
+
+Zápis sepsala: [ANNOTATOR2]

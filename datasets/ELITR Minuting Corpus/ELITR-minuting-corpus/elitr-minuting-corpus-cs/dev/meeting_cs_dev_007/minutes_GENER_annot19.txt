@@ -1,0 +1,30 @@
+Účastníci: [PERSON8], [PERSON6], [PERSON4], [PERSON12]
+Účel schůzky: vymyslet podobu článku
+Datum schůzky: 25. 9. 2019
+Shrnutí schůzky:
+- místo PCAčka, dělat ICAčko, to je independent component analysis
+- možnost pracovat nejenom na word embeddigách, ale i na sentence embeddingách
+- ICAčko, najdou se jenom nezávislý a nemusí být kolmý, ale pak tam není pořadí od nejdůležitějších k nejmíň důležitým.
+- zkusit trénovat [PERSON11]
+- NMT trénuje se překlad z angličtiny do 5 různých jazyků, s tím, že dekodér je jenom jeden. Enkodér je úplně nezávislý a bude univerzálnější, nebude závislý na tom konkrétním jazyce a bude se učit lepší syntax.
+- pracuje se na probingu a balustrádách, ale zatím to moc nevychází
+- massively multilegal multilingual NMT článek od Google 
+- tasky jsou: crosslinguální tagging, crosslinguální name entity recognition, a crosslingual natural language 
+- mají jeden multilinguální enkodér ze sto dvou jazyků do angličtiny
+- mají ještě jeden dekodér na spoustu jazyků, kde enkodér je angličtina
+- multilingual MT není výrazně lepší, než multilingual BERT, může se dál pokračovat s multilingual Bertem 
+- dát větší data a udělat fasteliny
+- je udělán fine-tuning multilinguálního BERTa, který se zároveň učí mass language model a zároveň pomocí adversariálních klasifikátorů odnaučuje rozpoznávat jazyk.
+- platí, že ten původní BERT a ten fine-tuningovanej fungují stejně a ten condratubův funguje hůř
+- je naprogramován expectation maximization. Ty projekce, které se získají, tak se budou snad dát použít v metrice, která se jmenuje BERT score.
+- na quality estimation to nefunguje. To je v součastnosti metrika, která nejvíc koreluje s human judgementem. Snad se dostane projekce, která je vhodná pro element a mohla by zafungovat.
+- příběh článku by mohl být, jak multilinguální BERT není crosslinguální. Stačí supervize z pár tisíc paralelních vět a už to funguje.
+- trénuje se s normálním BERTem, kdy se udělá language classification a odečtou se centoridi a pak se to použije
+- udělat short paper a dát tam parallel sentence retrieval
+- tasky jsou dostatečně známé a není potřeba je tam detailně popisovat, jinak by byl long paper 
+- dát do archive dřív, než začne anonymity period
+- anonymity period začne 9. listopadu
+- 7. nebo 8. to dát, aby se to stihlo zařadit
+- [PERSON13] vymyslet téma práce
+- nejdříve se udělá výzkum, pak se bude žádat o grant
+                                           Zapsala: [ANNOTATOR1]

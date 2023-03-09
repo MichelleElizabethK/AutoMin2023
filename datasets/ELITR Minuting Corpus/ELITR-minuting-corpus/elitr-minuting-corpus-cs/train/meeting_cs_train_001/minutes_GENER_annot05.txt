@@ -1,0 +1,45 @@
+Zápis ze schůzky
+
+Datum schůzky: 23. 9. 2020
+
+Téma: Porada [ORGANIZATION15]
+Vedoucí schůzky: [PERSON2]
+Účastníci: [PERSON2], [PERSON12], [PERSON34], [PERSON15], [PERSON31], [PERSON35], [PERSON6], [PERSON36], [PERSON37], [PERSON3], [PERSON18], [PERSON11],
+
+
+Zápis:
+
+- Prezentace k [PROJECT1]: úspěšný průběh: souhrn všech akcí dějících se na území.
+- [PROJECT21]: nutno velmi rychle vypsat: třeba pouze připravit zadání: malý rozsah.
+-- První fáze: analýza a zhodnocení současného stavu areálu z pohledu využití pro účel nemocnice.
+- [PROJECT2]: nutno velmi rychle napsat zadání: třeba začít na projektu ihned pracovat: zjistit požadavky a názory [ORGANIZATION18]: návrh na umístění [PROJECT19]: informovat se ohledně tisku na zadání.
+-- Letos na podzim třeba vypsat výběrové řízení na zhotovitele studie.
+- [PROJECT20]: ještě letos třeba najít zhotovitele na dopravní řešení: k řešení na poradě pracovní skupiny.
+- Nabídka na školení: připojeno k zápisu: třeba se přihlásit a vyplnit tabulku.
+- Právní oddělení pracuje kompletně z domova: v případě potřeby kontaktovat e-mailem či telefonicky.
+- Práce online: nutno zřídit digitální podpisy: třeba zaslat žádost.
+- [ORGANIZATION17]: uskutečněna v pátek: bude zadána ideová architektonicko-urbanistická soutěž na [PROJECT23] a okolí: již kontaktován příslušný pracovník.
+- Workshop ohledně [PROJECT13]: prezentováno velmi široké názorové spektrum: bude vypsána soutěž: poskytnout podklady.
+- [PROJECT17]: posun: hledán kompromis mezi postoji projektanta a památkářů.
+- [PROJECT8]: jednáno s generálním štábem o zástavce tramvaje: výsledky zatím neznámé.
+- [PROJECT18]: nejasnosti ohledně přípravy podkladů: v řešení studie proveditelnosti: třeba nastavit přijatelné objemy do území: zakomponovat lávku: co nejdříve připravit limity zástavby pro území: navazováno na studii [PROJECT22] z roku 2016.
+-- Bude dodán rozpočet na lávku s vertikální komunikací.
+- [PROJECT22]: první etapa studie v pokročilé fázi: vydáno územní rozhodnutí: součástí ÚR několik dílčích stavebních projektů.
+- [PROJECT24]: ve čtvrtek uskutečněna schůzka: plánována žádost o spolupráci: na tomto základě bude vypracován dokument.
+-- Připravován návrh usnesení o odůvodnění pro radu.
+- [PROJECT12] spojka: žádný postup: urgováno.
+- Studie na [PROJECT15]: bude představena na příští schůzce.
+- [PROJECT16]: žádný posun v přípravě: návrh zorganizovat online setkání: získat propozice.
+- [PROJECT11]: rozeslán e-mail: budou vysvětleny detaily.
+- Systematický přístup k odstraňování sítí: uskutečněno jednání: návrh vypracovat mapu nefunkčních sítí: vše závisí na podkladech od správců.
+-- Cíl: dosáhnout systémového řešení na celém území Prahy: návrh přispívat do fondu z finančních kompenzací za čerpání koeficientů z ploch.
+
+
+
+
+
+
+
+
+
+Zápis předložila: [ANNOTATOR1]

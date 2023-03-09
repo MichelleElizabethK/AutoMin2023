@@ -1,0 +1,33 @@
+Účastníci: [PERSON18], [PERSON13], [PERSON17], [PERSON9], [PERSON6], [PERSON10]
+
+Účel schůzky: zhodnocení dosavadních úkolů
+
+Datum schůzky: 4. 5. 2020
+
+Shrnutí schůzky:
+
+- Lucemburk se nemění, tak se neposouvají ani deadliny
+- v [LOCATION2] bude dva dny [PERSON3] a dva dny [PERSON14]
+- do Delivereblu nic nepřibylo
+- tento týden se musí dokončit [OTHER4], aby se mohl poslat do [ORGANIZATION1]
+- zbývají tři týdny, aby se vše dalo dohromady
+- není potřeba [PERSON12] připomínat další hovor
+- pracovalo se na tom, aby  NT systémy vracely wordpropabilities
+- rozhodnout se, zda je zprůměrovat či sčítat, ale to se doporučuje nejméně
+- v pátek by se to mělo odevzdat [ORGANIZATION1], aby mohli anotovat a dělat experimenty
+- je potřeba vyřešit, jak rozhodit stimuly, konfigurace a uživatele a jak udělat velký gryt, aby to pokrylo co nejvíce statisticky významné konfigurace
+- doteď se to dělalo latinským čtvercem a teď už by se to mělo samplovat
+- mělo by to umět nerovnoměrně generovat různá zastoupení
+- zatím běží parafrázor, parafráze, NT servisy , a ještě je potřeba rozběhnout NT servis šestku 
+- modely jsou vyexportované, tak se mohou vyzkoušet
+- QE pro [OTHER4] by mělo být natrénované do pátku
+- není kvalitní alignment
+- zjistit, jak si alignment dělá [ORGANIZATION2]
+- zkusit ho na Mgíze
+- dál pokračovat na embest listu navigation a podívat se na lepší backend
+- nejlepší řešení pro source complexity je v parafrázích
+- zaúkolovat [PERSON1], který by na tomto mohl ještě pracovat a dávat ho do kopií v e-mailech
+- probíhá anotace českých formulářů
+- tvoří se souhrný inzerát pro všechny projekty na shánění lidí
+
+Zapsala: [ANNOTATOR1]

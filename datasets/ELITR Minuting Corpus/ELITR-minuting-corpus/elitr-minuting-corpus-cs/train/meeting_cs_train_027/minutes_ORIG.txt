@@ -1,0 +1,36 @@
+[OTHER3] [ORGANIZATION4] Internal
+Meeting 4. 5., 2020:
+- Meeting ID:	[NUMBER]
+- Meeting Password:	1234
+- Join URL:
+- [URL1]
+- Attendance:
+- [PERSON9], [PERSON18], [PERSON17], [PERSON13], [PERSON6], [PERSON10]
+- Administrativa:
+- Review meeting v Lucemburku bude dle plánu
+- [LOCATION2]: Do doby než se na podzim udělá výběrko na novou sekretářku pro celou [LOCATION2], tak se vám tam bude střídat 1-2 dny v týdnu [PERSON14] a [PERSON3]
+- dovyplnene timesheety: [PERSON10] dopsal, hlavne hodiny do WP1, na cemz i pracuje
+- Inzerat na lidi tvorime zde:
+- [URL]
+- Deliverable:
+- [URL2]
+- zacneme vsichni psat
+- [OTHER4] na WMT:
+- idealne v patek 8.5. pripravene pro [ORGANIZATION1] pro anotaci
+- word probs. vs subword probs. (which do they use in QE? can we produce word probs from subword probs?) - dotaz na [PERSON7]
+- nase dilci services jsou skoro uplne pripravene
+- parafrazovac
+- weak MT stále broken
+- MT lepsi + horsi (lepsi jeste potrebuje nahrat model na [PERSON10] virtualku)
+- API mezi [OTHER4] a [ORGANIZATION2]'s QE
+- zatlacit na [ORGANIZATION2] ohledne trenovani QE (do patku)
+- baked queues
+- alignment - máme spíše špatný
+- je jen [PERSON6] z maleho korpusu, fastalign
+- [PERSON10] koukne d zdrojaku Treexu a zkusi, jestli z toho dokaze vyzobnout mgizu
+- [PERSON10] pripravoval anotaci formularu pro dalsi experimenty
+- TNTranslator (n-best list navigation):
+- [PERSON1] - [PERSON6] zjisti jeho progress a pripomene mu, ze by mel prispet do deliverablu (hlavni vystup do Deliverablu o source complexity je totiz prave parafrazovani)
+- [PERSON4] pracuje na implementaci v [PROJECT2] (zeptat se na progress pri pristim callu)
+- service vypnuta? Jop
+- [ORGANIZATION6] je pomale pro interaktivni pouzivani, na experiment se snad snese

@@ -1,0 +1,19 @@
+[OTHER6] schuzka
+18. 12. 2019 14:00
+
+- 2nd year report
+-- do 15. ledna?
+-- 3000 znaků?
+- [PERSON9] přidá sumarizační modely na [OTHER5] (a restartuje DEMO)
+-[PERSON1]'s PhD topic
+-dodělat EMNLP článek co jsme nesubmitli?
+- [PERSON9]: Tady bude COLING
+- všichni se na něj podíváme a příště se dohodneme, co s ním
+- PBML?
+- Kniha?
+-- [PERSON8] stanovi milníky a deadliny
+-- do června/července to musí bejt napsaný
+-- naházet do toho kapitoly a který články tam budou
+-- články do zotera
+- složky -- attention, embedding…
+- tagy -- morfo, syntax…

@@ -1,0 +1,44 @@
+Zápis ze schůzky
+
+Datum schůzky: 12.5.2020
+
+Téma: Schůzka projektu [OTHER1]
+Vedoucí schůzky: [PERSON3]
+Účastníci: [PERSON3], [PERSON9], [PERSON2], [PERSON15]
+
+
+Zápis:
+
+- Návrh scházet se v kanceláři: zvýšení produktivity práce: vzájemná kontrola: možnost diskuze;
+- Memorizace: hledán způsob jejího vylepšení;
+- Následující týden nutno věnovat se výhradně psaní knihy: nesplněny úkoly z prvního a druhého týdne;
+- M-BERT: třeba nastudovat;
+- Obsah dokumentu: obecný úvod: interpretace: historie: základní pojmy;
+- Návrh vytvořit kapitolu o interpretaci: podrobně rozepsat;
+- Třeba zařadit kapitolu vysvětlující základní pojmy;
+- Návrh vypracovat úvod: představení obsahu kapitol;
+- Úvod: nutné zachování stručnosti, obecnosti a přehlednosti
+- Attentiony: momentálně zpracovávány technické věci
+         - Návrh vložit odkazy na texty o interpretaci;
+- Návrh vytvořit předkapitolu za úvod: zde shromažďovat odkazy a texty;
+- Rozdíl mezi interpretable a explorable: interpretable je silnější: explorable: provedení analýzy: vysvětlení souvislosti s taskem;
+- Rovnice Jensen-Shannon divergence: součástí je KL divergence: pro knihu příliš složitá: smazáno
+         - Návrh volit pouze jednodušší rovnice;
+- Rovnice TVD: srozumitelná: vhodná pro knihu;
+- Dotaz ohledně důvěryhodnosti článků na Archivu: třeba sledovat množství citací a autora;
+- Itemize: třeba kapitalizovat: nutno zjistit, který manuál zvolit
+         - Návrh řídit se chicagským manuálem: kapitalizovány bullet listy;
+- Nutno zvolit druh angličtiny pro psaní knihy: britská či americká
+         - V případě britské angličtiny zvolit oxfordský manuál: v případě americké: chicagský manuál;
+- Odsouhlaseno použití americké angličtiny: spelling americký: typografie dle chicagského manuálu, pokud stylopis nestanovuje jinak
+         - Itemize: vytvořit velké;
+- Deadline: 18.5.: nutno dokončit vše;
+- Kanceláře v [LOCATION2]: zjistit termín dokončení stavebních prací.
+
+
+
+
+
+
+
+Zapsala: [ANNOTATOR2]

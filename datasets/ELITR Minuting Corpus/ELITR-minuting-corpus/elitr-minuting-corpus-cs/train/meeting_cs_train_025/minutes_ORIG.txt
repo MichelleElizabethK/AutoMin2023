@@ -1,0 +1,30 @@
+Meeting 27. 7. 2020:
+Attendance:
+    [PERSON5], [PERSON4], [PERSON15]
+GH Issue on Tokenization, ours?
+[URL]
+probably not related to Outbound translation - so it's not our problem
+Outbound translation integration (30 July)
+    should be taken care of by [ORGANIZATION1] (are they working on it?)
+review notes:
+    [URL]
+    as a part of integration, some experiments might be required to be run in the integrated environment
+    user interface:
+        showing user paraphrase/translation alignments when mouse-over a SRC word
+            [PERSON15] will look into it (how much work it would take)
+            In discussion with [PERSON1], as he wants something similar to his service: interactive alignment. [PERSON15] 
+    [ORGANIZATION2] zero-shot as a paraphrasing?
+        can they optimize the models? (we should push them to them)
+        who is going to monitor their progress?
+    reviewers are happy with progress
+        integration is good
+        interesting dissemination
+        deliverables are fine so far
+    future recommendations:
+        improve evaluation (mainly QE, …)
+        more collab (with [ORGANIZATION2] on multilingual/domain adapt)
+        domain adaptation of WP3
+            medical forms, other forms?
+            still thinking about it
+        increase the amount of eval. data to get solid conclusions
+            e.g. 72 examples is not enough

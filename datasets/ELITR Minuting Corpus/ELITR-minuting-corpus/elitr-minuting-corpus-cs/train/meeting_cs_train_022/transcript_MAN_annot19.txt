@@ -1,0 +1,665 @@
+(PERSON16) Ahoj, ahoj.
+(PERSON17) Čau.
+Jak jde připravování na státnice?
+(PERSON16) Jo, dobrý, akorát teďka [PERSON12] začal odpovídat, takže -
+(PERSON17) Jo, takže práce víc teďka nebo?
+(PERSON16) No, a je to takové, protože jsem jako přesně před měsícem říkal, že udělejme to prosím teďka, pak nebudu mít čas.
+(PERSON17) Jasně.
+Eh.
+No, ale to je přímo k těm experimentům není to k deliverablu, ne?
+(PERSON16) Né, to ne.
+(PERSON17) To by se teoreticky, to by se, já nevím, jak moc to spěchá, že by to, vy to máte, já nevím, rezervu tam stále nějakou máte, ne?
+(PERSON16) Ne, já bych to dál neprotahoval teda.
+(PERSON17) Jo, jasně, no tak.
+(PERSON5) Čaute.
+(PERSON17) Čau, čau.
+No, tak můžem vlastně i tohle dneska pořešit klidně, jestli by se to třeba nedalo na někoho nebo jestli by se to nedalo nějak splitnout ta práce nebo něco.
+Nevím.
+(PERSON16) No to uvidíme.
+(PERSON17) No to, [PERSON7] mi psal, že by měl přijít pozdě, takže předpokládám, že přijde na čas.
+Ahoj.
+(PERSON19) Ahoj.
+(PERSON5) Ahoj.
+(PERSON17) Takže bych možná ještě na [PERSON7] počkal.
+(PERSON5) Já úplně neviem, lebo já jsem s ním dokončil, call někdy o třičtvrtě.
+(PERSON17) Jakože by na to úplně zapomněl.
+(PERSON5) Možná ještě bude moset někam ist, ale neviem.
+Nejsem si jistý.
+(PERSON17) Jo.
+No, nic nepsal, takže klidně bych, já nevím, tři až pět minut počkal ještě.
+(PERSON5) <unintelligible/> audio zase mi to nefunguje.
+(PERSON17) Jo jinak jak to, jak to je, v tom novém v té budově Impakt, tam máme ty kanceláře kde?
+Já jsem tam jenom čirou náhodou, já nevím, v sobotu v deset vlezl, abych si tam odskočil na záchod, ale, ale moc jsem to tam neprozkoumával.
+(PERSON5) Já v nejvyšším poschodí.
+(PERSON17) Jo, úplně nahoře.
+To má tři patra, ne?
+Když vezmeš i přízemí.
+(PERSON5) Jojo.
+(PERSON17) Tak jedno do -
+A vlastně tam jde jít ještě dolů, že jo, když vlezeš od zastávky.
+(PERSON5) No akože úplně dole, v suteréně je knižnica a vlastně spodná část té velkej prednáškovéj auly.
+V horné části je ze pár tych učebni alebo pár a tam je ta, jako ten foaier a vstup do, do té velkej přednáškové miestnosti nad tým poschodíe, tam jsou, eh, seminárné miestnosti hlavně a nad tým jsou kancelárie.
+(PERSON17) Oukey.
+Počkej, tam se přesouvala knihovna, co byla v té jiné budově na [LOCATION2] nebo teď je tam.
+(PERSON5) To právě neveim.
+Mně se zdá, že.
+No, ti neviem úplně poveďat.
+(PERSON17) Oukey.
+(PERSON5) Takže.
+To bude ako taková hlavná knižnice teraz pre -
+(PERSON17) Jo, oukey.
+No to si kdyžtak zjistím, no.
+(PERSON5) Ako asi to bude.
+Asi to bude ta, čo bola tam v tej hlavné budově, [LOCATION2], ale neviem ti povedat.
+Viem, že iba [PERSON2] zostává na [LOCATION1].
+To je, keď jsem ju stretnul, keď tam knihovničky robili si ako exkurziu, to je čo jsem se dozvěděl.
+Ty ostatné jsem nepoznal.
+(PERSON17) Dobrá.
+No možná, než příjde [PERSON7], tak můžeme řešit zatím administrativu, tam ho určitě nepotřebujeme.
+(PERSON19) Né, to je právě to, co, kde ho potřebujem.
+(PERSON17) Aha, dobře, dobře.
+Takže, takže máme přečerpáno.
+(PERSON19) No je to, že máme přečerpáno a jo, jinak [PERSON5] díky za doplnění a jedinej kdo mi chybí teďka je [PERSON3].
+A ten nevím, nevíte jestli odepisuje na mejly?
+Nebo jestli čte?
+(PERSON17) Je prý na vodě, takže dvacátého devátého možná by se měl vrátit, tak to by tam snad mohl přispět.
+(PERSON19) Ne, to je pozdě.
+(PERSON17) Můžu mu napsat jako.
+I dvacátého devátého je už pozdě?
+(PERSON19) No je pozdě, já z toho musím vytvořit tabulky a musím to dvacátého devátýho odeslat.
+(PERSON17) Oukey.
+(PERSON19) Nebo jestli mi někdo řeknete co dělá, jestli dělá to co samý, tak jako to asi -
+(PERSON5) On robil hlavně ten déčko či třetí, tretí VP a task tri.
+(PERSON19) Jo, on se mi totiž vždycky rozepsal do trojky a pětky, což je alba translation a efficiency.
+(PERSON17) No, to tak nějak sedělo.
+Takže.
+Já nevím jestli se to -
+No?
+(PERSON5) Tento měsiac on robil hlavně podle mňa na tom albou translation, písal do toho deliverablu a multisource.
+Takže.
+(PERSON19) Jo.
+Dobře.
+(PERSON5) Čo robil predtím, to neviem.
+(PERSON19) To tam není kolonka.
+(PERSON17) Jo, takže, jako můžu mu napsat, no.
+A že to má vyplnit během tohohle týdne.
+(PERSON19) Během dneška, zítřka.
+(PERSON17) Dobře.
+Tak mu napíšu jestli je schopný, no a když tak to tam bude muset -
+(PERSON19) Ono totiž, ale von bude potřebovat VPNku.
+Nevíš, jestli má něco?
+(PERSON17) Tak VPNka to se, jestli má počítač, tak je schopnej.
+(PERSON19) Na vodě?
+(PERSON17) To já nevím, no.
+Třeba to mají jako informatickou vodu.
+Já nevím, když máš [LOCATION4], tak taky bys čekala, že lidi budou lyžovat a prý se tam celý den koudí.
+Lidé z [ORGANIZATION].
+(PERSON19) Oukey.
+(PERSON17) No, ale to, jo počkat, a to se vzpomínalo už kdy?
+Před měsícem?
+Před dvěma?
+Já vím, že já to mám hotové, protože jsem si to tam doplnil dopředu.
+(PERSON19) Jo, já jsem to, já jsem to posílala v dubnu a před tejdnem jsem posílala druhej email.
+(PERSON17) Jojo.
+(PERSON19) Když, když by napsal, že dej mě do kopie a když by napsal, že nemůže, tak prostě to tam řeknu [PERSON8] ať to nějak doplní.
+(PERSON17) Tak já mu píšu na WhatsApp, von mi kdyžtak napíše, co tam má doplnit.
+(PERSON19) Jo.
+Nebo, ať kdyžtak napíše ty, jestli pracoval na dvojce nebo na trojce a jakou proporcí březen až červen.
+(PERSON17) No, dobrá.
+Tak tolik zatím k administrativě.
+Jo tak první, první odrážka to se musím zeptat [PERSON7], protože jsem se <unintelligible/> zběžně díval a vypadalo to že už tam byly připomínky, jak kdyby to někdo zinternal v reviewerů okomentoval.
+Takže možné, že -
+No působilo to trochu tím dojmem, ale já nevím.
+(PERSON5) No, já jsem se na to teraz díval a neviděl jsem tam jako.
+(PERSON17) Ne?
+(PERSON5) Ale možno, že jsem to zkopírovalo nějak blbě.
+(PERSON17) Možná, už zapracovaly dokonce.
+Nevím, podívám se jestli.
+Rychle to proletíme.
+No, každopádně kdyby ne, tak by to měl někdo přečíst a asi tam to, ať to můžeme vyřešit až tu bude [PERSON7].
+A až se mi to otevře.
+No, a, a co se týče -
+(PERSON5) Tak čo se týká teda toho deliverablu našeho teraz.
+Tak v podstatě máme skoro všetko, do nějaké, jakože do nějaké miery samozrejme, no takto.
+Písal jsem teraz vlastně aj [PERSON11], aby se pridal lebo tam ještě som od něho přes víkend poslal email, že čo bysom od něho ještě potreboval, aby tam trochu viacero rozvinul.
+(PERSON11) Ano, čau.
+Akorát, akorát to dopisujem.
+(PERSON5) Dobré.
+A já tam jakože nějaký způsobom sem pridával trochu indroduction eště to tam musím dopísat, no a conclusion jsem už též jako nějak písal.
+No jako.
+Neviem, no.
+To ještě budem chtět, aby si to potom [PERSON7] přečítal lebo nějak, neviem to úplně podat, aby to bolo ako úplně fantastické.
+Ale.
+(PERSON17) Počkat.
+Kterou teďka myslíš sekci?
+(PERSON5) No conclusion celkový prostě.
+(PERSON17) Jo, conclusion, tak to se můžu podívat i já asi.
+Ale asi tam bude dobrý no, když tam bude od [PERSON7] feedback.
+(PERSON5) Ještě ho jako nemám napísaný celkovo, celkem, ale prostě to source complexity, máme jednu metodu, kterou jsme zavrhli, druhou používáme, ale jako v tom [OTHER2] sa neukazuje jako že by na ňu, alespoň minimálně z té evaulace, user confidence, že by tomu nějako verili, ti uživatelia.
+Čo se týká source variation, čo robil [PERSON11], tak to ještě jako v celku dobré, alebo myslím, že na to alespoň čo se týká té konfidencie, tých uživatelou, tak trochu tomu veria.
+No a nejlepší je back translation, čo je ale jakože taká úplně metoda, na které jsme nemuseli pracovat dva roky, no.
+(PERSON17) Tak jsme na to přišli a teď si můžeme na to třeba zaměřit a -
+(PERSON5) Hej, hej, hej.
+(PERSON17) Jo, tak ten conclusion to bude tak maximálně stránka, dvě, že jo?
+Takže to by se asi dalo zatlačit -
+(PERSON5) No, stránka a půl.
+(PERSON17) Asi by se zatlačit na [PERSON7], aby to fakt přečetl, protože v principu z toho conclusion budem asi vycházet to, že jo, když budeme dělat ty slidy.
+Nebo?
+(PERSON5) No, no.
+(PERSON17) Takže tohle by bylo fajn, kdyby tomu dal hlubší feedback, no třeba.
+(PERSON5) Já ještě přemýšlám, že či ještě nerozběhnout teraz rychlo.
+Lebo trošku v tom [OTHER2], možno že by to bolo eště lepší kebysme stihli tu druhu fázu evaluace na tých uživatelou.
+Lebo teda nie, takto nemyslím, že druhu fazu -
+To čo vyprodukovali ty uživatelia naši zahraniční, tak zkontrolovat tie preklady, že jaké jsou dobré.
+Alespoň na té češtině alebo predpokládám, že na estonštině to už nestihneme ako zmobilizovat [ORGANIZATION1], ale na té češtině ak teda máme tych zaměstnancou ještě ak jich možeme zaměstnavat třebas tento týžden lebo tych DPP, tak ještě bysom jim to možno, že zkusil nějak pripravit, abysmo alespoň nějaké výsledky z toho mali, čo se týká kvality.
+(PERSON19) Na DPP se prosímtě koukni, ať zadávají to pouze těm lidem, kterým byla prodloužená ta DPP.
+Protože já jsem jim dneska psala, ať mi nahlásí hodiny, to znamená kdyby jsi to zadal někomu, kdo, komu jsme řekli ne, tak ať.
+(PERSON5) Hej, hej.
+(PERSON19) Tak ať v tom není problém.
+(PERSON5) A máš to tam zvýrazněné, to -
+(PERSON19) Jo.
+Ty co maj, mají tam ano, prostě a pak je tam ne, tak je to setřízený.
+(PERSON5) Tak já se na to pozrém.
+To by ale ještě trochu možno, že prvá fáze je vlastně, ak bysom so do toho pustil a stihli to urobit ještě do toho, do toho delivereblu, tak možno, že [PERSON16] by asi musel nějak pripravit tie věty z toho.
+Alebo minimálně ty máš na to nějaký skript a že by si mi posunul ten log a ten skript a já už bysom z toho nějak vytáhl to, že která, pre každou tu scénu, která věta bola ta prvá, ta originálná, a která bola ta posledná.
+(PERSON16) No, tady je několik problémů.
+Za prvé ty skripty z pilotů nejsou kompatibilní s těmi aktuálními logy. 
+Takže jakoby všechno musím přepisovat, byť jako pomáhá, že už byly jednou napsané. 
+A ta druhá věc je, že to, jak jsme brali ty jakoby první nástřely, takže to možná není jako úplně robustní. Jo tak jak jsme brali ten, jak se tomu říká.
+Firstable.
+No, tak jsem brali jako nějak, že to je nějak lineární s tím, že se nějak zpětně nezměnilo nic takovýho. 
+A nevíme, zdali to jako dobře, to bychom jako rozhodně chtěli něco takového jako z každého toho segmentu chceme najenom ten výsledek, ale taky jako něco, co bylo mezitím a něco, co si ten uživatel myslel, že by to tak mohl být dobrý. 
+A nad tím je podle mě potřeba trochu víc zapřemýšlet.
+(PERSON5) No, tak preto ti, no já neviem či to sám stihnem, ale viem, že ty si teraz ako vytížený, tak jako teoreticky já bysom se na to mohl pozrét, možno že bysom aj nějak jako ručně prinejhoršom ako vieděl z toho vyextrahovat ty věty, které byli first violable, neviem.
+No, přece len jako myslím, že tych, kolko jich je dohromady?
+Sedmdesát či nie, počkej, sedmdesát pre každého.
+Takže jich je asi nějakých.
+(PERSON16) Je jich zhruba pět set nebo šest set.
+(PERSON5) Pět set, no, no.
+(PERSON16) No, ale to je jako je pět set segmentů, ale každý ten segment je jakoby minutová práce toho člověka.
+(PERSON5) Hej.
+(PERSON16) Jako byl bych ti schopen jakoby vygenerovat nebo to by jsi byl i ty schopen vygenerovat se vlastně ty z toho jako finální, co si to ten člověk odsouhlasil. 
+A i to by nám mohlo dát nějakou informaci. 
+(PERSON5) Alespoň to možná. 
+Dobre, tak, vraviem, nechcem ti teraz v této situaci zadávat nějak prácu, že soustreď se na ty zkoušky.
+Tak možno, že mi pošli iba ten log alebo ty logy a nebo kde se k nim dostanem a možno, že ako vyzeral ten tvůj skript predtím, kterým jsi to zpracovával a já si to už nějako prizpůsobím a pokusím z toho niečo.
+(PERSON16) Oukey.
+(PERSON5) Neviem ako že ten, ten deliverable asi obstojí aj bez toho, ale bolo by to eště lepší, keď bysme měli aj tyto výsledky.
+(PERSON17) No, jako na to review, na tu prezentaci by to rozhodně asi neuškodilo, že jo.
+(PERSON5) Tam bysme to už jako měli mať.
+Lebo prostě ak chceme patnáctého 15. Augusta posílat články na VMT.
+(PERSON17) No jasně.
+(PERSON5) Tak už toto by určitě alespoň na tu prvou fázu mělo byt hotové a lebo nějak alespoň nachozené, že akým způsobem se to bude extrahovat.
+(PERSON17) Oukey.
+Jo jinak tohleto asi moc nesouvisí s tím, co chtěl ten [PERSON12].
+Nebo?
+(PERSON5) [PERSON12], [PERSON12], čo teraz.
+(PERSON17) [PERSON16] teďka vzpomíná, že [PERSON12] se konečně nějak rozhýbal, a tak je tu potencionální extra práce pro něho teďka?
+Když se má chystat.
+(PERSON5) No to je ta, to je ta prvá branch, akože jak jsem aj písal v tom [OTHER2], v tom deliverabli, že vlastně ten [OTHER2] dva experiment je rozdělený na dvě branche a vlastně tu jedno, to je to čo jsme si ako my spravili na týchto zahraničních, abysme alespoň niečo mali, no tak [PERSON12] se teraz ako rozhýbal, v té jako úplně základné, tam kde jako ten experiment mají robit, má robit [ORGANIZATION2].
+(PERSON17) Jo, takže -
+(PERSON5) Takže, ano, já mu dneska jako pošlem, musím ještě vygenerovat tie bake rules a vyzerá, že to jako chce rozběhnout dále.
+Jako já jsem aj tak plánoval ten týžden na něho tlačit trochu, lebo zase nám ako se nám krátí čas.
+Já jsem tiež netlačil v posledné době.
+(PERSON17) No, ale takže tohleto, tohleto zvládneš ty jakože, nebo je tam něco co musí dělat i [PERSON16]?
+(PERSON5) No tak asi tie věci, které tam boli teraz na něho dotazy, ty byli ale skor na něho.
+No asi.
+To já úplně neviem.
+(PERSON17) No, jako to co teďka hoří je ten deliverable a teď je otázka jak moc to, jako nevím, z mého pohledu asi se nic nestane, když se tam dá ten týden volna no, ale abychom pak stíhali to Double <unintelligible/>.
+(PERSON5) No právě o to ide, že pokal ako, my toto potrebujeme tiež rozběhnout, aby se pomaly začaly sbierat výsledky.
+Ano, tak super je to, že už jsme ako nějak část z toho článku máme napísané v tom deliverablu, takže -
+Takže písanie toho článku už nebude tak vela času, ale stále keď získáme nějaké další data, tak ta analýza tam musí byt eště jako lepšia, no.
+Takže já bysom toto ako velmi úplně neodkládal už.
+(PERSON17) Dobře, tak [PERSON16], prostě zvaž si jak moc to zvládáš stíhat.
+(PERSON5) A čo teraz on od tebe chtěl, [PERSON16]?
+Já jsem teraz nečítal už posledné tri mejly.
+(PERSON16) No, jako chtěl tam jako nějaké změny v tom Tetendru, jako v pohodě to jsem nějak udělal ty instrukce, pak jsme zjistili, že tam vlastně jako nefunguje ten jeho call back, tak super no.
+A pak asi ode mě bude ještě potřebovat to převzít od tebe bake rules, nejak je tam dát.
+(PERSON5) Hej, hej.
+(PERSON16) A to byl jako teoreticky mohlo být všechno ode mě. 
+(PERSON5) Já jsem  iba chápal, že na konci on chce, aby ty si call backoval nějakou jeho stránku.
+(PERSON16) Jo, to je v pohodě, to prostě se doufám, že vyřeší.
+(PERSON5) Ale ten jeho call back jako nefunguje zrejme.
+(PERSON16) Zatím ne.
+A to snad nějak půjde.
+Jakože asi to co mu ode mě zbývá je vzít ty tvé bake rules a dat je tam.
+(PERSON5) Hej, hej.
+No to vygenerujem.
+(PERSON17) Dobře.
+No kdyžtak detaily asi spíš bych řešil potom separátně možná.
+Jestli tam něco to.
+No, když je tady už [PERSON7].
+Ahoj.
+Tak možná zpátky k té administrativě, ať se to rychle vyřeší, jestli tam je něco. 
+(PERSON7) No, já k administrativě nevím nic, jedině, že -
+(PERSON19) Máš tam ten printscreen.
+(PERSON17) Že máme -
+(PERSON7) Jaký printscreen?
+(PERSON17) No, v tom dokumentu.
+V tom [ORGANIZATION3] docu.
+(PERSON7) Aha, jo.
+(PERSON17) Co znamená přečerpáno?
+Že teda máme odpracované víc než kolik dostaneme zaplaceno, nebo?
+(PERSON19) No, jako jo.
+(PERSON17) Takže to znamená, že máme otevřít timesheety a ubrat si počet odpracovaných hodin?
+(PERSON19) To je dotaz na -
+Podle mě nemůžeme.
+(PERSON7) Ale samozřejmě, že přečerpáno máme v čem. 
+V člověko měsících?
+(PERSON19) Aha.
+(PERSON7) To je běžný. 
+To je naprosto běžný, protože prostě v Čechách jsou platy nižší než jinde.
+My to navrhujem ten projekt vždycky tak, abysme nevypadali jako nejchudší bráškové, ale jenom středně chudý bráškové. 
+A pak to stejně podle našich tabulek nejde pořádně vyplatit. 
+A proto, že střílíme na to, aby jsme utratili všechny přidělený peníze, tak odpracujeme víc člověko měsíců.
+Čili to je prostě realita. 
+(PERSON19) A do toho reportu jim tam mám napsat přečerpano? 
+(PERSON7) No, tam něco napíšu, ale jako že rozhodně přečerpáno v čase je jako malej problém. 
+Kdybysme měli velmi přečerpáno v penězích, tak je to velkej problém a mít velmi přečerpáno v penězích na konci projektu je úplná hrůza. 
+Jo, ale tím se, tohle, tím se vůbec netrapte. 
+I vono to na [OTHER3] to není tolik, ale v anotacích to taky jako strašlivě skáče. 
+Ti by tam taky měli bejt že jo, DPP, ty jsou tam započtený? 
+(PERSON19) Ty nejsou.
+Tam nejsou započtený pouze regulérní pracovníci.
+(PERSON7) Aha.
+No DPP ty by se měli taky -
+(PERSON19) Ale tam jako.
+(PERSON7) No DPP. 
+Každý DPP má nějakou hodinu k sobě, že jo, uvedenou.
+(PERSON19) Ano, ale do jakýho?
+Do jakého wordpackege ho zahrneš anotátory? 
+(PERSON7) Typicky data.
+Podle toho, co jako co děláj, jo.
+Ale nejčastěji jsou to různý data, protože to jsou ty evaluace.
+(PERSON5) Tak u nás robili VP3 skoro všeci lebo.
+(PERSON7) Ale tam je to, ano.
+Tady je to albant.
+(PERSON5) VP3 alebo VP1 robili no eště.
+(PERSON7) Čili ve skutečnosti bude přečerpáno ještě o mnohem víc.
+(PERSON19) Jo.
+(PERSON5) No, aj keď oni teoreticky robili aj VP2, tak.
+(PERSON17) Myslím, že bych to asi nehrotil, že asi stačí tam dát VP3, ne?
+Jako nikdo to nebude takhle mikrokontrolovat.
+(PERSON7) To není tak kritický.
+Ale musíme mít DPP v tom taky zahrnutý, protože jakoby na základě timesheetů si říkáme o proplacení těch mezd.
+A to.
+Čili když jakoby není timesheet, k DPP, ale to je divný.
+(PERSON19) A [PERSON8] vyráběl timesheety k DPP?
+(PERSON7) Ještě jednou?
+(PERSON17)  Myslím, že nikdy nebývali.
+(PERSON19) [PERSON8] ti vyráběl time sheety k DPP?
+Protože jinak by to tam bylo, že jo, vod začátku nastavený.
+(PERSON7) No, kdybych já si to pamatoval, já jsem rozhodně DPP řešil.
+(PERSON19) Tak vzpomínej.
+Tenhle týden se to musí udělat.
+(PERSON7) Hm.
+To je príma.
+(PERSON5) Tak minimálně v tom seznomu tam není ani [PERSON16] ani [PERSON11].
+[PERSON16]?
+Bože, [PERSON16].
+Pardon.
+A potom sú tam, po tom sú tam další ti drobní anotátoři všeci, který jako.
+(PERSON19) [PERSON11] je z [OTHER1].
+Ten je tady tak.
+(PERSON7) No, ale stejně.
+No asi jo.
+To je asi týjo.
+No, já budu muset vzpomínat, ale já mám pocit, že jsme to asi dělávali.
+Že jsem určitě, jsem řešil typy DPP.
+(PERSON17) Tak hlavně to, však to není první Evropský projekt.
+Někdo jiný tohleto určitě řešil.
+(PERSON19) Jo, ale [PERSON1] je na mateřský a nechce být rušena.
+(PERSON17) Jojo.
+(PERSON7) No, no, no.
+A ty timesheety z těch minulej projektů ty jsou tam někde uskladněný, ne? 
+(PERSON19) Jo, můžeš se tady na ně přijít podívat. 
+(PERSON7) No, no, tak v nich to je.
+(PERSON19) Timesheety jsou po lidech.
+(PERSON7) No, jasný.
+(PERSON19) A jak já mám chudák vědět, kdo byl zaměstnanec, a kdo byl prostě nárazovej anotátor.
+(PERSON7) No podle těch hodin.
+(PERSON19) Navíc ty timesheety nám nebudou, ty lidi nám to nebudou podepisovat.
+(PERSON7) No tady, já nevím jestli jsou podepsaný tydlety, že jo.
+(PERSON19) Všechny jsou podepsaný.
+Ty co má [PERSON1] tady.
+(PERSON7) No, tak to udělala správně.
+No, to je dobrá otázka, připomínka.
+Obávám se, že to budem muset dodělat.
+Ale to vytiskne se nějak.
+(PERSON17) Kdyžtak poznámka do notýsku, že možná DPP by se měli timesheety vyřešit asi hned, když se podepisuje to DPP.
+Nevím jako, vůbec do toho nevidím, takže -
+(PERSON7) No, to by taky šlo teoreticky, no.
+Todle, jako já si pamatuju, že jsem vyráběl ty timesheety a potom jsem se o to už dál nestaral.
+[PERSON1] jsem dal nějaké PDF a vona to jako obstarala.
+(PERSON19) No, já chápu podpisy u normálních, jako lidí jako zaměstnanců. 
+(PERSON7) Hele zejtra mám dovolenou, to jsem nedostupnej, ale ve středu se uvidíme, jo.
+Budeš tam ve středu?
+(PERSON19) Budu a chci termín s tebou, protože jinak se nedomluvíme.
+(PERSON7) Jojo.
+[PERSON6], tohle prosímtě vyhoď do koše.
+Hned to vyhoď.
+Do koše.
+No, tak to je jako drobná technikálie. 
+Já mám v devět call, v devět třicet.
+(PERSON19) Devět třicet.
+Oukey.
+Na jak dlouho?
+(PERSON7) Na půl hodiny.
+(PERSON19) Né, na dýl.
+(PERSON7) Ale jo.
+(PERSON19) Na dýl.
+(PERSON7) A pak ještě další.
+Někdy v odpoledních další.
+Jo?
+Zatím takhle, ať to nejhorší jako rozhejbeme.
+No.
+(PERSON17) Můžeme se přesunout dál?
+(PERSON7) Ano.
+Tak to jsme nakousli administrativu.
+Výborně.
+Ještě nějaké dobré zprávy?
+(PERSON17) Jo deliverably, chtěl jsem se zeptat, [PERSON7], ty už ses díval na ten [ORGANIZATION6] dokument?
+Protože mám pocit, že tam jsou nějaký tudu od tebe.
+(PERSON7) Ano, ano, první revize vode mě už je celá hotová.
+[PERSON15], musím ještě v pátek nebo kdy to poslal jako zprávu o tom, s tím, ať mě varuje, až on na všechno odpoví. 
+A jakože prostě postupem čili tam to je dobrý. 
+(PERSON17) Takže počkat, takže máme, má to ještě někdo další číst, nebo to?
+(PERSON7) On to musí doopravit, až on mi dá vědět, tak já to projdu a vodkejvu.
+(PERSON17) Jo, dobrý, tak to je super.
+Oukey.
+Jo, jinak teda trochu jsme nakousli ten náš deliverable, tak tu sekci čtyři jsem přečetl, hodil jsem tam [PERSON16] jenom vodrážky, ale to je fakt drobnosti, co tam přepsal.
+(PERSON5) Některé jsou [PERSON16], jedna je možno moja.
+Hej, ano, to já jsem zabudol [PERSON16] povedat, že je tam iba zo pár, možno, ale to možno, že též bude vědět vyextrahovat, jak mi pošleš ty logy.
+(PERSON16) Já jsem ti je už poslal teda.
+Ty věci.
+(PERSON5) Jo?
+Tak super.
+(PERSON17) No, každopádně jsem tam dal todočka jakože pro [PERSON16], ale prostě kdo bude vědět, co tam doplnit, tak v pohodě.
+Ještě je teda potřeba napsat tomu [ORGANIZATION2], protože v pátek na to jaksi nepřišla řeč, ať tam doplní ty dvě věci, a to možná rovnou ať nám napíšou do mejlu jako že jo.
+To taky vypadá, že to jsou nějaké dvě čísla jenom co nám mají poskytnout.
+(PERSON5) Hej, hej.
+(PERSON17) Jo, [PERSON5], mohl bys ten mejl napsat?
+(PERSON5) Jo u [ORGANIZATION2], dobre.
+(PERSON17) No dobré, super.
+No a jinak teda Intro, Intro už je hotové nebo ne?
+(PERSON5) Intro je skoro hotové eště tam jako potrebujem nějaké dva odstavce dopísat.
+(PERSON17) Dobře.
+A sekce tři?
+(PERSON5) Sekce tři, sekce tři je počkaj, to je čo, to je source variation.
+Source variation, hej.
+To som, to robí [PERSON11]
+(PERSON17) Jo, ještě třeba, eště to nemám číst.
+(PERSON5) No, eště nie úplně lebo já som právě [PERSON11] posílal, že nech tam doplní tie věci lebo nejsou úplně dobre vysvětlené ty ble a trošku ako neviem úplně jak se vytváral ten jedenáct pilot model.
+(PERSON17) Oukey.
+(PERSON11) Je to presně tak, že ono to nějak <unintelligible/>
+(PERSON5) Prosím?
+Nerozumím, straště tě je zle počut.
+(PERSON17) Tak, tak, hrozně slabě.
+(PERSON11) A moment.
+Je to teraz lepšie?
+(PERSON17) Trochu.
+(PERSON5) No trochu.
+(PERSON11) Teraz?
+(PERSON17) Jo super.
+(PERSON5) No dobre.
+(PERSON11) Tak ono je to tak, že ten jedenáct, to neni samostaný model, to je len výber jazykov z toho 41, které nejsou až takové hrozné.
+(PERSON5) Oukey, tak to jsem si presně myslel no, tak to asi v tom prípadě zahodíme, lebo ono to bolo hrozné už jako ten 41, právě jsem tam neviděl moc.
+Já jsem si právě myslel, že si to pretrénovával.
+No, tak v tom prípadě asi necháme iba 51 a ten 5, který -
+(PERSON11) Oni jsou totiž tri, jeden je šest jazykový, jeden je čyricet dva jazykový a jeden je čyřicet dva jazykový velký, větší model, ale ten větší model, ten jsem tu nepoužil kvůli tomu, že on je hrozně pomalý.
+(PERSON5) Aha, jasně.
+(PERSON11) Takže, takže je to jen šest jazykový a čtyřicet jedna.
+(PERSON17) Ehm.
+(PERSON5) Oukey.
+Takže, no nie já jsem len si myslel, že ten dvanáct jazykový, teda já to volám jedenáct pilotou, přece jen angličtina je vždy source a <unintelligible/> zároveň, tak já jsem si myslel, že to si preterénovával ako znova, to jak jsem písal ten email, že rozšířenia toho šest jazykového a dvanáct jazykový, ale tak -
+(PERSON11) Ano, vtedy už som, už som rovno spravil ten čtyřicet dva z toho šest.
+(PERSON5) Nie, nie.
+Ty si robil nejprv čtyřicet dva, to jsme si pozerali s [PERSON16] výsledky a zjistili jsem, že -
+(PERSON11) Ale to bolo naopak.
+(PERSON5) Zjistili jsme, že to je na chybu, že to dává akože dost zlé výsledky, tak jsme, tak jsem ti potom napísal, že nech vyrobíš ten šest, a to bolo dobré a potom jsem ti napísal eště že, že zkus ještě natrénovat ten dvanáct.
+Ale to už jakosa.
+Přišel s tímto dvanáct, dobré, dobré.
+Nebudeme to rozvázat, prostě, aby, len já som potreboval vědět, že ako to bolo vytvárané, takže já si myslím, že to možeme klidně vyhodit z toho deliverablu lebo tam není na to jako moc motivacia, že prečo bysma to robili.
+(PERSON11) Oukey.
+(PERSON5) Takže, ale popiš tam prosímtě tie blue average blue max, blue min a blue all lebo já nerozumiem tomu, že akým způsobem, že jako já možem se to, si to domyslet.
+(PERSON11) Ano, právě som to tam dopísal a eště to musím nějako zlepšit, pretože je to také.
+(PERSON5) A ještě hlavně ten base line, to vůbec nevím, čo je ten base line.
+(PERSON11) Ano, ten base line, to je, jsem to tam právě napísal, je to skore between source and reference senstences.
+Takže, takže to je vlastně to je skore mezi těmi ako mezi tou originálnou parafrázou a tím zdrojom.
+(PERSON5) Ehm, ehm.
+Oukey.
+(PERSON11) A vlastně já tam porovnávám, že okolko se mi zhoršilo tím prekladom bleu mezi mezi tím zdrojom a zároveň kolko sa mi zhoršilo mezi tím prekladom.
+Mezi prekladom a tým.
+(PERSON5) Hej, hej.
+To je ten source a tak.
+(PERSON17) No, hlavně bych připomněl, že čím dřív tím líp ideálně třeba dneska, zítra, aby to bylo, protože už jsme trochu za deadlinem termín, takže.
+(PERSON11) Jo.
+(PERSON17) Dobrá, tak a potom, kdyžtak dát vědět na ten proofreading.
+Beru že teda Intro se doplní a [PERSON7], [PERSON7] momentálně neposlouchá asi.
+No jo teda teďka s panem profesorem [PERSON18] jsi náhodou nevyřešila ty DPP nebo neměl nějaký?
+(PERSON19) Né, DPP jsem nevyřešila.
+(PERSON17) Jakože třeba to, že možná s tím měl nějak jako zkušenosti nebo si něco pamatoval.
+(PERSON19) Ne.
+(PERSON17) Dobrá, takže, takže jste řešili něco jiného.
+Oukey, nevadí.
+No dobrý, tak.
+(PERSON5) Ještě toho [PERSON7] jsem chtěl potom, aby iba preletěl alespoň -
+(PERSON17) Ten conclusion, že?
+(PERSON5) Conclusion, Intro, conclusion.
+(PERSON17) No, jasně, to.
+(PERSON5) Dvě strany, hej.
+(PERSON17) No, to právě, doufám, že se ještě vrátí, já bych mu to chtěl taky říct.
+(PERSON5) Hej, hej.
+No a tak hovorilo sa ještě něčo důležité v piatok na calle?
+Já jsom tam nebyl.
+(PERSON17) Jo trochu dostaly zprda u startu, protože vůbec ani nezačali, počkat jak on se jmenuje?
+[PERSON20].
+(PERSON19) Hodně dostali.
+(PERSON17) [PERSON20] tam tak nějak, že jo, my jsme měli teďka něco odevzdávat.
+Že no jasně, že jste měli odevzdávat.
+(PERSON19) Před třema tejdnama.
+(PERSON17) Tak my to teda dáme nějak dohromady.
+No, ale jinak tam, nevím, řešili se deliverably, pak tam byl nějaký výpadek desetimuntový, když právě zrovna [PERSON12] měl problémy s připojením, ale myslím, že na nás tam nebylo nic akutního.
+Jo, byl tam ten problém, že [ORGANIZATION2] chce teda to lepší hardwarové nebo hardwarové, porovnání těch architektů, do toho autoregresivitu, což nějak jsem to přeposlal [PERSON13], a vypadá to, že asi na tom maká.
+Ale asi bych mu měl ještě napsat meil, aby to bylo jisté.
+Ale řekl jsem si, že ho nebudu úplně babysitovat, protože to, je snad svéprávný člověk, který kdyžtak se dokáže [PERSON9] zeptat, kdyby něco nebylo jasné.
+No, ale to je taky věc, kterou jsem se chtěl zeptat [PERSON7], pokud se teda ještě vrátí.
+(PERSON5) On se tam ukazuje občas a -
+(PERSON17) [PERSON7]?
+Dvě věci.
+(PERSON7) Ano, ano.
+(PERSON17) Jedna, jedna, že ti [PERSON5] napíše, až bude napsaný conclusion, ten ten by sis asi měl přečíst pořádně.
+Protože předpokládáme z něho budeme vycházet na ty slidy potom.
+(PERSON7) Jo.
+(PERSON17) Jo.
+(PERSON5) Prostě nějaké intro a conclusion, aby sis ho přečítal, že či to prostě je ten narrativ určitě v porádku a není to moc jako somrserské alebo či to je dostatečné.
+(PERSON7) Jo.
+(PERSON17) A teď a ta druhá věc je mírně administrativní, já nevím, teďka jsem to řešil.
+Jaké máme teďka policy, když si lidi berou dovolenou, to si můžu vzít dovolenou, kdykoliv se mi zachce, když na to mám nárok a všechny hodím přes palubu, když já nevím, proč si lidi berou dovolenou před, před deadlinema na Deliverably?
+(PERSON7) Jako myslíš [PERSON3]?
+<laugh/>
+(PERSON17) Myslím [PERSON3], vlastně i trochu [PERSON5], ale [PERSON5] byl omluven a stále přístupný, takže jako, to se ještě jakž takž dá, jo, ale stále je tu otázka, když vím, že, já nevím za tři měsíce je deadline, proč si nedat tu dovolenou týden po deadlinu, jo.
+(PERSON19) Ale tak je to na domluvě, ne?
+(PERSON7) Je to na domluvě.
+(PERSON17) Ale je nějaká domluva, já nevím, domlouval se s tebou?
+(PERSON7) Ono je to, né se mnou se nedomlouval a je to úplně jednoduchý, když to přestane fungovat kvůli takovýmu chování, který dělá [PERSON3], tak to přestane bejt na domluvě a začne to bejt nařizováný, protože to zákoník práce dovoluje, ale naštěstí jeden, takže doufám, že se jako podaří to udržet v rozumnejch mezích, kdy to bude normálně na domluvě. 
+(PERSON17) Nebo napadá mě, že jo, možná bylo dobré, kdybychom měli aspoň zavedený nějaký trvalý kalendář, kam by si ti lidi tohleto vyplňovali.
+(PERSON7) Je.
+To chtěla [PERSON4] po všech.
+(PERSON17) Ale není nic oficiální?
+(PERSON19) Na [ORGANIZATION4] [ORGANIZATION5]?
+(PERSON17) A to mi přijde právěže blbost.
+(PERSON5) Ale na léto.
+(PERSON17) No jasně, ale proč, proč nemít jako [ORGANIZATION3] kalendář přímo na celý rok, že jo, jako když vím, že já nevím, za měsíc už mám nějaké plány, tak to rovnou můžu sdělit ostatním, že jako líp by se s tím operovalo potom.
+(PERSON7) Jo.
+Jako cokoli tady já nechci nic předepisovat a jediný, co podle mě nejlíp funguje, že každej zná svoje jako dlouhodobý úkoly a sám si to rozvrhne a sám si vohlídá, aby ostatní kolegové, samoorganizace prostě.
+(PERSON17) No, jako jo no.
+(PERSON7) Jakmile.
+(PERSON19) Ale občas nefunguje.
+(PERSON7) Občas nefunguje, já vím, no.
+Ale jako jediný co? 
+Co [PERSON3] jako říkal, že nějak jako se postará o to, aby vzniknul ten chybějící kousek toho Deliverablu, takže doufám, že to jako udělá.
+(PERSON17) Jako jo, ten Deliverable tam dopsal, ale pak je ten problém, že ještě přijde ta revize. 
+A tak jak [PERSON9] teďka říkal, že tam chce mít nějaké lepší porovnání, než co dělali v tom preblu, a to snad ten [PERSON13] udělal teďka o víkendu, takže jsme v pohodě, ale -
+(PERSON5) [PERSON3] to tak jako vieš on si zebral prostě v specifickej situaci, která jako, no tiež sa mi to nemusí páčit, ale on -
+(PERSON17) On si to musí vybrat, no jasně.
+(PERSON5) On si vyberá všechnu dovolenku, hej.
+A on chodil do té práce a robil na tom napred k tomu, že měl vybrat tu dovolenku.
+A teraz jako reálně na té dovolenke je, že je na té vodě, hej.
+(PERSON17) Jo, jasně, jasně.
+(PERSON7) Jo.
+(PERSON5) To, že já som si zebral, tak je to tiež jakože sem šel na týžden normálně by to nebolo, ale bolo to tým, že tri měsíace sem se nevěděl dostat domou a mňa už mamka potrebovala to tam, aby som jí pomáhal s věcami, no takže, jako ospravedlňujam sa, snažil som sa, ale myslím si, že som to dal ako vědět minimálně, že jakože tu nebudem.
+(PERSON17) Jako říkám, jde mi o takové ty akutnosti, které prostě, já nevím, kdybych já to měl rozběhávat na tom AVS teďka o víkendu, tak mě to zabere celý víkend, že jo, a prostě není to, není to můj job v tomhletom.
+(PERSON7) Ano, skřípni ho, ať to, ať to udělá.
+(PERSON17) No, tak skřípnout, já jako, ten [PERSON13] jako myslím, že už komunikoval s [PERSON9] a asi už to dělá.
+Já mu jenom napíšu, abych si to ujistil, ale tak nějak spolehám, že teda už se s ním počítá, i když se z toho nějak cukal, že jako jenom, když to bude nejnutnější.
+(PERSON7) No tak to je [PERSON3] se [PERSON13] a když [PERSON3] nedodá, co má, tak [PERSON3] naštve [PERSON4] a bude tam s ním zbylej rok, jo.
+(PERSON17) Jo, jasně.
+Oukey.
+Oukey.
+No, dobrý, dobrý.
+Tak to jsme vyřešili.
+Víceměně.
+Dobrý, tak asi, asi nic dalšího no.
+Zkuste doplnit ten, ten, ty zbylé sekce.
+Opravdu ideálně dneska, zítra, že už trochu přetahujem, i když -
+(PERSON5) Jojo, ano, já sa ospravedlňujem.
+(PERSON17) Nebo respektive, je to interní review, takže když to stihneme do toho, já nevím, třicáteho června tak je to stejně výhra, akorát tam bude ten problém, že si to ti interní revieweři neprojdou a nebude to úplně košér a nevím jak moc [PERSON9] je vystresovaný, ale -
+(PERSON5) Zaťal, zaťal som nepadal, že by to to někdo čítal, alebo někdo komentoval, tak čítat je možno že už čítal někdo.
+(PERSON7) Oni asi čekaj, až jim řeknem ne?
+(PERSON17) No to možná taky.
+(PERSON7) No tak jim, jestli už to je jako víceméně celý a chybí conclusion, tak jim řekněte, že chybí conclusion a jinak už to je.
+Ať to jako čtou i polotovar.
+Já jsem toho [PERSON15] taky přečetl a ještě tam byly dvě sekce, který byl [PERSON14], což je teda hodně matoucí, když tam je ten objem a není tam potom -
+(PERSON17) Jo jasně.
+Oukey, tak já -
+(PERSON5) Dobre, tak to si berem na seba, vlastně keď budem psat ten email do [ORGANIZATION2], na ty konkrétné informacie, takže predpokládám, že zejtra aj si sním napíšem toto aj jim napíšem, že to možou začít čítat, takže dneska se pokusím ako dodat všetky ty kontenty, aby tam byl čo nejméně todoček, počítám s tím, že jako [PERSON7] si ten conclusion prečítá možno, že až potom, ale šak to nevadí.
+(PERSON16) Já jsem si to přečetl a z toho [OTHER2] jsem tam zpracoval některý ty moje připomínky, ale některý mi připadalo, že to bylo prostě z toho, že jsi ten text psal ty, a že to jako bylo spíš na tebe, tak jsem tam některé připsal.
+(PERSON5) Hej no.
+Uvidíme.
+(PERSON7) Jo, hele, já myslím, že jako to všechno děláte dobře a ve srovnání s celým zbytkem týmu [OTHER3] jako nejlíp, jo. 
+Takže já nevím, jak vy to vnímáte, ale já bych rád zdůraznil, že jsem jako spokojen s tím, jak jako celek postupujeme, jo. 
+To, že se některý jako trochu víc flákaj a některý  trochu míň flákaj to, prostě se jako děje a dá se proti tomu reagovat, když je třeba, když je člověk s nima na kafi nebo tak, čemuž se vyhýbám, ale prostě hlavní je, aby ten dojem, který vy si odnášíte ze své práce tak, aby byl pozitivní. 
+A ne, aby byl jako kvůli tomu, že někdy chybí nějakej odstaveček, jste měli pocit jako špatně udělaný práce. 
+Porovnejte se s ostatníma a podle mě v klidu. 
+Takže to je -
+To je fakt.
+(PERSON5) No ako já si myslím, to myslím, že určitě, a to tiež ako vela věcí vnímám negativně, ale zrovna toto si myslím, že jsme na tom o proti ostatním dobre.
+Já se skor trošku obávám toho obsahu toho deliverablu, že či tam ako bude dostatočné či to.
+Vieš, či to nebude také, že tak toto jste robili rok a pol?
+No a, to sa trochu obávám toho.
+(PERSON17) To bude v klidu.
+(PERSON7) No, podívej se na ostatní, že jo.
+(PERSON5) Jakože [ORGANIZATION2], [ORGANIZATION2] vyzerá teda dobre, myslím teraz jako [ORGANIZATION2] okolo [PERSON9], tie mají ako furt výsledky, hej no tak -
+To se mi zdálo tiež, že niečo ako přinášá, aj keď to byl možno dojem.
+No a [PERSON12] to je druhá -
+(PERSON17) Tak [PERSON12] myslím dostal sprda teďka v pátek, nebo?
+(PERSON7) Dostal už mnohokrát.
+(PERSON17) Dejme, že taky toho udělali míň, že to zjistili až teď.
+Že my jsme ještě v pohodě.
+Jako no stress.
+To neznámená, že bychom teda měli ubrat na tempu, ale -
+(PERSON7) No ano, to neznamená, že bychom měli ubrat, ale jako -
+(PERSON17) Rozhodně z toho nebýt jako nervozní.
+(PERSON7) Ano.
+(PERSON17) Máme tam prostě reasing, proč ty výsledky třeba v některých případech dopadly špatně a prostě dokud jsme neviděli ty výsledky, tak to bylo celkem logické.
+(PERSON7) Základem úspěchu před reviewerama je sebejistota, že dělám svoji práci tak nejlíp, jak dokážu v čase, kterej prostě jako mám, že jako mám nějakej, nějakej výkon, nějakou jako schopnost. 
+Jsem nějak chytrej a něco jako umím. 
+A tohlensto se zvolna jako snažím zlepšovat. 
+Ale jako nemůžu překročit svůj stín strašně rychle, je to jako prostě po krůčkách. 
+No, a když sám to nešidim, když před sebou to dělám jako dobře, tak ten reviewer ten tomu stejně musí uvěřit.
+To je prostě, to nezkoušel, jo.
+Takže tam jde o to nelhat sám sobě, no.
+A to jako nemám pocit, že by kdokoli z vás cokoli šidil, naprosto ne. 
+Takže ničeho se nebojím.
+Jako a to, že to nevyjde a že to nefunguje, vždyť za to jsme placený, abysme prolezli slepý cestičky.
+(PERSON5) Jo no.
+Tak to hej.
+Sám si hovoril, že to source complexity se dalo eště jako lepšie tam.
+Minimálně, že nějaké úplně jako ti naivné metody aj jde to i na moju rubu, lebo já som to opustil, keď mi nefungoval ten Bert a vykašlal jsem sa na to alebo vykašlal, poprosil jsem o pomoc [PERSON3] a potom to začalo diverdifikovat.
+(PERSON7) Jo, jojo.
+(PERSON17) V klidu, ten task už je teďka hotový.
+Takže už prostě s tím nic neuděláme a můžeme se soustředit na ty další.
+(PERSON5) Já si právě hovorím, že či, že či jako tam sa potom ještě jako dá vrátit alebo sa nemáme vůbec k tomu tasku už, takže -
+(PERSON7) Hele.
+Pokud každej musí žít ze svojí vizí, kam to chce doručit. 
+A pokud je užitečný pro tudle vizi se k tomu vrátit, tak je to určitě jako možný ještě navíc něco přidat, ale už se nikdo na to nezeptá. 
+Jakmile jednou tím reviewer projde task completed. A když ten čas uplynul, tak je fakt lepší říct completed, když nemám jistotu, že si se k tomu chci vracet.
+(PERSON5) No jasně.
+(PERSON7) Jestli vím, že jsem nestih nějakej pokus a pro sebe chci vědět, jak dopadne.
+Tak je úplně nejlepší tam opravdu napsat jako že se nám něco zpozdilo, a že ještě to doděláme pozdějc. 
+Ale nejhorší je říct, že to doděláme pozdějc a pak se k tomu nevrátit. 
+A kvůli týdle opatrnosti je lepší říct completed, i když nejsem s výsledkem spokojen.
+(PERSON5) Jasně, no.
+(PERSON17) No a jinak jako ten rozpis těch, ten časový plán je taky že jo nějaký.
+(PERSON7) To je flexibilní.
+(PERSON17) Hrubý odhad, no jasně, ale taky zase je to nějaké plánování na tři roky dopředu, že jo, když se to píše, takže asi se tam počítá s tím, že se některé věci můžou změnit.
+No, jinak asi jsme vyřešili všechno, no kdyžtak poznámky jsou v docu, takže -
+(PERSON7) Jo.
+Já děkuju, a ještě příští pondělí taky konáme call?
+To je ještě před deliverablama, že jo.
+Takže to ještě jo.
+Měli bysme.
+(PERSON5) To ještě jo no.
+(PERSON17) No, no, no, počkej, počkej, [PERSON7]. 
+Ty jsi trval na tom, že cally by měly být každé pondělí naše interní.
+(PERSON7) No, tak já uvidím, kdy budu dostupnej, a to -
+Můžeme udělat po delivereblech třeba jeden týden pauzu, no, anebo bez tebe, že jo.
+Jako, asi bych to klidně nechal.
+Dělejme cally vždycky, kdo bude moct?
+To se jako dohodněme nadále. 
+Kdo bude moct, tak platěj pondělní cally.
+(PERSON5) Lebo jakože [OTHER2] bude dále probíhat, budeme muset nějako zapojit prípadně tych nových týchto, to čo jsi i vlastně [PERSON7] hovoril, tak to vlastně poviem teraz vlastně [PERSON17], že tomu z [LOCATION], že bysme mali vymyslet nějaku úlohu, kterou mu zadáme na ty tri měsiace.
+No a myslím, že to je.
+(PERSON7) Ne na tři měsíce, jako na dálku ho hlídat, jo.
+Úlohu rozsahem na tři měsíce a být s ním v kontaktu.
+(PERSON5) Tak, tak.
+Hej.
+(PERSON7) Abysme zjistili jestli ten člověk z [LOCATION3] je použitelnej, jestli nám pomáhá, anebo ne no.
+(PERSON17) To můžeme řešit klidně až za týden.
+Jenom takhle, prostě s callam v pondělí, ať se počítá, kdyžtak v lepším případě nebudou teda půl hodiny nebo třičtvrtě hodiny ale jenom deset, patnáct minut.
+(PERSON7) Přesně tak.
+(PERSON5) Já jsem to nechtěl řešit, chtěl jsem povědat, že agenda bude myslím stále.
+(PERSON17) Jasně, dobrý.
+(PERSON11) Já mám ještě dotaz taky eště.
+(PERSON7) Ano.
+(PERSON17) [PERSON11].
+(PERSON11) Budoucí týžden je už teraz otvorený [ORGANIZATION4] alebo se tam nedá dostat?
+Protože <unintelligible/> prísť.
+(PERSON7) Ano.
+(PERSON17) [ORGANIZATION4] je otevřená normálně pro studenty i, akorát studenti musí nosit roušky nebo něco takového.
+Asi, což je jako samozřejmě s rezervou.
+(PERSON7) Hlavně ti co přijedou ze Švýcarska.
+(PERSON17) No, dobrý. 
+Takže jo, takže za týden zase asi.
+(PERSON7) Jo.
+Já jsem ještě něco chtěl. 
+Jo, přece tohle nejsou první prázdniny [OTHER3].
+Už jedny bylyF. 
+(PERSON17) No, jasně.
+(PERSON19) Ale ty nebyly tak kritický, protože jsme neměli žádnej deliverable ani nic.
+(PERSON17) To je jedna věc.
+(PERSON19) Ani audit.
+(PERSON17) Byl tam jenom ten report, jo a audit.
+(PERSON5) A minule prázdniny byli také ako trošku spánkové, no.
+Mám pocit, že tam som tiež vlastně [PERSON10] byl na tom a ještě s [PERSON16] sem tehdy nespolupracoval, takže.
+(PERSON7) No, takže to fungovalo taky dobře, jako hladce něco?
+(PERSON5) No já neviem, keby byly ty cally, tak si myslím, že by to fungovalo lepšie a trebas aj mňa by to donutilo na tom jako intenzivnějši.
+(PERSON17) Jo, tak vy to řešíte ty cally z hlediska prázdnin teďka?
+To je prostě.
+Berme to tak, že to, že by mě, že by bylo dobré, když se nebudete účastnit, tak to napsat, abychom třeba když bude jenom jeden člověk, tak aby zbytečně nečekal, ale jako nejsou nutně povinné.
+(PERSON7) No, ono je to -
+(PERSON17) Ale účast je doporučená.
+(PERSON7) Když nejste na dovolený, tak jsou povinný, tak.
+(PERSON17) No.
+Tak nějak.
+Ono zas, říkám budem se snažit, snažíme se to zkompaktnit, aby to hlavně lidem nežralo moc času.
+Už jako přetahujeme.
+(PERSON7) No dobře.
+(PERSON17) Hrozně.
+Dobrý, takže.
+(PERSON7) Tak jo.
+Ahoj, ahoj.
+(PERSON5) Čaute.
+Ahoj.
+(PERSON11) Čau.

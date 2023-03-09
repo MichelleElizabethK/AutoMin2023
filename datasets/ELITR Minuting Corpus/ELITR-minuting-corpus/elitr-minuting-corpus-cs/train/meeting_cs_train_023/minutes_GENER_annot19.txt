@@ -1,0 +1,41 @@
+Účastníci: [PERSON14], [PERSON10], [PERSON15], [PERSON5], [PERSON8], [PERSON4], [PERSON17]
+
+Účel schůzky: zhodnocení dosavadních úkolů
+
+Datum schůzky: 20. 4. 2020
+
+Shrnutí schůzky:
+
+- [OTHER1] je oficiálně odložen
+- odložen bude asi na září
+- další review se zatím neví
+- zatím není založený žádný dokument na deliverably
+- zjistit, jestli není šablona, podle které by se to mohlo psát
+- do konce dubna vyplnit timesheety
+- pracuje se na backhandu k embest listu
+- použil se parafrázovací model, který je k parabangu
+- je adresa, kde je možné si to vyzkoušet
+- zatím je to parafrázování, ale měl by to být překlad
+- buď se natrénuje [ORGANIZATION2] model a nebo se pooužije natrénovaný [PROJECT1] model
+- [ORGANIZATION2] model podporuje pozitiv i negativ konstrenty
+- zatím to funguje jako pilot, nejsou tam žádné vstupy nebo experimenty
+- u [OTHER2] dva je slabá čeština
+- bude nejlepší natrénovat [ORGANIZATION2] model, na který je i tutorial
+- na quality estimation pracují [ORGANIZATION4] a potřebují na to více času
+- nasbírané stimuly si přeložili do estonštiny a anotují na nich kvalitu překladu
+- potom se může pomoci s češtinou
+- na tomto úkolu bude pracovat i 8 anotátorů
+- zjistit deadline pro [ORGANIZATION5]u a jestli se bude muset integrovat
+- na parafrázích se dál pracuje
+- je natrénovaný parafrázovač, který má mnohem více jazyků
+- výsledek je, že na šest jazyků, které to mělo předtím, to má zhruba stejnou kvalitu a na ty ostatní jazyky, to má nižší kvalitu
+- jedná se spíše o regresi
+- u back translation není zatím napsaný paper
+- zde je důležité najít příklady, kde se to skutečně děje
+- u parafrází je ještě potřeba vygenerovat čeng přes parabang
+- udělá se paralerní experiment
+- pracovat na dalších parafrází
+- 15. července je VMTL a mělo by se to tam poslat
+- za týden další hovor
+
+Zapsala: [ANNOTATOR1]

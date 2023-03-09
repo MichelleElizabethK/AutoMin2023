@@ -1,0 +1,37 @@
+Datum schůzky: 27. 7. 2020
+Účastníci: [PERSON5], [PERSON4], [PERSON15]
+Účel schůzky: probrání administrativy a poznámky reviewerů
+Shrnutí schůzky:
+
+- Vyřešit administrativu.
+-- [ORGANIZATION1] je vyřešená a čeká se na odpověď.
+-- Mělo by se vyplnit summery of publications.
+-- Nový zaměstnanec dostane přístupové účty, až bude mít alespoň podepsanou DPČ.
+--- Zkusit mu dát zatím jen cvičení natrénovat [PROJECT1] studenta.
+--- Zkusit se s ním každý den zkontaktovat, možná pomocí WhatsApp.
+
+- Vyřešit, jaký model použít v [OTHER2].
+-- Zkusit zjistit, jaké jsou rozdíly mezi teacherem a [PROJECT2]
+--- Zatím není kvantifikovaný rozdíl mezi nimi.
+-- Používat student modely i pro slabý model, aby měli stejný styl.
+-- Strong model by se mohl nahradit student modelem, který se natrénoval v [ORGANIZATION3].
+-- Zjistit jaké je zrychlení mezi studentem a teacherem a [PROJECT1].
+--- Studenti, nepoužívají flow 32, ale používají nějaké menší datové typy.
+-- Mít tam modely, které se potom budou používat v integraci ve Firefoxu.
+-- Je potřeba, aby uživatelé nepoznali rozdíl mezi českým slabým a českým silným modelem, aby to neovlivnilo výsledky experimentu.
+
+- Problém s detokenizací.
+-- Toto se nemusí řešit, protože to v [OTHER2] není.
+
+- Review notes.
+-- Je odkaz na poznámky reviewrů.
+-- [ORGANIZATION2] je schopné dělat pseudo parafrazing přes zero shot a bylo by dobré, aby se s nimi někdo ohledně tohoto kontaktoval.
+--- Bylo by dobré zero shot zkusit nějak použít v experimentech.
+-- [ORGANIZATION2] bude řešit asi velmi podobné problémy s multi linguel experimentami, proto by bylo dobré být s nimi v kontaktu.
+-- Všichni by měli přejít na [PROJECT1].
+-- Další spolupráce s [ORGANIZATION2] by mohla být domain adaption.
+-- 20. září je ECL, do té doby by měl být článek napsaný.
+
+
+Zapsala: [ANNOTATOR2]
+

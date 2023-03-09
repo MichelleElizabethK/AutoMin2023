@@ -1,0 +1,38 @@
+Účastníci: [PERSON1], [PERSON26], [PERSON15], [PERSON2]
+Účel schůzky: prodiskutování článků a knihy
+Datum schůzky: 8. 10. 2019
+Shrnutí schůzky:
+- jsou dva články Multilinguálního BERTa
+- další experimenty nedělat a zkusit napsat článek
+- příběh článku by mohl být, že se bude jednat o pozorování, kdy multilinguální BERT vůbec není crosslinguální a může se udělat trochu crosslinguální, když se vycentruje, protože se tam shlukují jazyky
+- může se udělat hodně crosslinguální, když je jenom trošku paralelních dat
+- paradoxně věci, které by ho mohly udělat více crosslinguální, tak s ním nic nedělají - kondratjukův fine-tuningovej a fine-tuning - nezmění to na tom vůbec nic
+- summitnout článek do konce října na archive
+- pošle se to standardně na ACL, ACL má deadline 9. prosince
+- sepsat deadliny
+- deadline na knihu je červen, červenec
+- jeden článek se má posílat na EMNLP
+- domluvit se s [PERSON20], co bude dělat 
+- článek s [PERSON6] – probovali multilinguálního BERTa a probovali různé věci
+- [PERSON31] zajímají [PROJECT2] věci
+- je možnost grantu. Jedná se o evropský grant, ale u nás to zaštiťuje [ORGANIZATION5], nějaká část peněz jde z [ORGANIZATION5], část peněz odjinud 
+- grant by měl být aplikovaný, nejlépe se domluvit s firmou
+- mohlo by se jednat o překlad
+- maximální finanční částka podpory na jeden projekt 1 milion eur
+- nejvyšší povolená intenzita podpory na českou stranu projektu je 70 %.
+- podmínky pro českého uchazeče budou vycházet z programu [OTHER4]
+- zjistit, jak má vypadat tým, kolik univerzit 
+- vždy u evropských grantů je potřeba množství různých zahraničních univerzit nebo firem
+- grant bude vyhlášen koncem října
+- zeptat se Helsinek, jestli by se nechtěli projektu zúčastnit
+- udělat rámcovou představu o knize, co tam vše mít a jakou strukturu
+- byla by to encyklopedie probingu s důrazem na naši práci
+- škrtnout related work 
+- pokud se budou dávat obrázky, tak některé články mají explicitní CCčkovou licenci, dá se zkopírovat tak, jak to dovolí licence. Když některé články nemají žádnou licenci, tak by se mělo zeptat autora. Pokud by knížka byla vydaná v České republice.
+- pokud bude knížka vydaná v Británii nebo v Americe, tak tam mají koncept fair use, a když se jedná o vědeckou publikaci, tak za jistých okolností se to považuje za fair use a může se to použít bez ptaní.
+- udělat osnovu, a pak tam dávat relevantní články
+- link od Zotero – dají se tam založit skupiny a můžou se sdílet citace mezi sebou, je to online i offline
+- speech EMNLP meetup - Z [ORGANIZATION11] tam bude asi 16 lidí – vzít poster
+- další call příští týden ve stejnou dobu
+
+Zapsala: [ANNOTATOR1]

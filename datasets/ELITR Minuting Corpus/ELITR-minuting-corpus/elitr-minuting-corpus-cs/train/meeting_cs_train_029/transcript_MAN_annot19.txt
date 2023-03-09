@@ -1,0 +1,667 @@
+<other_noise/>
+(PERSON15) [PERSON40]?
+(PERSON40) Kterej?
+(PERSON15) Ty?
+(PERSON40) Jsem slyšet?
+(PERSON15) [PERSON40], já se ti chci omluvit možná že včera tím, že jsem tě neslyšela, že chyba byla na mojí straně.
+(PERSON40) Teď mě slyšíš?
+(PERSON15) Jo, teď tě slyším.
+(PERSON40) Tak to je ideální.
+Neomlouvej se.
+(PERSON15) Mluvila jsem se [PERSON25] a byla to moje chyba, takže promiň.
+(PERSON40) Takže šest otčenášů a to bude odpuštěno.
+<laugh/>
+(PERSON15) Jo, prosím tě, odpusť mi to.
+Já už příště budu vědět, co si mám kontrolovat, jestli mám zapnout.
+(PERSON40) A já byl za ajťákama kvůli tomu a ty mě šroubovali notebook.
+Dobrý.
+Hlavně že se teda vidíme.
+(PERSON15) Vomlouvám se.
+(PERSON40) Dobrý.
+(PERSON17) Dobrý den.
+(PERSON15) Ahoj.
+(PERSON37) Rád vás vidím.
+(PERSON15) [PERSON28], dobrou chuť.
+(PERSON28) Děkuju.
+(PERSON15) Eh, spousta lidí je v kanceláři.
+(PERSON37) Někdo dělat musí.
+(PERSON15) Pravda je, že od tebe chodí nejvíc spisů.
+(PERSON40) V naší generaci jsou úderníci ještě.
+(PERSON15) Tak, kdo nám chybí?
+[PERSON26], ty sedíš v kuchyni?
+(PERSON26) Prosím, [PERSON15], já jsem neposlouchala.
+(PERSON15) Tebe zavřeli do kuchyně, viď?
+(PERSON26) Ne, ne, dneska mám obejvák.
+Z ložnice a z pokojíku to okupujou holky.
+(PERSON40) Žena patří do kuchyně.
+(PERSON15) Tak jo, tak já vás všechny vítám.
+Já jsem psala takovou malou poznámku, že bysme si když nemůžeme mít ten mejdan v kanceláři, tak nevím, jestli jste se na to připravili. 
+Tak já vám připuju, tady na toho Svatýho Martina. 
+Doufám, že sněžit ještě dneska nebude. 
+Nevím, kdo to ctí a má doma husu, ale tak vám přeju hezkej <unintelligible/>.
+A užijte si to aspoň doma.
+(PERSON40) To by se manželka urazila, že mám doma husu.
+<laugh/>
+(PERSON15) S tím já se ráda smířím.
+Zase.
+Takže já začnu.
+Dneska toho ani není tolik.
+Eh, [PERSON26] hrozně děkuju za hledání těch spisů ohledně toho [PROJECT33].
+Zdá se teda, že se nic nenašlo, že jo?
+A mluvila jsi s tím [PERSON30] potom?
+Ví to teda, že teda nic se nenašlo?
+(PERSON26) Jo, jo.
+[PERSON30] mi volal, spojili jsme se.
+Já jsem mu přečetla všechno, co vlastně spisovka nám nabídla, co hledala, ale jeho teda zajímal nejvíc vlastně rok dva tisíce šestnáct od jara do podzimu. 
+A tam není vůbec nic, pak jsem teda ještě mluvila s [PERSON16], protože kdyby tam [PERSON30] pořád hledal nějakou stížnost vlastně, tak kdyby to šlo rovnou na právníky, tak my to nevidíme, ale ani [PERSON16] nic nenašel, takže bohužel jako z tý spisovky jsme nevydolovali vůbec nic.
+(PERSON15) Ne, vono je to spíš dobře, že jsme nic nevydolovali, víš.
+Takže, to jako kdyby my jsme něco vydolovali nějakou stížnost, tak by to bylo spíš špatně, jo.
+Nebo pro toho, pro tu protistranu.
+Nám by to -
+Takhle, nám by to zkomplikovalo život, že jsme věděli vo něčem, co ta protistrana nechce.
+Takže když nic neposlali, tak my s nějakýma jejich námitkami nemusíme počítat, takže je to spíš lépe.
+(PERSON26) Rozumím.
+Dobrý.
+(PERSON15) Takže děkuju za.
+(PERSON26) Není zač.
+(PERSON15) Žes to udělala takhle rychle.
+Dobře, ještě jsou podepsaný dva spisy, ale ještě neodešly.
+Eh, [PERSON40], je to, to [PROJECT1],  který kdyby ti volali, tak prostě to eště neodešlo, protože je to na pozemcích [ORGANIZATION12].
+Chce to tam stavět [ORGANIZATION19] a [PERSON35] teprv bude mít jednání s [ORGANIZATION12], jestli jim ty pozemky jako pronajmout nebo nepronajmout.
+Jo, takže až dostaneme nějaký avízo, tak pak to teprve odešleme.
+Jako ten projekt je dobrej, ten záměr jako podporujeme, ale jedná se tam vo těch pozemcích.
+Takže jenom kdyby se někdo potom sháněl, tak klidně řekni, že to leží u pana ředitele [PERSON38].
+(PERSON40) Sháněli a já jsem jim řekl, že je to kladně, haha, že to běží kladně.
+Tak, no, ale není podepsaný.
+Co?
+Tak já jim řeknu, že teda, to je zatím bez záruky.
+(PERSON15) Jo, že to leží u pana ředitele [PERSON38].
+(PERSON40) Jasně, že se to může ještě proměniti ten názor.
+(PERSON15) No, že.
+(PERSON40) Aha, aha, já jsem jim řek, že jako není problém.
+(PERSON15) Jo, jo.
+(PERSON40) Dobře, dobře, tak já si to s něma nějak vyříkám.
+(PERSON15) Hele, tak možná je zatím ani nekontaktuj, prostě písemně to od nás nemáj.
+Tak se nemají, vo co moc opřít.
+(PERSON40) Jasně, jasně.
+(PERSON15) A stejně tak ještě [PERSON20], nevodešla ta výjimka na ten [PROJECT42], je to podepsaný, ale já jenom chci říct.
+A já jsem fakt ještě neměla čas říct [PERSON1] nebo von si neudělal čas na to,  abysme to probrali, jak jsem mu posílala celou tu projektovou dokumentaci, ale tak, jestli s tím bude [PERSON13], tak to možná vodešleme i -
+Pak děj se vůle Boží.
+(PERSON20) No jako voni stejně po nás pak budou určitě chtít revokaci, případně tý výjimky, že jo. 
+Prostě jakoby já jsem jenom řekla, že ten postup je takovej, že my chceme teďko se vyjádřit k tý studii a pak eventuálně se můžeme znova vyjadřovat k výjimce, kde zmíníme ty požadavky, co prostě máme k tý studii, že jo? 
+Ale teďko prostě k tomuto souhlasný dát nejde. 
+Takhle jsem to prostě tý paní znova řekla.
+Ale -
+(PERSON15) Já vím.
+Dyť jsem u toho byla, že jo.
+(PERSON20) No, ona mi včera ještě volala, víš. 
+Ptala se, jak to jako teďko bude, takže.
+(PERSON15) Jo, jo.
+(PERSON20) Tak mi jenom pak dej vědět, jestli to vodešlo nebo ne.
+(PERSON15) Dám, dám.
+(PERSON20) Děkuju.
+(PERSON15) Tak, eh,  [PERSON5], prej s tebou mluvil [PERSON3], že teda [PROJECT12] poskytnou nějaký podklady pro ten [PROJECT37], a proto řešení na jejich straně městský části, a že prej našli i nějakou starou studii, vo který vůbec nevěděli, která už tohlento.
+(PERSON5) Akorát ta studie, ta se týká spíš jakoby rozvoje celejch [PROJECT12] včetně nějakejch budov občanský vybavenosti a tak.
+Tak to je spíš tak jako pro, pro inspiraci, co vo ni vůbec jako plánovali s celou tou městskou částí, ale vyloženě toho [PROJECT37] nebo nějaký parkování se netýká, ale je to určitě zajímavý, mám tu uložený ve složce [PROJECT12].
+(PERSON15) Jo.
+(PERSON5) Kdybys chtěla.
+(PERSON15) Jo a prej do čtrnácti dnů teda upřesněj to svoje zadání.
+(PERSON5) Ehm.
+Jo, jo.
+(PERSON15) Tak jo.
+Tak to jsem ráda, že to víš.
+Moc děkuju [PERSON20] a [PERSON32] za to koncepční zadání na [PROJECT25]. 
+Takže to teďko čeká na podpis a mělo by to vodejít. 
+My budeme mít zejtra jednání vo [PROJECT24], že jo, v naší pracovní skupinu. 
+Tak to prosím vo ty parkovací stání a napojovací body pro dopraváky.
+A jestli by někdo z vás nepřečet ještě to zadání pro tu dopravní studii, jo.
+[PERSON17], nevím, jak seš teďko jako strašně na tom vytížená, jestli bys to nepřečetla, abysme už to mohli přidat k tomu zadání a vypsat teda tu výzvu.
+(PERSON17) Já zadání zkusím přečíst ty parkovací body si myslím, že ještě nejsou třeba, ne?
+To jsme říkali, že stačí, až bude, až budeme mít vybranýho zpracovatele, protože to já takhle rychle asi nestihnu. 
+(PERSON15) Dobře, dobře, tak dřív jako že bys přečetla to zadání. 
+Tak moc děkuju.
+Stejně tak prosím vo přečtení [PROJECT22] [PERSON39] a [PERSON22].
+Eh, zelináři už se mi ozvali, že to přečtou.
+Takže abysme mohli pozvat [ORGANIZATION15] a všechno jim to vysvětlit a nezdržovali tu změnu. 
+Jo, chtěla jsem se zeptat, jak je na tom [PROJECT28]? 
+[PERSON20], nevíš, jak je na tom [PERSON31]?
+(PERSON20) Eh, jo jako má to skoro dodělaný a pořád prostě nepřišlo to vyjádření od [ORGANIZATION13].
+(PERSON15) Jo.
+(PERSON20) A tak to nevím, jestli třeba ty nechceš zkusit přes toho kamaráda, jako je nějak postrčit, no.
+<censored/>
+A prostě on sám jako říká, že to vyjádření [ORGANIZATION13] chce, že je pro ně důležitý jako mít, to mít k ruce.
+(PERSON15) Hele, dobře tak pojedeme dvěma cestama.
+Prosím tě, dejte ke mně už to naše vlastně koncepčko s průvodním dopisem na [PERSON35]. 
+A než to třeba u nás se podepíše, tak já seženu to vyjádření těch drah. 
+(PERSON20) No, to není koncepčko, to je prostě jako nějaká objemová studie, že jo. 
+A ještě jsme se původně domlouvali, že k tomu, že to dáme vlastně tomu, eh, ježíšmarjá, mají mají prostě na [ORGANIZATION10], mají externí smlouvu s nějakým rozpočtářem, takže to dáme ještě tomu rozpočtáři. 
+A to jako taky není úplně jen tak, protože paní tím, že on je tady nějak na smlouvu, tak paní [PERSON14] musí vždycky napsat jakoby nějaké i konkrétní, jako nabídku pro něj nebo teda prostě poptávku a on napíše na to nabídku, aby si to mohlo potom nacenit.
+(PERSON15) No.
+(PERSON20) Takže jako to není tak, že já mu pošlu mailem něco a on mi za dva dny pošle prostě vodpověď, ale že prostě si to vždycky po těch jednotlivejch zakázkách takhle účtuje, no.
+(PERSON15) No, a nevíš, jestli už to teda [PERSON14] vodeslala na něj. 
+(PERSON20) No ne, my jí musíme poslat tu. 
+Ona říkala, že nejlepší, když mu prostě, když ji pošleme nebo jemu přímo tu hotovou studii. 
+A ona připraví tady tu, eh, poptávku. 
+Ale jako tím, že tu studii nemá ještě [PERSON31] teďka dodělanou, tak jsme ji neposílali. 
+Ale bude to mít prostě tenhle týden hotový.
+(PERSON15) [PERSON31] mi ji nejmíň před deseti dny poslal.
+(PERSON20) No to jo, ale to se nedá fakt považovat za studii.
+To byl prostě nějakej nástřel. 
+To jako fakt ne. 
+No a prostě on fakt už má skoro hotový.
+(PERSON31) Jo, ahoj, jenom, já že už to mám hotový, tak jenom to můžu rovnou poslat.
+(PERSON15) Tak to [PERSON31] pošli.
+Jo prostě bude to.
+(PERSON31) Jojo, určitě.
+(PERSON15) Bude to s tím takhle, já to přepošlu [PERSON14], ať to pošle rozpočtáři, a ať už to od nás vypadne.
+(PERSON20) No, já teď nevím, teda, já teď teda nevím, jestli já se v tom mám nějak angažovat, protože jsem doposud s [PERSON14] nebo všechno jsem to komunikovala já, tak teď, [PERSON15], říkáš, že to pošleš [PERSON14] ty, tak já už jako nevím, prostě jak to organizačně řešit?
+(PERSON15) Tak já to klidně se toho ujmu, jo?
+(PERSON20) Mně to je jedno.
+(PERSON15) Tak já teď teda nerozumím, jestli vona už něco dostala nebo ne.
+(PERSON20) Ne, [PERSON14] nic nedostala, my jsme tu studii chtěli dodělat, ještě [PERSON31] mínil poslat, abych to zkontrolovala a pak jsme to chtěli poslat [PERSON14], aby to předala tomu rozpočtáři, a to je všechno.
+A pak to považovat jako za dokončený.
+To je celý prostě.
+Nic dalšího.
+(PERSON15) Jo.
+(PERSON31) Já to dneska pošlu [PERSON20], ta to zkontroluje a pošle dál a myslím, že to je.
+(PERSON15) A pošle to i mně, já to chci taky zkontrolovat.
+(PERSON31) Jo, oukey.
+(PERSON15) Než to půjde vo patro níž.
+(PERSON31) Určitě.
+(PERSON15) Tak jo.
+Tak príma.
+Eh, včera nás [ORGANIZATION4] informovala, že kromě toho, že vytipovali nějaký městský pozemky, na kterejch by se dalo stavět. 
+Tak teďko budou vytipovávat pozemky, kde v současný době na plochách OB, SV jsou funkční parkoviště. 
+Je to často na sídlištích. 
+Teď se nám k tomu zrovna vyjadřovali k takovýmu jednomu parkovišti. 
+A jsou to pozemky ve vlastnictví města a v budoucnosti by tam město mohlo stavět i nějaký bytový domy. 
+A dělá to na [ORGANIZATION4] ten jejich nový kolega [PERSON10]. 
+A až to vytipuje, tak za náma jednotlivě přijde, abysme mu pomohli s tím, ty pozemky jako ohodnotit, jestli se to hodí nebo nehodí. 
+Takže to s nima budeme asi velmi úzce spolupracovat. 
+Pak taky zpracovávají ideovou soutěž k zadání pro ideovou soutěž na [PROJECT43].
+Tak to asi se pak spojej s [PERSON12].
+Pak jsem se chtěl zeptat [PERSON22], jestli už je odtajněnej teda vítěz na [PROJECT10]?
+(PERSON22) Eh, vítěz je odtajněný, protože se nikdo neodvolal, což je malý zázrak a vyhrálo to, nebudete nikdo z nás ani já neznám toho architekta poméně nezapamatovalný, je to [ORGANIZATION9], ne vany a umyvadla, ale [ORGANIZATION9] z Jihlavy.
+Jihlava něco a, eh, je to dobře, protože to je velká inženýrská kancelář, která si najala mladý kluky, který to zmákli úplně skvělě.
+A až budu mít vobrázky k dispozici nebo až je někde teď najdu, tak vám je mužů někam uložit, abyste se podívali.
+Není to nejlepší na dům světě, ale v rámci žánru, si myslím, že je to docela slušný. 
+Všechno.
+(PERSON15) Dobrý.
+Eh, pak jsem se chtěla zeptat [PERSON6], jak chtěl [ORGANIZATION15] vyjádření na to jeho řešení [PROJECT44]. 
+Pochopila jsi tu jejich druhou žádost, [PERSON6]? 
+Jestli to vyjádření, nebo ten, ten mail, máme taky poslat na [ORGANIZATION3]? 
+Já jsem tomu moc nepochopila. 
+Nevolali ti? 
+(PERSON6) No, promiň.
+Mně nikdo nevolal a zatím jsem nic jako nezjistila. 
+A asi jsem ten druhej mail ještě nečetla, jestli přišel nějakej druhej mail.
+(PERSON15) Druhej jako možná v ponděli.
+A já prostě jsem to fakt nepochopila.
+(PERSON6) Co chtěl [ORGANIZATION15], teďka něco chtěl?
+(PERSON15) No, něco [ORGANIZATION15], ale jestli, když se neozývají, tak voni by se asi ozvali.
+(PERSON6) No jakože já jsem vodpovídala tomu [PERSON23] jenom, že to mají v souladu s tou studií [PROJECT44]. 
+A pak jsem si ničeho nevšimla, ale možná, jestli něco přišlo včera, tak jsem si to ještě teď nemusela přečíst. 
+(PERSON15) Jo, dobře, tak jo.
+(PERSON6) Tak jsem moc nepomohla, no.
+Tak uvidíme teda. 
+(PERSON15) Jo, v pohodě.
+(PERSON6) Tak jo, děkuju. 
+(PERSON15) Takže to je za mě dneska všechno, tak se vás zeptám, jak vy se máte a co je novýho na vašich stolech.
+Tak [PERSON26], mám tě tam první. 
+(PERSON26) No tak co je novýho? 
+Vypravujeme, zakládáme. 
+Staráme se normálně o všechno jako v běžným režimu a občas se mihneme v kanceláři. 
+Naposledy jsme spolu mluvili.
+Myslím, že za nás se [PERSON28] žádnej problém.
+Nebo za mě určitě ne.
+Všechny zdravím a těším se, až vás tam zase uvidím.
+(PERSON15) Ehm.
+Tak díky.
+[PERSON32], jak ty? 
+(PERSON32) Zdravím, no tak -
+Já se teď nejvíc věnuju, eh, zadání na [PROJECT3], který bude součástí soutěžního workshopu na [PROJECT19], tak to tam dáváme dohromady s lidma z kanceláře pana [PERSON35].
+Chci se vrhnout na [PROJECT21], na kterou jsem se ještě nevrhnul. 
+A měl bych prosbu, jestli byste mohli na vaší sekční poradě s [PERSON3] a s [PERSON14] otevřít téma rekonstrukce [PROJECT35], která asi visí na městský části už od 2015, nechávali zpracovávat nějakou studii, kterou by asi bylo potřeba aktualizovat. 
+Bylo by potřeba, aby městská část rozhodla, jestli tu ulici zjednosměrní nebo ne. 
+Ale jde o to, že v souvislosti s připravovanou akcí [ORGANIZATION12] na bezbariérový zpřístupnění stanice metra, tak se tam plánuje výluka tramvají celý [PROJECT35] a bylo by dobrý do tý doby mít na stole i projekt na tu ulici na rekonstrukci celou, aby se to prostě zkoordinovalo a udělalo obojí najednou. 
+A je potřeba se domluvit jak na městskou část, jak ji donutit, aby začala prostě konat v týhle věci.
+(PERSON15) Aha, jo tak to je na úplně nejvyšší úroveň.
+(PERSON32) Ano. 
+(PERSON15) Jo, tak jo, tak to já se tady poradím, jak dál. 
+(PERSON32) [PERSON14] o tom ví. 
+Já jsem jí teď psal mail kvůli, kvůli ještě jiný akci v tom právě kvůli nějakému přechodu. 
+A je to přes to všechno tak v pytlíku a bylo by právě třeba, právě do toho kopnout pořádně. 
+(PERSON15) Jo a nevíš, kdy ten [ORGANIZATION12] tam plánuje výluku?
+(PERSON32) To zatím nevíme. 
+Oni zatím jakoby teď se dostávají teprve za studii proveditelnosti od [PERSON21], ale pokud, ale prostě pracujou na tom na rozdíl od tý ulice, kde se prostě podle mě neděje už čtyři roky nic. 
+(PERSON15) Jo.
+(PERSON32) Tak by bylo dobrý, to zase rozhejbat, no. 
+Ale je to na městskou část tohle prostě.
+(PERSON15) Dobře.
+(PERSON32) Jinak nic nemám.
+Děkuju.
+(PERSON15) Tak dík.
+[PERSON28].
+(PERSON28) Ahoj.
+(PERSON15) Ahoj. 
+(PERSON28) Já nic nemám.
+[PERSON26], to řekla myslím všechno.
+Nic novýho, nic zajímavýho.
+Všechno dobrý.
+(PERSON15) Jo, vlastně to je lepší než mít zprávu, že jsou nějaký průšvihy.
+(PERSON28) Nic se neděje.
+O ničem nevím.
+(PERSON15) Dobře.
+Eh, půjdu po kancelářích, tak teď tam sedí [PERSON37], že jo?
+[PERSON37].
+(PERSON37) Já jsem teďko likvidoval takovou plejádu těchhlenstěch mi-, mikro spisů všelijakých uliček a dláždění a tak dále. 
+Jenom třeba jak jsem ti posílal [PROJECT13], jo. 
+Tak to je ulice, která byla zadlážděna dlažbou, tou drobnou žulovou.
+Byla hezká. 
+Půlka jí byla dlážděná, půlka jí byla voflastrovaná přes dlažbu asfaltem. 
+A tihlecti hoši z toho [ORGANIZATION14], potažmo s tím projektantem řekli, že to všechno bude celý asfaltový. 
+Mluvil jsem o tom s [PERSON27], ten odpadnul, a to [ORGANIZATION14] třebas řekne, že to nebude dělat z tý dlažby zpátky, protože to má tři roky naplánovaný a má na to rámec finanční třeba, jo. 
+Takže pak, když po nás chce koncepční vyjádření, tak mu může napsat třebas, že nás bolí koleno nebo něco takového. 
+Je to hloupý. 
+No tak to je jenom k těm ulicím, k ulicím taky. 
+Letí na mě jeden provider [ORGANIZATION21], trubek za druhým a nikdo nemá kam dávat ty Antoníčky, jo. 
+Takže včera jsem mluvil s pánem ze Zlína, kterej vůbec se nechytá na travnatej měsíček na křižovatku práskne takovejdle kůl, a když mu říkám, že to tam nemůže bejt, tak neví, kam by to dal. 
+Je to docela složité, protože kolem jsou ještě ta zařízení vod pre, která jsou mnohdy prehistorická a jsou téměř v havarijní a když jim říkám, aby to sdružovali, tak zase oni musej žádat ty majitele plotů a pozemků a nedaří se to. 
+A tíhlecti venkovští tvůrci s tím mají velkej problém a trvá mě to třeba dva měsíce, než mně řekne, že ty majitelé s tím nesouhlasili. 
+Tak, tak co má dělat, se mě zeptá a já mu říkám, přečtěte si naše pořekadlo o veřejném prostoru. 
+To je všechno. 
+Dnes dopíšu ještě jeden dopis opět na Braník, na prodej pozemků. 
+Jenom chci konstatovat, že na žádosti z roku 2015 je napsáno, prosím, vyjádřete se obratem. 
+Tak tu jsem dostal minulej tejden. 
+Byla samozřejmě bez geometrickýho plánu. 
+Pozemek, kterej, o kterej jde o prodej, když si vyklepete, tak je neznámej. 
+A dneska mě paní na potřetí poslala novým mailem novej voddělovák. 
+Takže až přijdu domu, tak to vypravím a zbavím se toho.
+[PERSON15] a čtu si ty [ORGANIZATION11], neodkládám to, ale teď bych na to jako [PERSON32] na [PROJECT35] lépe řečeno na [PROJECT21], nastoupil. 
+(PERSON15) Supr. 
+Jo.
+(PERSON37) Takže, takže, ne, nekličkuju před [ORGANIZATION11], ale nedařilo se mi to. 
+(PERSON15) Já chápu, že si chceš vyčistit stůl, jak mi to chodí všechno. 
+To jsem pochopila. 
+(PERSON37) Akorát třeba mám docela delikátní řešení ještě jedno, co jsem ti psal včera do mailu večer, a to je [PROJECT11], s kterou komunikujeme se [PERSON11] vod jara a s městskou částí. 
+Oni si chtějí přistavět školu, chtějí si kupovat pozemky a já říkám, ale musíte bejt domluvený s městskou částí, páč když vám to zabije, tak to nebude vůbec.
+Pozemků chtějí poměrně dosti. 
+Já bych jim všechny nedoporučil. 
+Volám pořád tomu jejich zmocněnci, každých tři neděle s ním mluvím. 
+Dnes jsem mu volal naposled. 
+Nebere to. 
+Je to obtížné. 
+Pravděpodobně to budeme muset ukončit s naší vyšší moci, protože to trvá příliš dlouho. 
+A to jsou takový evergreeny, který jdou obtížně rozlousknout. 
+(PERSON15) Jo.
+(PERSON37) Vono na to má dělat projekt je [ORGANIZATION20], a ta městská část se bojí, že když tý škole povolí koupi pozemků, že tam je RD vymlaskne bytové domy potom.
+(PERSON15) Jo.
+(PERSON37) Jo, takže to je zhruba zatím všechno.
+Za mě.
+(PERSON15) Děkuju.
+(PERSON37) Prosím.
+(PERSON15) [PERSON17], [PERSON17].
+(PERSON17) Já asi nic novýho nemám pořád tak nějak. 
+Teď se nám začínají scházet připomínky na [PROJECT24]. 
+Tak to bude potřeba dát dohromady. 
+K tomu udělám [PROJECT4], a tu dopravní analýzu musím do zítřka přečíst.
+A [PERSON39] spisy se tak nějak snažím odpravovat, co tam jsou.
+(PERSON15) To seš hodná.
+A má [PERSON31] připravenej ten model pro ty baráčky? 
+Že bysme to těm modelářům už poslali? 
+(PERSON37) Jistě.
+(PERSON31) Ahoj.
+Mám a jenom tam ještě musím udělat to podzemní podlaží, protože jsme řekli, aby se to mohlo nějak dál posouvat, tak to tam.
+(PERSON15) Tak jo, budeme jim to moc poslat už brzo? 
+(PERSON31) Jo, já jsem jako, že v pátek jsem myslel, že to udělám a hnedka můžu poslat, no. 
+(PERSON31) Dobře, já jsem chtěla, aby už nám tenhle tejden dali nabídku, víš cenovou.
+Oni ji bez toho nedaj. 
+Jakmile to půjde, tak to prosím tě pošli. 
+(PERSON15) Tak [PERSON4], vidím tě tam.
+(PERSON4) No ahoj, ahoj.
+Já v podstatě všechno tak nějak běží, spisy choděj.
+Občas ti něco tak pošlu zase.
+Nemám nic novýho. 
+(PERSON15) No, my se uvidím příští tejden s těma stratégama, že jo, o tom průmyslu. 
+(PERSON4) Jo, a budeme to mít připravený se [PERSON8]. 
+(PERSON15) Bezvadný.
+Bezva, tak jo.
+Tak [PERSON12] nevidím.
+Ta nám chybí.
+[PERSON19]?
+Zdravím tě.
+(PERSON19) Taky, taky zdravím, tebe i všechny ostatní. 
+(PERSON15) Děkujem. 
+(PERSON19) A také chtěl jsem se akorát zeptat ty eji dvě, co jsem dělal ty už obě odešly? 
+Nebyl tam žádný problém? 
+(PERSON15) Hele, ta první už přišla dokonce zpátky vod paní [PERSON7], tak ta škola.
+To v podstatě vopsali. 
+No a ta [PROJECT31], ta odešla z [ORGANIZATION7] po konzultaci se [PERSON2] a [PERSON35], ale to napsali vod [PERSON29], to nevíme. 
+To ještě neposlali zpátky.
+Voni maj termín myslím toho pětadvacátýho tak, že to tam asi celý překousávaj. 
+Nevíme. 
+Jo, jakmile to pošlou i k nám v kopii, tak ti to dám. 
+(PERSON19) Dobře, tak jinak nic novýho nemám kromě novýho monitoru tady na stole, kterej jsem si.
+(PERSON15) A děkuju za ty [PROJECT40], jak jsi k tomu dohledal všechny ty durka a podobně. 
+(PERSON19) Jo, kdyby ještě něco chtěli, tak samozřejmě ještě něco dohledám to, že to všechno má svoji vývoj, historii, že jo. 
+Takže zapátrám v paměti nebo nějakých prostě dalších dokumentech. 
+No, protože ono vlastně ty [PROJECT40], ty [PROJECT40] se hlavně řešily před těma patnácti lety tou změnou, že jo, která tam zanesla takovýdle věci, jako teďka třeba řešíme ten areál, že byl v zeleni a, a, že vlastně je tam pořád a todle, no, i s městskou částí třeba to můžeme potom řešit. 
+Tak to je všechno za mě.
+(PERSON15) Jo.
+[PERSON6], chceš nám něco říct ještě? 
+Bych tě nevyvolávala jen kvůli [PROJECT44]. 
+(PERSON6) No, já prosím jsem se chtěla zeptat, jestli jste někdo už zkoušel, jak nám teďka chodí ty povinná školení. 
+Je to v emailu, jestli jste si to už pouštěli, nebo jak si to mám udělat.
+Ono je to asi časově neomezený, že si to jako můžu pustit podle sebe, kdy chci nebo jestli s tím máte už nějakou zkušenost? 
+(PERSON28) [PERSON6], myslíš to BOZP?
+(PERSON6) No, já tam mám nějaký, nějaký tři školení jako řidičů a ještě nějaký dva. 
+(PERSON28) Ale tak časově neomezený to podle mě není.
+Mně včera přišel upozorňující email, že už mám na to asi jenom tejden, ale zatím jsem se tím nezabejvala. 
+Takže nevím.
+(PERSON20) No já myslím, že tam byl termín 17. 11. 
+V tom prvním emailu, co to přišlo. 
+Nebo něco takovýho. 
+(PERSON15) No, ale prej nás budou upomínat, dokavaď to neuděláme. 
+(PERSON39) Já vás přeruším a upřesním. 
+Včera jsem si udělal školení BOZP online byl tam termín do, myslím, že do osmnáctýho jedenáctý. 
+Ten termín byl danej nějak jednadvaceti dnama od toho, co nám to poslali poprvé.
+Do tří neděl by se to mělo udělat.
+(PERSON28) Jo, to máš pravdu, tak to tam bylo, no.
+(PERSON39) Takže je na to přibližně tejden ještě. 
+A je to docela sranda. 
+Dá se to zvládnout asi za dvacet minut, teda myslím to BOZP, pak je tam ještě školení řidičů a ještě jedno, který -
+(PERSON28) Požární ochrana.
+(PERSON39) No, takže dá se jako udělat rychlejc, než když tam člověk sedí normálně.
+(PERSON6) Jo a můžu se teda zeptat.
+Takže si to mám jenom jako pustit, poslechnout a nemusím tam nic vyplňovat? 
+(PERSON39) Ne, tam se nic neposlouchá.
+(PERSON32) To je taková prezentace jakoby.
+(PERSON39) To je taková prezentace, kde ty si tou prezentací listuješ u každýho, každý tý stránky ti to ukáže vlastně na kolika procentech z tý prezentace seš, čili se tím proklikáváš na konec a na konci je test, kterej má, teď nevím, asi šest nebo sedm otázek.
+(PERSON8) Šest nebo pět dokonce.
+(PERSON19) Banálních, takže tam jako zaklikáš, co si myslíš a na konci potom si necháš vytisknout nebo necháš si poslat do mailu, eh, certifikát, jakože jsi to absolvovala. 
+Je to taková legrace. 
+(PERSON6) Dobře, tak děkuju.
+(PERSON8) [PERSON6], když to rozklikneš, tak vono tě to docela jednoduše navede. 
+Není to nic složitého. 
+Ten tam budeš mít tři ty školení a ono ti to řekne. 
+Teďka si spustím jedno, budeš tam mít tu prezentaci. 
+Jak [PERSON39] říkal, není to nic komplikovanýho.
+(PERSON32) A dá se to, myslím, přerušit a když na to prostě až za hodinu třeba navážeš, tak navážeš tam, kde jsi skončila. 
+(PERSON15) Tak jo, tak snad se s tím vypořádáme.
+Eh, [PERSON40]?
+(PERSON40) Jsem slyšet?
+Ano?
+Já jsem ti poslal pro tu kancelář koordinace ten [PROJECT16], co na mě chtěli.
+(PERSON15) Ano.
+(PERSON40) No, ještě jsem se s nima nebavil, jestli jim to takhle vyhovuje.
+(PERSON15) Asi jo.
+(PERSON40) A víc asi nového nemám. 
+Spisy tady se nějak přicházejí a odcházejí, to je koloběh života.
+(PERSON15) Jo.
+(PERSON40) To jsme se bavili včera, takže nic nového. 
+Děkuji. 
+(PERSON15) [PERSON39], je něco novýho? 
+(PERSON39) No, já jenom jsem chtěl vlastně, je mě slyšet?
+(PERSON15) Jo.
+(PERSON39) Eh, připomenout [PERSON31] to, co už jsmu vlastně připomněla nebo ty podklady pro ten model. 
+Já zatím mám vod [PERSON17] ty vrstevnice, takže já nevím, čím víc toho budu mít, co se dá jako pro ně, z jejich pohledu použít, tak já jim to pak pošlu a domluvím se s nima jako na nějaký konkrétních výstupech, tak to je asi tohle. 
+Jinak jsem [PERSON17] jenom dneska psal, že na tu [ORGANIZATION17] jsem řekl, že napíšu a ještě se tam podívám, co jako bych mohl udělat já, takový ty aby za mě zas všichni všechno nemuseli dělat.
+A jinak nic novýho není, no.
+Snad.
+Nevím. 
+No, což je dobrá zpráva.
+(PERSON15) Jo, ano.
+Tak jo.
+[PERSON18], jak se máte?
+(PERSON15) Tak ještě mikrofon. 
+(PERSON18) Tak já se mám dobře, děkuju. 
+Děkuju za optání.
+Všechny ty důležitý věci jsem se nějak průběžně se snažil, abyste byla v obraze, co jsem řešil, co se řešilo společně, abyste věděla, kam se to vyvíjelo. 
+Zase ještě mám podklady někomu poslat, teď to tady ještě dneska, za chviličku pošlu těm, k tomu trianglu v [PROJECT5], jak jsme měli minulý týden to jednání. 
+Tak nic k tomu mu nemám. 
+Já jsem rád, že kolegové <unintelligible/> se teďka zabývají těmi, těmi parkoviště, že? 
+Jenom jsem rád, že kolekové z [ORGANIZATION4] se teďka zabývají těmi, těmi parkovišti, protože před časem jsme o tom mluvili, že to vlastně nějak jak kdyby zapadlo. 
+Těch, těch ploch je tam docela hodně, bohužel už se některý třeba na tom Proseku mezi tím jako prodaly, ale to bylo tehdy holt tak nastavený, že těch ploch nechtěli, nemělo bejt tolik no na počátku. 
+Já nemám nic společnýho, jenom potom bych potřeboval mluvit s [PERSON5], až ke konci schůzky, jestli bude možný.
+Mám nějaký dotaz na tvým území.
+Její sousedící.
+(PERSON5) Jasný.
+(PERSON18) Jo, děkuju, děkuju pěkně. 
+(PERSON15) Tak [PERSON5], ráda tě vidím. 
+(PERSON20) No tys už říkala na začátku, že jsme dokončili to koncepční zadání na [PROJECT8], což si myslím, že je i pro [ORGANIZATION7] docela velký úspěch po těch letech, co jsme se tam snažili prosazovat nějaké úpravě veřejnýho prostoru týhle křižovatky. 
+A je to teda na základě víc než ročního tlaku na [PERSON2], aby něco takovýho posunoul, takže si myslím, že to je fakt super. 
+A pak jsme taky v posledních dvou, dvou tejdnech připravovali s dopravákama zakázku na výběrových řízení na urbanistickou studii na [PROJECT7]. 
+To už se to taky nějak chýlí ke konci. 
+A pak vlastně jsme.
+Teď jsme čerstvě podepsali smlouvu s [ORGANIZATION8] prověřovací studii na umístění základní školy na [PROJECT36]. 
+No, pak jsme ještě řešili teďka rekonstrukci tramvajový trati [PROJECT6] [PROJECT17], protože tam má dopravní podnik projektanta a nějak nechce spolupracovat podle našich představ klasicky. 
+Takže takovýhle klasický strasti a tak a jenom souhlasím s [PERSON37], jak říkal s [PERSON37], jak mluvil o těch sítích a HD a tak dále. 
+Věcech, který se na mě taky docela valej. 
+Koukala jsem právě do spisovky, že tam toho mám teďko docela dost. 
+A upřímně, moc jako nevím. 
+Já jsem se i koukala, kolik toho, kdo má a zjistila jsem, že toho každej má dost.
+Že jsem si tak naivně myslela, jestli třeba by někdo nevypomohl, no. 
+Ale no nic, no, tak jenom mě teď, ale jenom mě prostě ještě napadlo, když jsme tak měli předtím tu sekční poradu, kde vlastně [PERSON14] prezentovala všechny ty projekty, kterejma se [ORGANIZATION10] zabejvá, ale jakoby ukazovala i projekty, který už vlastně jakoby [ORGANIZATION10] teďko intenzivně neřeší, ale jsou to nějaký věci, kde se [ORGANIZATION7] prostě nějak podílí na tom, aby ty projekty prostě fungovaly alespoň trošku podle našich představ. 
+Tak mně jako trošku přijde, že je tady spousta dalších projektů, vo kterejch se třeba úplně nemluví nebo vo nich jako ta sekce celá nemá povědomí. 
+Viz jenom to, co jsem před chviličkou vyjmenovala, že třeba jako já na tom nějak participuju. 
+A jsem pak jako často jedinej člověk, kterej tam zajišťuje ten koncepční přístup, tak nevím, jako jestli by třeba, eh, jestli takhle, jestli jako naší sekci vlastně nebo jako ty lidi z jinejch kanceláří taky vlastně nezajímá, co všechno děláme za projekty, protože já si myslím, že to nejsou jenom ty tři studie, co byly vodprezentovaný, že se na nich, že se na nich nějak podílíme, ale že to je spousta dalších věcí. 
+Takže to jenom takhle. 
+To mě jenom takhle napadlo, no. 
+(PERSON15) No to máš určitě pravdu a já jsem to chtěla pojmout zeširoka a mně nedali čas. 
+Prostě tam šlo vo minuty, že to bylo nastavený, že se všichni musíme vejít do hodiny, no. 
+(PERSON20) Jojo.
+No a pak jenom jako kdybych měla pokračovat. 
+Já vím, že spousta z vás má x dalších projektů, které, vo kterejch vím, že prostě na nich trávili spoustu času a jsou to přesně taky takovýhle případy, o kterých se jakoby napříč [ORGANIZATION7] moc nemluví, protože to nejsou přesně projekty, kde my si tady jako je sami pipláme, ale prostě nějakým způsobem na nich jenom participujeme. 
+Ale myslím si, že nám právě jakoby zabírají spoustu času. 
+A no nic, no jenom jakože mi přišlo, že prostě se to tak trošičku opomíjí. 
+Viz jako nebo prostě jenom třeba studie na [PROJECT36], kterou už tady tlačím, nevím, jak dlouho a je to takový jako trošku. 
+A taky se o tom moc moc nemluví, no. 
+(PERSON15) Tak to dáme příště na setkání a já to slyším vod všech tohleto. 
+(PERSON20) Já, to já, já, mým cílem není, aby jsme tady, jakože nechci dělat jako ublíženého a v tom smyslu, že teď jako potřebu někomu odprezentovat, na čem pracuju, ale já spíš se sama sebe ptám, jestli je důležité, jestli jakoby já mám ty projekty pořád v tomdle tímhle způsobem sledovat a angažovat se v nich, když jakoby nemám pocit, že je na ně kladeny nějakej důraz v rámci tý sekce. 
+To jako je jenom, to jenom takhle, no. 
+(PERSON15) Jako my jsme v situaci, že se všichni samozřejmě spoléhají na to, že to tlačit budeš. 
+Jo, jako když se, když jednou někdo dostane nějaký úkol, tak já teda aspoň si myslím nebo já jsem ráda, že všichni by to dělali tak jako ty. 
+Prostě, že když někdo bude třeba teďko tlačit před sebou [PROJECT26], tak to bude tlačit a bude ten nositel tý, toho projektu, toho záměru. 
+A takhle by to asi mělo fungovat. 
+Pak je další věc, že ty vostatní třeba vo to nemají zájem, dozvědět. 
+Nebo když to někdo dělá třeba o patro níž, tak vo tom taky vostatní nevědí.
+Jako ta komunikace je slabý místo.
+To určitě, jo.
+A takže jak to děláš ty, tak to si myslím, že je úplně vzorovej přístup. 
+Další věc je, že ty máš těchhle těch záměrů strašně moc. 
+To je blbý, jo, že prostě to je [PROJECT6], to je [PROJECT18], to je [PROJECT36] a všechno tlačíš vlastně stejnou intenzitou, protože seš hrozně poctivá. 
+(PERSON20) No, ale já jako já zase, já prostě nechci mluvit jako vo sobě. 
+Mně to spíš přijde jako obecně, že my naší nějakou prací je teda připravovat vyjádření, komunikovat o těch projektech, a tak. 
+Ale myslím si, že je tady právě jakoby spousta těch projektů, kde my často plníme tu roli stejnou jako plní pak třeba někdo v [ORGANIZATION10], kdo má na starosti určitej projekt. 
+Ale přijde mi, že vo tom projektu už pak jakoby se napříč tou sekcí tolik nemluví, jako že by byl důležitej, jo.
+Tohleto mně jenom přijde. 
+A myslím si, že tohle je mnohem víc, ať už prostě, nevím, třeba [PERSON8] řeší tu [PROJECT29]. 
+Jakože těch věcí je fakt spousta, ale jako nemám pocit, že by prostě to jako zaznívalo, že to jsou důležití záležitosti. 
+To je všechno. 
+(PERSON15) Tak to je moje chyba, že vám nedávám zpětnou vazbu, ale na těch sekčních poradách nebo na poradách, jako mezisekčních i na naší sekci, se vždycky tohleto zmiňuje nebo v zápise pak je poznamenáno, že prostě [PROJECT36] trvá. 
+Jo, ví se o tom, když se jednou zadá nějaká, nějaký koncepční zadání, furt se sleduje, jestli už je hotový nebo není hotový, jo. 
+A při nejmenším vo tom ví [PERSON14], [PERSON1], já. 
+Takže tohle asi bysem, já nevím, jestli vám tydlety zápisy z těch jako interních porad mám posílat. 
+Mně přišlo, že ne, protože tam se opakuje to, co je na poradě vedení. 
+Pak se tam zopakujou tydle ty věci, který mně přijdou, že jako probíhají kontinuálně, pak se tam nějaký věci jsou tam informace, který by se zase se třeba neměly vůbec dostat ven. 
+Takže proto třeba já ani neprezentuju tady na poradě něco, co se třeba nepovedlo nebo tak, takže. 
+Ale ví se o tom, jo.
+Určitě se o všem ví.
+Jako třeba teďko [PERSON14] jako dala soupis všeho, co voni dělaj. 
+Tak já můžu příště dát seznam nebo prezentovat, co všechno děláme za koncepční zadání nebo co jsme za tenhle rok udělali, jo.
+Že to třeba na [ORGANIZATION10] vidí jenom pár lidí, který se s náma na tom podíleli. 
+A ostatní to nevědí. 
+Tak jako máš pravdu, že bych nás asi měla prezentovat líp, jo. 
+(PERSON8) Já jenom, jestli k tomu můžu komentář. 
+Já nevím, jestli [PERSON20] chápu, ale z mýho pohledu já to trochu vidím tak, že [ORGANIZATION10] má většinou ty projekty jako ucelený, jeden a vedou ho. 
+A my často máme projekty, o kterých když to řeknu skoro ani nevíš ty,  protože je řešíme my, jakožto koncepční jako držitelé tý koncepce, ale řekněme jsou, jsou projednávaný a nikdo o tom pomalu ani neví, že se projednávaj, protože to je jakoby náplní naší práce. 
+Tak já, já třeba jako osobně vnímám to, že zrovna na tý poradě sekce bych řekla, že tam to asi tak jako bylo vidět to, že ty vedlejší kanceláře mají ty projekty, který mají přímo pod sebou a nic jinýho nedělaj. 
+A je vidět to, že mají projekt prostě, eh, [PROJECT46], projekt prostě [PROJECT9] a podobně. 
+(PERSON37) [PROJECT34]. 
+(PERSON8) Přesně tak, [PROJECT34].
+A já tedy jako skoro nebo ne, já, ale jako myslím si, že všichni tady řešíme projekty, který když to řeknu jsou na podobný úrovni. 
+Jenom nejsou tak vypichovaný a třeba o nich ani nikdo neví, že se řeší právě kvůli tomu, že to děláme v rámci naší náplní práce. 
+A já třeba teďka řeším spolu právě třeba i s dalšími kancelářema něco, co ve finále, ano, je to nějaká ulice, ale v kontextu jakoby jinejch projektů není tak zajímavá, je důležitá, takže tohle tam třeba pomalu ani  nikdo neví, že ji řeším. 
+Ale podle mě je to úplně stejně důležitý jako třeba [PERSON20] [PROJECT17] a podobně. 
+Jenom prostě se o tom nemluví. 
+(PERSON37) Jestli můžu ještě vteřinku k tomuhletomu.
+Todle je všechnu důležitý, protože třeba my děláme [PROJECT20], která vede z Nuslí až na Pankrác. 
+Napojuje se na to několik disciplín, napojujou se na to ta rezidua z těch studií bývalejch [ORGANIZATION7]. 
+A nemá to vůbec žádnou zpětnou vazbu. 
+Já to neříkám proto, že tu chci negovat. 
+Já říkám jenom dělejme to, nemluvme o tom, co děláme, ale co chceme dělat. 
+A je taky velmi důležitý, když dámy dělaj takovýdle řezy, aby o tom všichni jsme se na schůzi se dozvěděli a dozvěděli se hlavně tu zpětnou vazbu. 
+To znamená, jak se jim to daří, co se jim v tom nedaří, co by bylo dobré do toho vypíchnout? 
+A co by bylo dobré, aby někdo jim pomoh zajišťovat, aby ty věci byly komplexnější, protože každej sektorář musí vědět, kam se ubírá město.
+A musí vědět, kde to jde a kde to nejde.
+Kde se něco koná ve větším, jinde v menším měřítku a jak se to daří? 
+Protože my teoreticky vo sobě nevíme, jo. 
+A je velmi důležitý, když se dělá [PROJECT36] a je [PERSON20] řekne, že ho před sebou tlačí. 
+A teď nikdo neví, co to znamená vůbec, jestli tam stojí na barikádě s vyceděnou krví anebo jestli jede na chatu, takže tohlecto by bylo dobré, aby, abychom se potom taky taky něco dozvěděli. 
+Takže na schůzi bysme si neměli říkat, že toho moc není, ale každej by měl takovoudle větší věc vystřelit. 
+Já se s tím setkávám u sebe na tý [ORGANIZATION16], protože to mám po [PERSON33], a tam jsou některé ulice, která, které ona, takzvaně koncepčně vystřelila a chlubila se tím, že to udělá za sobotu a za neděli koncepci třeba na to. 
+A teďko jsou s tím poměrně jako velký chronický nedorozumění, nedaří se to. 
+[PROJECT15], která spojuje Nusle s tím, s tou další zástavbou, tak v její koncepci ona je dva kilometry dlouhá a přibyl, a ocitnul se v ní jeden strom, jo třeba. 
+To znamená, ale přitom se to nazývá makle a takhle. 
+Takže všechno už jsem řekl. 
+Bylo by myslím dobré, aby, aby my sektoráři mezi sebou jsme věděli, na jaký úrovni se to daří dělat a jaký máme problémy. 
+Děkuju.
+(PERSON20) Jo, já bych jenom chtěla ještě prostě fakt stručně doplnit. 
+Možná jsem se jako třeba špatně vyjádřila, ale já jenom sama si vlastně nejsem jistá tím, co je teda důležitý, když jako je to prezentovaný tak, i to bylo na tý sekční poradě, že naší hlavní prací je psaní vyjadřování, vyjádření. 
+Ale já sama jakoby vím, že upřednostňuju trošku jinou práci a pak na ty vyjádření úplně nemám čas. 
+A vlastně jakoby nevím, jestli teda to dělám správně nebo špatně, jo. 
+Že prostě a teď jsme se tady bavili vo tom, že jako každý řešíme nějaký projekty a tak. 
+A já sama vím, že jim věnuju spoustu času. 
+Ale teď vlastně nevím, jestli teda my takhle máme pracovat? 
+Nebo se mám spíš teda na některý ty věci, jakoby mám vykašlat a mám se prostě věnovat hlavně těm vyjádřením. 
+Jo, jakože teda, já fakt nevím prostě, eh, co je teda důležitý, no.
+To je všechno asi.
+(PERSON5) Já se teda taky ještě přidám. 
+Mně to jenom jako připomíná to, vo čem jsme spolu mluvili, když jsme spolu mluvili mezi čtyřma očima, eh, že je prostě je fakt potřeba se zamyslet nad tím, jestli se ta situace nezměnila a jestli teda bychom se neměli líp teda věnovat něčemu jinýmu.
+Jo jakože, jak říkala [PERSON20], prostě těm koncepcím a tomuhle všemu a že prostě ty vyjádření k něčemu smysl dávají, k něčemu je nedávaj, ale, eh, asi by to teda chtělo si říct jakoby, co je teda tou nápní a tím cílem hlavně.
+(PERSON15) Tak na to vám teď nedám vodpověď, ale já, když jsem nastoupila na tohleto místo, tak mně [PERSON1] řikal, že není rád, když se jenom píšou vyjádření, a že by byl rád a že snad tlumočí i vaše přání, že byste se víc chtěli zapojit do koncepční práce. 
+Takže by chtěl, aby teda celá naše kancelář víc koncepčně pracovala. 
+Takže proto se na nás sesypaly tyhlety věci. 
+Některý už v tý době jste dělali, než jsem přišla a některý přibíráme. 
+Jestli jich teda přibíráme moc, tak já to začnu vodmítat, jo.
+(PERSON5) Takhle to nebylo myšlený.
+(PERSON39) Můžu do toho vstoupit?
+(PERSON15) Marně píše vyjádření.
+(PERSON39) Já bych do toho vstoupil a zareagoval na [PERSON20] a na [PERSON8]. 
+Já si myslím, že tam nejde o to, že by nechtěli dělat koncepční práci nebo cokoliv takovýho. 
+Ale vlastně to funguje tak nějak podivně v tom smyslu, že i když už se u nás něco dělá, jako třeba jako studie na [PROJECT24], která si myslím, že není úplně bezvýznamná. 
+Tak vlastně nikde není viditelná kromě naší kanceláře.
+Není na webu [ORGANIZATION7] pro jsou naše projekty, kde jsou všechny možný koncepční záležitosti a projekty jako je [PROJECT46] a já nevím co.
+Ale tohlensto tam třeba není. 
+(PERSON15) No, nemůžeš to tam dát, když to není projednaný. 
+To prostě by jsme si podkopali nohy. 
+(PERSON39) No, ne, ale tak jako tam jsou i projekty, na kterých se pracuje, ne jenom který jsou, jestli se teda nepletu, možná se pletu, ale myslím si, že tam není, jenom, že tam nejsou jenom projekty, který už jsou hotový, tam jsou i rozpracovaný projekty. 
+Nezaregistroval jsem to ani třeba na poradách vedení, že by bylo tohlensto bylo nějakým způsobem jako důležitý. 
+A mám takovej pocit, že je to spíš tím, že naše kancelář je vnímaná jako zkrátka taková ta kancelář, která dělá tu administrativní práci, která není moc podstatná a takový ty věci, který jsou jako zajímavý pro město a důležitý, tak že se dělaj právě v těch ostatních kanceláří. 
+To si myslím, že takhle možná trochu je. 
+(PERSON5) A to konto, když něco přijde, něco, co bychom jako mohli vlastně dělat my nebo spíš měli, tak je nám to sebráno a je to přiděleno jiný kanceláři. 
+A já přesně jakoby nerozumím na základě čeho. 
+Na základě toho, že já nevím, jestli tam jsou dravější lidi nebo se ta kancelář prostě jenom jinak jmenuje nebo -
+Jo, jako tohleto mi prostě není jasný. 
+No a asi tedy jako, já si myslím, že nikdo nechce, aby to vyznělo tak, že nechceme dělat tuhlenstu práci. 
+V žádném případě ne, akorát problém je v tom je, že samozřejmě ty věci se objevujou tyhlensty koncepční velký a takhle.
+Já si myslím, že je to fakt důležitý a že je to moc dobře. 
+A akorát problém je v tom, že ta původní naplň, ty vyjádření, který možná už jako teda nejsou to gró nebo neměly by bejt jenom ta jedna hlavní věc, na který my pracujem, tak to prostě pořád zůstává v nezměněným objemu, jo. 
+A člověk má určitou kapacitu, takže. 
+(PERSON37) Já jsem, já jsem ještě chtěl třeba dodat, že jenom zprávy ze [ORGANIZATION1]. 
+Já jich mám doteď osm set padesát, jo.
+A měl bych je všechny číst. 
+A jak, jak říkáš, [PERSON15], bytové domy by se měly a budou muset dávat do mapy. 
+A my jsme je nikdy v životě neviděli. 
+Tam dostaneme akorát takovýdle vyrozumění, ale to vyrozumění je poměrně pro tu, pro ten urbanismus toho sektoru důležitý, že jo?
+A tak dále a tak dále. 
+Akorát je to pekelně časově náročný. 
+A samozřejmě, že to, co říkají, dámy, že, že nikdo nechce psát sedm metrů čtverečních pozemků nebo asfaltovej chodníček, ale chce dělat záležitost, která alespoň s tou architekturu má něco společného. 
+Děkuju.
+(PERSON17) Já se ještě přidám, já, já si myslím, že jako problém je právě v tom, co říkala [PERSON5], že nám neubývá ten objem těch spisů, že já třeba bych měla dělat [PROJECT24], ale, ale vlastně pořád mi tady zbývaj studie a vlastně i nějaký třeba pomáhání tomu [PERSON39]. 
+A na ten [PROJECT24] toho často tak moc nezbývá. 
+A myslím si, že podobně jsou na tom i ostatní, co, co se mnou na tom [PROJECT24] dělaj, že v podstatě na to ten čas jakoby vymezenej není. 
+Není tam vymezený čas na ty koncepce, a to by spíš asi teda bylo na tom se rozhodnout, jestli opravdu se chceme ke všemu vyjadřovat. 
+I s ohledem na to, že naše vyjádření už v dnešní době ne vždycky, eh,  má tak velký význam jako měl třeba před tím rokem dva tisíce osmnáct, kdy ještě nebyl [ORGANIZATION3] a nedával závazná souhlasné stanoviska, no. 
+(PERSON15) No tak z týhle situace vidím jenom velmi nepopulární východiska, který tady teď asi nebudu vůbec tlumočit, jo. 
+Tak já vám děkuju za vaše názory a asi dokončíme naše kolečko, protože z tohle není východisko. 
+[PERSON22], chceš nám něco říct.
+Kdy půjdem na hřbitov?
+(PERSON22) Dneska to nebude o hřbitovech, nebojte.
+Já se k tomu co tady zaznělo taky nebudu vyjadřovat, já si myslím, že každej čte mezi řádkama a tuší, co jako ta [PERSON15] teďka řekla naposled, že jo.
+Že prostě pracujete tam kde jste a tečka.
+Pokud někdo chce bejt architektem, tak asi musí bejt jinde.
+Je to vo tom jako mazlit svoje ego a každý to vnímá jiným způsobem.
+Někdo si ho mazlí v práci někdo jinde.
+Tečka.
+Já mám na stole samý čučky až na jednu, což je poprvý v historii mojí na [ORGANIZATION7], kdy je něco, co se mě jakoby dotýká velmi intimně.
+Protože je to [PROJECT14], na nájezdy na ten most, což znamená nájezd naší vesnice, takže je dost možné, že moje vyjádření bude velmi citově zabarvené, ještě nevím.
+Je to složitý a pochopitelně nejlepší řešení je tak drahý, že to nikdo nezaplatí. 
+Děkuju. 
+(PERSON15) A už se k tomu vyjádřilo [ORGANIZATION5]?
+(PERSON22) Jasně.
+(PERSON15) Jo.
+(PERSON22) No.
+Jsem s klukama v úzkém kontaktu.
+(PERSON15) Jo, tak na to se těším.
+(PERSON22) Vodfiltruju cyklisty a pak to vydám.
+(PERSON15) Jakože je shodíš z mostu, jo? 
+(PERSON22) Ne, ne, ne. 
+Jenom aby to nebylo jenom o cyklistech.
+(PERSON15) Dobře.
+(PERSON22) K čemuž to zatím spělo.
+(PERSON39) Chápu to tak, že [PERSON] přeloží cyklistickou řeč do normální řeči. 
+(PERSON22) Ano.
+(PERSON15) Hele, myslím, že jsem ještě nemluvila se [PERSON8] a s [PERSON5].
+(PERSON8) Tak u mě, eh, nevím, jestli nový, staronový pan architekt [PERSON24] se mi ozval ohledně dvou projektů, eh, těch výjimek ze stavební uzávěry, co tu leží už od jara. 
+A včera jsme měli jednání k jednomu z nich. 
+Druhý jednání máme zítra. 
+To včerejší si myslím, že šlo tím směrem, co jsme chtěli. 
+Takže během dneška to asi budu posílat na další kanceláře i panu architektu [PERSON1] a ve čtvrtek předpokládám, že to bude procesně podobně. 
+Takže jenom spíš pro informaci, že na [PROJECT23] se něco děje a že to vypadá, že se to bude posouvat. 
+Tak spíš teďka to půjde asi našim nějakým interním kolečkem, aby mi kdyžtak kolegové řekli, co případně jim máme dát ještě vidět, aby to zapracovali a, a tak. 
+A jinak [PROJECT29] ještě pořád nepřišla. 
+<censored/>
+Nevím, příští týden se ho znova hodlám zeptat, kdy to teda pošlou, ale pořád to tu není.
+To je asi u mě z těch zajímavejch věcí. 
+(PERSON15) Jo, děkuju.
+[PERSON5]?
+(PERSON5)  Já mám teďka asi takovou nejzajímavější věc, že jak jsem s dopravákama a i s [PERSON34] a tak řešila podobu nějakýho [PROJECT45] v Horních Počernicích, tak jak celou dobu [ORGANIZATION6] říkala, že tam nechce žádný dopravní propojení, tak teďka otočila o sto osmdesát stupňů a chce tam dopravní propojení, takže já jsem si teďka poslední dobou zabývala tím, že jsem hledala důkazy, že celou dobu to dopravní propojení nechtěli.
+(PERSON15) Děkuju moc.
+(PERSON5) Prosím?
+(PERSON15) Děkuju moc.
+A řekni mi, tam se změnil starosta teďka? 
+(PERSON5) Jojo, von se tam teďka, já mám pocit, jestli na jaře tam byl nějakej převrat a v současný době tam sedí bratr šéfa [ORGANIZATION1]. 
+Takže to je vlastně docela takový dobrý spojení. 
+(PERSON15) Jo.
+(PERSON5) No a jinak, jinak přemejšlím, asi u mě jako nic, nic jako zajímavýho, no. 
+Čekám na ty podklady k tomu [ORGANIZATION18]. 
+Hodně už jsme jako napsali už předtím, když jsme to nějakým způsobem projednávali a tak.
+(PERSON15) Dobře. 
+Ještě jsem zapomněla říct [PERSON20], že prej práce na [PROJECT30] budou pokračovat, že byly nějak chvíli zastavený a zase se to prej rozběhne.
+Tak je někdo na koho jsem nemyslela teda, tady asi pod dojmem diskuze.
+Poznatky z diskuze si nechávám tedy pro, ty nebudu zapisovat, ale nechávám si to v duši. 
+A bude to pro další řešení teda mejch následnejch rozhovorů s [PERSON1] a pak s [PERSON38] a vo smyslu teda naší kanceláře, vo který teda si musíme rozhodnout, jak bude dál pokračovat. 
+Tak vám všem děkuju. 
+Za tejden se asi neu-, jo, uvidíme, uvidíme, ale nevím, jestli budu mít dost novejch informací, protože předtím asi se nepodaří porada vedení. 
+Tak ráda jsem vás viděla. 
+A mějte se hezky. 
+Ahoj.
+(PERSON18) Ahoj.
+(PERSON22) Ahoj.
+(PERSON20) Ahoj.
+(PERSON39) Zdravím [PERSON37] a jeho návrh na přejmenování podniku pre na prehistorie mi nepřipadá špatný.
+(PERSON18) [PERSON5], můžu jenom?
+Já mám tam, prosím, dotaz, my tam řešíme nějaký území, tam u Vozovny.
+(PERSON28) Můžu se, [PERSON18], můžu se, promiň, do toho jenom přihlásit?
+Já dneska se mi povedlo to nahrávat.
+Mám vás nahrávat ještě nebo to už mám vypnout?
+(PERSON18) Né, to už nemusíš, to už nebude zápis.
+Tak to už můžeš vypnout.
+Děkuju a pošleš to.
+(PERSON28) Pošlu to tý, pošlu, pošlu, jo?
+(PERSON18) Úžasný, tak to, tleskám jste, seš šikovná.
+(PERSON28) Dobrý, tak jo, tak díky.
+Ahoj.
+(PERSON18) Zatím.
+Tak [PERSON5], to území se vyskytuje u tý ulice, ona se jmenuje [PROJECT38], je to jak je Poděbradská -

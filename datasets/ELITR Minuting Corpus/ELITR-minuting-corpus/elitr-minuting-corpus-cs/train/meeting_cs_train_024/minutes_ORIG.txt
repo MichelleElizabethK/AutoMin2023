@@ -1,0 +1,13 @@
+[OTHER1] schuzka, 4.8.2020
+
+- postup na knize
+- predchozí práce na knize
+- termíny dokoncení knihy
+- recenzenti pro knihu
+- motto knihy
+- zkušenosti s virtuálním ACL
+- recenze na EMNLP
+- aktuální koronavirová opatrení v Cesku a v Nemecku
+- svatba [PERSON29]
+- svatba [PERSON25]
+- spolecné výlety vlakem

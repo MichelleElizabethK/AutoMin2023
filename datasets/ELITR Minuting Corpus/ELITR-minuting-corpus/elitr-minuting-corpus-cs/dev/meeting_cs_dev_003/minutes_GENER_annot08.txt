@@ -1,0 +1,16 @@
+Přítomni
+[PERSON18], [PERSON4], [PERSON8], [PERSON11]
+
+Zmínilo se
+• řešeni Gaussiáni, kde určit hranici (pro [PERSON8] článek)
+• společný článek „[PERSON4] crosslingual“
+• jak se bude přesně jmenovat článek „How language neutral is multilingual BERT“
+• Fasteline, Giza, Bert – rozdíly, jak rozchodit Gizu
+• článek [PERSON18] a [PERSON8] – nečitelnost některých obrázků, jak spočítat precision, další poznámky k článku
+• [PERSON11] představil svůj článek
+• tabulky k článku SentEvalu
+
+Úkoly
+• [PERSON8] do pondělí napíše článek (nebo alespoň vygeneruje data), o kterém byla debata na začátku setkání 
+• [PERSON11] zjistí detaily k číslům v tabulkách k SentEvalu
+Vypracovala: [ANNOTATOR1]

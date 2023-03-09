@@ -1,0 +1,24 @@
+Účastníci: [PERSON6], [PERSON13], [PERSON1], [PERSON5]
+
+Účel schůzky: rozbor sekce Deep learning technics in Computer vision
+
+Datum schůzky: 24. 3. 2020
+
+Shrnutí schůzky:
+
+- je napsána sekce Deep learning technics in Computer vision
+- vysvětlit zkratku CV, že znamená computer vision
+- upravit větu, která začíná 2d na Two-dimensional
+- vysvělit Max-pooling two dimension
+- CNNka už se moc nepoužívají v NLP, transformery jsou lepší a jsou stejně rychlé
+- sekce 1.2.2 by měla mít úvod, kde se napíše, co se v sekci dozvíme, že to bude o [PERSON4], který zavedl používání ReLU a droppoutu
+- u I'mageNetu by se mělo vypíchnout, že tím, že byl I'mageNet, tak to drivovalo tady ten výzkum, a tak se zlepšoval ten I'mageNet, a díky tomu  přišly všechny inovace
+- 22.4. by měl být hotový text
+- u konvolučních sítích by se měly citovat CNNkový články, které to zavádějí
+- do 4.5. je možnost podat grant [ORGANIZATION5], zjisit jestli termín opravdu platí
+- zjisit, zda mohou být dva granty, kterou jsou na podobné téma s různýma lidma
+- do článku jsou předělány skoro všechny experimenty a měly by k nim připsat texty
+- místo git pullu udělat git pull rebase -  git pull rebase stáhne nový věci a změny aplikuje až za ty nový věci, a pak je tam lineární historie a dá se tam hledat
+- další schůzka příští týden
+
+Zapsala: [ANNOTATOR2]

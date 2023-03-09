@@ -1,0 +1,42 @@
+Účastníci: [PERSON4], [PERSON5], [PERSON12], [PERSON15], [PERSON1], [PERSON9], [PERSON10]
+
+Účel schůzky: postup práce při Deliverablu
+
+Datum schůzky: 27. 4. 2020
+
+
+Shrnutí schůzky:
+
+- dodržovat meeting každý týden
+
+- zkusit oslovit studenty, zda by neměli zájem zapojit se do projektu [OTHER2], protože začíná být nedostatek lidí
+
+- je potřeba sehnat někoho, kdo bude rozvíjet neautoregresivní překlad
+
+- je udělaný odkaz na Deliverable
+
+- je potřeba sestavit osnovu, zatím tam je Alban translation a [OTHER1]
+
+- Deliverable by se měl odevzdávat na konci června, ale spíš počítat s dřívějším termínem začátkem června
+
+- pro [ORGANIZATION7] se vytváří anotační rozhraní, sehnalo se 10 anotátorů, kteří by měli začít anotovat
+
+- [ORGANIZATION7] a [ORGANIZATION5] by potřebovali pro vlastní experiment u formulářů překlad z češtiny do angličtiny, je potřeba rozhodnout, zda se jim s tím pomůže
+
+- je možnost poslat článek o [OTHER1] do WMT, ale záleží jestli se stihne udělat do termínu
+
+- pokud se článek nestihne poslat do WMT, tak bude v Deliverablu, aby se článek dopsal je potřeba dodělat dva backendy, první je QE a druhý je model slabé češtiny
+
+- je potřeba zaurgovat [ORGANIZATION7], aby se to stihlo do WMT
+
+- deadline na WMT je 15. července, je potřeba tedy zkusit vyrobit kalendář
+
+- udělat kalendář i na možný druhý článek
+
+- je potřeba pracovat ještě na Embest listu navigation
+
+- další meeting ve stejný čas ve 4 hodiny
+
+
+Zapsala: [ANNOTATOR2]
+

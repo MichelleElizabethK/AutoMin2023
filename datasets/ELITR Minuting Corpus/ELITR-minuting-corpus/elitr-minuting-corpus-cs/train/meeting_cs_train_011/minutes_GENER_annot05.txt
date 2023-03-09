@@ -1,0 +1,32 @@
+Zápis ze schůzky
+
+Datum schůzky: 5.5.2020
+
+Téma: Schůzka projektu [OTHER1]
+Vedoucí schůzky: [PERSON17]
+Účastníci: [PERSON17], [PERSON1], [PERSON23], [PERSON15]
+
+
+Zápis:
+
+- Kapitola Kove a ELMo: napsány dvě stránky: postupně zpracovávány články: rozděleno na sekce;
+- Sekce word sense a context: na konci diskutována schopnost rozlišit rozpadnutí do několika částí odpovídajícím word senses
+         - Není jasné, zda to, co je zde zakódované, je abstraktní word sense;
+- Návrh provést experiment na word sense: zjistit, co se tam opravdu děje;
+- Slovní druhy: diskuze do jaké míry je desambiguace slovních druhů něco jiného než pouze zachycení kontextu;
+- PCA: první dimenze má na jednom konci sloveso a na druhém podstatná jména;
+- Návrh vytvořit úvod na základě uskutečněné diskuze;
+- Kapitola 3.5.: přečteny články zabývající se otázkou interpretovatelnosti attentionu: třeba shromáždit informace o experimentech: návrh vybrat tři metody napříč články;
+- Kapitola 3.3.1.: seznam pozorování: zatím nedokončeno: kombinováno více článků;
+- Kapitola 3.3.: syntax: třeba dokončit
+- Návrh vybrat z každé části jeden zajímavý výsledek: popsat jej podrobněji: zbytek směřovat do poznámky pod čarou;
+- Citace;
+- Caption: jednu syntaktickou funkci může provádět více hlav najednou a zároveň každá hlava může provést více funkcí=důležitá informace
+- Návrh zaslat článek na EMNLP: obdržení recenzí
+
+
+
+
+
+
+Zapsala: [ANNOTATOR2]

@@ -1,0 +1,30 @@
+Zápis ze schůzky
+
+Datum schůzky: 3.6.2020
+
+Téma: Porada [ORGANIZATION17]
+Vedoucí schůzky: [PERSON37]
+Účastníci: [PERSON6], [PERSON27], [PERSON33], [PERSON1], [PERSON28], [PERSON36], [PERSON15], [PERSON34], [PERSON7], [PERSON22], [PERSON12], [PERSON2], [PERSON21], [PERSON8]
+
+Zápis:
+
+- Připomínky k home office: budou řešeny na poradě vedení v pátek;
+- [PROJECT10]: obdržen návrh na řešení: třeba do čtvrtka napsat připomínky;
+- [PROJECT16]: zhotovena mapka všech záměrů na parkování v uvedené lokalitě: třeba doplnit mapku známých záměrů developerů;
+- [PROJECT3]: uskutečněno jednání o vývoji situace: výsledky zatím neznámé;
+- [PROJECT7]: doporučeny další ateliéry k oslovení;
+- [PROJECT19]: momentálně je očekáváno dodání podkladů: proběhne výrobní výbor týkající se tramvajového provozu;
+- [PROJECT11]: nutno rychle dořešit: je potřeba spis;
+- [PROJECT9]: probíhá shromažďování podkladových podmínek;
+- [PROJECT4]: proběhne schůzka v úterý v 11 hodin;
+- Úpravy na [PROJECT12]: žádost o koncepční vyjádření;
+- [PROJECT1]: dokončováno koncepční zadání;
+- [PROJECT20]: proběhne prohlídka terénu: poté budou zahájeny práce;
+- Prezentace urbanistické studie [PROJECT14]: dvě varianty (A a B): z těchto variant bude vytvořena varianta jedna.
+
+
+
+
+
+
+Zapsala: [ANNOTATOR1]

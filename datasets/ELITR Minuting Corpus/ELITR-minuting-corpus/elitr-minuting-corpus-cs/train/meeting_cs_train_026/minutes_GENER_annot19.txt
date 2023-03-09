@@ -1,0 +1,65 @@
+Datum schůzky: 2. 12. 2020
+Účastníci: [PERSON38], [PERSON5], [PERSON43], [PERSON10], [PERSON50], [PERSON17], [PERSON29], [PERSON15], [PERSON31], [PERSON42], [PERSON3], [PERSON2], [PERSON4], [PERSON32], [PERSON18], [PERSON27]
+Účel schůzky: probrání novinek a zpětná vazba zaměstnanců nad chodem kanceláře
+Shrnutí schůzky:
+
+- Organizační záležitosti.
+-- 10. od 13:00 hodin bude setkání sekce, kde [ORGANIZATION5] bude prezentovat [PROJECT28] a [PROJECT31].
+-- Nahlásit dovolené do konce měsíce.
+--- Do dalšího roku se může převádět pouze 5 dní, jinak musí být speciální žádost u pana ředitele, která se bude posílat společně.
+-- Všichni externí dodavatelé by měli do konce roku poslat faktury.
+-- Bude jedna společná věta pro [ORGANIZATION7], pokud bude chtít vyjádření k jejich projektům.
+-- Zařídit schůzku s panem architektem z [ORGANIZATION18].
+--- Pan architekt chce také začít spolupracovat na studii [PROJECT33].
+
+- Pracovní záležitosti.
+-- Zatím nebylo žádné jednání s [ORGANIZATION3] s [ORGANIZATION29] kvůli [PROJECT18] a [PROJECT24].
+-- Pan [PERSON20] včera odešel.
+-- Proběhla schůzka s panem [ORGANIZATION9], kde ukázal první koncept prověřovací studie na umístění základní školy ve východní části lokality [PROJECT15].
+-- První koncept na [PROJECT26] by se měl odevzdat do konce roku.
+-- Je odevzdána analýza [PROJECT27].
+-- Přišla dokumentace pro územní rozhodnutí na revitalizaci [PROJECT17], kdy se projekt posouvá dál a pak se k tomu zpracuje koncepční zadání.
+-- Koordinují se dva záměry v území, a to [PROJECT22] ve Vysočanech a projednání [PROJECT22], které by na to navázalo po dohodě s druhým investorem.
+-- Byla odprezentována prezentace pro online schůzku [PROJECT19].
+-- Muzejní distrikt by měl stačit dopracovat do konce týdne.
+-- Na [PROJECT5] proběhla koordinace, kde se řešilo, že [ORGANIZATION20] chce, aby most byl pouze v šířce pro koleje kvůli snížení nákladů.
+-- Udělat po novém roce vzor na zákresy do mapy, aby byly jednotné.
+-- Včera proběhla schůzka v [PROJECT16].
+-- Proběhla schůzka se [ORGANIZATION24], kde se jednalo o průmyslovém polokruhu, kde je rozpracována studie o [PROJECT8].
+-- Pracuje se na [ORGANIZATION31] a domu na Pankráci.
+-- Dokompletují se pozemky, na které se již delší dobu čekalo, protože přišlo vyjádření z mětské části.
+-- Proběhne s [ORGANIZATION10] pěší prohlídka Srnce.
+-- Přišla koncepční studie k [PROJECT12] a teď je u specialistů.
+-- Znovu zaurgovat námitku na výhledy v [PROJECT20], která se musí poslat do 4.
+-- Řeší se podkladová studie na [PROJECT25].
+-- Rozpočet na [PERSON49] zatím nedorazil.
+
+- Organizace kanceláře a zpětná vazba zaměstnanců [ORGANIZATION11].
+-- Bylo by potřeba zrevidovat filtr.
+--- Domluvit se do příště, co by bylo možné vypustit.
+-- Ke zviditelnění by mohly sloužit projektové karty, co všechno se dělá nad rámec vyjařování.
+--- Byla by databáze, kde by se psaly všechny důležité informace.
+--- Koncepční zadání by se dělala i zpětně za tento rok a převedlo by se to do excelu, kde by bylo graficky znázorněno, jak dlouho daná věc trvala.
+--- Začalo by se na tom pracovat již v prosinci, ale dokončilo by se to až po novém roce.
+-- Jsou stále deficity ve vybavení IT.
+--- Každá pozice by měla mít standard vybavení, který chybí.
+-- Byla by potřeba revize náplně práce kanceláře.
+--- Pro [ORGANIZATION21] vyjádření [ORGANIZATION11] není žádným podkladem.
+--- Nyní se většina vyjádření [ORGANIZATION36] odchyluje od odborného pohledu [ORGANIZATION11].
+-- Přibyla práce koncepční, ale neubyla práce, co se týká vyjádření.
+-- Koncepční materiály často zapadnou i v rámci [ORGANIZATION11]. 
+-- Je návrh na redukci množství spisů a adminitsrativní práce okolo.
+-- Návrh na redukci sítí technické infrastruktury, které by se mohly řešit pomocí vzoru nebo by byla možnost více věcí delegovat na [ORGANIZATION12] a nebo se zaměřit na filtr, aby nechodilo tolik vyjádření.
+-- Dávají se body pro zákres do 3D modelu Prahy, ale již pak dál se nevyhodnocuje, zda tam stavba být může nebo ne.
+-- Redukovat běžná vyjádření a specializovaná vyjádření [ORGANIZATION33].
+-- Běžná vyjádření asi není možné úplně redukovat, protože díky nim se daří vyjednávat i velké projekty a rozvoj důležitého území.
+-- U stabilizovaného území je otázka, jak moc komentovat územní plán a podávat námitky a odvolání.
+-- Zvýšit informovanost o koncepční práci kanceláře.
+-- Některá vyjádření čekala i tři týdny na podpis u pana ředitele.
+--- U koncepčních vyjádření je potřeba se vyjádřit do 45 dní, jinak je to bráno jako souhlas.
+--- Podpisový den u pana ředitele je úterý, ale nyní se to nedodržuje z důvodu práce online.
+-- Byla by možnost dát na stránky [ORGANIZATION11] dokument, kde by byla jasná transparentní pravidla, na druhou stranu by nebyla možnost vymyslet si něco navíc a muselo by se jít přesně podle návodu.
+-- Další schůzka proběhne příští týden, která by byla již konkrétnější a probíral se vzor na sítě či co vypustit z filtru.
+
+Zapsala: [ANNOTATOR1]
+

@@ -1,0 +1,30 @@
+Zápis ze schůzky
+
+Datum schůzky: 27.5.2020
+
+Téma: Porada [ORGANIZATION3]
+Vedoucí schůzky: [PERSON33]
+Účastníci: [PERSON9], [PERSON15], [PERSON6], [PERSON3], [PERSON12], [PERSON20], [PERSON1], [PERSON7], [PERSON11], [PERSON25], [PERSON24], [PERSON22], [PERSON37]
+
+Zápis:
+
+- Založen [ORGANIZATION2]: přiloženo usnesení [ORGANIZATION14];
+- [PROJECT15]/[PROJECT9]: schváleno zadání autorského dohledu: třeba konzultovat s právníky nejlepší formulaci do záměru;
+- Prezentace [PROJECT5] na [ORGANIZATION21]: 1.6.;
+- Studie [PROJECT7]: nutno uspíšit;
+- Nová [PROJECT3]: bude vypsána soutěž;
+- [PROJECT2]: podaný podnět bude pravděpodobně stáhnutý nebo zamítnutý výborem;
+- [PROJECT2]: zadání na studii;
+- Požadavek na shromáždění podkladů souvisejících s řekou Vltavou: nutno zjistit bližší informace;
+- [PROJECT6]: uskutečněno jednání: požadavek na změnu vyjádření;
+- [PROJECT12]: třeba zkonzultovat zadání;
+- [ORGANIZATION4] Zličín: třeba urgovat podmínění investice zpracováním dopravního modelu;
+- [PROJECT18]: postupováno v pracích;
+- [PROJECT13]: vznesena žádost o podporu v odvolání.
+
+
+
+
+
+
+Zapsala: [ANNOTATOR1]

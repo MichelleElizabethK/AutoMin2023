@@ -1,0 +1,45 @@
+Datum schůzky: 11. 11. 2020
+Účastníci: [PERSON15], [PERSON17],[PERSON6], [PERSON8], [PERSON22], [PERSON32], [PERSON18], [PERSON20], [PERSON39], [PERSON5], [PERSON19], [PERSON28], [PERSON4], [PERSON37]
+Účel schůzky: probrání novinek a zpětná vazba zaměstnanců nad chodem kanceláře
+Shrnutí schůzky:
+
+- Pracovní záležitosti.
+-- Při hledání spisů na stížnosti na [PROJECT33], se nic nenašlo.
+-- [PROJECT1] ještě neodešlo, protože bude jednání s [ORGANIZATION12].
+-- Neodešla výjimka na [PROJECT42].
+-- [PROJECT12] poskytnou starší studii na [PROJECT37] pro inspiraci, která bude ve složce [PROJECT12].
+--- Do 14 dní upřesní zadání.
+-- Koncepční zadání na [PROJECT2] čeká na podpis.
+-- Zítra bude jednání o [PROJECT24], tak je potřeba si to připravit a přečíst.
+-- [PROJECT28] je skoro dodělaná, ale pořád nepřišlo vyjádření od [ORGANIZATION13].
+--- Je potřeba to zadat ještě rozpočtáři.
+-- Budou se vytipovávat pozemky ve vlastnictví města, kde jsou funkční parkoviště a v budoucnosti by se tam mohly stavět bytové domy.
+-- Vítězem na [PROJECT10] je ateliér [ORGANIZATION9].
+-- [ORGANIZATION15] požaduje vyjádření na řešení [PROJECT44].
+-- Pracuje se na zadání na [PROJECT3], které budou součástí soutěžního workshopu na [PROJECT19].
+-- Zkusit na sekční poradě probrat téma rekonstrukce [PROJECT35].
+-- Řeší se uličky a dláždění.
+-- Řeší se [PROJECT11].
+-- Pracuje se na [PROJECT24] a [PROJECT32].
+-- Do konce týdne by se měl poslat model pro domy modelářům.
+-- Do 18.11 je potřeba udělat školení BOZP, řidičů a PO.
+-- Je poslána koordinace na [PROJECT16].
+-- Je dokončeno koncepční zadání na [PROJECT8].
+-- Připravuje se zakázka na výběrové řízení na urbanistickou studii na [PROJECT7].
+-- Je podepsána smlouva na prověřovací studii na umístění základní školy na [PROJECT36].
+-- Řeší se rekonstrukce tramvojové trati [PROJECT6] [PROJECT17].
+-- Řeší se [PROJECT14] a nájezdy na něj.
+-- Pracuje se na dvou projektech s panem [PERSON24] ohledně výjimek ze stavební uzávěry.
+-- [PROJECT29] stále nepřišla.
+-- Řeší se [PROJECT45] v Horních Počernicích.
+-- Práce na [PROJECT30] budou pokračovat.
+
+- Zpětná vazba zaměstnanců [ORGANIZATION7].
+-- Měly by se více zviditelnit projeky, na kterých kancelář pracuje.
+-- Bylo by potřeba dávat větší zpětnou vazbu.
+-- Je potřeba zlepšit komunikaci mezi kancelářemi.
+-- Zamyslet se nad obsahem kanceláře, zda je opravdu nutné ke všemu psát vyjádření.
+
+
+Zapsala: [ANNOTATOR1]
+

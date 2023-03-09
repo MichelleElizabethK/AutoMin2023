@@ -1,0 +1,33 @@
+Schůzka [OTHER2], 2020-02-25
+Přítomni: [PERSON21], [PERSON15], [PERSON22], [PERSON18]
+Na schůzce bylo řešeno následující:
+• Surveys jsou splněné  a téměř všechny zapsané v tabulce
+• Dříve se říkalo, že se analyzují hidden staty, od roku 2018 se tomu začalo říkat kontextové embeddingy
+• Kniha bude psaná formou příběhů, např.:
+o Word2vec jako začátek dense features
+o Attention jako efektivní mechanismus, který se dá zdánlivě interpretovat
+o Kontextové embeddingy jako unhidden states
+o Introduction
+o Kapitola o debiasingu
+o GPT jako návrat language modelů
+• Technologické články půjdou chronologicky a interpretační nemusí
+• Kniha by měla být čtivá
+• Rovnice by měly být umístěny v appendixu
+• Další deadline je 14. března – osnova sekcí a podsekcí
+• Obrazový materiál bude lepší, když bude vygenerovaný, pokud se vše nestihne vygenerovat, tak se bude citovat
+• Další meeting je 3. března v 11 hodin
+• Do příště si každý rozpracuje svůj příběh
+• [PERSON21] překlopí bibliografii ze Zotera do BibTechu
+• Dávat konferenční články a k nim i archivovou URL
+
+
+
+
+
+
+
+
+
+
+
+Zápis sepsala: [ANNOTATOR2]

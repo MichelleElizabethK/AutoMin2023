@@ -1,0 +1,17 @@
+Schůzka [OTHER1], 2020-03-31
+Přítomni: [PERSON17], [PERSON8], [PERSON13], [PERSON6]
+
+Na schůzce bylo řešeno:
+
+- zmíněny informace z pondělního semínáře, kde [PERSON24] mluvil o Sezame street
+- probrán článek z reading grupy, kde je srovnání Fler, ELMo a BERT
+- do related work přidá [PERSON13] článek s experimentem, kdy zkoumali angličtinu a falešnou angličtinu
+- probrán článek od [PERSON11] a [PERSON30]: Designing and intrepreting probes with control tasks
+- 11. dubna je deadline pro článek [PERSON13] a [PERSON8], nahrají ho na Archive, pak ho pošlou na EMNLP
+- [PERSON13] přepracoval úvod knihy a zpracoval připomínky z minulého meetingu
+- [PERSON6] zpracuje to-do notes od [PERSON13]
+- zkusit rozepsat alespoň 2 stránky textu do pondělí 22 hod. večer, aby si to ostatní stihli přečíst
+- [PERSON17] uvažuje o tom, že ke svému článku udělá experiment, že tam zafixuje náhodnou inicializaci
+- [PERSON6] bude mít meeting s [PERSON17] 1. 4. 2020 v 11 hod.
+
+Zápis sepsala: [ANNOTATOR2]

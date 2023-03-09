@@ -1,0 +1,29 @@
+Zápis ze schůzky
+
+Datum schůzky: 17.6.2020
+
+Téma: Porada [ORGANIZATION32]
+Vedoucí schůzky: [PERSON32]
+Účastníci: [PERSON20], [PERSON27], [PERSON22], [PERSON4], [PERSON3], [PERSON16], [PERSON29], [PERSON34], [PERSON17], [PERSON2]
+
+Zápis:
+
+- [PROJECT2]: probíhá změna dle starého podnětu: podán nový podnět;
+- Podkladová studie [PROJECT5]: čistopis odevzdat koncem srpna: bude podán podnět na změnu územního plánu;
+- [ORGANIZATION24]: vznik nové pracovní skupiny: zaměření: ulice a jejich zlepšení
+            - návrh zařadit projekt [PROJECT13] a její případné přestavby;
+- ÚAP: nutná aktualizace záměrů v území a zatřídění;
+- Veřejná jednání týkající se [ORGANIZATION17] a [ORGANIZATION9]: 23.6. a 26.6.;
+- [PROJECT7], [PROJECT12]: třeba vypracovat stručný přehled;
+- [PROJECT3]: žádost o výjimku ze stavební uzávěry: nutno vyžádat potřebnou dokumentaci;
+- Podnět na zlepšení opatření v případě jednání s externisty: nutno vyřešit;
+- Plochy TVE: žádost o informaci potřebnosti dalších ploch technického vybavení na území [ORGANIZATION6].
+
+
+
+
+
+
+
+
+Zapsala: [ANNOTATOR1]

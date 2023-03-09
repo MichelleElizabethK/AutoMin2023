@@ -1,0 +1,29 @@
+Zápis ze schůzky
+
+Datum schůzky: 1.6.2020
+
+Téma: Schůzka projektu [OTHER3]
+Vedoucí schůzky: [PERSON4]
+Účastníci: [PERSON4], [PERSON3], [PERSON16], [PERSON8], [PERSON1]
+
+Zápis:
+
+- [OTHER1]: testováno: zjištěny problémy: zahájeno rozposílání e-mailů studentům;
+- [ORGANIZATION3]: zatím neotestováno: na základě anotací bude zjištěno fungování a výsledky;
+- Český překlad: zatím poměrně pomalý: možné řešení: vytvořit cashing na již přeložené věty;
+- Návrh provádět měření délky trvání překladu: porovnání mezi češtinou a estonštinou;
+- [ORGANIZATION4]: třeba zjistit požadovaný směr překladu;
+- Paraphrasing: zjištěn problém: nenačteny drivery: nahlášeno na IT: nutno vyřešit;
+- Deliverable: momentálně žadný pokrok;
+- Třeba zvolit interního reviewera: návrh obrátit se na [ORGANIZATION3] tým;
+- Multisource: třeba urgovat.
+
+
+
+
+
+
+
+
+
+Zapsala: [ANNOTATOR1]

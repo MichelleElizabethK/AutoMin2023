@@ -1,0 +1,35 @@
+Schůzka [OTHER1], 2020-03-17
+Přítomni: [PERSON3], [PERSON2], [PERSON9], [PERSON12]
+Na schůzce bylo řešeno:
+• Byly doplněny připomínky z minulého meetingu v části [PERSON3]
+• Doplněny reference a citace do části [PERSON3]
+• Byly doplněny sekce, subsekce a citace do části [PERSON12]
+• Články, které nejsou zařazeny nyní do knihy, se dají do složky
+• V textu se budou zmiňovat jen ty nejdůležitější články, ostatní mohou být v poznámce pod čarou
+• [PERSON12] si dostuduje aplikace, do kterých se dávají předtrénované embeddingy
+• K ELMo transformeru není článek, pouze byl součást jednoho z experimentů
+• Do knihy byla přidána sekce o multilingualitě
+• [PERSON3] se podívá na článek, který píšou společně s [PERSON9]
+• [PERSON2] navrhne [PERSON12], jestli se chce přidat k psaní knihy
+• Původní obrázky zatím zůstanou zachovány, nové obrázky by měly být sjednocené
+• Vygenerované obrázky se dají do depozitáře a do Makefilu
+• Další meeting je 24. 3.
+• Vznikne elektronický žurnál na ACL
+• Další deadline je 22. 4. – první verze textu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Zápis sepsala: [ANNOTATOR1]

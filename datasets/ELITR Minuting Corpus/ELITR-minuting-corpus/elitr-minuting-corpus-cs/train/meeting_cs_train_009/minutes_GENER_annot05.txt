@@ -1,0 +1,34 @@
+Zápis ze schůzky
+
+Datum schůzky: 21.4.2020
+
+Téma: Schůzka projektu [OTHER1]
+Vedoucí schůzky: [PERSON13]
+Účastníci: [PERSON13], [PERSON2], [PERSON12], [PERSON4]
+
+
+Zápis:
+
+- Momentálně vypracováno 103 stran knihy: kapitola navíc nezařazena
+- Rejstřík: rozšířený seznam rozepsaných zkratek: návrh na jeho vytvoření
+- Makro pojem: rozlišení podstatných a nepodstatných zmínek
+- Glossaries: vytvořit aliasy
+- Trigramy: podmíněno bigramem: predikován unigram
+         - trigramový language model obsahuje pouze počty trigramů
+- Engramové language modely: rozdělit na statistical a neural
+- Obrázky: použít obrázky v češtině i angličtině: nutná citace i v případě vlastního vygenerování
+         - třeba zjistit licence
+- Obrázek k one-hot vektorům: vložit do kapitoly
+- Každý den uvádět na Slacku množství vypracovaného materiálu
+- Deadline: 22.4.
+- Rozbalování zkratek: řešit až po odevzdání k recenzím
+- Conclusion: řešit až na konci
+- Návrh vložit článek na TSD
+
+
+
+
+
+
+
+Zapsala: [ANNOTATOR1]

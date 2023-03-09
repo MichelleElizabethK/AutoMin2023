@@ -1,0 +1,45 @@
+Zápis ze schůzky
+
+Datum schůzky: 8. 9. 2020
+
+Téma: Schůzka projektu [OTHER1]
+Vedoucí schůzky: [PERSON11]
+Účastníci: [PERSON8], [PERSON10], [PERSON2]
+
+
+Zápis:
+
+- Všichni knihu odevzdali: mnoho věcí zatím definováno: nechybí žádný text
+            - Možno přečíst a zkritizovat;
+- To do: zatím nezpracována;
+- Během týdne každý přečte celou knihu: všichni musí vědět o čem se v ní píše: případně možno dopisovat a vylepšovat
+            - Poté zkritizovat;
+- Další meeting: příští úterý v 11 hodin;
+- Kapitola 1 a 2 netřeba řešit;
+- Kapitola 3.3.1. pushnuta: dokončen první odstavec;
+- Kapitola 3.3.2. dokončena celá
+            - Možno přečíst a zkritizovat;
+- Kapitola 4: otázky vloženy do modrých bublin: třeba nejdříve přečíst: není jasné, jak uspořádat: napsat nápady a názory;
+- Strana 60: problém s obrázkem získaným z webové aplikace: aplikaci již není možné dohledat: není jasné, co v tomto směru citovat: návrh zreplikovat za účelem zjištění původu čísel: nelze – chybí původní aplikace: pokus o její dohledání: neúspěšný
+            - Návrh uvést citation lost;
+- Graf: osa X: rozdíl mezi vektorem filozofie a vektorem science: vytvořit nadpřímku: otočit prostor: definovány delikvence a komponenty: nemusí být vše mezi dvěma body: vybírána opozita: daleko od sebe
+            -  Vše se vměstná kolem ML středu;
+- Strana 65: možno okomentovat komentáře;
+- To do za conclusionem: ignorovat: jedná se o to do z úvodu: volitelné záležitosti;
+- Dokončeny poslední kapitoly a jejich závěr;
+- Závěr knihy: zatím nevypracován: momentálně vytvořeno pouze summary: každá kapitola má conclusion
+               - Návrh napsat shrnutí česky, německy a francouzsky;
+- Návrh napsat doslov: odsouhlaseno: třeba navrhnout jeho obsah: návrh popsat skutečný cíl lingvistiky, chování jazyka a praktické využití interpretace: sepsat: bude provedena kontrola: poté budou vzneseny námitky;
+- Kapitola Embeddingy: napsána celá: možno přečíst: postupně budou implementovány komentáře: poté třeba znovu přečíst;
+- Strana 49: zatím chybí citace;
+- Recenzenti: k dispozici dva recenzenti: konec října/listopad: na zpracování recenzí 6 týdnů;
+- Do 15.9. všichni okomentují;
+- Deadline: 29.9.
+
+
+
+
+
+
+
+Zapsala: [ANNOTATOR1]

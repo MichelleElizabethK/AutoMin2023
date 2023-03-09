@@ -1,0 +1,79 @@
+19. 5. 2020 11:00
+
+
+    *
+
+kapitola 2
+
+
+        *
+
+intepretabilita
+
+
+            *
+
+[PERSON18]: [ [URL] | Interpretable Machine Learning Book ]
+            *
+
+[PERSON21]: [ [URL] | [1702.08608] Towards A Rigorous Science of Interpretable Machine Learning ]
+            *
+
+[PERSON14], [PERSON22]. “Contrastive explanation.” Royal Institute of Philosophy Supplements 27 (1990): 247-266.
+            *
+
+[ [URL] | Machine Learning Explainability vs Interpretability: Two concepts that could help restore trust in AI ]
+            *
+
+napsat co je probing
+        *
+
+
+probing
+
+
+            *
+
+obecnej probing
+            *
+
+classifier based probing
+        *
+
+
+interpretability vs transferability
+
+
+            *
+
+transferabilita je jedna vec a je zajímavá (proti se treba elmo pretrénuje na LM)
+            *
+
+ale interpretabilita je neco jinýho
+            *
+
+transferabilnejší model asi zachycuje obecnejší veci o jazyce, takže cim je model transferabilnejší, tim spíš ho asi chceme interpretovat, protože tim se dozvíme nejvíc o tom jazyce jako takovym
+    *
+
+
+jízdní rád
+
+
+        *
+
+na konci cervna to jde recenzentum
+        *
+
+at je to jako celek citelný, rozširovat se to dá potom
+    *
+
+
+[PERSON7]
+
+
+        *
+
+seradit clánky podle priority (podle poctu citací?)
+        *
+
+postupne je zapracovávat

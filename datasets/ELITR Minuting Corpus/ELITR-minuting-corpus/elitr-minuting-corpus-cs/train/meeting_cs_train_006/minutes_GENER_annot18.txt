@@ -1,0 +1,32 @@
+Schůzka [OTHER2], 2020-01-07
+Zúčastnili se: [PERSON2], [PERSON9], [PERSON7]
+Omluven: [PERSON3]
+Na schůzce bylo probráno:
+• [PERSON3] měl nahrát věci na [OTHER4], udělá to [PERSON2]
+• Bude rozeslán vědecký report, aby se k němu ostatní mohli vyjádřit
+• Deadline na knížku je na konci června
+• Stále chybí dva články v časopise
+• Článek, který se měl poslat na PBML, se tam nestihne poslat kvůli deadlinu, bude se řešit na další schůzce, co s ním
+• Další schůzka bude nejpozději za 14 dní
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+									Sepsala: [ANNOTATOR2]

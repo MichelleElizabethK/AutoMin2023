@@ -1,0 +1,18 @@
+Schůzka [OTHER3], 2020-05-04
+
+Přítomni: [PERSON9], [PERSON6], [PERSON13], [PERSON18], [PERSON10], [PERSON17]
+Omluveni: [PERSON2]
+
+Na schůzce bylo probíráno:
+
+- [PERSON10] vyplnil timesheets
+- je potřeba začít pracovat na deliverable
+- jak udělat, aby naše systémy vracely word probabilities
+- dodělání MT servisů
+- zvážení, zda použít Mgízu, [PERSON10] se na to podívá
+- dočasné vypnutí servisy TNT
+- [PERSON6] zaúkoluje [PERSON1] ohledně pararázování, aby posléze přispěl i do deliverable
+- pozvání [PERSON1] na call příští týden
+- vytvoření inzerátu na všechny projekty, koho by něco napadlo, tak na link doplní
+
+Zápis sepsala: [ANNOTATOR2]

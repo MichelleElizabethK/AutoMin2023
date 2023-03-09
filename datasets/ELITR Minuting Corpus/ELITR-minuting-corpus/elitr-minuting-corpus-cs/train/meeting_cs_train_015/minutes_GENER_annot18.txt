@@ -1,0 +1,15 @@
+Schůzka [OTHER1], 2020-03-24
+Přítomni: [PERSON6], [PERSON5], [PERSON13], [PERSON1]
+
+Na schůzce bylo řešeno:
+
+- probrán článek o Computer vison a opraveny chyby v textu
+- do sekce 1.2 doplnit vysvětlení, co je to maxpooling
+- udělat úvod do sekce 1.2, aby bylo jasné, co se v ní čtenář dozví, zahrnout tam i I'mageNet
+- v sekci 1.2 ocitova CNN články, které zavádí konvoluční sítě
+- [PERSON13] uvažuje o podání [ORGANIZATION5], musí zjisti, do kdy jde podat
+- [PERSON1] se snaží napsat grant [ORGANIZATION3]
+- Kvůli historii používat git pull --rebase
+- Další meeting je 31. 3.
+
+Zápis sepsala: [ANNOTATOR1]

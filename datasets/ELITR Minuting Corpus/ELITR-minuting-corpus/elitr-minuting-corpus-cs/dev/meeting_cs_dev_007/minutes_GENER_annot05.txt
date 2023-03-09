@@ -1,0 +1,32 @@
+Zápis ze schůzky
+                                                                                              
+                                                                                                 Datum schůzky: 25.9.2019
+
+Účastníci: [PERSON6], [PERSON4], [PERSON8], [PERSON12]
+Téma: Porada týkající [OTHER1] spolupráce
+
+Zápis:
+- Diskuze týkající se PCA a ICA.
+- [PERSON11]: možno vyzkoušet.
+- NMT: trénování transformera z angličtiny do různých jazyků s jedním dekodérem: enkodér je zcela nezávislý.
+-- Cíl: univerzálnější enkodér: nezávislý na konkrétním cílovém jazyce a lepší syntax.
+- Fasteliny: třeba zvětšit objem dat.
+- Multilingual BERT (3000 vět): pokračovat: vytvořen fine-tuning: učí se mass language model a současně se pomocí adversariálních klasifikátorů odnaučuje rozpoznávat jazyk: nelze natrénovat language ID.
+-- Získaná reprezentace není crosslinguálnější: na sentence retrieval funguje fine-tuningovaný i refine-tuningovaný: u retrievalu vyzkoušeno naučit lineární projekci na jiných datech.
+- Quality estimation: vyzkoušeno: příliš nefunguje: korelace zvýšena z 0 na 0,2.
+- Klastrování centroidů, jazykové rodiny: provedeno měření: kvantifikováno.
+-- Výsledek: conradtubův více separuje jazyky, ale ví toho o nich méně: není možné dobře klasifikovat jazyk, ale přesto poměrně dobře klastruje dle jazykových rodin.
+- Word alignment: provedeno za použítí projekcí z průměrovaných stavů: zhoršují alignment
+- Expectation maximization: naprogramováno: plán vytvořit alignment: naučit projekce nai zelinovaných slovech a z nich vytvořit nový alignment: spuštěno na náhodných věcech: přidává to asi procento: záměr použít projekce v metrice (BERT score): na quality estimation nefunguje vůbec
+- Long paper x short paper: preferováno vytvoření short paperu.
+-- Nahrát na archive 7./8. listopadu: Anonymity period: začátek 9. listopadu.
+
+
+
+
+
+
+
+
+
+Zapsala: [ANNOTATOR2]

@@ -1,0 +1,27 @@
+Zápis ze schůzky
+
+Datum schůzky: 24.6.2020
+
+Téma: Porada [ORGANIZATION14]
+Vedoucí schůzky: [PERSON6]
+Účastníci: [PERSON13], [PERSON25], [PERSON3], [PERSON12], [PERSON20], [PERSON10], [PERSON24], [PERSON9], [PERSON22], [PERSON11]
+
+Zápis:
+
+- Aktualizovaná tabulka [ORGANIZATION6]: třeba důsledně dokreslovat každý záměr;
+- [PROJECT8]: úkol vysázet stromořadí;
+- [PROJECT12]: vypracovat koncepční zadání: třeba ověřit podklady;
+- [PROJECT3]: proběhlo úspěšné jednání: jednání s městskými částmi: 23.7;
+- [PROJECT13]: zatím není známo přesné zadání na studii využití areálu: třeba začít připravovat záměr;
+- [PROJECT10]: k jednotlivým lokalitám dopsat poznámky: nutno odeslat do konce týdne;
+- [ORGANIZATION12]: nová pracovní skupina: cílem transformace cest na ulice: návrh zaslat [PROJECT4];
+- Návrh na zlepšení systému rezervace zasedacích místností;
+- Studie na [PROJECT6]: pravděpodobně bude nutné posunutí termínu.
+
+
+
+
+
+
+
+Zapsala: [ANNOTATOR1]

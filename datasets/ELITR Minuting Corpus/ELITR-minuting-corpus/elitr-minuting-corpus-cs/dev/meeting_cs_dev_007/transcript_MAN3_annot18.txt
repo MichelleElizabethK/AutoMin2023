@@ -1,0 +1,622 @@
+(PERSON6) Tak, můžeme.
+<laugh/>
+A my jsme [PERSON8] koukali, žes tam napsal nějaký články asi?
+(PERSON8) Cože?
+Jaký články?
+(PERSON6) Do programu, že jsi něco napsal.
+Jestli si to pamatuju.
+(PERSON8) Jo, jo, jo, to byly, ale -
+To už jsem, to už jsem diskutoval s [PERSON4].
+To jsou články, který mně, eh, když jsem měl tu přednášku tady v [LOCATION4].
+Tak to jsou články, který mně doporučili na ty, na ty vnady, který bysme si měli přečíst.
+(PERSON6) Hm.
+(PERSON4) Bude záznam, pane [PERSON2],
+(PERSON6) Takže to si [PERSON4] přečte.
+(PERSON4) Jo, já si to přečtu.
+(PERSON8) To si [PERSON4] přečte, pokud to, pokud to nečet a no -
+(PERSON6) Hm.
+(PERSON8) A taky mně, taky mně doporu-, taky mě navrhli místo PCAčka, dělat ICAčko, což je independent component analysis.
+To je něco jinýho a nějakej člověk tady v [LOCATION4] to strašně podporuje.
+Ale on, on už tady není, tak já nevím.
+Ale, ale uvidíme.
+(PERSON6) No, já když jsem -
+(PERSON8) Taky dva lidi tady vodsaď chtějí nad tom přímo jako dělat se mnou, takže -
+(PERSON6) Super.
+(PERSON8) Možná budem něco takovýho, na něčem takovým pokračovat.
+Možná nejenom na word embeddingách, ale i na sentence embeddingách i, nevím, ale uvidím.
+Zatím jsme se k tomu nedostali, až se k tomu dostanem, tak, tak dám vědět.
+(PERSON6) No, já když jsem byl na tom, na tom [ORGANIZATION3], tak tam někdo hrozně mluvil o tom ICAčku, že je to nějaký hrozně dobrý.
+A já -
+(PERSON8) Jo?
+(PERSON6) Protože jsem nedělal ani PCAčko, tak jsem tomu úplně moc nerozuměl.
+(PERSON8) No, vono problém toho PCAčka je, že jsou všechny kolmý, že jo?
+Že prostě ty první, první jsou dobrý a ty druhý jsou už strašně závislý na tom pr-, na těch, na těch prvních principiálních komponentách, protože už musí bejt na všechny kolmý, že jo.
+Takže zatím to ICAčko, tam prostě najdeš, nějaký jenom nezávislý a nemusí bejt teďka kolmý a, ale pak tam, zase tam nemáš to pořadí, jako ty od těch nejdůležitějších k těm nejmíň důležitým.
+Že prostě jsou všechny stejně důležitý a zkoumáš prostě asi korelaci se, prostě se všema možnejma, no.
+(PERSON6) Hm.
+(PERSON8) Nevím, to je všechno, co jsem se o tom dozvěděl.
+(PERSON6) Hm, jo.
+A tak to je nejspíš zas, že pustíš někdy nějaký tooly z nějakýho balíčku a ono to něco udělá, ne?
+(PERSON8) No, je, prej je to, je to v tom.
+Je to, já nevím, kde, kde to tam máš po, po, v který knihovně, to já, v tý samý knihovně, co jsou, co je PCAčko, je ICAčko, že se jenom nahradí jedno písmeno a funguje to úplně stejně.
+(PERSON6) Bezva.
+Tak to asi zvládnem, ne?
+(PERSON4) Já to v nejbližší době vyzkouším.
+<laugh/>
+(PERSON8) No.
+(PERSON12) Jo, je to <unintelligible/>, no.
+To je pekelně rychlá implementace.
+(PERSON6) Tak pak je tady compelling <unintelligible/>, compare boundstrates with <unintelligible/> translation and with [PROJECT1].
+(PERSON8) Jo, jo, jo, to vím.
+To navrhovali, to navrhovali zase na ty balustrády, že jestli ten irský fraser náhodou, ty co se to učí, ale jestli to nejsou náhodou ty, co používá [PERSON11] třeba, nakonec použije.
+A nebo to, co používá [PROJECT1], ale moc se mi to teda dělat nechce, ale napsal jsem to tam, protože, protože mi to přijde jako -
+Něco na tom je, no.
+Možná by se to dalo zkusit, ale -
+(PERSON6) Ale trénovat [PERSON11] jsem někdy uměl, tak pokud to ještě umím, tak to můžem zkusit, no.
+Že ta Bible je takový <unintelligible/>, který prostě jsou ty fráze, že jo, tak to není tak hrozný.
+(PERSON8) No, to jo.
+Jako někdo je -
+No, mohlo by se to zkusit.
+Samozřejmě.
+(PERSON4) Než [PERSON5].
+(PERSON6) Hm.
+(PERSON4) <unintelligible/>
+(PERSON8) Jo.
+<laugh/>
+(PERSON8) [PERSON5] už jsem dlouho neviděl a jsem rád, že jsem ho dlouho neviděl.
+(PERSON6) No, já jsem se naučil používat [PERSON11], až když jsem jako se rozhod nepoužívat [PERSON5].
+(PERSON8) Aha.
+(PERSON6) Používat jako přímo toho [PERSON11], že jo.
+Protože k tomu je nějaká dokumentace na rozdíl od [PERSON5] a nějaký příklady na webu a tak, no.
+Takže to sice asi není tak hrozně elegantní a efektivní jako s [PERSON5], ale nemá to tu hroznou jako learnig kurvu.
+<laugh/>
+(PERSON8) To jo.
+<laugh/>
+(PERSON8) Tak teda, co, co jsme teďka konečně začali dělat tady, je, že máme teda úplně [PROJECT3] a v tom trénujem transformera z angličtiny do různejch jazyků, na, dohromady třeba do pěti různejch jazyků s tím, že dekodér je jenom jeden, ale na začátku se tomu dekodéru strčí, jako první, první slovo se tomu strčí kód z toho jazyka, takže on podle toho, se mu podstrčí, takže on podle toho kódu jazyka ví, do kterýho má překládat.
+A tím, že to je v dekodéru, tak je ten enkodér jakoby úplně nezávislej a -
+(PERSON6) Hm.
+(PERSON8) <unintelligible/> je ta, že bude jakoby univerzálnější ten enkodér, že nebude -
+(PERSON6) Hm.
+(PERSON8) Nebude, nebude jako závislej na tom kon-, konkrétním, eh, jazyce, cílovým.
+A že bude se učit lepší syntax.
+Takže, děláme nějakej probing a nějaký balustrády, ale zatím to nic moc nevychází, že by to bylo lepší teda.
+(PERSON6) Hm.
+(PERSON8) Ale možná je to taky udělaný blbě.
+(PERSON12) Hm.
+[PERSON8], [ORGANIZATION4] teď měli článek.
+(PERSON8) No?
+(PERSON12) <censored/>
+(PERSON8) No?
+(PERSON12) Na všech těch článcích je podepsanej [PERSON10].
+<laugh/>
+(PERSON12) <censored/>
+(PERSON8) No?
+(PERSON12) A ne-, není to na žádnej z těch tasků lepší než multilinguální pair.
+(PERSON8) Jo. 
+A ty tasky jsou takový ty, to jsou takový ty blue tasky, nebo?
+(PERSON12) No, že jo.
+Blue tasky nejsou multilinguální, takže tam maj, takže tam maj crosslinguální <unintelligible/>.
+(PERSON8) Jo, jasně.
+To je multilinguální, jo.
+A co tam teda mají za tasky?
+(PERSON12) Crosslinguální tagging, nějakej divnej crosslinguální name entity recognition, což jsem vůbec nepochopil, co je to za úlohu, a, a, a crosslingual natural language indeference.
+Jakože máš: 
+Tři psi běží po pláži.
+(PERSON8) Jo, jako <unintelligible/>.
+(PERSON12) A z toho máš vyinferovat, že dva psi běží po pláži německy.
+<laugh/>
+(PERSON8) Jo, to neznám.
+(PERSON6) Takže z toho vyplývá, že prostě, když chceš jako multilinguální reprezentaci jazyka, tak [PROJECT2], ten [PROJECT2] je lepší, než jiný věci.
+(PERSON8) Jo, jasně.
+(PERSON6) <unintelligible/>
+(PERSON8) A oni to mají multilinguální jako prostě jeden, jeden multilinguální enco-, encodér jako, prostě jako [PROJECT2], mají jako enkodér.
+(PERSON12) Mají jeden multilinguální enkodér ze sto dvou jazyků do angličtiny.
+(PERSON8) Jo.
+Hm.
+(PERSON12) A ten překlad mají na druhou stranu, ale ten nepoužívají ten enk-, ten neprobujou teda ten enkodér z toho.
+(PERSON8) Jakože mají jeden enkodér na, na spousta jazyků a ten ne-.
+(PERSON12) A ten právě probujou.
+Jeden enkodér na spoustu jazyků maj a ten probujou.
+(PERSON8) Jo.
+(PERSON12) A pak maj ještě jeden dekodér na spoustu jazyků, kde enkodér je angličtina.
+(PERSON8) Jo.
+A to je, to jsou [ORGANIZATION4] články, co teďka nějaký?
+Tak mi je kdyžtak někam pošli, nebo?
+(PERSON12) To jsou nový články z předminulýho tejdne.
+(PERSON8) Jo.
+(PERSON12) Kdyby jsi sledoval můj blogísek, tak ses tam o nich dočetl.
+(PERSON8) No, já bych, to bych měl no, já jsem -
+<laugh/>
+Dobře, tak, tak mi pošli nějakej link, na blogísek třeba.
+(PERSON6) No a každopádně teda z toho vyplývá teda, že když my už si hrajeme s tím multilinguálním [PROJECT2], tak to už nemusíme dělat na to MT, protože nezjistíme nic novýho asi?
+(PERSON12) To myslím, že z toho neplyne.
+<laugh/>
+(PERSON6) Ok.
+Ale aspoň jako to multilingual MT není jako výrazně lepší, než to multilingual [PROJECT2], tak si asi můžem dál hrát s tím multilingual [PROJECT2] a je to dobrej nápad.
+(PERSON8) No.
+(PERSON6) No, já jsem teďka byl nějak pryč, takže jsem ti tak stihnul sotva odpovědět na ty maily s tím, s tím, ale, no.
+(PERSON8) Jo.
+(PERSON6) Představuju si, že od tohohle týdnu se k tomu zase dostanu.
+(PERSON12) Než se dostaneme k tý hromadě výsledků, já totiž, teď je poslední tejden, kdy na tom jako mám pracovat dnem i nocí.
+(PERSON6) Hm.
+(PERSON12) A pak mám pracovat už na překladu.
+(PERSON6) Hm.
+(PERSON12) Tak jsem se toho právě snažil udělat co nejvíc teď.
+(PERSON6) Jo.
+A já jsem byl furt někde a dělal furt nějaký jiný věci, no.
+<laugh/>
+A visíš teďka ještě na něčem ode mě, co tě blokuje, nebo ne?
+(PERSON12) No, rád bych, kdyby si uměl nějak pořádně ty fasteliny.
+(PERSON6) Pořádně znamená dát jim větší data zřejmě.
+Protože teď u těch <unintelligible/> jen ty malý data.
+To asi můžu, no.
+Ale, no, stejně si myslím, že spíš tendle tejden to nestihnu, no.
+Mám tři studenty na ročníkáči, kterejm musím zadat bakalářky a dát jim zápočty do ročníkáče.
+Máme s [PERSON4] zejtra ten kurz pro ty magisterský studenty.
+No, myslím si, že to, mám drsnější deadliny, ale jo.
+Když mi někam dáš větší data, já to na ně jenom pustím, tak to asi zvládnu rychle.
+(PERSON12) Ok.
+Eh, no, jinak asi můžu říct, co jsem ještě s tím všechno udělal.
+Udělal jsem fine-tuning toho multilinguálního [PROJECT2], kterej se zároveň učí, kterej se zároveň učí furt ten mass language model a zároveň jsem pomocí adversariálních klasifikátorů odnaučuje rozpoznávat jazyk.
+(PERSON6) Hm.
+(PERSON12) A, a skutečně, jako povede se, povede se ho rozbít tak, eh, že mu neklesá to z toho language modelu a, a když na tom chceš natrénovat to language ID, tak to nejde.
+(PERSON6) Hm.
+(PERSON12) Ale jako není pravda, že by takhle získaná reprezentace byla crosslinguálnější, eh, než ten multilinguální [PROJECT2] tak, jak je.
+(PERSON6) Hm.
+(PERSON12) Na ten sentence retrieval funguje tady ten fine-tuningovanej vlastně stejně jako ten refine-tuningovanej a ještě jsem tu toho retrievalu zkusil na jinejch datech naučit lineární projekci.
+(PERSON6) Hm.
+Jako projekci mezi těma průměrama těch skrytejch stavů, jo?
+(PERSON12) Hm, hm.
+A máme čísla ňáký takový, že v průměru přes všechny ty jazykový áry, když ten [PROJECT2] je tak jak je, tak na 70 % přesně můžeme retrievovat ty věty, když to vycentrujeme, tak to umíme na 83, a když to naučíme, tu projekci, tak to umíme na 98.
+(PERSON6) Hm.
+A to je furt ty 3000 vět?
+(PERSON12) To je furt ty 3000 vět.
+(PERSON6) Hm.
+A tak to už je dobrý.
+To už vypadá, že i na větším počtu vět by to mohlo fungovat.
+<laugh/>
+(PERSON4) To by byla škoda.
+Publikujte článek s názvem 3000 vět.
+(PERSON6) No, to už by zase stálo znova za to, že jo, to pak zkusit na ten quality estimation, co jsi chtěl, že jo?
+(PERSON12) Eh, to samozřejmě jsem taky udělal.
+(PERSON6) Hm.
+(PERSON12) A tam to nefunguje.
+(PERSON6) Cože?
+(PERSON12) Že to, že to tam nefunguje nijak zázračně.
+(PERSON6) Hm.
+(PERSON12) Tu korelaci nám to zvedlo z 0.
+(PERSON6) Hm.
+(PERSON12) Asi na 0,2.
+(PERSON6) Hm.
+(PERSON12) A, a ty rozumný, ty rozumný systémy mají korelaci s human judgementem 0,5.
+(PERSON6) Hm.
+No, to už jsme skoro na půl cesty.
+Já bych jako -
+(PERSON12) Já jsem si zatím myslel -
+(PERSON6) No?
+(PERSON12) Že to funguje líp.
+Co, co jsi chtěl říct?
+(PERSON6) Já jsem chtěl říct, že mi přijde, že to jako furt je jako nějaký zlepšení, takže to asi jako dělá to, co si myslíme, jenom to furt není dost dobrý, ale, no.
+Že jako ta projekce jako je dobrá, co se na tom naučíš.
+(PERSON12) No, to asi je, no.
+Akorát ta quality estimation je prostě těžkej task.
+Že jako jde tam o nějaký jako fakt, fakt jako nuance, který se blbě cpou do toho.
+Eh, ten od toho conradtubka, tak je na těch všech crosslinguálních věcech horší, než ten normální, normální [PROJECT2].
+(PERSON6) Hm.
+(PERSON12) Ten fine-tuningovanej je víceméně stejnej.
+(PERSON6) Hm.
+(PERSON12) Eh, další věc, co jsem měřil, je, jak se ty centroidy klastrujou.
+(PERSON6) Hm.
+(PERSON12) Eh, jak to připomíná jazykový rodiny.
+Protože, když se podíváte na ty obrázky, co jsem dělal, tak to vypadá, že je to jako připomíná hodně, tak jsem to kvantifikoval.
+Zřejmě to je, jako dělal [PERSON4], to odmnožiny, ty <unintelligible/>.
+(PERSON6) Hm.
+(PERSON12) A tam ty výsledky jsou takový, eh, že ten conradtubův prostě víc separuje ty jazyky, ale ví to o nich míň.
+(PERSON6) Hm.
+(PERSON12) A ta překvapivá věc je, že přestože není možný dobře klasifikovat ten jazyk, z tam toho fine-tuningovanýho [PROJECT2], tak furt to klastruje dobře ty, furt to dobře klas-, furt to celkem dobře klastruje podle těch, podle těch jazykovejch rodin.
+(PERSON6) Hm.
+<laugh/>
+To zní, jako, nějak jako sporně, ne?
+Jakože?
+(PERSON4) Co to bylo?
+(PERSON6) [PERSON8] nějak pípnul.
+(PERSON8) Jo, já jsem pípnul.
+(PERSON4) [PERSON8] mačká čísla.
+(PERSON8) Já si tady tak pípám, dobrý.
+<laugh/>
+(PERSON12) Kdybysme byli absolutní sluchaři z 90. let, tak poznáme, jaký číslo zmáčknul.
+<laugh/>
+(PERSON6) No.
+(PERSON12) No, tak.
+To je tahle věc.
+Eh, pak jsem ještě dělal ten word alignment.
+A tam když, tam když v tom word elementu použiju ty projekce, co jsem se naučil na těch průměrovanejch stavech, eh, tak ty, ty ten alignment horšej.
+(PERSON6) Aha?
+Ale ty máš projekce, těch reprezentací těch vět a ne těch stavů, ne? 
+(PERSON12) No, jakože ty věty reprezentuju taky průměrným stavem.
+Ono je, ono je celkem jedno, jestli class vector anebo jestli uděláš <unintelligible/> pool.
+(PERSON6) No, to chápu, to chápu, to chápu.
+Ale že ty projekce jsi natrénoval na těch <unintelligible/> poolech, a pak je zkoušíš používat na ty jednotlivý slova?
+(PERSON12) Jo.
+(PERSON6) Jo.
+(PERSON12) A to překvapivě, nepřekvapivě, eh, zhoršuje ten alignment.
+Centrování těch reprezentací s tím alignment nic nedělá, což mě nějdřív překvapilo, a pak jsem si uvědomil, že mě to nemá překvapovat, protože pokud jsou jako od sebe konstantní <unintelligible/>, tak na tom alignmentu to nic nemění.
+Prostě to, že jsou na jediným místě v tom prostoru jako znamená, že ke, ke každý tý hraně se přičte stejná konstanta.
+Takže to centrování s tím taky nic nedělá.
+No a teď jsem, teď jsem si naprogramoval ještě -
+Jo a zase tady teda platí, že ty, ten původní [PROJECT2] a ten fine-tuningovanej fungujou vlastně stejně a ten, a ten condratubův funguje vlastně hůř, no.
+A, eh, teď jsem si napsal expectation maximization.
+Teď se nehejbete, tak nevím, jestli mě slyšíte.
+Haló, haló?
+(PERSON8) Já už tě skoro vůbec neslyším.
+Na, na co sis to napsal?
+(PERSON12) Jo, tak [PERSON8] teď slyším.
+A [PERSON6] se, [PERSON6] se vůbec nehejbe.
+(PERSON8) R-, [PERSON6] tam není?
+(PERSON12) Nevím, nějak mi zmizel.
+(PERSON8) Aha.
+(PERSON12) Eh, napsal jsem si expectation maximization, že prostě udělá ten alignment, pak se naučím projekce -
+(PERSON8) No?
+(PERSON12) Mezi těma zelinovanýma a z těch udělám novej alignment a takhle to, takhle to točím.
+A to jsem ještě, eh, neudělal ve velkým.
+Jenom jsem to dneska ráno omladil.
+A vypadá to, že to ten alignment zlepšuje tak jako o procento.
+(PERSON6) Hele, [PERSON12].
+(PERSON4) Hele, támhle je živej [PERSON12] a támhle je zmrzlej [PERSON12].
+(PERSON12) No, super.
+(PERSON6) Tak.
+(PERSON8) Tak hoši, co jste slyšeli jako poslední?
+(PERSON4) Vidím [PERSON12], ale neslyším ho.
+[PERSON12].
+(PERSON12) Teď mě, jo.
+(PERSON6) [PERSON12], neslyším tě.
+(PERSON12) No, ale já jsem nic neměnil.
+(PERSON6) Neslyším tě, vidím tě dobře.
+<laugh/>
+Slyšíš nás?
+(PERSON8) Já vás nevidím, slyším slabě, ale něco slyším.
+(PERSON12) A teď mě slyšíte?
+(PERSON6) Tak já nevím, co se s tím děje.
+<laugh/>
+Vidím [PERSON12], jak mluví, ale neslyším ho.
+(PERSON4) Nejenom, že nejsme absolutní sluchaři, ale navíc neumíme odezírat ze rtů.
+<laugh/>
+(PERSON6) Já nevím, co s tím může bejt.
+(PERSON4) Já taky nevím.
+(PERSON12) Teď se u vás něco změnilo?
+(PERSON6) Už mi zase blbne připojení.
+(PERSON8) Ti to nedává?
+(PERSON6) Nějakej otazníček, hm.
+(PERSON4) Se zkus ještě jednou odpojit a připojit.
+(PERSON6) Hm.
+My se s [PERSON8] slyšíme.
+No, to je dobrý, no.
+<laugh/>
+My je neslyšíme.
+(PERSON8) My se slyšíme, ale [PERSON12] -
+To je [PERSON4], to druhý, co tam slyším?
+(PERSON12) Nevím.
+(PERSON8) Ne, to je [PERSON12].
+(PERSON6) Hele, teď slyším.
+(PERSON8) Slyším všechny.
+(PERSON6) Slyšíte nás?
+(PERSON8) Jo, já slyším.
+Já slyším všechny celou dobu.
+(PERSON12) Já také.
+Já taky slyším.
+(PERSON6) Já už taky slyším všecky.
+(PERSON4) Já taky slyším.
+Mně vypadlo připojení jako vždycky.
+(PERSON8) To je paráda.
+<laugh/>
+(PERSON6) Nevím, jestli jsem byl na [ORGANIZATION2] nebo na [ORGANIZATION5], ale každopádně mě to odpojilo.
+(PERSON8) Hm, tak jo.
+Tak co jste ode mě slyšeli jako poslední hoši?
+(PERSON6) Mluvil jsi o <unintelligible/>.
+Říkal jsi, že projekce ho zhoršej a že centrování je fuk a vysvětloval jsi, že to je v pořádku, protože je to konstantní posun.
+(PERSON12) Jasně.
+No, a pak jsem -
+(PERSON8) Pak jsi mluvil o EM.
+(PERSON12) No, pak jsem, pak jsem říkal, že jsem si naprogramoval expectation maximization, prostě na nějakejch datech stranou.
+Eh, si udělám tady ten alignment, eh, na těch zelinovanejch slovech si naučím projekce a udělám ty alignmenty s těma projektama.
+(PERSON6) Hm, hm.
+(PERSON12) A takhle, a takhle to točím.
+A to zatím na náhodnejch, na náhodnejch věcech, kde jsem to pustil, tak to, tak to přidává asi procento.
+(PERSON6) Hm.
+(PERSON12) <unintelligible/>.
+(PERSON6) Hm, hm.
+(PERSON12) Ale, eh, doufám, doufám, že todleto budu moct ty, ty projekce, který získám, tak je budu moct použít v tý metrice, která se jmenuje [PROJECT2] score.
+Eh, která, která, to je metrika na -
+(PERSON6) To je <unintelligible/>.
+(PERSON12) To je metrika na -
+To je na, jenom normální, evaluaci.
+(PERSON6) Jo.
+(PERSON12) Že se to děje v rámci jednoho jazyka.
+Na tu quality estimation mi vůbec, ale vůbec nefunguje teda.
+A to se udělá tak, že se spočítá na matice podobnosti všech těch slov na vobou dvou stranách, a pak se tam udělaj nějaký maxima na jednu stranu, maxima na druhou stranu a z toho se odhadne precision a recall a z toho se spočítá escore.
+A to je mimochodem v součastnosti metrika, která nejvíc koreluje s human judgementem.
+(PERSON6) Hm, hm, hm.
+(PERSON12) Eh, to jsem zkusil pustit, to jsem zkusil pustit na tu quality estimation a je to jako naprosto tragický, ale doufám, že z tady toho dostanu, dostanu projekci, která je vhodná pro ten alignment a tím pádem by to mohlo zafungovat.
+(PERSON6) Hm, to se mi líbí.
+To je dobrý.
+(PERSON12) No.
+(PERSON4) Mimochodem, [PERSON8]?
+Seš tam ještě?
+(PERSON8) Jo, jo, jo.
+(PERSON4) Hele, já se taky nemůžu přihlásit do [ORGANIZATION8], takže možná, že chyba není jenom na tvojem příjimači.
+(PERSON8) Jo.
+No, tak to, to spadlo něco u nás, takže já tady nebudu mít internet.
+Super.
+<laugh/>
+(PERSON6) Super.
+(PERSON12) Já jsem taky přip-, já jsem taky připojenej přes, eh, karlovkovej [ORGANIZATION5].
+(PERSON8) Jo?
+A funguje ti, jo?
+(PERSON4) <unintelligible/> nepřihlásím.
+(PERSON6) To já radši nebudu zkoušet nebo nás to úplně všecky odhlásí nebo tak něco.
+<laugh/>
+(PERSON12) Tak.
+(PERSON6) No, dobrý.
+Hele, tak to jsou, to jsou pěkný věci.
+(PERSON12) Takže story článku by mohla bejt jako ten multilinguální [PROJECT2] jako moc crosslinguální není.
+Není to jednoduchý ho nějak jako unsupervize udělat, udělat crosslinguálního, ale stačí supervize z pár tisíc paralelních vět a už je to a už, už to jede.
+(PERSON6) Hm.
+(PERSON8) Jo.
+(PERSON6) Jo.
+(PERSON12) Jo, začal jsem, začal jsem psát nějakej overlive.
+(PERSON6) Hm.
+(PERSON12) A jo, a ještě trénuju, ještě trénuju s tím fine-tuningovaným, s tím fine-tuningovaným [PROJECT2] tu konradtjukovu věc, že se tam udělá ta -
+Ne, to není s tím fine-tuningovaným, eh, s normálním [PROJECT2], kterej se nefine-tuninguje, že se tam udělá ta language classification, odečtou se ti centoridi.
+No, a pak se to použije.
+(PERSON6) Jo, to už se ti povedlo na hacku, hm.
+(PERSON12) A to jede no.
+(PERSON8) Takže to jsi ještě neudělal?
+(PERSON12) No, to se mi povedlo na hacku.
+Co?
+To jsem, to jsem udělal, to se teď trénuje a trénuju a bude se to trénovat.
+(PERSON8) Jo.
+Ne, já jsem ti na začátku špatně rozuměl, tak já jsem myslel, že.
+(PERSON12) Jo.
+(PERSON8) Takže to fine-tuninguješ teda jako?
+(PERSON12) Jo, to už, to už běží tohle.
+Ne, nefine-tuninguje se to, centruje se to.
+(PERSON8) Centruje se to, jo.
+Jasný.
+(PERSON12) Hm.
+(PERSON8) A taky jsem nastřelil nějaký overlive.
+A nevím, jestli není na čase se rozmyslet, jestli z toho chceme dělat long paper nebo 
+short paper.
+(PERSON6) Ty jsi určitě pro short?
+(PERSON12) Já, no, samozřejmě pro short.
+Ale, <unintelligible/>.
+(PERSON6) Ten chcem, no.
+(PERSON12) Jo.
+(PERSON8) Já bych zkusil short, a když uvidí, když uvidí, že se to tam nevejde.
+(PERSON6) Jo, ok.
+Zkusíme short.
+(PERSON8) Short, tak bych z toho udělal long, ale jako primárně bych zkusil short.
+(PERSON12) Tak jo.
+(PERSON8) Ono je to asi jako ve výsledku jedno, že jo.
+Pokud tam dáš všechny informace a bude to mít hlavu a patu, tak je to jedno, jestli to je short nebo long a uvidíš, kolik tam těch věcí bude potřeba, no.
+(PERSON12) Hm.
+(PERSON6) Jo, ty tam teďka máš všecky tydle věci.
+Hm.
+(PERSON8) A už to nasdílel, jo?
+(PERSON12) No, myslím, že kdyby to měl bej short, tak asi bysme tam dali jenom ten parallel sentence retrieval, ne?
+Na kterým se to nejvíc ukazuje?
+Nebo myslíš, že do toho shortu zvládneš vervat všecky čtyry ty tasky, co tam teď máš?
+(PERSON12) Hm.
+(PERSON6) Nebo pět tasků tam je dokonce.
+(PERSON12) No, ale ten, ten parsing bych možná vynechal.
+(PERSON6) Hm.
+(PERSON12) No, jo, já si právě jako myslím, že všechny jsou důležitý ty tasky.
+(PERSON6) Hm.
+Language ID je důležitej.
+(PERSON12) To je prostě jako -
+(PERSON6) Paralell retrieval je -
+(PERSON12) Language ID je důležitej.
+(PERSON6) Hm.
+Wordline <unintelligible/>, no.
+A ten quality estimation souvisí s tím, no.
+No, uvidíme.
+(PERSON12) Ale jako ten word-
+(PERSON6) No, jestli si myslíte, že ty tasky jsou dostatečně známý na to, abysme je tam nemuseli detailně popisovat a na každej bude stačit jeden vodstavec, abysme vysvětlili, co to je.
+Jo, zkusíme.
+(PERSON12) No.
+Takže, pojďme dál.
+Tak nějaký nápady, co jsem zapomněl odzkoušet?
+Vlastně ne, nebo jste zaseklý zase?
+(PERSON6) Nejsme zaseklý.
+(PERSON8) Já je tady sice nemám otevřený, ale -
+(PERSON6) Přemejšlím.
+Nenapadá mě teď nic.
+(PERSON12) Ok.
+(PERSON6) Hm.
+A plán tedy je, že to dáme do archive dřív, než začne anonymity period na, co je první, [ORGANIZATION6]? 
+[ORGANIZATION7]? 
+Nevím co?
+(PERSON8) [ORGANIZATION6].
+A to je někdy 9. no-, novembra, 9. listopadu začne anonymity period.
+Jo.
+(PERSON6) Hm.
+(PERSON12) Hm. Takže to znamená někdy 7. nebo 8. to dát.
+(PERSON6) Aby to stihli poslat.
+(PERSON12) Na ten -
+(PERSON6) Hm.
+(PERSON12) Jo.
+Aby to, aby to stihli zařadit.
+(PERSON6) Hm.
+Já myslím, že cajk jako.
+V podstatě už to máš, tak.
+<laugh/>
+Hm.
+(PERSON12) No.
+Jo, pak jsem vám taky chtěl říct, co tady dělaj ti Mnichovani.
+(PERSON8) No.
+(PERSON12) Ty se snaží, eh, eh, lidi od [PERSON7].
+Ty se nějak jako snažej sémanti-, zjišťovat nějaký věci o sémantice.
+(PERSON6) Hm.
+(PERSON12) A, eh, dal, dal jsem tam do toho, do toho dokumentu dva články, který dělaj vlastně to samý.
+Jeden je z Mnichova a jeden je z [ORGANIZATION1].
+A, eh, vymejšlej nějaký jako patterny, který jsou jako, eh, nevím, long is opposite of ask.
+(PERSON6) Hm.
+Jo.
+(PERSON12) A prostě jako zjišťujou, jestli, když, když jako zamaskujou tydlety věci v nějakejch jako šablonovitejch větách, jestli, jestli jsou schopný z toho jako vydolovat.
+(PERSON6) To je hezký.
+To už jsem viděl někdy takovýhle věci, no.
+To je pěkný.
+(PERSON12) Tak minimálně, minimálně v knize je to potřeba zmínit, že takhle se dá taky zjišťovat nějaký <unintelligible/>.
+(PERSON6) Hm.
+(PERSON12) Pak tam píše ten [PERSON13].
+(PERSON6) [PERSON13], no.
+[PERSON13] něco psal.
+Asi s ním chceme něco udělat.
+Já nevím co.
+(PERSON8) Jo, [PERSON13] psal, že, že přijel do [LOCATION1] a že chce už napsat topic.
+Asi netuší, že se to může dělat prý skoro za rok, ale.
+Jsem mu chtěl odepsat, ale, nestihl jsem mu odepsat.
+(PERSON6) Já teď [PERSON8] dost blbě slyším.
+A vy?
+(PERSON4) Já ho taky blbě slyším.
+(PERSON12) Já taky.
+(PERSON8) Slyšíte mě blbě?
+Už mě slyšíte líp nebo pořád je to blbý?
+(PERSON6) Už je to lepší.
+(PERSON8) Je to lepší?
+(PERSON12) O dost lepší.
+(PERSON6) Ne, tady to <unintelligible/>, jo.
+(PERSON8) No, já vás taky neslyším úplně nejlíp.
+(PERSON6) Hm.
+(PERSON8) Co jste říkali o tom [PERSON13]?
+Jenom, že napsal?
+(PERSON6) No.
+(PERSON8) Jo.
+(PERSON6) A on si ještě teda nevybral, kdo chce, aby ho ved?
+(PERSON8) Nevybral si, ani si nevybral téma.
+(PERSON6) Hm.
+(PERSON8) <unintelligible/>.
+(PERSON6) Tady se [PERSON8] nějak rozsyspal.
+(PERSON8) Co?
+(PERSON6) Už, už se ozejváš, ale blbě.
+<laugh/>
+(PERSON8) Já vždycky, já vždycky slyším nějaký hrozný věci, hrozný zvuky od vás, a potom -
+(PERSON6) Teď už tě slyším, dobře.
+(PERSON8) Potom se to uklidní.
+Já, já už vás taky teďka slyším zase dobře.
+(PERSON6) Jo, no.
+No, tak: 
+How we proceed.
+No, tak asi si musí vymyslet téma a, a kdo chce, aby ho ved a pak můžem proceed.
+No, já nevím.
+<laugh/>
+(PERSON8) Tak já mu napíšu dvě, tři témata, ať si vybere, protože on pořád.
+Protože on tady měl spousta dotazů, jak posílal předtím, předtím, kdy to bylo?
+Na začátku září.
+Tak jsem mu na ně odpovídal.
+On pak už nereagoval a teď napsal, že je v [LOCATION1].
+(PERSON6) Hm, hm, hm.
+(PERSON8) Jo a ještě jsem si chtěl přečíst ten článek vod něj.
+To jsem mu slíbil, že si přečtu.
+Ten, co má, ten, co má s tím -
+(PERSON6) S [PERSON1].
+(PERSON8) Nevím.
+Jo, s [PERSON1].
+Aspoň podle obrázku to vypadá zajímavě.
+<laugh/>
+Já nevím jak, kolik, kolik máte času vy, ale já si teda zkusím ten článek přečíst a zkusím mu navhrnout nějaký téma, který bude nějak navazovat na to, na to všechno, co ty votázky tady, on má něco za votázky a -
+(PERSON6) Hm.
+(PERSON8) No, a neřek, jako, neví, koho chce, aby ho ved, ale tak zatím může pracovat jenom sám, hlavně, abysme se dohodli na tom tématu, no.
+(PERSON6) Hm, hm, hm.
+No.
+Já tendle tejden na to čas nemám.
+A příští tejden začne semestr a možná taky nebudu mít čas, a pak už to snad bude lepší.
+(PERSON8) Jo.
+No, tak já mu, já mu zkusím napsat.
+Jak to je a co by bylo nějaký témata a ať si z nich vybere.
+(PERSON6) Jako mně to přišlo, žes mu toho napsal dost, tak když na to neodpověděl a teď ti napsal, že je tady, tak, no.
+<laugh/>
+(PERSON8) No, že jo.
+On napsal spousta votázek.
+Pak jsem mu na něco napsal, že, že jako to je, na něco jsem mu napsal, že to je dobrý a že by to moh mít jako téma a na něco jsem mu napsal, že si myslím, že to je zbytečný nebo že to je na nic.
+(PERSON6) Hm.
+(PERSON8) A on pak neodpověděl, tak, jenom, že je v [LOCATION1], tak.
+(PERSON6) Hm.
+Tak jo.
+Tak mu napiš něco a -
+(PERSON8) Jo.
+How should we proceed.
+Teď to vidím.
+Jasně.
+(PERSON6) Hm.
+(PERSON8) No, tak já mu něco napíšu a uvidíme.
+(PERSON6) Jako to téma snad jako tak strašně nespěchá, ne?
+Jakože to je jedno, kdy se to zadá oficiálně, ne?
+(PERSON8) Oficiální, oficiální zadání, to nespěchá.
+To je, to může bejt až těsně předtím nějak, že jo?
+(PERSON6) Hm, no.
+(PERSON8) Já to musím vodeslat teďka na tydlecty různý lidi, no.
+(PERSON6) Takže to mu jako napiš, že jako oficiálně je to jedno, ale jako, aby na tom začal dělat co nejdřív, tak jako je dobrý to vymyslet už teď a, no.
+Pak třeba o měsíc pozdějc to můžem zadat, až už na tom bude dělat a bude vědět co, ať.
+(PERSON8) No, jasně, až to bude vědět.
+Ono je to lepší, ale když bude mít nějaký výsledky, že jo, aby se to rovnou zadalo.
+(PERSON6) Hm, no.
+(PERSON8) Ať má výsledky.
+(PERSON6) Prostě tak jako žádáme o granty, že jo.
+Nejdřív uděláme ten výzkum, pak na to zažádáme o grant a -
+<laugh/>
+(PERSON8) No.
+To mi připomíná, že bych, že bych měl žádat o další <unintelligible/>, abych to stihl.
+(PERSON6) Hm.
+(PERSON8) No.
+Uvidím.
+Eh, ještě něco máme?
+(PERSON6) Na programu asi ne.
+(PERSON8) Co ta, co ta [LOCATION3] vlastně?
+Jak jste, jak, jak jste se rozhodli?
+(PERSON6) No, eh, že jo.
+Byl zase meeting v [LOCATION] a [PERSON9] říkala prostě, že to a to a to, to samý vlastně, co říkala, a my jsme se bavili s [PERSON3], že prostě, kdyby jako, že tam nikdo nechceme jako jít, protože tam budeme pak sami čumět a co tam budem dělat, že jo?
+Ale že, když se nás dohodne víc, který tam půjdou spolu, no, tak že by nám to vlastně až tak jako nevadilo, že jo.
+To jsme se, myslím, bavili už někdy spolu taky, že jo, [PERSON8]?
+(PERSON8) Já nevím, asi jo.
+(PERSON6) No.
+No a, no, tak jsme se tak jsme se tak zeptali lidí, co seděli kolem a pár dalších lidí a ukázalo se, že jako jo.
+(PERSON12) A pak se nějakých lidí nezeptali a napsali je tam.
+(PERSON6) No, a pak jsme se jich zeptali ale potom.
+<laugh/>
+Teďka už jsme se zeptali všech, tak jsou tam napsaný jenom ti, kterejch už jsme se zeptali.
+A řekli, že jo.
+(PERSON8) Tak to je dobrý.
+(PERSON6) <censored/>
+<laugh/>
+(PERSON6) Ale to jo.
+(PERSON12) Hm.
+(PERSON6) A teď někdy?
+(PERSON12) Ne, někdy už docela dávno.
+<censored/>
+(PERSON6) Hm, hm, hm.
+Vůl.
+No, tak teďka řešíme jako s [PERSON9] jako ty požadavky, co jako pude a co jako nepude.
+Já pak ještě budu zas psát nějaký maily.
+No.
+(PERSON8) Jo.
+(PERSON6) No.
+(PERSON8) A to vy takhle jako -
+(PERSON4) Co přesně znamená?
+(PERSON8) A co by se stalo, kdybych vyrůstal na [LOCATION2].
+Jak jsem viděl -
+(PERSON6) Cože?
+(PERSON8) Ten seznam těch.
+No, jak jsem viděl seznam těch lidí, tak by mě to spíš štvalo, kdybych zůstal na [LOCATION2].
+<laugh/>
+(PERSON6) No, jako snažíme se to překlopit do stavu, kdy jako -
+(PERSON4) Nevypnem, nevypnem ten recording -
+(PERSON6) Já nevím jako, tak -
+(PERSON4) Než potom pokračovat tady v tý neoficiální části programu.
+(PERSON6) Tak to je taky ňáký meeting.
+Mám vypnout recording?
+(PERSON12) Jo.
+(PERSON8) Tak vypni recording.
+Bude to někdo anotovat?
+(PERSON6) Jo, někdo to bude anotovat.
+(PERSON4) No, právě.
+Já se bojím, že -

@@ -1,0 +1,47 @@
+Zápis ze schůzky
+
+Datum schůzky: 7. 10. 2020
+
+Téma: Porada [ORGANIZATION22]
+Vedoucí schůzky: [PERSON7]
+Účastníci: [PERSON53], [PERSON34], [PERSON4], [PERSON9], [PERSON38], [PERSON17], [PERSON3], [PERSON12], [PERSON33], [PERSON13], [PERSON21], [PERSON39]
+
+
+Zápis:
+
+- [ORGANIZATION30]: představení projektu souvisejícího s nahráváním schůzek: cílem projektu rozpoznávání řeči počítačem a následné přepisování do textu: zápisy a transkripty budou deanonymizované.
+-- Žádost o podepsání souhlasu se zpracováním dat.
+- Práce z domova: žádost o zapisování veškerých příchodů a odchodů do společného Outlooku.
+- Výstava v [ORGANIZATION18]: momentálně není možné zorganizovat hromadnou návštěvu: doporučeno zúčastnit se individuálně: budou pořízeny katalogy a letáky.
+-- 5.11. sekční schůzka v [ORGANIZATION17]: možnost požádat o okomentování výstavy.
+- Za týden třeba začít připravovat půlhodinové rozhovory se zaměstnanci.
+- Spojení [PROJECT9]: spojení mostem napojeným na tramvajovou trať do Bohnic: umístění mostu bude prověřováno ve dvou variantách: projekt momentálně nepůjde do územního plánu: v budoucnu bude řešen v metropolitním plánu.
+- [PROJECT25]: interní schůzka konaná v pátek: téma: [PROJECT25] mezi Černým Mostem a Horními Počernicemi: cílem schůzky podoba podchodu a jeho financování.
+- [PROJECT14]: zpracováváno koncepční zadání: tento týden bude pravděpodobně dokončeno a předáno ke kontrole: 21.10. proběhne koordinační schůzka.
+- [PROJECT17]: záměr stavět: požadována rezerva na deponii zeminy: zadána studie na úsek [PROJECT17]: zvažována možnost zúžení: v pondělí proběhlo jednání: nutno sledovat dění.
+- [PROJECT3]: předán návod na opravu stávajícího tisku: poté postoupit ke kontrole stratégům.
+- [PROJECT5]: zítra proběhne schůzka: vypracovávána výzva na dopravní řešení.
+- [PROJECT16]: vyprojektováno několik alternativ přivaděčů: zatím nezveřejněno: řešení by mělo být známo koncem října.
+- Studie [PROJECT10] třídy: zadáno.
+- [PROJECT20] v [LOCATION1]: provedeny úpravy v zadání: pravděpodobně půjde do změny územního plánu.
+- [PROJECT22]: vypracováváno nové opravné zadání: nové vstupní podmínky: promítnutí veškerých připomínek: možnost obnovení návrhu na nerušící výrobu: nevyřešena doprava.
+- [PROJECT21]: žádost o svolání jednání.
+- [PROJECT23]: hodnoceno včera.
+- Tramvajová trať na [PROJECT7]: otázka minimálního propojení dvou území: vypracováno koncepční zadání: zadáno prověření různých variant vedení tramvajové tratě.
+-- Návrh dokončit koncepční zadání: do konce týdne vypracovat připomínky k variantě číslo 5.
+- [PROJECT15]: zásadní protest proti způsobu zadání dostavby: vydáno prohlášení: 22.10. od 19:00 konání debaty.
+-- Soustředit se na zadání pro krajinářské řešení.
+- [PROJECT4]: sdělení obsahu včerejšího jednání individuálně.
+- [PROJECT12]: bude řešeno individuálně.
+- [PROJECT6]: sledována probíhající studie: třeba zjistit informace.
+- [ORGANIZATION21]: nabídka představení studie týkající se území severně od Poděbradské ulice: v nejbližší době bude domluvena schůzka.
+- [PROJECT2]: dokončeno: 5.11. promítnout na schůzce.
+
+
+
+
+
+
+
+
+Zápis předložila: [ANNOTATOR1]

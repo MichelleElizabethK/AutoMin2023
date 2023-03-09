@@ -1,0 +1,29 @@
+Schůzka [ORGANIZATION7] 2020-05-20
+
+Přítomni: [PERSON44], [PERSON35], [PERSON47], [PERSON3], [PERSON23], [PERSON45], [PERSON43], [PERSON6], [PERSON4], [PERSON27], [PERSON8], [PERSON28], [PERSON40], [PERSON46], [PERSON5]
+
+Na schůzce bylo řešeno:
+
+- pokud má někdo zájem o firemní mobilní telefon musí se nahlásit [PERSON19] nebo [PERSON31]
+- usiluje se o zasílání dokumentů elektronicky
+- každý nahlásí svoji dovolenou do konce května
+- [ORGANIZATION1] je zrušená, nový termín je 12. 6.
+- rada založila ústav [ORGANIZATION14], který bude sídlit v domě U Minuty
+- dávat si pozor na elektronické podpisy u smluv, protože s podpisem se zapíše i datum a čas podepsání
+- napsat poznatky o práci home office, aby z nich vzešlo ponaučení do další práce
+- [ORGANIZATION10] bude vypisovat soutěž na návrh [PROJECT1], návrh je již k nahlédnutí
+- [PERSON8] s [PERSON3] dopracují zadání na [PROJECT22]
+- na studii [PROJECT11] už se hlásí zájemci
+- [ORGANIZATION25] odepíše panu [PERSON25] na [ORGANIZATION20] ohledně jejich představy spolupráce na parčíku [PROJECT13]
+- na [PROJECT20] navrhují architekty nějaké úpravy, bude ještě schůzka ohledně úprav
+- proběhla schůzka ohledně [PROJECT14], jak tam zavést tramvajovou trať
+- [PERSON40] bude s [PERSON12] řešit [PROJECT18], udělají průzkum a focení
+- přišel požadavek na zpracování koncepčního zadání na [PROJECT15], zpracuje ho [PERSON35]
+- přišel požadavek na výsadbu stromů na [PROJECT12]
+- [PERSON20] žádá o informace o nových projektech pro projekt [PROJECT2] zítra v [ORGANIZATION18]
+- připravit objednávku pro pana architekta [PERSON36]
+- proběhla schůzka ohledně směny pozemků traumacentrum vs. tramvajová trať
+- jednání ohledně výjimky ze stavební uzávěry na [PROJECT8], je potřeba domluvit, jak bude vypadat finální řešení
+- přišel požadavek na [PROJECT17] na úpravu vodoteče
+
+Zápis sepsala: [ANNOTATOR1]

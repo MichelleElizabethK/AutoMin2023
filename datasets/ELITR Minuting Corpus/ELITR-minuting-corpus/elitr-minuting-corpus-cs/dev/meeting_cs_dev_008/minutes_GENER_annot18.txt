@@ -1,0 +1,37 @@
+Schůzka [OTHER2], 2020-02-11
+
+Přítomni: [PERSON15], [PERSON10], [PERSON9]
+
+Na schůzce bylo řešeno:
+• Přidána kapitola z dizertace, částečně přepracovaná
+• Text z dizertace se bude upravovat později, až se bude vědět, co vše v knize bude
+• K textu dizertace dopsat poznámky, co v něm chybí
+• Představen package pro použití zkratek
+• Deadline na surveye je 14. 2.
+o Všechny články, které k tomu jsou si přečíst a shrnout z článků, co je relevantní
+
+• Deadline pro osnovu knihy je stanoven na 14. 3.: rozepsání kapitol a co v nich přibližně bude
+
+o Plán na úrovni sekcí, podsekcí
+• Deadline na první verzi textu 22. 4.
+• Deadline celé knihy 1. 6.
+• Na konci června se musí kniha odevzdat recenzentům
+• Je potřeba se zjistit, zda musí být knížka černobílá nebo mohou být některé strany barevné
+• Do 12. budou recenze na ACL
+• Příští schůzka je naplánována na 25. 2. v 11 hodin: třeba pořešit strukturu knihy
+• Chybí pořád jeden článek poslat, aby byl splněný plán pro grant [ORGANIZATION1]
+o Článek bude cílit na calling a bude se řešit první týden v dubnu
+o Když nevezmou na ACL článek s BERTem, tak tam [PERSON9] připíše věci s xml
+• Probrána rekonstrukce [LOCATION1] a stěhování
+
+
+
+
+
+
+
+
+
+
+
+Sepsala: [ANNOTATOR1]

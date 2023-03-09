@@ -1,0 +1,48 @@
+Účastníci: [PERSON11], [PERSON18], [PERSON8], [PERSON4]
+Účel schůzky: prodiskutování jednotlivých článků
+Datum schůzky: 5. 12. 2019
+Shrnutí schůzky:
+- ICA s morfologickými kategoriemi skoro nekoreluje, na rozdíl od PCA: třeba určit hranici
+- sample from the hill je sample z nejvzdálenějšího Gaussiána a jenom z jeho vzdálenější poloviny uprostřed
+- sample zleva a sample zprava, jsou to krajní slova, vydělují se zde zajímavé kategorie. Infinitivy, minulé časy, které souvisí s tím, že někdo něco říká na pravé straně a na levé straně jsou vlastní jména. 
+- zpráva článku je, že vychází velmi specifické morfologické kategorie. Někde tam jsou samé feminina v prvním pádě jednotného čísla a jinde jsou samé feminina v prvním pádě množného čísla. Jinde jsou specifický pády.
+- zásadní otázka je, kde to ořezat 
+- zkusit tam, kde se protínají dvě Gaussovky
+- další článek je [PERSON4] crosslingual – jsou zestručněny informace, článek vychází na 4 strany
+- příběh článku je, že BERT má jazykově neutrální, lexikálně sémantickou komponentu
+- připsat do článku, že quality estimation potřebuje pokročilejší sémantiku než jenom lexikální, a proto na ní selhává
+- název článku je: How language neutral is multilingual BERT?
+- používal se BERT v Belgii na element a vychází lepe než Fasteline a hůře než Giza
+- v článku se používal pouze Fastline a bylo to lepší
+- další článek bude short paper a bude minimálně na čtyři strany
+- obrázky jsou moc malé a nikdo je nepřečte, zkusit zvětšit obrázky i font
+- precision nevychází, tak ji raději neřešit
+- do poznámky pod čarou napsat, že to je v podstatě recall. Vyjádřen názor, že lepší je druhý vzoreček
+- copula verb is treated as the predicate. Je rozdíl oproti UD. Napsat zdůvodnění, proč to tak je.
+- u expletiv vysvětlit, že to znamená there is a there are
+- nejsou vůbec popisky tabulek ani linky na tabulky, chybí i citace
+- mělo by se vysvětlit, co je to positional base line
+- dobré shrnutí je v abstraktu
+- hlavní nález je, že hlavy nepasují na relations one to one. Ty předtím říkali, že tato hlava dělá subjekty a tato hlava dělá adjektivum modifires
+- v článku se tvrdí, že ve skutečnosti tato hlava dělá adjektivum modifire, které jsou ale na vzdálenost jedna a jiná hlava dělá adjektivum modifires, které jsou vzdálenější, a naopak tato hlava dělá auxiliares a determines najednou.
+- představuje se nová metodologie, jak měřit
+- odkaz na autoritu SUD
+
+
+- použít SUD a podstatná pointa článku by mohla být, neměřte BERTa podle normálního UD, měřte ho podle SUD, protože ten BERT takto funguje. Znamená to, že SUD z určitého pohledu zachycuje jazyk líp než UD.
+- diskuse na jakém základě se omezilo to, že se z toho nedělá levý nebo pravý řetízky 
+- další článek je, že se vzali dvě architektury. Jedna architektura je transformer a druhá architektura je to, co dělal [PERSON19] s [PERSON1], která má uvnitř attention bridge
+- překládalo se z angličtiny do více jazyků
+- v transformeru je jeden dekodér a řekne se mu, do kterého jazyka překládá
+- v druhé architektuře, to je attention bridge, tam je pro každý jazyk jeden dekodér
+- cíl článku je ukázat, že pokud se trénuje překladač do více jazyků, tak je v tom enkodéru líp reprezentovaná syntax a, že čím více se tam dá jazyků, tím je to syntaktičtější. Musí to být jazykově univerzální.
+- zkouší se různě syntaktický probingy a to, co se dělalo na attentionech a evaluje se to
+
+- transformer moc nevychází, zatímco attention bridge, tam to je lepší
+- k multilinguální generalizaci se použije syntax v RNN
+- transformer má tisíckrát víc parametrů, tak si zvládne zapamatovat jazyky zvlášť a nepotřebuje jazykově nezávislou abstrakci
+- RNNko má těch parametrů míň, a ty jazyky kóduje tak, že si udělá jazykově nezávislou abstrakci, aby se mu to vešlo do parametrů, co má
+- zkusit udělat výsledky a směřovat článek k SRV, který je začátkem března
+- nejlépe mít článek již v únoru napsaný
+
+Zapsala: [ANNOTATOR2]

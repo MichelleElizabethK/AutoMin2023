@@ -1,0 +1,40 @@
+ Zápis ze schůzky
+
+Datum schůzky: 28.4.2020
+
+Téma: Schůzka projektu [OTHER1]
+Vedoucí schůzky: [PERSON3]
+Účastníci: [PERSON3], [PERSON13], [PERSON15], [PERSON10]
+
+
+Zápis:
+
+- Článek pro Archive a EMNLP: téměř dokončený: deadline 1.5.;
+- Článek pro [PROJECT1]: deadline 30.4.;
+- Kniha: deadline 1.6.;
+- Návrh posunout deadline první verze textu ze 22.4.
+         - Nový deadline: 18.5.;
+- Článek pro PMBL: deadline na konci června;
+- Časopis pro PMBL: vyjde v dubnu;
+- Třeba primárně řešit dopsání knihy;
+- Návrh, aby studenti po dokončení bakalářské práce zkusili napsat článek do PMBL;
+- Třeba rozvrhnout práci na knize rovnoměrně do tří týdnů;
+- Embeddingy: první týden Kove a Elmo: druhý týden BERT: třetí týden zbytek;
+- Attentiony: první týden kapitola 3.3.: druhý týden: kapitola 3.4. a 3.5.: třetí týden: celkové dokončení;
+- Word element: první týden přetrénované věci: druhý týden embeddingy v aplikacích: třetí týden debiassing;
+- Až bude jasný počet stran a požadovaných výtisků: zadat požadavek na tiskárnu;
+- Třeba se domluvit na typu vazby: zjistit informace ohledně ceny;
+- Minimální náklad: třeba zjistit;
+- ISBN: lze získat odevzdáním pěti povinných výtisků: v případě prodeje je nutností;
+- Calling: přesunuto na prosinec;
+- Seminář [ORGANIZATION8]: 23.9. – 25.9.
+
+
+
+
+
+
+
+Zapsala: [ANNOTATOR1]
+
+

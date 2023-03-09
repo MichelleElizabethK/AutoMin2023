@@ -1,0 +1,17 @@
+Schůzka [OTHER3], 2020-06-01
+
+Přítomni: [PERSON3], [PERSON16], [PERSON1], [PERSON4], [PERSON8]
+
+Na schůzce bylo řešeno:
+
+- [PERSON1] rozeslal mail několika studentům ohledně testování [OTHER1]
+- český překlad je dost pomalý, zvážena kvůli tomu možnost vytvoření cashingu na věty, které už byly přeložené
+- měření, jak dlouho trvá překlad
+- [PERSON1] zjistí, který směr teacher student [ORGANIZATION4] potřebuje
+- [PERSON1] napíše email ohledně rychlého vyřešení parafrasingu
+- do deliverable musí přidat informace [PERSON14], [PERSON3] a [ORGANIZATION4]
+- domluvit se s [ORGANIZATION3] na feedbacku
+- [PERSON3] napíše email do [ORGANIZATION3], kdo se může feedbacku věnovat
+- [PERSON6] ohledně parafrasingu nic nepřispěje
+
+Zápis sepsala: [ANNOTATOR2]

@@ -1,0 +1,824 @@
+(PERSON15) No, čau.
+(PERSON2) Ahoj.
+(PERSON15) Čaute.
+Já to hodím sem, nech se nedívám jinde ako.
+Vidím vás.
+Dobre.
+Čau, čau.
+(PERSON2) Ahoj.
+(PERSON6) Ahoj.
+(PERSON2) Ahoj.
+(PERSON15) Čau.
+(PERSON13) Hello.
+(PERSON6) [PERSON9] tady koukám není.
+(PERSON2) Ale on se objeví.
+(PERSON6) Budeme na něho čekat?
+(PERSON2) Asi bych počkala, vždyť psal ten email, že se ví, že se to otvírá v šestnáct deset.
+(PERSON6) Jo vlastně.
+No tak to jo.
+Tak to asi dojde.
+(PERSON6) Čau, [PERSON16].
+(PERSON16) Ahoj.
+Slyšíte mě.
+(PERSON15) Já tě počujem.
+Ano.
+Ano.
+(PERSON16) Jo super.
+Já jsem měl nějaký technický problémy se sluchátkama.
+A furt -
+(PERSON2) Ale -
+Slyším tě trochu divně.
+Ale dobře.
+(PERSON15) A hodně chrčíš.
+No.
+(PERSON2) Jestli něco říkáš, tak tě není slyšet asi.
+Nebo já tě neslyším.
+(PERSON15) Já tiež a [PERSON15] niečo hovori.
+Já to nepočujem.
+(PERSON2) Není tě slyšet, [PERSON16].
+(PERSON13) Laťka vypadá furt nic.
+Teďka se urazil a odešel pryč, hele.
+<laugh/>
+Nene.
+(PERSON2) Something was there but -
+No.
+Sorry.
+Proč na tebe mluvím anglicky?
+Ne.
+(PERSON9) Ahoj, ahoj.
+Já se omlouvám za zpoždění.
+Já jsem nemohl najít URL.
+Protože ono se to zase nejmenuje meeting tečka cesnent.
+A máme nějaký sdílený dokument k tomu.
+(PERSON2) Já jsem ti to nakopírovala do toho sdílenýho dokumentu.
+(PERSON9) Do kterýho.
+Já nemám -
+(PERSON2) Ten, co šel v těch meilech.
+(PERSON9) No, ale těch mejlů bylo dvacet.
+V [OTHER1] to nenašel, ale já ho zkusim najít.
+[OTHER2] od plena rikols. 
+To neni vono.
+(PERSON2) Nene.
+No.
+Já ti to sem zkusím nakopírovat.
+(PERSON6) Teďka jsem se ho dočetl.
+(PERSON2) [PERSON6] ti ho hodil do chatu.
+(PERSON9) Do chatu.
+Děkuji.
+Jo.
+Tak, teď se ukáže, že ho vůbec neznám. 
+(PERSON2) No, neznáš.
+Je novej, z dneška.
+(PERSON9) No, jo.
+Jo, super, tak díky.
+(PERSON16) ??
+(PERSON9) Teď jsme tě slyšeli zrychleně.
+(PERSON16) Oukey. 
+Já nevím, co s tím.
+Já furt -
+Ať už cokoli.
+Vždycky to -
+(PERSON9) Jo.
+(PERSON2) Ale slyšíme tě.
+Jeden z nich je čipmang.
+(PERSON9) Ne.
+Ty používáš ty chytrý sluchátka.
+To je další průšvih, protože přetěžuješ současně bluetooth a wifinu svýho notebooku, a ten to nedává.
+(PERSON16) Já nejedu přes wifi. 
+Já jedu přes ebel a sluchátka jsou jediní, který dokážu zprovoznit, protože kabelový předtím jste neslyšeli.
+(PERSON9) Jo.
+Hm.
+No, tak jo.
+(PERSON15) Jenom jsme ti rozuměli, no.
+(PERSON9) Tak mluv pomalu, ale dělej, co ty sluchátka.
+Já jsem je používal i se svým mobilem a voni mají špatnej -
+To.
+Mikrofon.
+A potom navíc hrozí, nevím, jak u těchhle sluchátek, ale jako když nemáš normální sluchátka, tak už se mi stalo, že Skype mi koktal, protože procesor byl vobčas zaneprázdněn odstraněním echa.
+Tý zpětné vazby a vobčas prostě začal jako bojovat můj procesor a v tu chvíli začal koktat ten, koho jsem poslouchal, že úplně jako  podivné efekty to dělá. 
+Ale jsem rád, že bychom všichni a tak.
+(PERSON16) Snad nebudu moc mluvit.
+(PERSON9) No tak.
+No já do toho skoro nebudu jako šťourat, né. 
+Protože to asi někdo má připravený.
+<laugh/>
+(PERSON2) Hezký pokus.
+No, [PERSON6], ne.
+<laugh/>
+(PERSON6) Tak, co to teďka je jako hlavní.
+Je třeba řešit na následující dva měsíce, jsou ty deliverably, ne. 
+(PERSON9) Jo, no.
+(PERSON6) Protože jinak na nás bude [PERSON20] asi zamračenej.
+(PERSON9) Ano. 
+Ano.
+Já jsem vám nenasdílel, to co rozhodně.
+Jo.
+Nebo kabdemo.
+Je tam. 
+Výborně. 
+Ano, hadr.
+Task tři, čtyři. 
+Všichni jste se tak kroutili, že embest list navigation se vám jako task nelíbí, až jsem poprosil [PERSON13] a [PERSON13] mi za jedno odpoledne poslal demo, jak by mohlo vypadat uživatelský rozhraní nahraný ve videu a jako není tam ten podkladovej překladovej systém, jo.
+To je podvod. 
+Ale. 
+Ale, ale celý to uživatelský rozhraní prostě funguje a vypadá jako krásně. 
+Takže to jsem přesně potřeboval, aby ten task se podařilo takhle jako splnit. 
+Takže tohle ještě není splněný, samozřejmě, ale je toho velká část.
+Nebo ta viditelná část je pěkně načatá.
+(PERSON6) Akorát -
+Otázka, jestli to budeme moci takhle generovat automaticky.
+No, a to už je druhá věc.
+Každopádně kromě teda těch deliverablu.
+Hm.
+Chceš, [PERSON15], se hodně zaměřit na ten [OTHER3] teďka?
+Dneska?
+(PERSON15) Nie.
+Já jsem to tak iba napisal.
+Jenom.
+Neviem.
+Poďme radši jinak na to, že.
+Právěže, co třeba do těch deliverablu a lebo, abysme se potom, skor bychom to mílil tak, že abysme si uměli rozhodit tu robotu.
+Na to je treba se soustredit.
+(PERSON6) No jasně, no.
+(PERSON15) A niečo máme začaté a něčo máme začaté. 
+Ten [OTHER3] dva, ten experiment je začatý a myslím, že to nebude vůbec stěžejná věc, kterou bysma sa mali reprezentovat.
+Neviem.
+(PERSON6) No já nevím, [PERSON9], ten [OTHER3], tam můžeme do něčeho nacpat nebo -
+Dá se to nacpat do toho dé tři jedna a že jsme se trošku odtrhli.
+Nebo.
+Víš co.
+Jak jinak.
+(PERSON9) No já myslím, že jsme se neodtrhli, že prostě [OTHER3], všechen [OTHER3] je řešení elbow translation. 
+Není to přesně podle plánovanejch tasků. 
+Ale je to cílem elpegige.
+Vůbec jako.
+(PERSON6) Máš představu, jak se to prostě odůvodní, že [OTHER3] souvisí s lovarin source sentense.
+Myslím, že [PERSON4] si s tím měl taky v tom [ORGANIZATION5] problém, že se mu nelíbilo, že je poskládaný název toho deliverablu.
+Ale jinak jako, to, že tam nacpeme [OTHER3] mu problém asi nedělá.
+Jakože prostě.
+To tam chce mít opravdu, aby to znělo, že děláme, nebo že jsme tam dělali nějaký lovarin source complexity.
+Nebo bylo to tak nějak.
+(PERSON15) On podla mňa -
+Eh.
+Prečítal název toho deliverablu.
+(PERSON6) No jasně.
+(PERSON15) Lovarin source omplexity.
+Všiml si, že vobec jako odtedy, kdy já jsem robil ty experimenty, tak source complexity jsme se moc nevěnovali a zároveň jako měli jsme tam ten slide o tom source variation.
+No, a na to nějako, jak sem to správně pochopil. 
+Mu povedal.
+Niečo také, že oukey a source varition se dá považovat, že to je jako lovarin source complexity.
+Že ak nám to budete robit, tak to bude v porádku.
+To sem si vzal z toho já.
+Ale.
+(PERSON9) A já nevím, jestli tehdy za prvý.
+Nevím, jestli si to pamatuju přesně. 
+A taky nevím, kolik z mojí odpovědi bylo jako slyšet. 
+Ale já source complexity, bych definoval zcela pragmaticky, jako jestli to umí, nebo neumí ten překladovej systém přeložit a lovarin source complexity, protože vidím díky [OTHER3], že to ten systém neumí přeložit, tak já jako snižuju tu složitost jako ručně. 
+Jo, že lovarin source complexity tam dělá ten člověk a [OTHER3] je nástroj k tomu, aby ten člověk to mohl udělat.
+(PERSON15) Oukej.
+Takže -
+<laugh/>
+Budeme deliverablu hovorit čo vlastně tyto věci, čo si každý možno, že myslel, že to bude automaticky, tak to bude ručně.
+(PERSON9) Jo, vono je to ručně i člověkem. 
+(PERSON15) No jasně.
+Ano, ano, rozumiem.
+(PERSON9) Ano.
+(PERSON15) Hej, jakože.
+(PERSON9) No a taky.
+Jako jakmile se udělají nějaký pokusy s parafrázováním, tak ty jsou taky jako lovarin source complexity. 
+Jo, že to si někde jako poznamenejme, jakým všelijakým způsobem, jako řešíme tu úlohu lovarin source complexity a řešíme to uživatelem, kerej musí vědět co a jak. 
+A řešíme to parafrázováním.
+Source variation je parafrázování, že jo.
+Nebo tam máme ještě něco jinýho? 
+(PERSON15) No ono je to takto momentálně prostě source variation.
+To čo sme prezentovali  státu, tak tam jediné čo bylo  prezentované je to, čo teda ten [OTHER3], a to je ten systém, který má [PERSON19].
+On to byl najprv třicet šest na třicet šest a já som ho potom poprosil nech zkusí natrénovat iba šest na šest a ve větších datách nebo ako výrazně lepší, alespoň jsem vygeneroval půlčet.
+Prostě, ale.
+Jako velmi.
+Nebylo to úplně.
+Keď som sa na ty výstupy díval, tak zase až taková.
+Čekali bysme od toho nějaků velků, větší různorodost.
+V tich prafrází.
+Aj za tuto scénu influency.
+Ale ta různorodost, tam úplně nebola.
+Takže -
+A dále jsme jako na tom nerobili.
+To čo robí [PERSON8] teraz hlavně a já by som se rád už k tomu též pripojil snad tento týden.
+Eh.
+Tak to je skor, že máme k dispozici parafráze a té využíváme na -
+(PERSON9) Source. 
+(PERSON15) Jo, čo si nemyslím, že úplně nebo dá se to považovat za.
+Lovarin source complexity.
+Neviem.
+(PERSON9) Jo, protože ten systém má možnost si vyzobat, co je pro něj snazší. 
+On nikdo neví jak tam funguje ta etenšna napříč multi sourcem jako -
+V jednom směru ano, je jako ten vstup komplexnější, protože tam jsou ty parafráze, že jo?
+Takže my jsme ho jakoby zesložitili, ale to pro to, abysme potom tomu systému dali právo udělat sjednocení přesto, co vidí a ignorovat to, co je pro něj těžký.
+(PERSON6) Tak na tohle by mu nešlo udělat <unintelligible/> experimenty né, že já nevím, že budu mít dvojici vět a podle toho a  nějakým způsobem toho systému, na kterou z těch dvou věcí víc se soustředit přitom překladu, a tu potom klasifikovat jako jednodušší nebo méně komplexní.
+Něco takového.
+(PERSON9) No, já teď nemám ten trend description for tape, protože telefonuju z jinýho notebooku. 
+Ale já myslím, že je jako chyba příliš postupovat podle toho návrhu, jak to bylo udělaný.
+Jako technicky se příliš držet toho návrhu.
+(PERSON15) Jasné.
+(PERSON9) Protože prostě, protože ten jako byl první, jak by se to dalo udělat a ne že je ověřený, že to, tudy půjde.
+(PERSON15) Rozumím tomu, ale zase jako že mali bysme asi.
+Zaťal to byli podle mňa ano.
+Malo to nějaký postup.
+Toto celé, že prečo jsme s [PERSON8] dospěli nakonec k tomuto.
+(PERSON9) No, a to tam musí být popsaný.
+(PERSON15) Ale já mám pocit.
+No.
+Hm.
+Že tam musí být popsané.
+Nebo tak, že bychom se vykašlali na to source variation, pretože se to moc nedalo testovat a [OTHER3] je zpusob jakým způsobem se to dá testovat.
+Hej, ale.
+Prostě v tom [ORGANIZATION6] jsme ten source varitation ňáko pustili, protože.
+No a [PERSON8] usoudil, že se to ťažko testuje automaticky.
+Takže.
+(PERSON9) To je dobrej důvod.
+(PERSON15) [PERSON8] k tomu asi může poviďat více, ale.
+Ale stále si myslím, že to source variation a nebo niečo také.
+Lebo teraz jsme úplně opustili.
+Opustili ten automatické zjednodušování toho vstupu.
+(PERSON9) Kromě parafrázi a výběru s parafrázi.
+(PERSON15) No jasné, ale to parafrázování, tak to též robil [PERSON19].
+On natrénoval jeden model a já ho nemám pod kontrolou.
+Ako myslím, tuším má <unintelligible/>.
+Já neviem, že ako je velmi vázaný  na náš projekt.
+(PERSON9) On má, má dohodu hodinovou, takže můžem mu dávat úkoly, ale jako kolik reálně času on tomu dokáže věnovat? 
+To záleží prostě na něm, protože je na dálku. 
+Takže jako můžeme mu nařídit, ale musíme se ho zeptat, jestli to dokáže splnit. 
+A von pak řekne ano, dokážu. 
+Ne, nedokážou. 
+(PERSON2) Taky většinou záleží, jestli je nemocnej a nechodí do školy a má čas pracovat a nebo jestli je zdravej a studuje.
+(PERSON9) Čili, jako pod kontrolou je, ale do jaké míry -
+To prostě musí von si posoudit aktuálně, protože taky on říkal, že teď zrovna nebo to bylo před, já nevím, čtrnácti dnama, že si poslal jídlo ze Slovenska, že ho má plnou lednici a čtrnáct dní vydrží. 
+Ale teď už zrovna to jídlo asi došlo, takže jak je na tom teď, to nevím.
+(PERSON15) Oukey.
+(PERSON9) Čili, ano, vůbec se neboj se ho, nebo jako klidně bych navrhoval ho do toho jako zatáhnout víc. 
+Ale pak je potřeba se jako jednak zjistit, kolik toho si myslí, že udělá. 
+A potom pečlivě hlídat, jestli jako se mu daří postupovat, protože taky už se mi s ním stalo, že měl větší ambice, než než pak reálně dokázal plnit.
+A ne, že by jako kecal, ale prostě se k tomu, jako nedostal.
+To se jako stává, že to lidi neodhadnou.
+(PERSON15) Ale on je teda jakože zaměstnáný, a lebo.
+(PERSON9) Je.
+(PERSON15) On je v Prahe.
+Je študent.
+(PERSON9) Ne.
+V Curychu.
+(PERSON15) Nie.
+(PERSON2) V Curychu.
+(PERSON9) A v Curychu má takovej problém si přivydělávat, že říkal, že je velmi rád za naše DPP. 
+(PERSON15) Aha.
+Oukey.
+<laugh/>
+(PERSON15) Takže.
+A on robí na [OTHER1] niejak?
+(PERSON9) No, to jsme dali, to jsme dali proto, aby jako byla flexibilita z čeho ho platit a tématicky právě proto, aby jako jsme, když von vyjádří zájem, konal práci tak, aby jsme měli snadno volbu to.
+(PERSON15) Oukey.
+Dobré no tak.
+A keď on prostě trénoval tie prekladové systémy.
+No s tou parafráziou.
+(PERSON9) No, no.
+(PERSON15) No, a možeme niečo s tím vymyslet ještě viac.
+Ale úplně ako čo.
+(PERSON9) No a teďka, co bysme.
+(PERSON15) No, původně jako [PERSON11] chtěl robit to parafrázovanie.
+Neviem, jestli se k tomu chce nějak vyjádřit, že či má ještě nějaký záujem alebo.
+To myslím ještě minulý rok pri keď som tam ještě nebol. 
+(PERSON9) Tak, jestli se slyšíme.
+Asi to nemluví.
+(PERSON2) [PERSON16], říkáš něco.
+(PERSON15) Říká no.
+(PERSON2) Zkus psát do chatu.
+A vlevo.
+Vlevo máš ikonku chatovou.
+(PERSON9) Hele, podívej se na top taky.
+Jestli to jsou -
+Teda jestli to jako evenlixový jako stroj.
+Prostě fakt.
+Vytížení procesoru je to, co to zabíjí. 
+Nevím proč, ale prostě to tak je.
+No, už to vzdal.
+<laugh/>
+(PERSON15) Oukey.
+(PERSON9) No, teďka, co potřebujeme teda.
+Jakým způsobem se jako mentálně vyrovnat s tím, že source complexity je pitomej název a to, co děláme dokázat jako přetvarovat nebo najít něco, co my sami s tím budeme jako srozuměny, že je řešení source complexity. 
+A když základem je, že my sami s tím musím být srozuměni. 
+Když my sami prostě budeme něco -
+Třeba já říkám, toho uživatele pokládat za řešení source complexity, tak to člověk prostě po tom napíše do tý zprávy a je to, jo.
+Když já sám sebe prostě zpracuju a vysvětlím si, že source complexity je řešením tím uživatelem, tak pak to tam dokážu jako důvěryhodně napsat. 
+A to je jedna věc, kterou potřebujem source complexity  a pak potřebujem, co zatím nebylo vůbec řešený a to je ten investic navigation a emebst list navigation.
+Tam [PERSON13] potřeboval k ruce někoho, kdo by pomoh s tím, s tím systémem, tak, aby systém dělal povinně nějaký slova, ale nějakou samozřejmě chytře povinně, protože se neví, kdy v tý větě. 
+A pak, aby systém se vyhejbal nějakém slovům, což se dá dělat natvrdo, anebo zase nějak jako lehce měkce.
+No, a to si myslím, že na to by byl asi nejlepší [PERSON8]. 
+A teď je otázka.
+Protože [PERSON13] bude mít čas jenom jako vomezenej. 
+Tak [PERSON8] by to taky musel jako udělat do někdy, aby to [PERSON13] dokázal zužitkovat.
+No, tak já nevím, jestli [PERSON8].
+Teďka dělá asi nejvíc ze všeho na tom článku pro [OTHER4], že jo?
+Ale nevím, jestli něco, něco dělá v tom neortogresivním anebo jestli může teďka všechnu [OTHER2] sílu na přijít k ovlivňování z hypotéz, výběru ze stavu jeho prostoru, tak aby tam byly nějaký slova a nebyly nějakých slova. 
+Tak, teďkas ověříme, jestli slyšíme [PERSON8]. 
+Zatím neslyšíme.
+(PERSON2) [PERSON8], jestli něco říkáš, tak nejsi slyšet.
+(PERSON9) Může zatím [PERSON16] zkusit a ten [PERSON8] to vzdal.
+Výborně.
+<laugh/>
+(PERSON9) [PERSON16], je tady z toho.
+(PERSON15) No, já to zatím poviem, protože [PERSON8] má zatial ten multi source translation na tom robíme jako.
+Já jsem snad naposledy na tom robil pred dvěma týždnami, ale [PERSON8] mezi tím a lebo ještě vtedy pustil keď sme ještě boli v [ORGANIZATION5], tak byli spolu s [PERSON17].
+Nám ukázal nějaký ten jeho systém založený na [PROJECT1], který má parafrázovat a [PERSON8], kým to pustil na celý čeng.
+Vygenerovali jsme si tím data. Já jsem  chtěl urobit to isté pomocou systému založeného na stahovánie nějakých parabang rewriter, který je ináč velmi podoboný to čo ty chceš.
+Ten parabang rewriter funguje naozaj tak, že on je trénovaný na vlastně anglicko anglických datách.
+A s tým, že tým můžeš poviedat konstranty pre ty kontingu.
+Toto slovo chceš a toto slovo nechceš.
+(PERSON9) Aha.
+(PERSON15) A on ti to generuje.
+A tak generuje i parafráze.
+Takže na základě tohoto by som chtěl vygenerovat parafráze jaký způsob toho.
+(PERSON9) Tak to je přesně vono. 
+Tak todlecto, řekni [PERSON13], kde to jako je? 
+A to je možná vyloženě ten backhand, který potřebujeme. 
+A teda trošku doufejme, že tam bude ještě i něco zajímavého k vybádání, ale když nebude, tak se tím splní alespoň ten task a řekne se, že jako hotovo. 
+Když tam je něco k vybádání, tak je to výhoda, protože se z toho dá napsat článek.
+(PERSON15) Jasně no.
+Tento backhand.
+Já to mám rozběhané ako, že to je naozaj angličtina do angličtiny, ale já myslím, že oni to aj v tom článku trénovali.
+Takže najprv prostě zobrali čeng a oni.
+To je nějaký ten automatický přeložený čeng alebo niečo také.
+A potom brali s tých českých vět.
+Brali slova ako kotvy na to, že či tam budú alebo niebudú, keď překládáš z češtiny do angličtiny a generuješ tak vlastně anglicky parafráze k těm puvodním anglickým zdrojovým větám v čengu.
+Už jsem se ztratil, ale -
+(PERSON13) Jak se ten jmenuje?
+(PERSON8) Slyšíte mě?
+(PERSON9) Nevíme, ale kterej teda.
+(PERSON8) Z jednoho jde video, z druhýho jde zvuk.
+(PERSON9) Dobře.
+(PERSON15) Oukey.
+<laugh/>
+(PERSON15) Dobre, tak zaťal jsem [PERSON8] iba poviedal, že jak hovoril [PERSON9], tak sem hovoril, že načom si robil teraz čo se týká a nebo jsme robili a hlavně ty, teda, multi source translation a asi můžeš dále zodpovídat ty otázky.
+(PERSON9) No, ale v podstatě to není tak zásadní, protože teď se to vyřešilo zase tím parabangem trochu.
+(PERSON15) Jo vlastně.
+(PERSON8) No, to já jsem říkal. 
+Ať udělá, tak jsem říkal, že to bude.
+Tak to máme hotový.
+To, co jsi říkal, ať udělám, tak jsem říkal, že už to máme od [PERSON17].
+Že my máme prostě dekodér, kterému můžeš zakázat nějaký slova.
+(PERSON15) Ano.
+(PERSON9) A můžeš mu taky říct, že nějaký má použít?
+To je těžší.
+(PERSON8) To nemůžeš.
+(PERSON9) Ale tom, že zase profiltrovat nakonci jako v nejhoršim. 
+(PERSON8) To by jsi asi moh.
+No, pokud tam bude nějaká taková věta, která tam bude.
+(PERSON15) A ako ten parabang rewriter umí oboje. 
+To je. 
+To je vlastně systém, kterým sa [PERSON17] inspiroval keď robil ty svoje experimenty, který teraz používá [PERSON8]. 
+Vlastně ten systém je založený na [PROJECT1] a další ten parabang rewriter.
+Neviem je nějaký [ORGANIZATION1] a - 
+(PERSON9) No.
+No, tak prostě někdo, buďto přímo [PERSON13], anebo někdo, kdo už s tím má zkušenosti, tak to čili [PERSON15] by to byl pro ten parabang a nebo [PERSON8] by to byl pro to řešení, který jenom zakazuje a neumí to porušovat. 
+Tak, tak se s [PERSON13] dohodněte a prostě to spojte dohromady. 
+Ať ten Frontex se naplní realistickým backhandem. 
+A ten task se jakoby splní tím.
+Takhle. 
+Jo, task se splní tím, že my to popíšeme do deliverablu a zároveň, a to není něco, co by jako chtěla tak striktně Evropská Komise, ale to je [PERSON4] čtení.
+[PERSON4] se prostě domnívá, že to opravdu musí bejt integrovaný ve Firefoxu. 
+A tam je ten šibeniční jako nějakej. 
+Já nevím, jestli se to týká nebo netýká taky, taky tohodle případu toho jen embest list navigation.
+To je otázka, co [PERSON4] tam uvidí.
+Ale tam je ten šibeniční termín konec července letošního roku, aby něco tam bylo zapojený.
+No. 
+A to vůbec nevím, jako -
+(PERSON15) Prepáč.
+Nebolo to niejak pri tom posunom celkovom velkom meetingu, keď tam rozprával.
+Tento.
+(PERSON9) [PERSON5].
+(PERSON15) On myslím, že on hovoril k tomu <unintelligible/> translation, že to ještě ako nemusí.
+Že to až tak úplně nehorí.
+(PERSON9) Je to možný.
+Je to možný.
+(PERSON15) No, tak jsem to pochopil z toho.
+Mně to hodně vypadávalo a lebo čo.
+(PERSON9) No, je to možný.
+(PERSON15) Ale zdálo se mi, že věnovali potom hlavně tomu domem adaption a ještě něčemu.
+(PERSON9) Jo, no, ale stejně [PERSON13], jako budeme mít teď jenom krátce. Takže kdyby se podařilo nějakým způsobem to jako dotlačit a ještě i k nim. 
+Ale to, to musí napřed prostě vůbec jako i [ORGANIZATION6] jako udělat ti mocs screenshoty. 
+A potom [ORGANIZATION2] musí napsat httml.
+<censored/>
+(PERSON13) Na to, ještě půl roku co tady budu.
+(PERSON9) No.
+(PERSON13) Takže jako času je hodně. 
+(PERSON9) No, je to září, že jo, jako?
+Nebo kdy, že od října jste pryč, ne? 
+(PERSON13) Jo, je to tak.
+(PERSON6) Jak to bude s hranicema?
+(PERSON9) No, no jo, to je pravda. 
+Jak to bude s hranicema?
+(PERSON2) Možná si tě tu necháme. 
+(PERSON9) [ORGANIZATION7] vzorně učí na dálku. 
+Ale no, to nějak vypadlo zas mně. 
+Nikoho neslyším.
+(PERSON15) My nic nehovoríme asi.
+(PERSON9) Aha, dobře.
+Tak tím pádem slyším všecko. 
+Dobře, no, no tak. 
+Takže, já si myslím, že teďka teda [PERSON13], ten má další vstupy, že jo.
+Teda bude mít od [PERSON15] a vod [PERSON8].
+To je dobrý. 
+(PERSON8) Mně by zajímalo, co na to.
+Já mám teď deadliny.
+Kam dáš prostě nějaký nebo jen tak se tam dá věta, pak se tam dá soubor, ve kterém je seznam těch zakázaných slov.  
+To je k tomu překladu.
+Jestli k tomu ještě něco potřeba, tak se stačí <unintelligible/>
+(PERSON13) Jo?
+No, tak abych to trochu víc zformalizoval.
+Tak je tam jako několik kroků. 
+Ten první krok je vůbec dostat jakkoliv  ten embest list z toho překladače. 
+Tak jsem prostě zaprvý na první stránce a z čehož se to člověk, ten uživatel může vybírat. 
+Takže nevzalo mi to [PERSON15]. 
+Tam u toho víc parafrázicího.
+(PERSON15) To neviem jako, kdy to tam bolo.
+To je prostě, že házeš tam slova které tam chceš alebo nechceš.
+Ale asi by se z toho nějaký embest list dal vytáhnout.
+Já neviem teraz ti úplně poviedat.
+(PERSON13) No protože se to jako jmenuje embest list navigation, že jo.
+(PERSON15) Hej, chápem no.
+(PERSON9) [PERSON8], tím, že máš repráky a mluvíš, tak se ti to u tebe vazbí a software to tlumí.
+A to tě utlumuje celýho.
+(PERSON8) Nejde mě slyšet?
+(PERSON9) Ne, jestli máš vobyčejný sluchátka, tak ty si dej všechen zvuk ať jde jenom do tvejch uší a ne do žádnýho mikrofonu. 
+Tak, jak je vidět, že máte stále ještě málo zkušenosti z celé.
+Jako s hovorama.
+Já už jich mám tolik, že už všechny.
+Už mám velký repertoár triků, který se dají zkoušet a někdy ani to nestačí teda, samozřejmě jo.
+(PERSON15) Se divím, že ak si na  to rychle přišel, že tak tižší, že to je kvůli tomu feedbacku. 
+(PERSON9) No, protože už jsem zkoušel šest různejch komunikačních platform, platforem a -
+(PERSON8) Ale já mám problém jen tady na tom.
+S tímhle tím.
+A hlavně mi to nejde zprovoznit na telefonu. 
+(PERSON9) Je to mnohem lepší jako tvůj hlas.
+(PERSON15) No.
+No.
+(PERSON8) Já zas neslyším sám sebe.
+(PERSON2) To nevadí.
+(PERSON8) Jako když <unintelligible/>
+Tak to bylo bez problému.
+(PERSON13) Já bych teda jenom chtěl říct.
+[PERSON15] pokud to ten tvůj systém jako neumí dělat ty embest listy, tak to, co by se dalo v nejhorším případě udělat je, že prostě dám tam ten jako normálně přeloženou větu. 
+Pak u každého slova jako nechám parafrázovat, že potom vytvořil parafráze, což by jako nebylo embest list, ale prostě byl by to jako různý překlady téhož slova.
+A už ho to, abysme teda jako mohl zaklikávat, co chce, co nechce. 
+A to by se potom dalo jako do toho tvého systému.
+Kde se jako dají zakazovat a povolovat ta slova.
+(PERSON15) Ale nie, já myslím, že to bude viedět.
+Prepačtě, že.
+A lebo.
+Je to iba obyčejný překladový systém.
+Viem, že se tam keď generujem ty parafráze, tak určitě viem vrátit aj embest listy.
+Že lebo som vracel tak.
+Robil som také, že som si vybral pět náhodných slov z té původní věty a pre každých z těchto pět náhodných slov som povědal, že jedna z toho a nebo pětkrát jsem vlastně zopakoval pre každé to slovo a povědal jsem, že tam nechcem to dané slovo, v tom výstupě a zároveň som mu pověďal, že ještě jako chcem pět embest alebo five best.
+Takže som tak vlastně dostal pre jednu větu dvacet pět možností.
+Takže já myslím, že jako tak na dva kroky by se to též dalo, že by generoval nejprv jako nějaký předvest.
+Úplně obyčejný a potom podle toho čo si tam ten uživatel zakliká, tak to generovat jako onfly.
+(PERSON13) Jasně.
+A jenom tak, když říkáš, že se tam jako zaklikává, co tam nemá být v té větě, tak to tam nemá být v té větě vůbec anebo na konkrétním místě v té větě?
+(PERSON15) Vůbec.
+(PERSON13) Hm.
+(PERSON15) Nie to ošetřené, že by to na tom konkrétném místě nemalo byt.
+(PERSON9) To nedává smysl na konkrétním místě moc, protože to by ten systém strašně rád utek a použil ho někde jinde, že jo?
+Tam stačí vložit nějakou čárku.
+A to i v češtině bude mít problém v tom, že my budeme chtít zakázat Lema a ono ve skutečnosti to bude zakazovat formu. 
+Takže tam prostě člověk bude všechny tvary toho slova muset jako potlačit.
+(PERSON13) Řikal, že jako v té ukázce toho demu, v tom, že uživatel, že chce zašrtnout, jako že nechce třeba nějaký to zvratný zájmeno na konkrétní pozice, tak jako můžeme zakázat pouze jako celé ve větě.
+(PERSON9) No to je blbý.
+Já bych spíš zakazoval jako. 
+Soustředil bych se jenom naplnovýznamový slova, jo.
+Že bych doufal, že ty pomocné jako jsou zvratný zájména a tak.
+Takže si ho vymyslí samosprávně na základě jazykového modelu, že tam tak prostě flexibilní víceznačnost, kterou to špatně pochopilo.
+(PERSON13) Takže k tomu ještě můžem zapojit nějaý klasifikátor podle kterého uživatel dovolí to zaškrtávat nebo odškrtávat.
+(PERSON9) Né.
+To uživatel brzo pozná, že když zakáže se, tak se to jako rozbije.
+Ale jo.
+(PERSON15) Ako v tom článku od [PERSON1], který popisuje ten parabang a parabang rewriter, tak oni tam naozaj robí filtraciu na ty možné slova, které padajů do těchto plus pozitivních nebo negativních konstrektou.
+A myslím, že je to ta právě ta slovnodruhová filtracia, že jsou to iba plnovýznamové, ale plus zahrňují tam ještě předložky lebo chcu mat k dispozici, že se nějaké
+Něco.
+A lebo se to změní na nějaký albertial a lebo tak.
+Prostě, nějak si to jakože ospravedlňuje, že předložky, tam zahrnul, ale pre nás taková zájmena, číslovky, to nemá smysl tam povolovat.
+(PERSON9) No, já myslím, že tyhlety, tenhle task, jako na velmi dobré cestě, ve smyslu, že teďka víme, co [PERSON13] má zkusit dál.
+A narazíme na problémy a tak. 
+Ale jako prostě teď, teď zrovna víme, co jako dalšího zkoušet, takže to je dobrý, takže se možná vraťme k tomu celkovýmu seznamu a zkusme úplně rychle projít co teda jako hrozí? 
+Takže lovarin source complexity tam jako,<unintelligible/>  experiment, six one <unintelligible/>  přesně tak, to si myslím, že musí udělat nejvíc [PERSON15]. 
+Nevím, jestli někdo.
+Souhlasí?
+(PERSON15) Eh.
+Hej, hej.
+No, to preklopíme, to co jsem písal do téj zprávy.
+Počkej, já už sem to písal do nějakého deliverablu, nie, či to byl ten.
+To byl ten intel deliver.
+Asi.
+Aha.
+Hej.
+Tak to možem.
+(PERSON9) Ano, protože ten je, ten byl interní, ten jako nikde se nepublikoval, ale čili.
+Ten byl jenom pro ty.
+(PERSON15) Oukey.
+(PERSON9) Parafrázování, to [PERSON5] popsat, jo.
+(PERSON15) On mi to popisoval v mejlu. 
+(PERSON9) No, no, ale popsat jako v techu, no.
+(PERSON15) Jasně no.
+Asi by bylo lepší kdyby to někdo zkontroloval.
+(PERSON9) Vyhodnotit, jako ať víme, co tam je, že.
+On to má sice natrénovány, ale nevíme vůbec jako, jak je to v čem dobrý.
+(PERSON15) No právě.
+(PERSON9) [OTHER3].
+No tak dobře.
+Jo, super.
+No, já myslím, že tohleto je jako dostatečný do deliverablu.
+(PERSON15) Ten [OTHER3], ještě taká věc momentálně.
+Ještě já jsem to tu  popisoval v tom experiment.
+Momentálně je to tak, že asi to stojí ještě na dvouch věcách, a to je píšem.
+Podle mně velmi rychle vyřešitelná je to angličtina a slabá čeština lebo to teraz momentálně stojí v tom, že [PERSON16] a [PERSON21] mi odpověděli a já som teraz týden na to nemal čas to řešit, ale potřebujeme prostě zprovoznit toto ako v servisu.
+Takže to teď s [PERSON16] ještě dohodneme alebo já sem se díval do těch jeho kodou a podle toho [PERSON21] návodu som to úplně nevěděl, takže asi bude nejlepší, že to bude kráčet, že to vytvorí větu a tam by to možná rozběhl.
+(PERSON9) Jo.
+(PERSON15) No, to si myslím, že to je fakt technická záležitost toto.
+Potom je na čem to stojí a padá ještě je kolik je polite destination, protože to jako robí šéfilďáci.
+Vyzerajů, že na tom pracujů, takže já úplně nechcem odstartovat ten export. 
+Já som plánoval ten experiment urobit jako nějaký ve dvou fázách.
+Že, najprv bez toho polite destination a potom s ním.
+Ale povědal jsem si, že neviem či úplně iba, keď tam bude back translation a ten parafrázing, či to bude jako dostatečně zajímavé ten výsledok.
+Tak jsem se rozhodl, že ještě počkám možno na nich s tím polite destination.
+Tak jsem jim teraz v pátek písal, že ako si na tom stojia a zaťal neodpoviedali, takže toto neviem teraz.
+Každopádně ten experiment, co podepísal [PERSON12], že on ho nebude moc vědět z politických důvodu opustit.
+Alebo nebude ho prebíhat face to face, takže nebude mat aj treking, ale.
+No viac budeme mat ako výsledky [PERSON16] a zase v tom zadaní té konfidencie čo si uživatelé sami naklikajů.
+(PERSON9) Jo.
+Hele, co se týče ajtrekingu, tak eště když já jsem si s tím poprvý hrál, tak [PERSON14] na moji prosbu jednou dokázal v moderních prohlížečích Java skriptovej, takovej rozmazávač obrazu. 
+A když by chtěli, tak se to dá použít tak, že celej vobraz vidíš rozmlženej a kam ukážeš myší.
+Tam kolečko takový malý vokolo kurzoru se ti zaostří.
+A to je, to jako pour mence ajkokr přes, přes webovej prohlížeč. 
+Takže tohlensto jim můžeš, můžeš jako říct, kdyby je to zajímalo. 
+Ale nedělali jsme s tím žádný pokusy.
+Jako, jak moc to lidi prostě.
+Jako představa, že vidím celou obrazovku rozmazanou, musím si jezdit myší kam se chci podívat.
+Je taková jako nepříjemná. 
+Takže rozhodně bych to dělal jako doplňkovej experiment, ne jako povinnou součást všeho. 
+Ale myslím si, že by to mohlo bejt zajímavý.
+(PERSON13) Já si teda myslím, že pro ty uživatele už bude velmi, velmi komplikované vysvětlení, co po nich vlastně chceme.
+Že občas se jim tam ukáže nějaký okýnko, které můžou používat, občas ne.
+Občas se něco podbarví.
+(PERSON9) Jo.
+(PERSON13) Jo, takže je to takový už komplikovaný.
+(PERSON9) No, no, je to něco jinýho než jako, že vím, co je, na kterém místě vobrazovky a buďto se tam podívám nebo nebo nepodívám. 
+Tady napřed musíme jako hledat tím kurzorem.
+Si to celý jako zaostřit a pak se na to dívat znovu. 
+Jo, čili lidi, co by byli zorientovaný a dobře by viděli, že jako tady v tomhle místě jsou ty parafráze, tak si tam teda zajedu si je přečíst.
+Jo tak.
+(PERSON15) Momentálně akože to by asi nebol problém pre [PERSON13].
+Momentálně je to tak, že podle toho či máš tři okna alebo čtyři okna tím otvorí, tak vždy je to jako v poradí.
+Takže parafráze možeš mat vždy na jinom místě, vždy podle toho se ti zobrazují čtyři moduly a lebo iba tri a lebo dva.
+Ale to si myslím, že je úplně technická věc, ale skor si myslím, že.
+No, asi se stotožňujem s [PERSON13], že už je to dost,  celkovo pro uživatelou, alespoň to co hovoril [PERSON12], že to bylo pro nich náročné vůbec pochopit ten task, že čo od nich chceme, že ještě jim to tak stěžovat tím vším.
+To nebudou vědět.
+(PERSON9) No, dalo by se to, dalo by se to dělat, takže, jako v tom vokně, jako podvokně, kde je myš, tak tam je to celý vostrý.
+A jako, že když vyjedu myší do parafrázi, tak se mi celý parafráze vodkrejou. 
+A když a nebo uvidíme jako prostě šedivý, že ty, že tam jsou k dispozici. 
+Ale když si o nějakou poprosím, a že tím pádem bude to pro lidi, kteří už vědí, k čemu, kterej modul je a poprosej si o něj bez kliknutí tím, že na něj jednou zajedou a tím pádem se jako odhalí a a je vodkryto třeba jako.
+Jo dá se to takhle.
+(PERSON15) Ale tak to mi budeme vědět, tak či tak zjistit z nějakých akcí, že.
+Já teda neviem ako velmi lobujeme [PERSON13], ale myslím, že oni keď.
+Už minimálně z toho, že keď budeš viedět, že niekto, že vidíme čo vyplul parafrázovací systém a ak ten uživatel použije nějaků frázu z něho, tak jako.
+Správně, že se na to pozrelo, že to viděl.
+(PERSON9) No.
+(PERSON15) Ako není to jisté.
+(PERSON9) No, no přesně ták, nó,
+Ale souhlasím jako a tohle je na [ORGANIZATION6], ať si oni si to zjednodušují, tak ať je vyhodnotitelný. 
+Vono nejde ani tak jako, jde samozřejmě o to, aby to bylo vysvětlitelný uživatelům. Ale ještě navíc jde o to, aby se sebralo dostatek měření a dalo se o tom něco tvrdit.
+No, a to je, to je taková míra zjednodušování, kterou potřebujou tyhle psycho lingvisty, že jako je to dalece za jako moji představivost z toho, že prostě oni rádi, jenom měřej jako jestli lidi poznaj konce vět nebo kde, kde je napsáno teď.
+Prostě úplně jako primitivní věci měří psycho lingvisti běžně.
+Ve srovnání s tím, co naši gramatici jako studujou. 
+(PERSON13) Já si myslím, že hlavní hypotézy v tomto druhém experimentu jsou prostě to, když jsem jako za první kvé er, tak to bude lepší, když to vypnem, tak se to zase zhorší a pro každý ten modul se něco stane.
+To je asi motor toho článku.
+(PERSON9) No.
+No jo, no dobře, tak to jsme zase se dostali k [OTHER3] jako k technickým podrobnostem a tam v podstatě já nemám vůbec žádný jako problémy, jo.
+A tam to postupuje skvěle.
+V tom skvěle ve smyslu nejlépe, jak může.
+S tím materiálem jakej je. 
+(PERSON15) Je to ako by som to zhodnotil.
+Je to tošku zdlouhavý proces.
+Prostě asi kvůli mně.
+Lebo tam vícero bolo na mňa, však [PERSON13] mi s tém hodně pomohl a o tom úplně, že neviem teraz přesně ako sú na tom ti [ORGANIZATION8].
+Takže -
+Každopádně máme, už stimuly jsou hotové všetky, takže to už sem uzavřel.
+Už jsem i popřepuštěl.
+(PERSON9) To je super, já, to bych právě rád vyzdvihnul tuhlenstu mravenčí práci.
+Jo, ono se to jako nezdá, ale ono tím vznikne něco užitečnýho, jako, když se nejde vyloučit. 
+Ale i tak. 
+(PERSON15) Takže to je [OTHER3] dva, hej. 
+Bude to ještě nějakou chvilku trvat asi.
+Ale ako pracuje se no.
+Jo, jo, jo, to je super. 
+(PERSON9) Já bych rád aby do toho dé tři jedna určitě šli všechny tasky celý word package tři. 
+Hlavní se tím jako musí vyřešit ta lovarin source complexity. 
+Tam musí bejt tam jako nejvíc toho. 
+Ale já bych chtěl, aby tam byly všecky tasky.
+Čili, co ještě za tasky tam je. 
+Dokonce bych chtěl, aby tam byl i aktuální stav toho embest list navigation. 
+Jakože máme prototyp, uživatelskýho rozhraní a k tomu.
+A teď v jaký to bude fázi za ten měsíc a půl nebo co?
+V jaké fázi je ten backhand? 
+A že jako jsou existující věci a možná je budeme muset úpravit. 
+Prostě něco o tom napsat.
+Čili, prosím všechny každopádně, aby přispěli do tasku, na kterejch dělaj, aby ten dé tři jedna byl aktuální stav celý word package.
+To je důležitý čili jako. 
+Tady nemáme žádnýho cizince. 
+Proč to nepíšeme anglicky?
+Jo, dobře, tak můžem psát česky.
+Určitě popsat všechny tasky.
+(PERSON2) A budeš chtít, [PERSON9], příště přidat i cizince. 
+Třeba já nevím, jestli někdo -
+(PERSON9) A kterého tady?
+Tady nejsou.
+(PERSON2) [PERSON3] není? 
+(PERSON9) Né, [PERSON3] už není tady. 
+Ten je na [OTHER4] tři maličko.
+A hlavně ká pé jedna.
+Čili, ten je, ten má takovej ten.
+Prostě pro doktorandy doplatek. 
+(PERSON2) Jinak máme čtrnáct minut, pak nás to kikne. 
+(PERSON9) Jo, jo, a to kikne na tebe, prý.
+Přesně tak.
+Takže jo, takže zkusme a kdo že to říká, [PERSON8]?
+(PERSON15) [PERSON8], hovorí něčo.
+No tak, [PERSON8], na tohle je teď řada tadydle face rogresive. 
+Takže, co tam bude?
+(PERSON8) Ten článek, co máme napsanej, jinak nic novýho není.
+Takže.
+(PERSON9) Jo a je naděje, že něco bude, nebo teďka na tom neděláš vůbec? 
+(PERSON8) Není vůbec.
+(PERSON9) Jo.
+(PERSON8) Zatím nic.
+(PERSON9) Jo a ten článek ten je ve stavu, že ho nevzali jednou a podruhý je poslanej nebo už.
+(PERSON8) Včera, že? <unintelligible/> 
+ 
+(PERSON9) Že co, vůbec neslyším.
+(PERSON8) Včera ten článek nevzali.
+(PERSON9) Jo.
+(PERSON8) Teď teď za minutu máme<unintelligible/>, kde se budeme bavit o tom článku.
+(PERSON9) Jo.
+Hele, doporučoval bych a teďka pozor, dneska. 
+Ve středu. 
+Ve středu je jenom pí a nebo anonymity period. 
+Máme to v nějakém kalendáři, jsem to viděl. 
+Takže doporučoval bych.
+(PERSON8) ??
+(PERSON9) Cože?
+Nebo za tejden? 
+No dobře, ale doporučoval bych to dát na archiv. 
+Pokud si tímhle neustřelíte tu anonymity period, pokud to ladí s tím, kam to chcete poslat. 
+A pak se to dá do toho deliverablu vložit a říct, že je to tenhle ten archiv článek a v případě, že.
+No, a v případě, že to jako na archiv nedáte, tak bych to dal do toho textu jako do přílohy, že to je článek, kterej je in submition a nepsal bych, kam všude ho nevzali. 
+Ale prostě bych napsal, že je tady jako je jako celek, ale čili do deliverablu tohle přikládal jako přílohu. 
+Lepší jako nějakou, která se dá stáhnout vodjinad a v horším případě prostě jenom jako plnej text toho článku.
+Čili, tadydle, vložit.
+(PERSON2) [PERSON8], než zmizíš.
+Poslední bod jsou timesheety.
+Je tam odkaz.
+(PERSON8) Kde?
+(PERSON2) V tom dokumentu, úplně dole.
+Poslední odkaz.
+Timesheety.
+Přihlašuje se normálně jako do Biblia, myslím.
+Prostě normální přihlašování.
+(PERSON9) No, ale ve VPN.
+(PERSON2) Jo a přes VPN.
+(PERSON15) A to je kedy deadline na ty timesheety?
+(PERSON2) Timesheety jsou za březen, tak když to během dubna uděláte, tak abyste to měli, protože někteří z vás to nemaj za velmi dlouhou dobu. 
+[PERSON9] třeba vůbec, tak jako.
+Hm.
+Rozpomínat se za dlouhou dobu.
+(PERSON9) To neřikej.
+To neříkej.
+(PERSON2) Alespoň tě to donutí to udělat.
+A jinak budou muset být hotový do regiu a budou muset být o měsíc minus. 
+Takže abyste si teďka udělali tu největší část.
+(PERSON9) Tu nehorší.
+(PERSON2) A pak už to jenom za chviličku dodělali.
+(PERSON9) Ty timesheety musíme kromě toho, že jako jako jednotliví ty tam timessheety jsou potřeba. 
+Tak my z nich musíme zjistit a případně doladit, jestli jsme pracovali dost měsíců na správným, na správný work packagi. 
+Tadydle je to jakoby jednoduchý, poměrně jo, ale ale v projektech jako [OTHER1], kde víc lidí pracuje na víc work packagich, je potřeba rozhodit ty hodiny. 
+<censored/>
+Ale je ještě navíc poté, co vyplníte ty timesheety, tak je tam ještě fáze kontroly toho souhrnu, jak to vychází celkově.
+(PERSON8) Hele, já už musím jít.
+(PERSON9) Jo, dobře, tak jo.
+(PERSON2) Ahoj.
+(PERSON9) Tak děkuju a já myslím, že ale všichni můžeme ukončit jsme jako dohodnutý, ne?  
+Že všecko dobrý. 
+(PERSON2) Jo, já jsem tam měla ještě ten poslední bod, že [PERSON20] zatím nic nepsal, že by se nám review měla přesunout. 
+Nicméně, protože se nám přesouvá [OTHER1].
+To nám přehazujou z června na září. 
+Tak je dost možný, že nám ten červenec taky posunou někam. 
+Zatím [ORGANIZATION3] plánuje, počítá s variantou, že to bude stále naživo.
+(PERSON9) Fyzicky.
+(PERSON2) Fyzicky, a online je opravdu jako velmi záložní varianta, takže spíš bych počítala s tím, že se to přesune, než že by to bylo v červnu online. 
+To je všechno. 
+(PERSON9) Jo, no, dobře, tak jo, tak čau.
+(PERSON6) Příště za dva týdny?
+(PERSON9) Ano, za dva týdny někdy ve stejnou dobu. 
+Přesně tak.
+(PERSON6) Oukey.
+(PERSON16) A hele slyšíte mě nebo mě furt ještě neslyšíte? 
+(PERSON9) Teď jo. 
+(PERSON16) No, já jsem někdy v půlce přešel na mobil, protože počítač to očividně nedává. 
+Nevím proč. 
+(PERSON9) To si měl udělat dávno. 
+(PERSON13) Výborně.
+(PERSON16) Né, já už od půlky, jsem takhle přeplej, akorát jsem nikde mě, už jsem nebyl osloveny, že bych měl interagovat, takže jsem měl vyplej mikrofon. 
+Hele, za mě jediná věc. 
+Nevím, kdo všechno to ví, nebo neví. 
+Ale na konci června budu odcházet z [ORGANIZATION4], takže podle toho musím přizpůsobit i případně předat těm, co mám rozdělaný a takový věci a douzavírat ty projekty a podobně.
+Tak to tak.
+(PERSON9) Takže proto, protože já jsem jeden z těch, co to ví. 
+Tak proto jsem jako nereagoval a neplánoval bych rozhodně hrnout další věci na [PERSON16]. 
+Naopak, právě zkuste jako ohlídat, kde jste od [PERSON16] něco potřebovali, tak, aby to v klidu bylo dotažený a jako nemizí z tohoto světa, no ale naopak. 
+Ale pravděpodobně nebude mít čas se věnovat nějaký jinak, než jako říct, kde, co je na disku nebo tak něco, žejo.
+(PERSON16) Mám teďka ještě další problém, co mi vznikl tak byl tím, že se vodstavil Merkur tři. 
+Takže mi přestaly fungovat úplně všechny cesty a všechno. 
+Ale to by furt jako já se snažím teďka zprovoznit prostředí, abych aspoň mohl [PERSON13], jak sem posílal ty lost in translationy? 
+Tak, abych to mohl vyhodnotit a případně ten, jak mám natrénovanej ten model na horší češtine. 
+Takže to se teďka snažím nějak dát zpátky do.
+Ty prostředí nějak zprovoznit, protože odchod Merkuru do, bylo docela zásadní. 
+Jelikož jsem tam měl všechny cesty, Anakondu, a tyhle věci, a to nepřežilo.
+Tak to, ale nemělo by to bejt nic kritickýho. 
+Snad jako během pár dnů, se mi to podaří rochodit na novém prostředí.
+Všechno to jsou jako modely jsem navrhoval jenom potřebuje.
+(PERSON15) Oukey.
+[PERSON16], lebo já jsem ti chtěl písat už dneska.
+Nebo dneska jsem se na to pozeral.
+Nebo nechtěl jsem ti písat, že budeme spolu telefonovat.
+To čo ste mi, ještě s [PERSON21] posílali před týždnom alebo tak.
+Tak sem doteraz neodpověděl z jedné věci, ale nevěděl jsem podle toho [PERSON21] postupu úplně najíst v tom tvojem adresári, který je Emanovský.
+Ty věci, které tam písal.
+Napríklad, ten, ak se to volá, plan či jak se to volá.
+Problém.
+Problém.
+(PERSON16) Jo, já ti ty čtyři soubory můžu klidně  poslat.
+Jo, jinak to není manofská struktura. Je to ten [PROJECT2], [PERSON7] struktura v Emanu.
+(PERSON15) A nebude jednodušší, keď bysom ti, že já vytvořím.
+Vytvorím ti tam uživatelský účet a ty to tam prostě rozběháš, aby fungoval.
+Aby to prostě.
+Stačí i konzolovo a potom na to napojíme to serverové řešení.
+Já se s tím budu asi dost plácat.
+(PERSON16) Hele, jo, tohle klidně udělám, ale respektivě, já to udělám určitě rychleji než ty. 
+Každopádně, teď je tam problém s [PROJECT2] dvojkou a [PROJECT2] nejede na [PROJECT2] dvojce.
+Takže, co jsem minulý týden na strávil obnovování toho prostředí, tak já nevím, nedokážu. 
+Zatím se mi nepodařilo nainstalovat do virtuálního prostředí fitnitu, [PROJECT2] a [PROJECT2] ve správnej verzích. 
+Takže, když to zprovozním, tak to dám i do virtuálky. 
+A já myslím, že [PROJECT2] totiž opustili a mezitím se to všechno tak nějak začalo za tři čtvrtě roku rozbíjet. 
+Takže, ale už jsem to řešil s [PERSON21] a on už taky to. 
+A předtím, než jsem měl ty virtuálky, který mi fungovaly na Merkuru, tak jsem to nemusel řešit. 
+Teď musím řešit, ale to bys musel řešit stejně. 
+Takže já myslím, že je jednodušší, když tohle, vytvořím já. 
+A když už jednou to musím zjistit, jak vlastně to zprovoznit, tak pak to hodím do virtuálky úplně stejně. 
+(PERSON15) Jo dobré, tak já zaťal pripravím alespoň ten virtuání stroj.
+[PERSON8] něco hovoril a nerozuměl jsem.
+(PERSON2) Asi ne.
+(PERSON8) Já si jenom stěžuju, že to mělo trvat třicet minut.
+(PERSON9) No, to je pravda.
+(PERSON2) To víš, stížnost na [PERSON6].
+Ten vede.
+(PERSON8) Takže takhle, to takhle to nemůžeme dělat každý týden. 
+(PERSON9) Takhle to dělat nebudeme. 
+Bude do třicet minut příště a natvrdo to uřízneme.
+Souhlasím.
+(PERSON15) No, [PERSON6] to má moderovat.
+(PERSON8) Tak ahoj.
+(PERSON9) Čau, čau.
+<censored/>
+<censored/>
+(PERSON9) No právě.
+(PERSON16) No, no jo.
+(PERSON9) Vono nás teď, to uřízne za chvilinku. 
+Takže stejně myslím.
+(PERSON2) Za čtyři minuty nás to vyhodí.
+(PERSON9) Tak, kdo zmizel?
+(PERSON2) Nevím.
+Já jsem říkala deset minut na skypu [PERSON9], teď.
+(PERSON9) Jo, jo, jo, jo, dobře. 
+Tak jo.
+Tak jo, já jdu na skype.
+Tak jo.
+(PERSON13) Tak já taky mizím, no.
+(PERSON9) Tak jo, díky.
+Asi za čtrnáct dní se uslyšíme.
+(PERSON2) Ahoj.
+(PERSON15) Za hodinu začíná [ORGANIZATION4] kdybyste někdo nevěděli.
+(PERSON13) Čau.
+(PERSON9) Jo, jo, jo, já jsem dneska ještě neodpracoval dost.
+Já byl celé dopoledne s dětma, tak to asi nedám. 
+Ale těšil jsem se, v podstatě.
+(PERSON15) Tak se můžeš připojit i za dvě hodiny.
+A nebo si to nechaj iba na pozadí. 
+(PERSON9) To je pravda.
+Možná jo.
+Tak jo, tak čau.
+(PERSON15) Ahoj, čau.

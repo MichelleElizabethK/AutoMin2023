@@ -1,0 +1,38 @@
+Zápis ze schůzky
+
+Datum schůzky: 4. 8. 2020
+
+Téma: Schůzka projektu [OTHER1]
+Účastníci: [PERSON25], [PERSON5], [PERSON8]
+
+
+
+Zápis:
+
+- GitHub: provedena kontrola: za poslední týden žádný progres;
+- EMNLP: přidány recenze článků: viditelné recenze i od ostatních: pět článků se týkalo attentionů v transformeru;
+- Kniha: deadline: zatím přesně nestanoven: preferováno knihu dokončit během srpna: není jasné datum, kdy má být kniha doložena: do tisku by měla jít v říjnu/listopadu: možno případně odložit plnění
+            - V září třeba postoupit knihu recenzentům;
+- Kapitola o interpretaci: pokročeno: napsána zhruba stránka textu: návrh změnit vyznění k superwise metodám na přátelštější
+            - Attentiony: nejsou zcela superwised;
+- Probing: návrh zmínit informaci o síle modelu: nejvíce řešeno: natrénování třívrstvého MLP s obrovskými hidden layers: naučí se cokoliv
+            - Tutorial na ACL: uvedeny opačné argumenty: třeba shlédnout argumenty z teorie informace;
+- EACL: konání v dubnu v Kyjevě;
+- Třetí kapitola: přepsána: dokončena: třeba provést kontrolu;
+- Třeba zvolit recenzenty knihy: návrh vybrat lingvisty zajímající se o NLP: do [OTHER1] dokumentu vložena jména PhD studentů
+            - Recenzent musí být mimo ústav a nejlépe mimo zemi;
+- [PROJECT1] kniha: napsat pouze popis činností týkajících se grantu;
+- GPT 3: požádáno o přístup: zatím bez zpětné vazby: možno obdržet přístup k API;
+- Motto: nutno zvolit: návrh použít motto od [PERSON11]: žádost o uvedení příkladů, co je jazyk a co ne: nejasný význam pojmů
+            - Pokusit se najít další motto blíže související s tématem;
+- Návrh přidat dalšího spoluautora knihy: odsouhlaseno.
+
+
+
+
+
+
+
+
+
+Zapsala: [ANNOTATOR1]

@@ -1,0 +1,7 @@
+7.1.2020 [OTHER2] Minutes
+
+- [PERSON3]: přidá sumarizační modely na [OTHER4] (a restartuje demo). [PERSON3], přidals je?
+
+- Všichni: přečteme si ten náš neposlaný EMNLP článek ([URL]) abychom se mohli pak pobavit, co s ním uděláme. Deadline na PBML je bohužel už 19.1.
+
+- Všichni: nastrkáme do zotera články související s knihou (složky -- attention, embedding…; tagy -- morfo, syntax…)

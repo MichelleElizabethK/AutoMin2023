@@ -1,0 +1,41 @@
+Meeting 6.4.2020 (pexip call):
+- [URL]
+- PIN:1234
+- Attendance:
+- [PERSON15], [PERSON6], [PERSON8], [PERSON16], [PERSON13], [PERSON2], [PERSON9]
+- Progress on deliverables:
+- D3.1:Lowering source sentence complexity (report)
+- summarize our initial experiments with source complexity, explain, why we “dropped” the task (difficulties with evaluation) -> [PERSON15] (copy-paste from interim report)
+- paraphrasing baseline in Ptakopet [PERSON5] -> [PERSON5] popsat v TeXu, trochu vyhodnotit
+- [OTHER3] as a tool to help with the lowering of complexity by user
+- Urcite popsat vsechny tasky z WP3
+- D5.2:Faster software including non-autoregressive
+- vlozit jako prilohu do clanku, nejlepe verzi, ktera bude na arxivu
+- [OTHER3] 2 experiment
+- zber stimulov-formulárov ukončený
+- celkom 462
+- rôznej kvality - oskórované 2 anotátormi ([PERSON13] jeden z nich) v škále 0-10
+- finálny výber Final_1 (210 stimulov) filtrovaný na základe skóre
+- EN-ET translation service
+- bola požiadavka v [ORGANIZATION5], nech používame [PROJECT1] namiesto online [ORGANIZATION5] systému
+- rozbehaný u nás na virtuálke: dockerized [PROJECT1] + student modely
+- problémy s AJAX volaním POST dotazov: obídené cez medzi-server, ktorý reaguje na GET dotazy; [PERSON18] momentálne pracuje an bugfixe
+- lze vyzkoušet na [OTHER3].[PERSON13].net, translator Quest EN-ET
+- EN-CS_weak translation service
+- 2 weak systémy natrénované [PERSON16] na 5M sent pairs: (1) mixed, (2) Europarl
+- vyzerá to, že vhodnejší bude (1) - musím ešte dokončiť skórovanie 50 náhodných prekladov
+- dostal som inštrukcie od [PERSON21] a [PERSON16], ako vyrobiť MT service z [PROJECT2], ale aj tak tam mám kopec medzier, čo sa týka namapovania [PERSON21] postupu na [PERSON16] modely
+- koordinácia
+- poslal som v piatok koordinačný email všetkýcm partnerom
+- hlavne ma zauijíma, ako sú na tom [ORGANIZATION8] s vývojom QE systému
+- Paraphrases for multi-source MT
+- podle [PERSON10] na tom pracoval hlavně [PERSON8]
+- ja som rozbehal ParaBank rewriter a utility k tomu, ktore by mali generovat parafraze pre CzEng; pred 2 tyzdnami, snad tento tyzden sa k tomu vratim
+- Other:
+- T3.4: N-Best List Navigation (a mockup demo)
+- Administration:
+- [PERSON2]: [PERSON4] zatím nic nenapsal o tom, že by se Review měl z plánovaného 21-23.7.2020 přesouvat, nicméně na [OTHER1] už nás přehazují (z června na září), takže je dost pravděpodobné, že se to posune i tady.
+- (Online varianta se uvažuje jako poslední řešení)
+- Timesheety - vyplnit (01/2019 - 03/2020)
+- [URL1]
+

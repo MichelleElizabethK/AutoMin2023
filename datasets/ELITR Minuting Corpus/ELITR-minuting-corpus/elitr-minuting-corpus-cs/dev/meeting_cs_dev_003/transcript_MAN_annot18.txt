@@ -1,0 +1,1570 @@
+(PERSON8) Čau.
+(PERSON11) Seš tady zatím sám asi, co?
+(PERSON8) Vypadá to tak.
+Jestli jsi viděl [PERSON18] mail, kde posílá fotku k tomu, jak se mu restartuje počítač.
+(PERSON11) Eh, neviděl.
+(PERSON18) Ahoj.
+(PERSON11) Hele, už je tady.
+Čau.
+(PERSON18) Jo, čau.
+Slyšíte mě?
+(PERSON11) Jo, jo, slyšíme.
+Nebo aspoň já.
+(PERSON8) Já tě taky slyším.
+(PERSON18) Super.
+(PERSON11) Hm, co ten [PERSON4]?
+Napsal akorát: 
+Ha, ha, ha.
+To znamená, že nepřijde?
+<laugh/>
+(PERSON18) To jsem psal já.
+(PERSON8) To napsal [PERSON18], no.
+(PERSON11) Jo, to jsi psal ty.
+Aha.
+(PERSON18) Že jsem pustil počítač a začal se mi flashovat BIOS.
+(PERSON11) Jo, aha.
+Jasně.
+Dyť tady -
+Já jsem začal po-, to, používat Zimbru a vůbec se tady, vůbec mi to nějak nesedí.
+<laugh/>
+Tady vůbec nevím, kde jsou připojený nějaký soubory, a nějak mi to nejde a nějak jsem s tím nespokojenej.
+Ale ještě furt se držím a pořád ji používám.
+(PERSON18) Hm.
+(PERSON11) Možná bych si ji moh nakonfigurovat líp, ale já na to nemám čas.
+<laugh/>
+A nevím, jestli to vůbec jde.
+Pěknej.
+(PERSON18) Nevím.
+Mně přijde v poho.
+<laugh/>
+(PERSON11) Jo, asi, asi jde o zvyk, no.
+Hm, hm, hm, hm.
+(PERSON8) Hele, tak já bych asi začal těma svejma věcma, protože to bude nejstručnější.
+<laugh/>
+Mám takovej dojem.
+(PERSON11) Ty jsi nic neposílal?
+Žádnej link?
+(PERSON8) Neposílal, protože, hm, jsem to dodělal až teď.
+Protože jsem zase trávil spoustu času tím, že jsem musel všechno vypnout a znova zapnout a mezitím třikrát rekonfigurovat, protože [PERSON10] mi konečně přesunul ten home, kterej jsem si před čtrnácti dněma připravil.
+No a všechno přestalo fungovat, že jo.
+Samozřejmě.
+Přestože jsem si myslel, že mám všechno nastavený tak, aby to běželo všude, tak jako mimo jiný se stalo to, že jsem byl dočasně, úplně bez homu svýho.
+Prostě kdykoliv jsem se kamkoliv přihlásil, tak -
+(PERSON18) Homeless prostě.
+<laugh/>
+(PERSON8) No.
+Tak si to myslelo, že mám bejt v tom starým homu, ale ten už neexistoval.
+<laugh/>
+Pozor, není to [PERSON4]?
+(PERSON11) Hele, [PERSON4].
+(PERSON18) Je to [PERSON4].
+(PERSON11) Proč tam máš napsané 1234?
+<laugh/>
+(PERSON4) A proč tam máš ty napsáno 1234?
+<laugh/>
+(PERSON11) Já tam mám taky 1234?
+No, jako [PERSON8] tam má [PERSON8], tak asi jsem tam.
+No.
+(PERSON4) Nebo mě se to nejdřív ptalo na jméno, ale já jsem si myslel, že už je to ten PIN, tak jsem tam napsal 1234.
+<laugh/>
+(PERSON11) Ale já jsem to vůbec neřešil, na co se to ptá.
+Já jsem tam totiž napsal 1234 a bylo.
+<laugh/>
+Tak jo.
+No, dobrý.
+Tak [PERSON8], mluví asi?
+Mluví?
+(PERSON18) [PERSON8]?
+(PERSON11) On je nějakej zaseklej.
+(PERSON4) Je takovej zaseklej, chudák.
+(PERSON18) Hele <unintelligible/>
+(PERSON8) Mně se nějak zavřel ten Thumb s tím, s tou věcí, a teď jsem tam dvakrát.
+Nevím proč.
+<laugh/>
+No.
+Já s tím radši nebudu vůbec nic dělat.
+Ať to nerozbijem, no.
+No, pak když jsem vyřešil všechny tady ty homy, tak jsem tady něco pustil a vypadá to, že na rozdíl od PCA to ICA s těma morfologickejma kategoriema jako skoro nekoreluje.
+(PERSON18) Hm.
+(PERSON8) Což já si vysvětluju tak, že prostě ty věci, co jsou na straně, jsou na straně, ale v tý haldě to nekoreluje.
+(PERSON18) Jasně.
+(PERSON8) Takže jsme zase zpátky u toho problému, kde jsme byli předtím, že musíme určit nějakou hranici, od který je ta strana strana.
+(PERSON11) Jo, že si tam musíme někde uříznout ten kopec, aby -
+(PERSON8) Jo.
+No, ale otázka je, kde.
+(PERSON11) Může se to dá udělat s tím, s tou, s tou, s tou nej, nej, s tou Gaussovkovou, s tím jedním křídlem Gaussovky?
+S tím to nekoreluje nějak?
+(PERSON4) Tak když budu mít nějakej -
+(PERSON11) S tím nejlevější a nejpravější?
+Když voni asi ty dva tomu teď nerozumí vůbec.
+(PERSON4) No, rozumíme.
+(PERSON8) Eh, dají se tady nějak posílat vobrázky, [PERSON18]?
+(PERSON18) To nevím.
+Je tady share screen.
+(PERSON8) Hm.
+(PERSON4) To nedělej nebo všechno rozbiješ.
+(PERSON18) A pak je tady taky present files.
+(PERSON8) A navíc -
+No dobře, tak já se tam můžu zkusit přihlásit ještě na počítači.
+Tam budu dvakrát zase.
+(PERSON18) Hm.
+Hlavně, abys měl zvuk jenom jednou.
+(PERSON11) Hele, měli bysme, to -
+Máme hodinu čas, všichni?
+Nebo jak to je?
+(PERSON18) Jo.
+(PERSON11) Takže bysme to měli nějak rozdělit ten čas mezi?
+Dát každýmu článku čtvrt hodiny, a pak uvidíme?
+Nebo kdy se potom uvidíme?
+(PERSON4) Kolik máme -
+Kolik máme článků?
+(PERSON11) No, eh, vy máte skoro hotovej jeden s [PERSON18], že jo?
+(PERSON4) Jasně.
+(PERSON11) [PERSON18] má s [PERSON8] taky článek, kterej vypadá, že se stihne.
+Já mám článek, kterej nevím, jestli se stihne.
+<laugh/>
+(PERSON4) Ok.
+(PERSON11) A [PERSON8] má článek, kterej, no.
+<laugh/>
+Ještě ani nezačal psát.
+(PERSON4) Ještě ani neexistuje.
+Rozumím.
+[PERSON11], ten tvůj článek je to, co je onera handec cedikakatana?
+<laugh/>
+(PERSON11) Jo, jo, jo.
+Handec celi-, celikana.
+<laugh/>
+(PERSON8) Hele, já vám vlastně můžu poslat ten link.
+(PERSON11) No, link.
+Tak nám pošli link.
+(PERSON8) Je tady nějakej chat nebo něco?
+(PERSON11) Tak to pošli na mail.
+(PERSON8) To nefunguje -
+Ježiš, to je hrozný todle.
+Tady přece musí jít nějak posílat linky?
+(PERSON18) <unintelligible/> ne.
+Já to nevím.
+(PERSON8) Share screen.
+Já nevím.
+(PERSON11) Pošli to mailem a my se na to všichni kouknem a -
+(PERSON8) [OTHER1].
+(PERSON18) Link.
+[PERSON14], [PERSON19].
+(PERSON8) Jo.
+(PERSON18) Co z toho?
+<laugh/>
+(PERSON8) Eh, třeba w, 2, v.
+(PERSON4) Mně furt nic nepřišlo mimochodem.
+(PERSON18) Mně jo.
+(PERSON8) Hm, vy to tam máte v tom Mnichově nějaký podezřelý.
+(PERSON11) No, jo.
+Všechno.
+(PERSON18) Hele, ta účelová vlnka [PERSON14]/[PERSON19].
+(PERSON4) Už mi to přišlo.
+<laugh/>
+(PERSON8) Jo, to jsem vlastně asi moh říct i slovy, no.
+<laugh/>
+Hm.
+Hele, když se podíváte třeba tady na [PATH].
+(PERSON4) Ano?
+(PERSON8) Tak tam jsou jednotlivý dimenze, histogramy slov z word2vecu podél jednotlivejch dimenzí, analýzy nezávislých komponent a přes ně jsou nakreslený nějaký tady, eh, ty, Gaussiány.
+(PERSON11) Prostě je tam mix těch Gaussiáns, takže to jsou -
+(PERSON8) No.
+(PERSON11) Gaussiány, který to nějak popisujou.
+(PERSON8) No.
+Mix true Gaussiánů.
+A tady ty.
+Jo, ty modrý jsou ti Gaussiáni jen tak.
+(PERSON4) A ty modrý vypadaj, že s tím vůbec nesouvisej.
+(PERSON8) No, právě, to jsou -
+(PERSON11) Ne, ty modrý jsou normální Gaussiány a ty černý jsou vážený.
+Proto ten modrej, co je nejvíc, ten první modrej, co je nejvíc vpravo je tak velkej, protože to je normální Gaussián prostě s -
+(PERSON4) Jo, rozumím, rozumím.
+(PERSON11) Ale s váhou, von je tak placatej, že je někde úplně dole.
+(PERSON4) Hm.
+(PERSON11) Ale znamená to, že ta, že ta distribuce má vocas směrem doprava.
+Podle těch Gaussiánů se dá dobře poznat, kam to má vocas.
+Jestli doprava nebo doleva.
+(PERSON4) Hm, rozumím, rozumím.
+(PERSON18) Aha.
+Jo.
+(PERSON8) Jo, tak třeba -
+(PERSON11) Jo, tak tady je dobře vidět, jak je tlustej a někde je hodně tenkej.
+(PERSON8) Na dimenzi 2 je to vidět trochu líp, protože tam jsou vidět všichni ti vážení Gaussiáni.
+(PERSON18) Hm.
+(PERSON4) No, už, už, už tomu rozumím.
+(PERSON18) Jo.
+Jo, jo.
+(PERSON8) No a pod tím jsou nějaký samply a sample from the hill je momentálně sample z toho nejvzdálenějšího Gaussiána a ještě jenom z jeho vzdálenější poloviny vod prostředka.
+A pak je tam sample z leva a sample z prava, ale to jsou prostě nějaký krajní slova.
+Eh, když byste si todleto dlouho procházeli, tak zjistíte, že se tam vydělujou samý zajímavý kategorie.
+Už tady u toho prvního jsou nějaký tady infinitivy.
+A u toho druhýho jsou nějaký minulý časy, který souvisej s tím, že někdo něco říká na pravý straně.
+(PERSON4) Hm.
+(PERSON8) A na levý straně jsou nějaký vlastní jména, a tak dále, a tak dále.
+No a teď je otázka, co s tím?
+(PERSON4) No, tak kdyby jsi o tom psal článek, co by, co by byla message toho článku? 
+(PERSON8) No, tak jedna věc, kterou jsme chtěli popsat, bylo, že se tady často vydělujou velmi specifický morfologický kategorie.
+Například někde tam byly samý, eh, feminina v prvním pádě jednotnýho čísla a jinde byly samý feminina v prvním pádě množnýho čísla.
+(PERSON4) Jasně.
+(PERSON8) A jinde byly nějaký specifický pády.
+(PERSON18) No.
+Já vidím třeba <unintelligible/> někde.
+To je hezký.
+(PERSON8) No, tak jsem to zatím zkusil tak, jak jsem to předtím dělal s těma PCAčkama.
+(PERSON11) Tady jsou rodinný vztahy třeba.
+No, dobrý.
+No?
+(PERSON8) Že jsem to koreloval s těma, s těma kategoriema, no, ale to moc nekontroluje.
+A ono, moje hypotéza je, že ono to vystrčí tady ten vocas, ale ten vocas je tak malej, že na něm to nezáleží.
+(PERSON18) Hm.
+(PERSON8) A vevnitř v tý hlavní haldě to prostě nekoreluje.
+(PERSON18) Jo.
+Takže si myslíme jako, že ten nejvyšší hroznýš je prostě, že to tam není.
+(PERSON11) Jo a to je -
+(PERSON18) Takže tam nemůžem nic přidat, a pak je ten divnej ocas, co to je.
+(PERSON11) Z toho ocásku prostě -
+(PERSON8) Respektive takhle, hele, já si jenom myslím momentálně, že vono to třeba jako, že jo, vystrčí nějaký specifický feminina třeba v prvním pádě jednotnýho čísla, anebo nějak tematicky něco, ale v tý hromadě pořád zůstane hodně feminin, v tý hlavní.
+(PERSON4) Jasně.
+(PERSON8) Takže pak, když změřím, jestli to koreluje s femininama, tak to nekoreluje.
+(PERSON18) Tak když to jsou feminina v konkrétním pádě, tak asi bys měl dělat ten konkrétní pád.
+Ale ono to vypadá, že to jsou dost specifický věci.
+Teď koukám třeba na 16 a tam to je chodby, kanceláře, síně, komnaty, jeskyně, haly, cely, pracovny.
+Takovoudle kategorii v taggu nemáš.
+(PERSON8) Jo.
+(PERSON18) To jsou prostě různý místnosti.
+(PERSON8) Jo.
+(PERSON18) A ještě v nějakým konkrétním pádě.
+(PERSON4) A jsou všecky v ženským rodě.
+(PERSON11) No, dyť právě.
+Takže to je to, co říkám v zásadě.
+Jakože ty, ty věci, který to vodděluje, jakoby jsou, mono-, monomorfologický, ale, ale nepokrejvá to celou tu kategorii.
+(PERSON18) No, tak to můžeš dělat obráceně.
+No, vodřízneš prostě ten ocas a budeš aspoň zkoumat, jestli jsou monomorfologický.
+(PERSON8) No, ale teď je zásadní otázka, kde mám vodříznout ten vocas?
+Protože zvlášť, když se podíváš tady na ten příklad, kterej si zrovna zmiňoval.
+To je tady ta dimenze 16.
+(PERSON18) Hm.
+(PERSON8) Tak tam vůbec není, jasný, kde by měl ten vocas končit nebo začínat nebo -
+(PERSON18) Já bych ho klidně říznul vždycky v půlce nebo bych vodříznul prostě poslední čtvrtinu nebo něco, to jsou určitě nějaký standardní věci, ne?
+Vemeš nějakou jednu standardní odchylku a vod toho dál už je to vocas nebo tak něco?
+(PERSON8) No, jenomže standardní vodchylku čeho?
+Že jo, když jakoby zase si vemeš nějakej lepší příklad nebo ten -
+(PERSON11) Nebo ten vocas je různě tlustej taky, že jo, taky v různejch případech?
+(PERSON18) Hm.
+(PERSON8) Když se podíváš třeba na dim 21, tak tam to vypadá, že jo, bys moh prostě vzít ten nejvzdálenější, eh, Gaussián skoro celej.
+(PERSON18) Hm.
+(PERSON8) Protože prostě ty věci jsou dostatečně daleko od toho.
+(PERSON18) Hm.
+(PERSON8) Ale nevím.
+(PERSON18) Tak bych asi bral odtud, pokud není dominovanej jiným Gaussiánem, ne?
+(PERSON8) No, jo.
+To je takový do stran dom, ale jako možná by to šlo, no.
+Ještě třeba 35 je pěknej příklad.
+(PERSON18) To by asi šlo.
+(PERSON8) Tam je to vidět i vočima, že se tam i vodděluje nějakej další Gaussián.
+(PERSON11) 35.
+Jo.
+(PERSON8) Ale zase jinde to vidět není a přitom taky z toho jako vylezou zajímavý kategorie, když to člověk sampluje vod kraje.
+(PERSON18) Hm.
+(PERSON8) Takže ta zásadní votázka je, kde to řezat?
+Jo, tam, kde to dominuje jinej Gaussián, už mě taky napadlo, ale teď je ještě votázka, jestli, jestli, podle -
+(PERSON11) Taky to závisí na počtu Gaussiánů todle, že jo, zrovna.
+(PERSON8) No, jo, no.
+Je to takový, těžký.
+(PERSON11) Toto je to takový divný.
+No, no, takový hodně vachrlatý.
+(PERSON8) Jo, třeba když se podíváš tady na dimenzi 37.
+Tak tady se to prostě všechno dost prolíná do sebe, ale přitom, jo, sample zleva je pach, zápach, pachu, vzduch, vůně, vůni -
+(PERSON18) Hm.
+(PERSON8) Pachem, vlhkost, teplotu, chlad, vánek, závan.
+Mně přijde -
+(PERSON18) No, jasně jako, ale na těch -0,02 ti furt dominuje ten placatej.
+(PERSON8) No, to jo, no, ale -
+(PERSON18) Tam je jako co vodříznout.
+(PERSON8) Jako asi jo, no.
+Votázka je, co se tam -
+No, dobře.
+(PERSON11) Tady v tom případě by to bylo podobný jako sample from the hill, protože to je podob-, to je na podobný, kde je maximum toho, že jo, vono to přibližně v maximu se to pře-, protíná ten druhej.
+(PERSON8) Jo.
+(PERSON18) Já nevím, co je sample from the hill?
+(PERSON11) To, to je, to je, eh, tady v tom případě je to levá, levá půlka toho nejlevějšího Gaussiánu.
+(PERSON18) Hm.
+(PERSON11) <unintelligible/>.
+Ne.
+Jo.
+(PERSON8) Jo.
+No, a pak jsou tady dimenze, který vypadaj, že jsou úplně Gaussovský, nebo teda nejsou úplně Gaussovský, že jo, jsou úplně negaussovský, ale vlastně jsou úplně symetrický.
+To je tady třeba dimenze 39.
+Ale přitom nalevo jsou tvary slovesa dávat.
+(PERSON18) Hm.
+(PERSON8) A napravo jsou nějaký věci s pokynama a příkazama.
+A -
+<laugh/>
+A dimenze 38, tady jsou napravo věci, který jsou špatně truecasovaný, [PERSON4].
+<laugh/>
+(PERSON18) Hm, hm, hm, hm, hm.
+(PERSON4) No, jo.
+(PERSON11) Hele, měli bysme se asi posunout k dalšímu článku.
+(PERSON8) Jo.
+(PERSON11) Abysme to stihli.
+(PERSON8) No, tak todle nevím, jestli z toho do pondělí něco bude, no.
+(PERSON18) Jako zkusit to je pěkný, no.
+(PERSON11) Jako vono je to pěkný, jo, ale jako zkus to, no, zkus nějak, já nevím, jak, jak to vodtrhnout, no, jako co vodříznout.
+Jako můžeš zkusit to, to, kde se protínají ty dvě Gaussovky, no, nebo?
+(PERSON8) Hm, no, zatím je to asi jedinej nápad, kterej jsme měli.
+(PERSON11) To vypadá jako z těch obrázků.
+(PERSON18) Tak jinej nápad je vzít prostě vždycky těch 10 na kraji, no.
+(PERSON11) No.
+Anebo vzít, opravdu vzít N na kraji, no.
+A zkusit to nejdřív takhle a uvidíš, co z toho bude padat.
+A pak -
+(PERSON8) Hm, to vidím -
+(PERSON11) Tak to zkus prostě, já bych -
+Ale zkus vzít něco, buď těch 10 na kraji, anebo kde se to protíná a zkus prostě vygenerovat to, jak to, ty korelace.
+A uvidíš, co z toho poleze.
+(PERSON8) Hele -
+V dimenzi 43 vycházejí napravo jenom postavy z Harryho Pottera.
+<laugh/>
+(PERSON11) Počkej a tohlecto je, to word2vec, to je word2vec na těch, na fiction, nebo na?
+(PERSON8) Jo, to je word2vec na fiction.
+(PERSON11) Jo.
+Jasně, tak proto to tam takhle je.
+(PERSON18) No a ještě jsou tam hůlky a v Bradavicích.
+(PERSON11) Bradavice.
+Bradavice jsou tam, no.
+<laugh/>
+(PERSON18) Zatímco tam je na druhým konci je styk, umírajícího, pouště.
+<laugh/>
+(PERSON11) Hele, měli bysme se přesunout na jinej článek, abysme to stihli.
+(PERSON4) Jo.
+(PERSON8) No, tak já to zkusím nějak.
+(PERSON11) Zkus to prostě nějak uříznout, vygenerovat a uvidíš, no.
+Jako prostě když se nic nestihne, tak se nic nestihne jako.
+(PERSON8) Jo.
+(PERSON11) Aspoň tě ten deadline jako donutí k tomu něco, něco mít, něco vygenerovat, a pak to pošlem když tak někam jinam.
+(PERSON8) Jo.
+(PERSON11) Jo?
+(PERSON8) Jo.
+(PERSON11) Takže se přesunem na nějaký jiný článek na nějakej, nějakej, kterej má větší šanci.
+<laugh/>
+To znamená, jak je, jak je na tom ten váš, ten váš společnej?
+(PERSON18) Mně přijde hotovej.
+(PERSON11) Ten je ho-
+Co?
+(PERSON18) Ten s -
+(PERSON11) Já nevím, já jsem ho teďka nečet, takže -
+(PERSON4) Jo, no, já jsem si myslel <unintelligible/>.
+A, eh, [PERSON3] tam zase napsal milion poznámek.
+(PERSON11) Aha?
+(PERSON4) Jo, koukám, [PERSON18], ty jsi zařídil, že to má přesně 4 stránky, jo?
+(PERSON18) Jo, jo, jo.
+Už jsem to nějak zestručnil.
+(PERSON11) Jak se to jmenuje?
+Eh, to je tady [PERSON4] s -
+(PERSON18) <unintelligible/> crosslingual.
+(PERSON11) Jo, jo, jo, jo.
+Jo.
+(PERSON18) Jo.
+Prostě jsem někde zestručnil některý formulace, ale žádnou informaci jsem nevyhodil.
+(PERSON4) Hm, paráda.
+A ty [PERSON3] poznámky si nějak bral v potaz?
+(PERSON18) Ne, pač jich bylo moc.
+<laugh/>
+Tak ze začátku jo, a pak mě to přestalo bavit.
+<laugh/>
+(PERSON4) Ok.
+(PERSON18) Ještě na to asi můžu kouknout a vzít je v potaz, ale, no.
+Asi tak na první stránce jsem bral ohled na ty poznámky.
+(PERSON4) Jo.
+(PERSON18) No, ty jsi totiž v nějakou chvíli ty poznámky schoval, tak jsem je přestal brát v potaz.
+<laugh/>
+(PERSON4) Jo.
+No, právě včera tam napsal nějaký nový, ale já nevím, jestli si poznal, který jsou nový a který jsou starý.
+(PERSON18) No, to nepoznám.
+Některý jsou zakomentovaný, ty předpokládám, že už jsou nějak jako nezajímavý.
+(PERSON4) No.
+(PERSON11) Já žádný pozná-, poznámky nevidím.
+To si musím.
+(PERSON18) Ony jsou schovaný.
+Ale když se to nějak překompiluje.
+(PERSON11) Jo, to se musí překompilovat.
+(PERSON18) Nevím, kde?
+(PERSON4) Když zakomentuješ miner notes off.
+(PERSON18) Jo, já to vidím, já to nekomentuju.
+(PERSON11) Aha.
+(PERSON18) Jo.
+(PERSON11) Já jsem tady viděl nějakej noteson a -
+(PERSON18) Jo, tak už je to compiling u mě.
+Já už tam vidím minor noty.
+<censored/>
+<laugh/>
+(PERSON11) Hm, ježišmarija.
+<laugh/>
+To nejsou minor notes.
+<laugh/>
+<censored/>
+<censored/>
+<laugh/>
+<censored/>
+(PERSON18) To je jako -
+(PERSON4) Ale jako ty poznámky jsou většinou dobrý, tak -
+Hm.
+Eh, no, eh, zajímal by mě váš názor na to, jak se to má jmenovat.
+Na archivu se to jmenuje jenom How language neutral is multilingual BERTs.
+(PERSON18) To se tak jako líp čte, no.
+(PERSON11) Bez, bez toho semantical jo, nebo?
+Jak, jak se to jmenuje?
+How language neutral is multilingual BERT?
+(PERSON18) Hm.
+(PERSON4) No.
+(PERSON18) Akorát, že to zní úplně stejně jako How multilanguage how multilingual BERT.
+(PERSON4) No, jako přesně tak.
+Což jako já chci, aby to znělo podobně, aby to jako bylo vidět, že to na to navazuje.
+(PERSON18) Jo.
+(PERSON4) Ale ne, aby to znělo tak podobně, aby, aby se to pletlo.
+(PERSON18) Hm.
+(PERSON11) No, já tam tak -
+Ono to, to semantical je vždycky problematický, že hned je, otázka je, jestli to je sémantika todle, ale -
+<censored/>
+Že pravda, říkám sémantika a že nevysvětluju, jakou sémantiku myslím.
+A že ze mně jako quality estimation potřebuje jako úplně jako jinej druh sémantiky, kdežto tamto je lexikální sémantika.
+(PERSON11) Hm.
+(PERSON4) No, ale nějak jsem si to nevzal k srdci teda, viď.
+(PERSON11) No, dobře, ale to neznamená, že to, že to nemůže bejt, že jo, v článku, jako v ná-, názvu, když jsou to už, jestli to je všechno, jestli souhlasí s tím, že je to nějaká sémantika, tak proč by to tam bejt nemohlo, jo.
+(PERSON18) A je to všecko lexikální sémantika?
+(PERSON11) I když je jiná.
+(PERSON4) No, ten, ten quality estimation asi není jenom lexikální.
+(PERSON18) Hm.
+(PERSON4) To jako právěže jako point byl tak, a tak tu lexikální sémantiku, tu asi zvládám, protože -
+(PERSON18) Jo.
+(PERSON4) Protože ten -
+(PERSON18) Takže ta vlastně story jako je, že ten BERT, ten BERT má jako jazykově neutrální, lexikálně sémantickou komponentu.
+(PERSON4) No.
+(PERSON18) No, to není špatná message.
+Je trochu kryptická, ale -
+Hm.
+(PERSON4) To jako, jako nejspíš, nejspíš ta quality estimation potřebuje jako nějakou pokročilejší sémantiku, než jenom lexikální, a proto to na ní selhává.
+(PERSON18) Hm, hm, hm.
+(PERSON4) Jo?
+(PERSON18) To zní fér.
+(PERSON4) Tak to tam asi, jako todleto sdělení je tam potřeba připsat do toho článku, jinak si myslím, že je to v pohodě.
+(PERSON18) Hm, hm, hm.
+Hm.
+Asi název takhle dobrej, no.
+Když chceš tam mít to, že jde o sémantiku a zároveň, aby to bylo podobný tam tomu, tak to už mě nic jinýho nenapadá.
+(PERSON4) Hm.
+(PERSON11) Jo.
+No, myslím, že když -
+Je to dostatečně jiný a vypadá to podobně.
+Já myslím, že ten název je dobrej takhle.
+A je to dostatečně jiný, ale vypadá to, že to k tomu patří, tak -
+(PERSON4) No.
+(PERSON11) K tomu předchozímu.
+A to už, to už tam to bylo v těch conclusionech nějak napsáno, ne?
+Že prostě na, na úrovni, na tý lexikální úrovni to funguje dobře, na tý úrovni slov, slovní jako -
+(PERSON4) Jo.
+Není to tam podle mě napsaný takhle na plnou hubu.
+To tam je potřeba ještě připsat.
+(PERSON11) Jo.
+No, zároveň mi psal ňákej týpek z Belgie, že taky používali toho BERTa na element a že jim vychází lepší než Fasteline a horší než Giza.
+(PERSON18) Hm.
+(PERSON11) Aha.
+A ty jsi používal jenom Fasteline?
+(PERSON4) Já jsem používal jenom Fasteline.
+(PERSON11) A bylo to lepší?
+(PERSON4) A bylo to lepší.
+(PERSON11) Jo.
+<censored/>
+(PERSON18) Hm.
+<laugh/>
+Jo.
+No, můžem to zkusit s Gizou, no.
+<censored/>
+(PERSON4) No, právě, no.
+(PERSON18) Ti MT lidi od [PERSON6] ti vždycky řeknou: 
+,,No, Gizu, Gizu rozchodíš jednoduše, že jo."
+,,To řekneš: 
+<censored/>
+<laugh/>
+Já už jsem ji někdy v minulosti rozchodil.
+(PERSON11) Já jsem ji taky kdysi dávno měl rozchozenou a používal jsem ji hodně, že jo?
+Ale -
+(PERSON18) Jako zase neříkám, to se nějak dá rozchodit, no.
+Člověk si najde někde nějakej návod, zkusí ho použít a buď je k tý verzi Gizy, kterou si stáhnul, anebo ne, no.
+(PERSON4) Hm.
+(PERSON18) A je tam ňáká magie s nějakejma hnusnejma konfigurákama a, a tak.
+(PERSON4) No, a tak jsem si říkal, no, tak recenzent neví, že ta Giza je lepší než todleto, a tak přinejhorším ještě napíšu, tak zkuste ještě Giza, ta dává občas lepší čísla.
+(PERSON11) Hm.
+(PERSON18) No.
+Já nevím, jak moc jako běžně je Fasteline horší než Giza.
+Já mám pocit, že to není úplně zásadní.
+(PERSON4) No.
+(PERSON18) Protože já, pro ten, ale pro ten článek to není zas úplně jako důležitý nebo -
+(PERSON4) Není.
+(PERSON11) Já možná jsem něco zapomněl, ale -
+(PERSON18) Já bych chtěl říct, že to je dobrý.
+(PERSON4) A pro ten článek je důležitý jenom, že je to dobrý ten element.
+(PERSON18) Jasně.
+(PERSON11) Že to je prostě srovnatelný s, prostě s nějakejma tendle těma elementama, ne?
+(PERSON18) No, jasně.
+(PERSON11) Ona tadlencta Giza bude o trošku lepší možná, tak, ale to nevadí.
+(PERSON18) Hm.
+(PERSON11) Že jo, pro -
+(PERSON18) Hele, na tom, na wiki statmp píšou, že -
+(PERSON11) Pro jako -
+Pro ten článek to není jako zase tak důležitý.
+(PERSON18) Na wiki statmp píšou, že je to comparable.
+(PERSON11) No.
+(PERSON18) Že Fasteline gifts comparable results to Giza ++.
+Takže to asi stačí.
+(PERSON11) A vono taky záleží vůči čemu to evaluješ, že jo.
+Vůči jakejm anotacím.
+(PERSON18) No.
+(PERSON11) To jako podle mě -
+(PERSON18) No, oni to evalujou vždycky různě, že jo.
+Takže to je ještě jinej, jiná otázka, že jo?
+V MT se ukázalo před ňákou dobou, že jako když zlepšuješ element, tak ale jako se nezlepšuje MT od ňáký chvíle.
+(PERSON11) Jo.
+No, jasně, takže tam.
+A ten Belgičan říkal, že je to lepší vzhledem k čemu?
+Vzhledem k manuálnímu elementu nebo?
+(PERSON4) Jo.
+Vzhledem k manuálnímu elementu.
+A voni to dělali nějak jinak, voni dělali nějakej cardinality maching, což nevím, co je, místo toho edge coveru.
+(PERSON11) Aha.
+(PERSON18) To taky nevím, co je, no.
+(PERSON4) Hm.
+(PERSON18) Hm.
+(PERSON4) No, každopádně můžeme mít radost, že náš preprint má ohlas.
+<laugh/>
+(PERSON18) Hm, to je dobrý.
+To už teďka se oplatilo dát na ten archiv.
+<laugh/>
+(PERSON11) No, to jako, mě to jako přijde super to takhle dávat ten měsíc před tím.
+Jako dokopeš se k tomu, a pak ten článek aspoň nepíšeš na poslední chvíli jako.
+(PERSON18) Hm.
+(PERSON11) Jako tady -
+(PERSON18) No.
+(PERSON4) No.
+Já taky píšu jinej článek na poslední chvíli.
+<laugh/>
+(PERSON18) No, ale tady ten už máš napsanej.
+<laugh/>
+(PERSON11) No.
+(PERSON18) Mně to taky přijde dobrý.
+Budem to tak dělat i nadále.
+(PERSON11) To jsem taky říkal jako, když to nestihnu na to ACL, tak to prostě dopíšu a dám to na archive a pak to pošlu třeba na calling a už to prostě budu mít potom, no.
+(PERSON18) No, dobře, takže já si myslím, že to je dobrý, že teda není potřeba tam v tuto chvíli nic posílat.
+(PERSON4) <unintelligible/>
+(PERSON11) Cože?
+(PERSON4) No, říkám, že todle je, asi všechno víme, ne?
+(PERSON11) Jo, jo.
+No.
+Tady to je, jo.
+No.
+Tak jdeme na další článek.
+Jdeme na ten, na ten [PERSON18] s [PERSON8].
+Protože ten vypadá, že, že jo, že je takovej, minimálně má 4 stránky.
+Jestli to bude teda short paper, což předpokládám, že jo, nebo?
+(PERSON18) Jo.
+Myslíme si, že short, no.
+(PERSON11) Jo a tam je teda, co jsem koukal, je problém, že jsou tam ty figury dost maličký, že ten obrázek 1 jako jsem si ho musel zvětšovat tady, jak jsem moh, abych tam něco, abych tam vůbec něco viděl.
+(PERSON4) No.
+Figuru 1 nikdo nepřečte.
+(PERSON18) No.
+(PERSON11) No.
+A ty červený křížky jsou tam jako, no.
+(PERSON18) No.
+(PERSON11) Jako vůbec.
+(PERSON18) No, to je problém.
+No, my máme hodně vobrázků a to se do toho krásně všechno nevejde, no.
+(PERSON11) No, nešlo by?
+No, nešlo by tam dát teda jenom, jenom třeba to zelený nebo jenom jedno z těch?
+Vono to ale tím pádem bude zase větší ten obrázek ještě.
+(PERSON4) Nemůžete je vodstěhovat a dát tam něco jinýho za ty obrázky?
+(PERSON11) <unintelligible/> případy, že jo.
+Anebo to můžeš dát do toho, do toho apendixu, ale -
+(PERSON18) No, jde o to, co z toho je podstatný, no.
+No, nám v tuhle chvíli přišlo podstatný všecko.
+Samozřejmě.
+No, jako jediný dobře velký obrázky jsou ty na konci.
+Ale takhle velký prostě tam bejt nemůžou, no.
+<laugh/>
+(PERSON8) Seš na straně 5, jo?
+(PERSON18) No.
+<laugh/>
+(PERSON11) No, tady ten nejde vidět vůbec.
+(PERSON18) Taková ta <unintelligible/>, takže tam už není vidět, co to je a -
+No.
+(PERSON8) Hm.
+(PERSON18) 32 je dobrá, tam jsou jenom ty čáry, tam není vidět jenom legenda.
+A legenda se dá napsat pod to.
+(PERSON11) Figur- 2, je, co?
+Kde?
+Jo, tady.
+Jo
+Tohle si musím taky zvětšit, eh.
+(PERSON4) A proč to?
+Že jo, tak tam můžete zkusit zvětšit fond třeba?
+(PERSON11) Jo.
+Jo, minimálně, minimálně zvětšit, zvětšit fond tam, kde to jde, no.
+Tam u toho, eh, jo, já už tady mám otevřenejch tolik věcí, že už tady klikám, jak, eh.
+Že jo, tady strašně třeba u těch, u tý figury 1, teda ta nejde vůbec přečíst, ale -
+(PERSON18) Hm.
+(PERSON11) Nahoře ty labely by mohly bejt zvětšený, aby aspoň bylo vidět, že tam, vo, vo jaký typy labelů se jedná.
+(PERSON18) Hm.
+(PERSON11) Ale stejně nevím, i takhle bych ji tak stejně asi nedával.
+(PERSON18) Hm.
+(PERSON11) Protože to -
+(PERSON4) Ne, to musí jít, ta figura 1 musí jít do apendixu.
+(PERSON18) Ok.
+Dává asi smysl vzít, vzít jenom jeden z těch sloupečků tří.
+(PERSON11) No, tím pádem ta figura bude ještě větší než teďka, že jo, sice bude dobře čitelná, ale -
+(PERSON18) No.
+(PERSON11) Nebo ji zkus dát do, zkus ji teď dát do řádku.
+(PERSON18) Jo, takhle, jako do řádku.
+(PERSON11) Je to přes dva sloupce, ale vono ti to zase ubere spousta místa, ale jestli by to nebylo ve výsledků míň.
+Nevím, nevím.
+(PERSON18) Hm, hm.
+(PERSON11) No, asi nebylo, protože tam musej bejt ty popisky ještě ty -
+(PERSON18) Hm, hm.
+Hm, hm, hm, hm.
+(PERSON11) Anebo jestli tam dát jenom, jenom dvě prostě?
+<laugh/>
+(PERSON18) Hm.
+(PERSON11) Jenom dva ty čtverečky a ukázat, že se prostě doplňujou?
+A že nutně ten average bude.
+Jenže ono to není úplně vidět, že jo?
+Ten average může být jinej, no.
+(PERSON18) Hm, hm.
+(PERSON11) Já jsem tam napsal nějaký poznámky dovnitř.
+(PERSON18) Eh, jak jsou značený?
+(PERSON11) No, právěže zatím nijak.
+Je to DM dvojtečka, ale asi -
+(PERSON18) Jo.
+(PERSON11) Ale asi bych to měl nějak vyznačit líp.
+(PERSON18) No, DM dvojtečka je dobrý, to se dá najít.
+<laugh/>
+(PERSON11) Jo.
+A jako jsou to spíš jako drobnosti.
+Já, já ti to můžu teďka říct.
+(PERSON18) Hm?
+(PERSON11) Eh, tam, jak říkáš, jak říkáte, jako jestli accuracy oheads, tak to je, vlastně to jsi říkal na tom minulým callu.
+On to je vlastně recall, že jo?
+(PERSON18) Hm, hm, hm.
+(PERSON11) Jestli tomu neříkat recall?
+Teda vono sice v tomdle případě jako precision je divná.
+(PERSON18) No.
+(PERSON11) Protože precision by jsi vlastně dělil všema podle všech slov, že jo?
+Nebo něco takovýho?
+(PERSON18) No.
+My jsme todle řešili s [PERSON15] už asi dvě hodiny.
+(PERSON11) Aha?
+(PERSON18) A, eh, já jsem ho furt tlačil, aby dopočítal tu precision, tak jsme pak nějakou dobu vymejšleli, jak teda spočítat precision.
+Tak jsme pak teda vymejšleli nějakou dobu, jak teda spočítat precision.
+Pak nějakým způsobem spočítal precison a byly to ňáký hrozně náhodný čísla a vůbec jsme nevěděli, jak by to mělo vypadat.
+(PERSON11) Vona by měla být nějaká hrozně malá, ne?
+Předpokládám.
+Myslím, že -
+(PERSON18) No, většinou byla tak kolem 20 %, ale někdy taky 80.
+(PERSON11) Aha?
+(PERSON18) A neměli jsme pocit, že to úplně něčemu odpovídá nebo tak jako.
+(PERSON11) Protože to je docela divný, ne?
+Tak precision přece, to byste musel vydělit počet těch labelů, který se <unintelligible/>, lomeno počtem všech slov vlastně, ne?
+(PERSON18) Precision jsme, precision jsme dělali, nevím, jako počtem těch zlatejch.
+Prostě, že vemeš, eh, co, když víš, že prostě jsou tam 3 subjekty, tak vemeš ty 3 nejlepší a počítáš, kolik z nich jsou subjekty.
+Nebo tak nějak.
+(PERSON11) No, jasně.
+Vezmeš, no, vezmeš, no, normálně prostě vezmeš ty maxima a spo-, spočítáš, kolik z nich jsou subjekty a vydělíš to počtem subjektů celkově, že jo?
+(PERSON18) No, jasně.
+Ale když vemeš pak třeba ze všech řádků a deset, tak tam prostě najdeš těch subjektů víc, než kolik jich tam je, že jo?
+Takže to není dobrá precision.
+<laugh/>
+Ale když prostě vemeš ty 3 nejvyšší maxima, když víš, že tam jsou 3 subjekty, tak to aspoň trochu dává smysl.
+(PERSON11) Jo, jinak, já jsem myslel počítat to tak, že vezmeš ty subjekty a vydělíš to, vydělíš to všema, že jo.
+Vydělíš to počtem těch maxim, což je počet slov.
+(PERSON18) Hm.
+(PERSON11) Protože, že jo, když se počítá precision a recall, tak by měly mít, tak by měly mít v čitateli to samý, to samý číslo.
+(PERSON18) Tomu moc nerozumím teďka?
+To bys neměl nikdy precision 1, ne?
+(PERSON11) No, neměl.
+Samozřejmě, že ne.
+Ale jako -
+(PERSON18) Jako myslím si, že dobrá precision je taková, která je od 0 do 1.
+(PERSON11) No, dobře, ale že jo, precision je, ty najdeš prostě, ty, ty máš N slov a najdeš N maxim.
+Z toho jsou nějaký subjekty, že jo?
+Tak recall prostě, řek-, eh, to vydělíš počtem těch subjektů, který si měl.
+Jako ty jakoby najdeš N subjektů, že jo?
+Takže jako správná precision podle mě by měla, měla bejt, že to vydělíš tím Nkem, že jo?
+Protože jsi našel N subjektů a z toho 3 byly správně.
+(PERSON18) Hm.
+(PERSON11) To, což jako, jako to je divná věc.
+To jako jsem už říkal předtím, že to je dost divný.
+(PERSON18) Hm.
+(PERSON11) A byly by ty nízký čísla.
+(PERSON18) Hm.
+(PERSON11) Ale jako podle mě by to takhle jako mělo bejt.
+No, prostě precision je divná, tak, tak tu bych jako neřešil.
+(PERSON18) Hm.
+(PERSON11) Ta je divná, ať se udělá jakkoliv.
+(PERSON18) No, k tomu jsme došli, no.
+Ve chvíli, kdy to [PERSON8] nějak napočítal, tak jsme na to koukali a říkali jsme, že to je fakt divný, to jako tam dávat nebudeme, pač nevíme, co vo tom říct.
+A no, a říkal, že v těch, a že bavili jsme se o tom, že je divný tomu říkat recall, protože to pak jako vybízí právě tady tu otázku, jako tak když máte recall, tak kolik máte precision a to je právě složitý.
+(PERSON11) No a já říkám, já bych tam jenom připsal, že, že třeba, jenom poznámku, aby se nikdo nečertil, že to je vlastně, že to je v podstatě recall.
+(PERSON18) Hm.
+(PERSON11) Ale, že precision, počet precision je tady prostě divný.
+(PERSON18) Hm.
+(PERSON11) To prostě nemá smysl.
+(PERSON18) Hm.
+(PERSON11) Já jsem to tady napsal do poznámky, tak to tam bylo, takže to tam je.
+(PERSON18) Hm.
+(PERSON11) Jo a taky z těch dvou vzorečků se mi teda líbí ten druhej, protože v tom prvním nechápu, co je AL.
+(PERSON18) Jo, tam je.
+No, tam by mělo bejt zase to A.
+(PERSON11) To mi přijde strašně divný.
+(PERSON18) No.
+(PERSON11) Tam mělo být jenom A, no.
+(PERSON18) Ten první je <unintelligible/> vzoreček a ten druhej je můj vzoreček.
+<laugh/>
+(PERSON11) No, vidíš to, no.
+<laugh/>
+(PERSON18) Takže myslím, že já jsem rád, že se ti víc líbí ten druhej.
+<laugh/>
+(PERSON11) No.
+(PERSON18) No, jo, no.
+A hlavně [PERSON8] teda říkal, že v nějakým předchozím článku asi ten [PERSON13] na to s tím, tím [PERSON12], nebo kdo, když todleto počítali, tak tomu říkali accuracy.
+(PERSON11) Jo, tak jo, no.
+A já bych se tam odvolal na to, že oni to taky tomu říkali accuracy.
+(PERSON18) Hm.
+(PERSON11) Můžeš tam do poznámky pod čarou napsat, že prostě, že to je v podstatě recall, ale.
+(PERSON18) Hm.
+(PERSON11) Ale, no.
+To je asi, jak bych to vyřešil.
+(PERSON18) Hm.
+(PERSON11) Jo, potom, potom další věc je, eh, že copula verb is treated as the predicate.
+To jste našli, jakože to je rozdíl oproti, oproti UD, že jo?
+(PERSON18) Jo, v UDčku se <unintelligible/>, no.
+(PERSON11) Ale, ale měli byste asi napsat zdůvodnění, proč to tak je.
+Tak předpokládám, že jste našli, že se kopula dívala na subjekt nebo subjekty se dívaly na kopuli.
+Je to tak?
+(PERSON18) No, jasně, prostě koukali jsme -
+Takhle, že jo, ta story je taková, že prostě zkusili jsme tady najít vždycky ty hlavy, co dělaj třeba subjekt a -
+(PERSON11) No.
+(PERSON18) No, nebo tady, zkusili jsme její hlavu, co dělá subjekt.
+(PERSON11) No, jasně.
+(PERSON18) A pak jsme na to koukali.
+(PERSON11) A pak <unintelligible/> kopuli, jo.
+(PERSON18) Protože v tý hlavě ty kupole jsou zrovna jako blbě nebo jakoby jinak než prostě by měly bejt správně.
+A tak jsme zjistili, že když ty kopule převěšíme, jako kdyby to byly normální slovesa, tak nám stoupne ta accuracy.
+(PERSON11) Jo.
+Mně to, mně to přišlo, jako že by si to žádalo vysvětlení, že jako tam nám napíšete, ale -
+(PERSON18) Hm.
+(PERSON11) Možná by to chtělo říct, jako proč?
+(PERSON18) Hm.
+(PERSON11) Nebo mně to tak přijde, jako že, že prostě, že jste, že jste viděli, že se tam ty kopuli prostě věšej na subjekt.
+(PERSON18) Hm.
+(PERSON11) Nebo subjekty na kopuli.
+(PERSON18) Hm, hm.
+(PERSON11) Že tam prostě takovýdle hlavy byly, no.
+(PERSON18) Hm.
+Hm.
+(PERSON11) A u těch expletiv bych napsal, protože já nikdy nevím, co to je, aspoň bych vysvětlil, že to znamená there is a there are.
+<laugh/>
+(PERSON18) Hm.
+Hm, hm.
+Jo.
+To je vono, no.
+(PERSON11) To já se vždycky musím podívat.
+Ale teď už jsem si to pamatoval.
+<laugh/>
+Ale to vždycky jsou takovýhle slovo divný, tak nevím, co to je.
+(PERSON18) Hm.
+To je pravda.
+To já taky jsem už zase nevěděl, co to je, když jsme se o tom začali bavit, no.
+<laugh/>
+(PERSON11) Jo, a potom další věc, eh, ono to teda asi ani není dopsaný.
+Myslím, že tu nikde není link na tabulku 1?
+A -
+(PERSON18) Jo, no, [PERSON8] tam nedával vůbec popisky tabulek ani linky na tabulky.
+(PERSON11) No, ono tady, ono tady spousta těch linků vůbec chybí, včetně podle mě i jako citací.
+(PERSON18) No, no, no.
+(PERSON11) V tom článku taky jich tady chybí strašně moc.
+A, a není tady, to už jsem se ptal taky prve, není tady base line napsáno, co je ten base line.
+Ono je tady někde potom napsáno, že to je positional base line.
+Ale podle mě, mělo by se to vysvětlit, co je to positional base line.
+(PERSON18) Hm.
+Jo.
+Jo.
+Ok.
+Hm.
+Jo, to je zase přejatý z nějakýho paperu, ale to není nějaký běžný, takže to je dobrý říct.
+(PERSON11) Jo.
+(PERSON18) Ono je to strašně jednoduchý, že jo, prostě to, že když hledáš sloveso, tak prostě koukáš na slovo doprava od subjektu, a když hledáš subjekt, tak koukáš na slovo doleva od slovesa, a tak, no, a -
+(PERSON11) No, jasně, jo.
+(PERSON18) No.
+(PERSON11) A vždycky na nějak, jo, vždycky je to prostě nějaká pevná, pevná pozice?
+(PERSON18) Pevná vzdálenost na jednu stranu.
+(PERSON11) Pevná, pevná vzdálenost na jednu stranu.
+Jasně.
+(PERSON18) Hm, hm.
+(PERSON11) No.
+(PERSON18) To se řekne někde jednoduše někdy, no.
+(PERSON11) Eh, na tom -
+(PERSON18) No, mě by spíš zajímalo, co vám na tom jako přijde prostě nejzajímavější nebo nejdůležitější nebo tak jako, co prostě v tom článku určitě jako vypíchnout?
+A co naopak prostě odsunout do nějakejch poznámek, apendixů, a tak?
+(PERSON4) Eh, já jsem to teda celý nečet, ale, eh, -
+(PERSON18) Docela dobrý shrnutí je teďka v abstraktu.
+<laugh/>
+Ten je dobrej.
+<censored/>
+Já jsem si to prostě přečet a přijde mi to, že děláte to samý, akorát [PERSON17] to dělala, to dělala s tím [PERSON5] v překladačích, ne?
+(PERSON18) Eh, já si myslím, že ten hlavní rozdíl je v tom, že kombinujem víc těch hlav a, a todle.
+A převyšujem ty UDčka.
+Ale já nemám ty články načtený, to čet [PERSON8].
+Takže pořád, popravdě nevím, co z toho voni dělali a co ne.
+Ale myslím si, že jako komplet nový máme to, že jako taháme jednu relaci z několika hlav, že to jako prej jsme nikde neviděli.
+(PERSON4) Jo.
+No, tak to napište, tak to napište do introduction, možná i do abstraktu, protože -
+(PERSON18) V abstraktu to je.
+V abstraktu je to tady docela podle mě jasně.
+Prostě previous work dělala tohle, we extend these findings tady těma třema způsobama.
+Já nevím, mně to přijde jasný.
+Ale tak asi to může bejt ještě jasnější.
+(PERSON4) Jo, jako je to jasný -
+(PERSON11) Jako mně to přišlo hodně jasný během toho článku, to jsem to čet jakoby.
+Tam to bylo napsaný poměrně dost, dost jasně.
+Ale asi by to mělo bejt v introductionu nebo v abstraktu.
+(PERSON18) Hm.
+(PERSON11) Protože to je to, co čte, někdo čte -
+(PERSON4) Mně to přišlo, extend these findings, přišlo jako, že děláte to samý, akorát jako na, nějak jako dál.
+(PERSON18) No, tak to je do značný míry pravda, nebo?
+<laugh/>
+Ty závěry -
+(PERSON4) Jo, to jako může být pravda, ale napiš jako, že jste rozšířili jejich metodu nebo nebo -
+(PERSON18) No, to je to extend, ne?
+Nebo?
+(PERSON4) Prostě mně jako přijde, že pokračuješ dál.
+<laugh/>
+(PERSON18) Tak mi poraď lepší slovo.
+<laugh/>
+(PERSON4) To nevím.
+Tak ji improvuješ, inovuješ.
+Co s ní tak ještě můžeš dělat?
+No, ne, že jo, ty říkáš, extend findings.
+To právě neextenduješ ty findings, ale extenduješ tu metodu.
+To je možná -
+(PERSON18) Jo.
+(PERSON4) To je možná to.
+(PERSON18) Hm.
+(PERSON4) Prostě extend findings, mi přišlo, že jsi prostě dělal to samý, ale já nevím, na dalších datech a na dalších modelech.
+(PERSON18) Jo.
+Ok.
+Hm.
+Hm.
+Jako souhlasím, že to je tam potřeba napsat dobře, ale já už jsem zaujatej, protože už jako vím, co jsme udělali.
+<laugh/>
+Takže to v tom vidím, že jo.
+<laugh/>
+(PERSON4) A pak bych tam prostě napsal na férovku do introductionu prostě unlike [PERSON16] děláme tohle a unlike [PERSON2] and [PERSON9] děláme tohle.
+(PERSON18) Hm, hm, hm.
+Ok.
+Hm.
+Je fakt, že s tím už jsme v recenzích měli problém.
+(PERSON4) No, no, ten zbytek jsem důkladně nečet, tak k tomu nemám co říct.
+(PERSON18) Hm.
+No, todle je asi jako důležitý, no.
+To je fajn.
+Hm.
+A obecně přijde ti na tom, co děláme, něco zajímavější, než něco jinýho, že jo?
+My jsme prostě -
+Jako mně přijde, že hlavní finding je, že prostě, eh, ty hlavy nepasujou na ty relations one to one, že prostě ti předtím řekli, no, tak tadle hlava dělá subjekty a tadle hlava dělá adjektivum modifires, a tak.
+A my říkáme ve skutečnosti tahle hlava dělá adjektivum modifire, který jsou ale na dél-, na vzdálenost jedna a tadle jiná hlava dělá adjektivum modifires, který jsou vzdálenější, a, a naopak jako tahle hlava dělá auxiliares a determines najednou.
+(PERSON4) Jo.
+Že to jako, to jsou jako za nás nějaký nový věci, který jsou zajímavý.
+A pak to teda reflektujeme v tý metodě.
+A tím pádem máme lepší ten parsing.
+(PERSON4) To, to mi přijde jasný a dobrý.
+(PERSON18) Hm.
+No a druhá věc je, že zároveň to nedělá ty věci tak, jako jsou v UDčkách, takže převěsíme trochu ty UDčka, a pak to víc odpovídá tomu, co to dělá.
+(PERSON4) No a, a šel bych víc do tý related work prostě.
+(PERSON18) Hm.
+(PERSON4) Oni měli assumption, že jedna hlava je jeden jev.
+(PERSON18) Hm.
+Hm, hm.
+(PERSON4) Vy jste rozvolnili tenhleten assumption.
+Představujete novou metodologii, jak měřit.
+(PERSON18) Hm, hm.
+(PERSON4) Jak si to tu syntax představuje.
+Tím, že tam jako, že prohazuješ ty, eh, že jako modifikuješ ty, ty UDčka.
+(PERSON18) Hm.
+(PERSON11) Hele, a to, to evaluované je taky na těch modifikovanejch?
+(PERSON18) Cože?
+(PERSON11) Ta evaluace je teda taky na těch modifikovanejch?
+To, ta tabulka 2?
+(PERSON18) Asi jo.
+Nevím.
+(PERSON11) Ale jak se pak srovnáváte s těma vostatníma?
+To je divný, ne?
+(PERSON18) Hm.
+Tak ti řekli prostě, je to tahle syntaxe, machuje to na tolikhle procent, ale my řekneme, je trochu jiná syntaxe, ale na stejnejch větách a machuje to na tolik procent.
+Jako jasně, nejsou to stejný labely.
+(PERSON11) No, to trošku je takový -
+(PERSON18) Asi to můžeme změnit, ale -
+(PERSON4) Těch řad je vždycky stejně, ne?
+(PERSON18) Podle mě stejně, jenom jsou trochu jiný, no.
+(PERSON11) No, tak to tam asi by chtělo napsat, aby si to někdo -
+(PERSON18) Hm, hm.
+(PERSON11) Nevykládal jako podvod.
+(PERSON4) Že je to v pohodě.
+(PERSON18) Jo.
+Jo, asi, asi to chce poznamenat, no.
+Když se nad tím pozastaví někdo z vás, tak se nad tím může pozastavit někdo z recenzentů.
+Prostě takovou poznámku, jakože vlastně to děláme správně.
+(PERSON11) Ale jako, ale je to, jako je to v pořádku.
+Protože cíl není se, cíl není se přiblížit, že jo, <unintelligible/>.
+Cíl je se přiblížit prostě nějakejch, nějakýmu typu anotace, no.
+(PERSON18) Hm, hm.
+(PERSON11) Nějak, nějakýmu rozumnýmu.
+(PERSON8) A máte nějakej názor na to, proč zrovna ta anotace, kterou tam anotujete, je dobrá anotace, a proč, eh, ten BERT dělá něco jinýho než UDčka?
+Kromě toho, že UDčka jsou pochybná, pochybnej endeavour?
+(PERSON18) Tak jako, vůbec jako nevím.
+Asi spíš bysme tam měli obecně říct, že prostě způsobů, jak anotovat syntaxi, je milion, tak proč by to dělaly zrovna UDčka, že jo?
+Prostě to dělá něco a my zkoumáme, co to je.
+Zároveň shodou okolností -
+(PERSON8) Takže to je -
+(PERSON18) Asi všecky ty modifikace, který máme, tak odpovídají SUD, což je surface -
+(PERSON11) Co je SUD?
+(PERSON18) Což znamená jako surface UD.
+(PERSON11) Hm.
+(PERSON18) Ty právě jako dávaj ty kopule nahoru a ty explitiva snad taky dávaj jinak nebo co.
+(PERSON11) A to v tom článku píšete?
+(PERSON18) No, zatím je tam na to nějaký todo, že to tam musíme zmínit.
+Tudu <unintelligible/>.
+<laugh/>
+(PERSON11) No, to bude zajímavý potom srovnání s tím [PERSON7], kterej to teď možná taky píše článek.
+<laugh/>
+(PERSON18) Hm, hm.
+(PERSON11) Na ACL o tom.
+(PERSON18) Hm, hm.
+(PERSON11) Tomu to vyšlo naopak, jenomže on to zkoumal -
+No, to je jedno.
+<laugh/>
+(PERSON4) Zrovna ty kopuly jsou divný jako, rozhodnout se, že sloveso být budeš věšet jinak, než jiný slovesa.
+(PERSON18) Hm.
+(PERSON11) No, tak oni se rozhodli, že jo, oni se rozhodli kvůli, kvůli těm jazykům, který to nepoužívaj.
+(PERSON18) Hm.
+No, každopádně důležitý je, že to je jako rozhodnutí, že jo, že to není prostě, že jako lingvisti zkoumali jazyky, a pak řekli, ejhle, je to takhle prostě.
+Ale zkoumali jazyky a řekli, hm, je to různě, tak to budu anotovat třeba takhle.
+Ale ty důvody jsou spíš jako takový trochu mimojazykový, no.
+(PERSON11) Hm, tak já mám pocit, že to je prostě sémantičtější, že, že to je jako víc, víc od praxe dál, že jo.
+(PERSON18) No.
+(PERSON11) To, že sloveso být prostě je tak sémanticky vyprázdněný, že není důvod, aby, aby -
+(PERSON18) Hm.
+(PERSON11) Nebo sémanticky, možná jsem řek nějakou blbost, ale -
+(PERSON18) Hm.
+(PERSON11) Lexikálně vyprázdněný.
+Že prostě, když ho neřekneš, tak to každej pochopí, že jo, tu větu.
+(PERSON18) Hm.
+(PERSON4) Hm.
+(PERSON11) No, takže jako to máte něco <unintelligible/>.
+(PERSON18) No, jako já si myslím, že to jako detailně nemusíme úplně jako obhajovat.
+To asi každýmu jako přijde normální, že ty kupole vlastně visej divně.
+(PERSON11) Jo.
+To mě nijak nezarazilo.
+To jako -
+(PERSON18) Já bych se tam hlavně prostě vodkázal na autoritu SUD.
+Hele, tady už to někdo vymyslel a vlastně tak to převěsíme a tak to vodpovídá.
+Ale jako nedělal bych prostě SUD.
+(PERSON11) Jo, vy neděláte SUD, jenom -
+(PERSON18) Jenom prostě je vidět, že se chová jinak, než, než to máme v těch UDčkách, tak to jsme převěsili.
+(PERSON8) No, to je takový hrozně random a stejně by si to podle mě zasloužilo nějakou podstatnou diskusi.
+Ale jestliže vám to vychází tak, že je to SUD, tak byste podle mě měli prostě použít SUD a podstatná pointa toho článku by měla bejt, no, prostě neměřte BERTa podle normálního UD, měřte ho podle SUD, protože prostě ten BERT takhle funguje.
+A znamená to, že SUD z nějakýho pohledu jeho zachycuje jazyk líp, než UD.
+(PERSON18) Hm.
+(PERSON4) Tak podobnějc jako BERT, no.
+(PERSON8) No, dobře, ale tak, že jo, tak to je jako něco zajímavýho a podstatnýho, že BERT zachycuje jazyk, hm, tak, že se to blíží nějakýmu formalismu.
+(PERSON18) Ok.
+Zeptám se [PERSON15], jestli stihne do pondělka to komplet naměřit na vopravdovým SUD a bude mít radost.
+<laugh/>
+Já vůbec netuším, do jaký míry je to jako složitý nebo jednoduchý, jestli ty SUD anotace si člověk prostě někde stáhne nebo jestli prostě na to je nějaký tool, kterej to překlopí, anebo jestli musí napsat těm Francouzům, co to vymysleli a ty ti napíšou něco francouzsky nebo já nevím.
+<laugh/>
+(PERSON8) No, no, anebo, že jo, když, když byste to neměřili na SUD, tak aspoň tam nějak jako diskutovat to, co děláte a proč to děláte jako.
+Nebo co si myslíte, že to znamená, kromě toho, že se vám to tak líp věšelo a vycházely vám vyšší accuracy.
+<laugh/>
+To mi nepřijde jako dobrý článek, jako zkusili jsme věci pověsit, eh, tak, aby vycházely co největší accuracy a vycházejí nám největší accuracy.
+(PERSON18) No, tak našim cílem je analyzovat, co ten BERT dělá, že jo.
+(PERSON8) No.
+(PERSON18) Takže my najdeme nějaký model toho, co dělá ten BERT dělá, a ten nejlepší model toho, co ten BERT dělá, je ten nejlepší model.
+(PERSON8) No, dobře.
+A tak potom ten závěr by měl bejt, že teda nejlepší model, co BERT dělá, vypadá takhle a myslíme si, že takhle vypadá z nějakejch důvodů.
+(PERSON4) No mně to <unintelligible/> přijde v pořádku.
+Prostě jako zkoušejí změny voproti UD, který zlepšej accuracy a tím, a ty změny, který zlepšej accuracy, jsou ty změny, který BERT dělá jako jinak, než, než UD.
+(PERSON18) Hm.
+(PERSON8) Jo, ale já bych -
+(PERSON18) No, samozřejmě to bude mít, že jo, takový to skrytý nebezpečí, že prostě když to celý jako převěsíme jako levopravej řetízek, tak najdeme hlavu, která dělá přesně levopravej řetízek a bude to jako dobrý.
+Takže je tam jako důležitý, že ty změny, který děláme, jsou jenom prostě přechod jako k nějaký jiný zavedený syntaxi.
+(PERSON4) Hm.
+(PERSON18) Že jako to není, že bysme si -
+Nebo aspoň zatím jako, zatím si nevymejšlíme úplně blbosti.
+A jako ve chvíli, kdy bysme prostě viděli, že BERT dělá něco, co se nedělá v žádný rozumný syntaktický teorii, tak pak je to jako zajímavější.
+Jestli teda je to syntax nebo co to je.
+Ale zatím jako všecky převěšení jsou jenom, že přejdem od UD k SUD nebo k něčemu jinýmu, zavedenýmu, takže to mi přijde fér.
+(PERSON8) Hm.
+No, tak to byste tam měli diskutovat a měl by to bejt závěr podle mě teda, jakože.
+A měli byste tam někde -
+(PERSON11) Jako ano.
+Todleto by se tam mělo diskutovat, že prostě, to, co jsi teďka řek.
+To by tam.
+Já jsem teda nedočet až do konce, takže já nevím, jakej je závěr.
+(PERSON8) Hm.
+(PERSON11) Ale -
+(PERSON18) Hm.
+<laugh/>
+(PERSON11) A závěr tam není žádnej.
+Ahá!
+Jasně <unintelligible/> XY.
+(PERSON4) No, jasně.
+(PERSON11) We found ZY.
+(PERSON8) Závěry jsou zásadní a zajímavý.
+<laugh/>
+A ještě by měla teda bejt taky diskuze někde, už nevím, jestli tam je, protože jsem to taky celý nečet.
+Eh, diskuse toho jakoby, na jakým základě jste teda omezili to, že z toho neděláte ty levý nebo pravý řetízky.
+Jako ty -
+(PERSON18) No, protože je řetízková teorie uznávaná, která by říkala, syntaxe je levej řetízek.
+(PERSON8) No, no, to s, to bych byl zvědavej, jak, jak todleto napíšeš tak, aby to, jako aby to nebylo jako, eh, prostě já jsem to udělal zrovna takhle, protože mám dojem, že syntaktický teorie jsou takovýhle.
+<laugh/>
+(PERSON18) Hm.
+Hele, dobře.
+Jako konkrétní metoda je taková, že prostě to nafitujeme na to UDčko, pak se podíváme, kde to skřípe, a když zjistíme, že to někde skřípe systematicky, tak to je jako motivace to tam převěšet, ale nakonec ty převěšení děláme asi jenom třeho, třech typů, jako na tohleto jsme nedali úplně takovej důraz.
+Tam se asi jako dá jít prostě ještě dál.
+My spíš jako ukazujeme, že to vůbec má nějakej smysl, ale -
+(PERSON11) Pak by bylo asi ještě teda -
+Teď mě nap-, jako to, to už samozřejmě neuděláte, ale že jo, pro todlecto.
+(PERSON18) Hm.
+(PERSON11) Abyste dokázali, že jako levej řetízek sice nejvíc odpovídá.
+(PERSON18) Hm.
+(PERSON11) Nejvíc odpovídá tomu BERTovi nebo je nejlepší, tak vy byste to mohli evaluovat tak, že tam jenom ty hlavy, který používáte pro tu syntax, tam necháte v tom BERTovi a zkusíte to, evaluovat toho BERTa, na něčem, na nějakým tasku.
+A tím ukážete, tím můžete ukázat, že je dobře jako.
+(PERSON18) Hm.
+(PERSON11) Tohleto je rozumná -
+(PERSON18) Jenomže u tohohle je problém, že potřebuješ nějaký task, který mu pomůže syntax.
+(PERSON11) Cože?
+(PERSON18) Že to bys potřeboval nějakej task, na kterej je potřeba syntax.
+(PERSON11) No, tak to zase ne, viď?
+Jako prostě, když potř- task?
+No, ano, ano.
+Task, na kterej je potřeba syntax, ale jako vono obecně jako task.
+Ono, když tam necháš ty hlavy, který dělaj řetízky, tak ono moc dobrý to nebude asi.
+Takže řekneš, dobře -
+(PERSON18) Hm, ty hlavy, co dělaj řetízky v tomhle taky chceš, že jo?
+Když děláš ňákej task.
+(PERSON11) Dobře, ale -
+(PERSON18) Prostě <unintelligible/> první slovo je taky už <unintelligible/>, jenom to není syntaktický, že jo?
+Takže něco je dobrý, protože řetízky prakticky jsou <unintelligible/>.
+Co?
+(PERSON11) Vy používáte přece ty hlavy, co dělaj řetízky, nebo ne?
+(PERSON18) No, pro některý ty relace asi jo a pro některý ne, že jo?
+Pro každý ty relace se dělá nová head selection.
+(PERSON11) No?
+Ale jako, že bych jako řek, že, že prostě řetízky, hm -
+(PERSON18) Jako [PERSON15] říkal, že <unintelligible/> ty čistý, ty čistý diagonály tam většinou se nevyberou, že většinou se vyberou takový, co jsou skoro diagonála, ale trošku to má nějaký jako balustrády na nějakejch místech.
+(PERSON11) Jo.
+Hm a ty -
+Jo, takže, takže je votázka, jak by to dopadlo, kdyby se, kdyby se -
+(PERSON18) Hm.
+(PERSON11) No, dobře, ale určitě, kdybyste vzali jenom ty řetízky, tak to dopadne hůř, než když se vezmou všechny, co potřebuješ na tydlety stromy, že jo?
+Všechny hlavy?
+Nevím.
+Asi, asi je to divný.
+To teď asi ne-, nemáme na to čas.
+(PERSON18) Hm.
+(PERSON11) Já se zeptám ještě, máte ještě čas?
+(PERSON4) No.
+(PERSON18) Já mám ve 12:20 další schůzku.
+(PERSON4) Já mám čtvrt hodiny ještě.
+(PERSON11) Tak to <unintelligible/> před deseti minutama.
+Dobrý.
+Tak můžu ještě?
+Tak já vám ještě řeknu vo tom mým paperu.
+(PERSON18) Hm.
+(PERSON11) On teda, tam není skoro nic napsáno, protože -
+(PERSON18) Já jsem se totiž na něj díval a nepřišel jsem hlavně na to, co jste teda zjistili?
+(PERSON11) No, právě, protože to tam není.
+Tak hele, eh, je to, vzali jsme dvě architektury.
+Jedna architektura je normálně transformer a druhá architektura je to, co dělal u nás [PERSON6] s [PERSON1], která má uvnitř attention bridge.
+A to je tady ten obrázek figure jedna, jak ta architektura vypadá.
+A výhoda je, nebo my jsme zapojovali, my jsme vždycky překládali z angličtiny do více jazyků.
+Takže jsme měli vždycky jenom jeden enkodér a víc dekodérů, což v transformeru jsme udělali tak, že jsme měli vopravdu voddělený, eh, voddělený dekodéry a ten, tomu dekodéru jsem na začátku řek do jakýho jazyka pře-, eh, překládáš.
+Prostě jsem <unintelligible/>.
+(PERSON18) Počkej, jeden dekodér nebo víc dekodérů?
+(PERSON11) Víc dekodérů.
+(PERSON18) No, tady to mu ale nemusíš říkat, do jakýho jazyka překládá, když překládá, ne?
+Když překládá furt do stejnýho?
+(PERSON11) No, počkej, když trénuješ ten překladač, tak mu potřebuješ říct, do kterýho jazyka chceš přeložit?
+(PERSON18) Hm.
+(PERSON11) Počkej, sorry.
+Eh, eh, blbost, blbost.
+Tam byl jeden dekodér.
+V tom tran-, v transformeru je jeden dekodér.
+V transformeru je jeden dekodér a řekneš mu, na začátku mu podsuneš takt toho jazyka, do kterýho překládá.
+Jo?
+(PERSON18) To už dává smysl.
+Jo.
+(PERSON11) Jo.
+A v tom, v tý druhý architektuře, to je attention bridge, a tam prostě máš každej, pro každej jazyk, eh, jeden dekodér.
+A to je, ta architektura je zajímavá tím, že prostě uděláš fixní, eh, ten enkodér, ten výstup toho attention bridge znamená, že máš prostě fixní délku u jednoho vektoru, kde je za-, zakódovaná celá ta vstupní věta.
+A na základě toho se potom, tu, tu pak používají ty dekodéry.
+A cíl tohodle článku je, ukázat, že pokud překládáš, pokud trénuješ překladač do více jazyků, tak je v tom enkodéru líp reprezentovaná syntax.
+(PERSON18) Aha?
+Hm.
+(PERSON11) Jo?
+Zkoušíš různě, zkoušíme různě prostě syntaktický probingy a to, co jsme dělali na attentionech a evalujem to a chceme ukázat, že prostě čím víc tam dáš jazyků, tím je to syntaktičtější.
+Protože prostě to musí bejt jazykově univerzální.
+(PERSON18) Hm.
+(PERSON11) Ten enkodér.
+No.
+(PERSON18) To je zajímavý.
+(PERSON11) No a teď, takže, eh, -
+(PERSON18) A to už někdo má před váma nebo?
+(PERSON11) Cože?
+(PERSON18) To jste první, kdo to?
+A jestli už tohle někdo našel před váma?
+(PERSON11) Nenašel.
+Nevíme vo tom.
+(PERSON18) Hm.
+(PERSON11) Nic jsme takovýho nenašli.
+No a vono to totiž není tak jednoduchý a ty výsledky nejsou úplně, úplně přímočarý.
+To je ten problém.
+Takže na transformeru děláme jednak self attention na enkodéru.
+Děláme podobný věci, jako jsme dělali s [PERSON18] na, jako balustrády.
+Jednak děláme, eh, SentEval, což je probing na všech, na všech, eh, na všech vrstvách.
+A jednak děláme syntactic probing, což je ten hevit moneing, eh, ten článek, jak, eh - 
+(PERSON18) Jak počítají ty dvě čísla?
+(PERSON11) Jak počítají ty dvě čísla, hloubku a vzdálenost.
+Jak probujou tydlety dvě čísla, a pak na základě toho sestavujou ten syntaktickej strom.
+Tyhlety tři věci děláme a výsledky dvou z nich jsou úplně, úplně na konci, úplně na straně pět.
+Tam vlevo jsou výsledky SentEvalu, který nejsou vůbec nic moc.
+Ty jednotlivý, eh, ty čísla, osa x je, eh, počet jazyků v dekodéru zprůměrovaný.
+(PERSON18) Hm.
+(PERSON11) Takže jeden jazyk, dva jazyky, tři jazyky, čtyři jazyky až pět jazyků.
+Ty jazyky jsme vybírali tak, aby byly co nejvodlišnější.
+Je tam, je tam čeština, finština, řečtina, italština a ještě něco, němčina.
+Takže postupně, jak rostou jazyky, tak je vidět, že něco je divný.
+Něco klesá a něco stoupá.
+(PERSON18) Jo.
+(PERSON11) Takže jako nic moc.
+Jo, vidíme, třeba, že když se hledá subjective, sub-, subjective number, tak to trošku, nebo ne, top constituent, to znamená, to je ten, to je ta fráze, která je ta hlavní v tý větě, tak ta, tam to třeba stoupá.
+(PERSON18) Hm.
+(PERSON11) Tam čím je víc jazyků, tím to líp umí probovat.
+(PERSON4) Vy to vidíte, ten paper?
+(PERSON11) Co?
+(PERSON18) Já na to teďka -
+(PERSON8) Musíš si kliknout na main tech a rekompilovat.
+Oni tam nemají zadanej hlavní soubor.
+(PERSON4) Jo, aha.
+(PERSON11) Jo, to je možný.
+(PERSON4) Ok.
+(PERSON18) Hm.
+(PERSON11) No, takže jako v to-, vlevo je Sent-, vlevo na straně pět je SentEval, tam jsou ty výsledky takový nic moc.
+(PERSON18) Hm.
+(PERSON11) A vpravo je, jsou self attentiony.
+A tam je vidět, že -
+Jo, ještě ty jednotlivý, tý jednotlivý čárky, ty barevný, jsou jednotlivý vrstvy.
+To tam ještě ne-, tam chybí legenda.
+Nebo někde tam legenda je.
+(PERSON18) Hm.
+(PERSON11) Tam dole u tohohle je legenda.
+(PERSON18) Dobře.
+(PERSON11) Tam je vidět, že -
+<laugh/>
+Že ta hnědá, což je ta poslední vrstva, na tý poslední vrstvě ta syntakticita trošku stoupá.
+Ale na těch vostatních vrstvách prostě to klesá.
+Nebo na těch spodních vrstvách to hodně klesá.
+(PERSON18) Takže to máte jako negative result, jo, že jste čekali, že to bude stoupat, ale ono to klesá?
+(PERSON11) Mělo to stoupat, ale stoupá to jenom málokdy.
+(PERSON18) Hm.
+(PERSON11) Stoupá to jenom u těch attentionů na pátý vrstvě, a pak to stoupá někde v tom, v nějakým jednom SentEvalu, ale jinak prostě transformer <unintelligible/>, proto je negative result.
+Transformer prostě to nějak nezvládá.
+Nebo nezvládá, prostě není moc syntaktickej.
+(PERSON18) Hm.
+(PERSON11) Nějak je to prostě -
+(PERSON18) Hm.
+(PERSON11) Jsou to -
+Jo, je tady, je tady teda aspoň vidět, že jako čím vyšší vrstva, tím je tam víc syntaxe.
+To je prostě vidět v těch grafech.
+(PERSON18) Jo.
+(PERSON11) Že prostě ta hnědá je dobře.
+No, ale zas ta modrá je -
+(PERSON18) No, tak to ale není jen tím, tím -
+Není to -
+(PERSON11) No, právě.
+Je to, je to divný.
+No, prostě transformer nic moc.
+Zatímco attention bridge, to je ten druhej, ta druhá architektura, tak tam je, jsou ty samý vobrázky na straně tři.
+(PERSON18) Hm.
+(PERSON11) A tam to je daleko lepší.
+(PERSON18) Jo.
+(PERSON11) Tam je vidět, že to krásně stoupá
+(PERSON18) Tam to krásně stoupá.
+(PERSON11) Kromě coordination inversion, což znamená, že, eh, to je nějakej divnej task, že, v SentEvalu, že, že prostě přehodíš koordinaci nebo nevím co.
+Tam to klesá, ale všechny ostatní, ještě tense je divnej, čas.
+Ale všechny vostatní ty tasky prostě se zlepšujou.
+Ty různý barvy jsou různý, různý dílky toho vektoru, různý počty attention heads, různý počty těch hlav.
+To je tam zase, čím je ta hlava, čím je, čím je víc hlav, tím je to lepší.
+Protože ta červená, to je nejvíc hlav.
+(PERSON18) Hm.
+(PERSON11) Ale, ale tam je důležitý, že vopravdu je ten výsledek, jak jsme chtěli, že to opravdu jako s počtem jazyků, to stoupá.
+Že vopravdu jako ty, ty množství těch dekódovacích jazyků -
+(PERSON18) Hm.
+(PERSON11) Prostě to vylepšujou.
+Vono to nestoupá moc, že jo, někdy to stoupá třeba na 77 až 78, ale někde je 77 až 85 třeba bigram shift nebo, nebo objektivka.
+(PERSON18) Vypadá to pěkně, no.
+(PERSON11) Někde to stoupá na 89.
+No, takže jako tohleto je pozitivní.
+A vono to jako, vono je to, vono to už psalo spousta článků před tím, že prostě transformer je na tu syntax divnej, ale, ale RNN, což todleto je vlastně bill stm a na tomhle je ten attention bridge, že jo?
+To je ta architektura.
+Tak tady to funguje daleko, daleko líp.
+A opravdu se ukazuje, že to, co jsme chtěli ukázat tady na tom teda.
+Jo.
+(PERSON18) Takže finding je prostě, že, eh, a funguje to i absolutně, je to obecně syntaktičtější ten, ten RNN?
+Nebo to jenom stoupá, ale jinak je to v průměru podobný?
+Mně to spíš přijde, že to jsou podobný čísla, akorát že ten transformer je jako takovej divnej a tady ten RNN jako stoupá?
+(PERSON11) Jo, to by chtělo porovnat.
+(PERSON18) No.
+(PERSON11) Bigram shift třeba tady je 80 až 83.
+Jako je to, je to, jsou to podobný čísla, no, ale -
+(PERSON18) Jo, takže to není přímo, že by to RNN přímo bylo syntaktičtější, ale že roste ta syntakticita toho RNN s těma jazykama.
+(PERSON11) Ros-, roste to, no.
+A jako je to, je to, ty čísla jsou někdy větší, no, když na to koukám tady.
+(PERSON18) Hm.
+(PERSON11) To by se mělo všechno ještě udělat, no, což nevím, jestli stihnem.
+Jo, třeba, jako třeba dýlka je daleko lepší v tom.
+Eh, tady je 66, 56 a 66, zatímco tady je.
+(PERSON18) Hm.
+(PERSON11) No, tady je jenom 59 až 61.
+No, tak -
+(PERSON18) Hm, hm, hm, hm.
+(PERSON4) No a možná ještě -
+(PERSON11) Co?
+(PERSON4) Takže z toho se dá říct, že jako k multilinguální generalizaci se po-, se použije syntax, jo?
+(PERSON18) V RNN.
+(PERSON4) V RNN.
+(PERSON11) Jo.
+(PERSON18) To je dobrý.
+Jo.
+(PERSON11) Ale pak jsme koukali ještě, jak ty hlavy zachycujou, protože ty hlavy, ty, jsou, tady v tý architektuře attention bridge, no, to by se možná mělo nazvat nějak líp.
+Oni koukaj na různý fráze v těch větách a takže další ještě jsme měřili to, jak, jak se ty fráze, na který koukaj, shodujou s frázema skutečnejma a to, to vůbec nic ne-, tam to vůbec nic nepřineslo.
+Tam to prostě je pořád, tam to je, prostě to jsou rovný čáry.
+Tam to je pořád stejný.
+(PERSON18) Hm.
+(PERSON11) Jo, a když měříme ble, tak to mírně, to klesá.
+Samozřejmě.
+Čím víc jazyků, čím víc jazyků, tím to, tím to víc klesá.
+Tím je horší ble, což je -
+(PERSON18) Hm.
+Ale na transformeru vám stouplo nejdřív?
+(PERSON11) Na transformeru nám nejdřív stouplo, ale tam by se to mělo zprůměrovat, tam to je možná špatně spočítaný, tam by se to mělo zprůměrovat přes všechny ty experimenty, který jsme dělali.
+Tady to je jen přes, přes nějaký.
+No a my to jako průměrujem přes všechny, hm, my různě ty jazyky kombinujem.
+My máme těch pět jazyků a pro třeba, pro, když máme dva jazyky v dekodéru, tak máme pět kombinací, aby tam každej jazyk byl zastoupenej stejněkrát a ty ble, a všechny ty skóre zprůměrujem, aby to jako, abysme opravdu měli průměrnou závislost počtu jazyků přibližně na, na jako těch věcí na počtu jazyků, tak.
+(PERSON18) Jo.
+Já v tom teďka vidím vlastně jinou věc.
+Ten transformer teda má jako lepší ty ble skóre a tolik neklesaj.
+Když, když se to, když se tam přidávaj jazyky, a ten jako se neučí víc tý syntaxe, zatímco to RNNko je jako slabší.
+(PERSON11) Hm.
+(PERSON18) A to ble skóre mu klesá víc, ale to se tu syntaxi učí.
+Takže to vypadá, že jako ten slabší model, prostě jako víc jako si pomůže tou nějakou abstrakcí syntaktickou.
+(PERSON11) Jo, jo.
+(PERSON18) Zatímco ten transformer je silnější model.
+(PERSON11) Hm.
+(PERSON18) A tak tu syntaxi jako tolik nepotřebuje na to, aby jako to.
+Máte třeba vodhad jako na kapacitu těch modelů?
+Jak moc má transformer třeba větší kapacitu, než nebo ty RNNka, nebo jestli je to podobný?
+(PERSON11) No, to by chtělo taky vysledovat.
+(PERSON18) Jako v nějakým parametru?
+(PERSON11) No.
+(PERSON18) Prostě pokud jako transformer má tisíckrát víc parametrů, no, tak si prostě zvládne zapamatovat ty jazyky zvlášť a nepotřebuje tady tu jako jazykově nezávislou abstrakci, že jo?
+(PERSON11) Jo.
+(PERSON18) Zatímco to RNNko má těch parametrů míň, a tak mu nezbyde, než prostě ty jazyky kódovat tak, že si tam udělá nějakou jazykově nezávislou abstrakci, aby se mu to vešlo do těch parametrů, co má.
+(PERSON11) Hm, jo.
+To je dobrý.
+To si musím někam napsat.
+(PERSON4) A nejsem si jistej, jestli počet parametrů je jako to, vono, že jo.
+Jako -
+(PERSON18) No, to je nějakej jako takovej -
+(PERSON4) No?
+(PERSON18) Prostě v principu chceš nějak zjistit sílu toho modelu nebo kapacitu toho modelu nebo tak.
+A ony ty parametry jsou něco jinýho dycky, ale aspoň jako -
+(PERSON11) Jo, jako samozřejmě, samozřejmě by bylo možný, kdyby ten transformer měl jako míň parametrů, že by si moh taky jako pomáhat různě tou syntaxí, že jo, spíš.
+(PERSON4) No.
+(PERSON11) Protože on, jestli je prostě to, tak robustní, že to nepotřebuje, tak proč by to -
+(PERSON18) No.
+(PERSON11) Proč by to dělal, že jo?
+(PERSON18) Kdyby jsi měl transformer, tak slabej, jako máš to RNNko, to znamená, že by měl ble skóre tady těch 30 a ne 37 -
+(PERSON4) Hm.
+(PERSON18) Tak třeba by pak dělal něco jinýho.
+(PERSON4) Hm.
+No, to by asi musel bejt naopak menší.
+<laugh/>
+(PERSON18) No, a pak by se do něj nevešlo pět jazyků a musel by si dělat nějaký abstrakce.
+(PERSON4) No, ale jako myslím si jako, že by musel mít míň, jako výrazně míň parametrů než to RNNko.
+Jak prostě to RNNko má ten <unintelligible/> na to, jak si jako předávat tu informaci a v tom transformeru všechno může týct křížem krážem.
+(PERSON18) Hm.
+(PERSON4) Tak ten počet parametrů jako tomu nevodpovídá.
+Chtělo by to spíš naštelovat, aby měli stejný ble.
+(PERSON18) Hm.
+Hm, hm, hm.
+No.
+No, no, no.
+(PERSON11) Jo.
+(PERSON8) Hele, já koukám tady na ten SentEval.
+(PERSON11) No?
+(PERSON8) A tady prostě některý ty tasky jsou dělaný tak, že se jenom rozlišujou dva typy vět, jedna originální a jedna nějak změněná.
+(PERSON11) Jo.
+(PERSON8) Například ten tense.
+A tak u toho dává smysl, když to ten model neumí predikovat, aby se to tak jako náhodně míchalo někde kolem 50 %.
+Což třeba tady v tom transformeru u toho času vám to tak vychází.
+No a ten podezřelej coordination inversion je přesně tendle případ, že tam by, jakoby když to neumíš a hádáš, tak bys měl mít 50 %.
+A tady ty vaše transformery, eh, v některejch vrstvách jdou až na 25 možná.
+Tak to jako vypadá, že to systematicky dělaj jako přesvědčivě blbě, což je fakt podezřelý, no.
+<laugh/>
+(PERSON18) No a není to třeba obráceně?
+Nemá to znamenat 70, těch 30?
+<laugh/>
+(PERSON11) Eh, já nevím.
+Todleto jsem nedělal, teda, tohleto jsem nedělal já ten SentEval.
+(PERSON18) Že zrovna ten výsledek <unintelligible/>, že jo.
+I u toho add bridge je to skoro jediný, co jde dolů, systematicky.
+No, zvlášť, jestli prostě tam natrénuješ něco, co bude vždycky říkat ano a budeš mít 50 %, tak je divný, aby to mělo míň.
+(PERSON4) <unintelligible/> prostě jeden skript, kterej pustíš a vono to udělá všechno, jo?
+(PERSON11) Ano.
+To je jeden skript, no.
+(PERSON18) No.
+No, jestli prostě to náhodou nemáš nějak otočený, no.
+Jmenuje se to inversion.
+<laugh/>
+(PERSON8) To ne, jakoby ty čísla tak, jak je to napsaný v tom paperu SentEvalovým, maj bejt, maj růst.
+I u toho coord in.
+(PERSON18) Ok.
+(PERSON8) A tady je fakt divný, že klesaj.
+<laugh/>
+(PERSON11) Hm.
+No.
+(PERSON8) To určitě nedává smysl.
+(PERSON11) Hm.
+Tak to budem muset ještě -
+No, vidím, že to na ACL nebude určitě.
+A voni si tady furt myslí, že bude, ale, a, no, nevím.
+My máme spousta výsledků, že jo.
+My jsme prostě vygenerovali šílený množství čísel, protože tam je jako strašně mož-, možnost- a ještě bysme jich spousta dalších potřebovali, že jo.
+Tam je strašně možností, co se na tom dá měřit.
+(PERSON18) Hm.
+(PERSON11) Ale teď nevím, jak to -
+(PERSON18) Ne, todle je dobrý jako -
+Akorát prostě není zřejmý, co to říká, no.
+Když prostě jeden ten model je silnější a neučí se syntax.
+Jako to se dá říct ale bez toho, aby člověk měl ty analýzy nějak víc do hloubky nebo porovnával porovnatelnější systémy, tak mi přijde, že ta interpretace, že je jako těžká.
+Že jako ty experimenty jsou jako zajímavý, má smysl to jako dělat, ale přijde mi, že nevíte, jako co se vlastně teda děje.
+Což by mě jako <unintelligible/>
+(PERSON11) Původní záměr byl, že jo, že jsme, původně jsme chtěli použít jenom transformer, že jo.
+(PERSON18) Hm.
+(PERSON11) Ale tam jednak u toho transformeru jsou, je několik divnejch věcí.
+Zaprvé, ten SentEval se musí tím, že transformer nemá jako fixní, fixní vektor, ze kterýho bysme ten SentEval dělali, tak se tam musí udělat mean pooling přes ty stavy.
+(PERSON4) No?
+(PERSON11) Což je, což je už samo o sobě divný, že jo.
+Prot-, jako mně přijde, že ten mean pooling to může dost zkazit.
+(PERSON4) <unintelligible/> co bych chtěl říct, no.
+(PERSON11) Jako, no, právě.
+Nic.
+Jako -
+<laugh/>
+Není.
+To je výhoda toho attention bridge, že prostě tam opravdu máš tu jednu reprezentaci, ze který můžeš dělat jako, co chceš, že jo.
+(PERSON18) Hm.
+(PERSON4) Hm.
+(PERSON11) Jako prostě je tam jenom jedna vždycky reprezentace, kterou vono to tam musí prostě, přes kterou vono to musí protlačit, a tím pádem na něj můžeš jako dělat ještě další věci.
+(PERSON18) No a ten attention bridge?
+(PERSON11) Takže vono to je další věc, že ten SentEval na tom, na tom transformeru může bejt tak, tak blbej, protože prostě jsme tam, jsme to mean poolovali.
+Jakmile se to mean pooluje, tak to prostě už to není vono.
+(PERSON4) To je asi pravda, to by chtělo -
+(PERSON18) A ten attention bridge by nešel dělat na tom transformeru?
+(PERSON4) Samozřejmě, že by šel.
+Ono -
+(PERSON11) Šel by dělat na tom transformeru.
+Samozřejmě, že můžeš mít transferovanej enkodér a na tom dát, na to, na to dát a att-, attention bridge, a pak, pak, ale ten dekodér by musel koukat jenom do toho.
+(PERSON18) No, no, no.
+(PERSON11) Jenom na to, no.
+(PERSON18) No.
+(PERSON4) Já bych to spíš udělal vobráceně.
+Udělal bych normální RNNko a podíval se, jestli to není tím mean poolingem.
+Jestli ten mean pooling něco nedělá -
+(PERSON11) Jo, jo, jo.
+To nás, to nás taky napadlo, ale už to asi ne -
+(PERSON18) Jo, že teda nebudu dělat mean pooling místo attention bridge.
+(PERSON11) Jo.
+A vono se to dá udělat i na tom attention bridgi, že jo?
+On se ten mean, von se nemusí vzít ten vektor, ten potom, ten společnej, ale může se vzít prostě z toho RNNka, že jo, ta reprezentace a mean poolovat ji.
+Úplně stejně.
+Takže se ani ne, může se vzít ten samej překladač, ale, ta samá architektura, jenom to vzít z jinýho místa.
+Prostě nekoukat se na výstup toho, těch attentionů, ale na vstup.
+Jo, prostě, na to, na to, na ty LSTMko, no.
+No.
+(PERSON18) Dobrý, já musím běžet na další meeting.
+(PERSON11) Jo.
+Tak jo.
+Tak to, tak to asi ukončíme, něco jsme si řekli.
+Dva články vypadají nadějně.
+(PERSON18) Hm.
+<laugh/>
+(PERSON11) A, no, já uvidím, co uděláme tady s tím, no, protože vono na short paper se to, je toho hrozně moc.
+(PERSON18) Hm.
+A přitom málo.
+(PERSON11) A přitom málo, ano.
+<laugh/>
+(PERSON18) A tam ten, ten, co máme s tím [PERSON15] ten článek, ten vám přijde na ten short akorát, jo?
+(PERSON11) Jo.
+(PERSON4) Ten mi přijde na short akorát.
+(PERSON11) Mně přijde dobrej.
+(PERSON4) Ale víte, co.
+Já napíšu long paper, až teprve bude, budu mít něco, co bude měnit svět.
+<laugh/>
+(PERSON18) Hm, hm, hm.
+(PERSON11) Tak já jsem teda taky to chtěl původně napsat jako short, ale já prostě nevím, co, nebo jako jestli z toho vyzobnout jenom, jenom prostě tu, jenom, kde to vyšlo dobře?
+Jestli z toho vyzobnout jenom ten attention bridge a prostě, hm.
+(PERSON18) Hele, kluci, dík, já běžím.
+(PERSON4) Jo.
+Tak měj se.
+Čau.
+(PERSON18) Čau.
+(PERSON8) Čau.
+(PERSON4) No, já bych z toho ten attention bridge nevyzobával, protože mi, jako to není architektura, která se používá, že jo.
+(PERSON11) No, jasně, no.
+Tak ale je to architektura, která jediná, která má ten.
+(PERSON4) No.
+(PERSON11) No, jasně, no, je to architektura jenom pro, pro něco, že jo, když chceš -
+No, zase na tom transformeru to nevychází, že jo, moc.
+(PERSON4) No, nevím, no.
+<laugh/>
+Kdo je ten, kdo si zpívá?
+(PERSON8) Já tady koukám na ty tabulky a vydávám u toho takový udivený zvuky, protože -
+(PERSON11) Na jaký tabulky?
+(PERSON8) Ale tady na tabulky ve článku k SentEvalu, ze kterejch podle mě prostě jasně plyne, že ti tam nemůže vycházet míň než 50 %.
+<laugh/>
+(PERSON11) No a to je věc, kterou já jsem, já jsem akorát spustil skripty a vygeneroval jsem ty, ty čísla, no, ty, ty, jako obrázky.
+To dělal, no, to je vtipný, že ještě tohleto dělal jeden kolega, kterýmu tady skončil úvazek a stěhuje se do, do toho, do Kanady.
+(PERSON4) Hm.
+(PERSON8) Hm.
+(PERSON11) Takže teďka nějak je doma a nevím, jestli na tom vůbec bude něco dělat.
+<laugh/>
+(PERSON8) Hm.
+No, tak tohleto bych zkontroloval, protože, protože vlastně, abys měl míň než 50 %, tak bys musel natrénovat tu regresi, a pak jí dát úplně vobrácený data na testování.
+(PERSON11) Jako tady to je divný, no.
+To je, to je hodně divný, jestli to, jestli to vopravdu jenom jako rozhoduje ze dvou vět.
+Dobře.
+Tak já to všechno tady to vyřeším a uvidíme, co s tím uděláme, no.
+(PERSON4) No.
+Hm.
+(PERSON8) No.
+Nebo zrovna tak tady ten tense, jakoby neměl účel u toho -
+(PERSON11) Tense je to samý, jo?
+(PERSON8) Jo.
+U toho attention bridge by taky neměl si myslím bejt takhle výrazně pod 50.
+Jo, tam u toho, u toho transformera to vod voka dává smysl ten čas, jakože jestli vo něm v tom, že jo, v tý reprezentaci nejsou žádný data, no, tak by to mělo vycházet kolem 50 a mělo by to bejt víceméně náhodný, což by todle bejt mohlo.
+(PERSON11) Hm.
+(PERSON8) Ale, ale tady nahoře na tý třetí straně je to taky nějak jako průměrně dost pod 50.
+(PERSON11) Hm, tak ono je to podobně náhodný, tam je vše podobný jako.
+Tak je to někde pod někde nad, ale tady je to spíš pod, no.
+No, jo.
+(PERSON8) Ale hlavně jako nejdivnější je ten coordination inversion u toho transformera.
+(PERSON11) Hm, ten jo.
+(PERSON8) Protože ten prostě jde systematicky dolů, což by se nemělo dít.
+(PERSON11) Jako mělo by to být nejmíň 50?
+Je to tak?
+(PERSON8) Jo.
+(PERSON11) Nejmíň kolem 50.
+(PERSON8) Hm.
+(PERSON11) To bych se musel podívat do těch SentEvalích těch -
+(PERSON4) Tak to bude nějaká divná -
+(PERSON11) Na jiný <unintelligible/>, kde používají ten SentEval?
+(PERSON4) To se nepouští zvlášť ten SentEval.
+To se tam prostě napere a vono se to děje všechno samo.
+(PERSON11) Vono se to všechno vygeneruje, no, všechny ty čísla.
+(PERSON8) Hmm, tak možná jsou ty data fakt divný no.
+Ale přece vono, aby, jestli tomu správně rozumím tady z toho článku, tak ten SentEval si na tom prostě natrénuje logistickou regresi.
+(PERSON11) No.
+(PERSON8) Předpokládám, že ten SentEval sám si ty data, co mu dáš, rozdělí na nějakej.
+(PERSON11) Jo.
+(PERSON8) Trein set a test set.
+(PERSON11) Jo.
+(PERSON8) No.
+(PERSON11) Jo.
+(PERSON8) No, takže to by znamenalo, že jo, že von, von jako v tom náhodným rozdělení na trein set a test set si musí vytvořit nějaký trein set, kterej, ze kterýho se to jako systematicky naučí.
+(PERSON11) Jo.
+(PERSON8) Nějak.
+(PERSON11) Blbě.
+(PERSON8) A pak tam na tom test setu to bude úplně vobráceně.
+(PERSON11) Jo.
+Jo.
+Já tomu jako rozumím.
+Jako jo.
+Jako -
+(PERSON8) To prostě se nějak nedalo předvídat, že jo, tak ta logistická regrese se prostě naučí říkat pořád, ano, a bude mít 50 %.
+(PERSON11) Hm, jasně.
+(PERSON8) A bude ty data ignorovat.
+A vono tady místo toho jako systematicky klesá, ten.
+(PERSON11) Hm.
+Tak, no, dobrý.
+Tak to já, já to zjistím.
+(PERSON4) Tak jo, já už musím jít.
+(PERSON11) Jo, a nevím -
+Jo, jo, tak se měj, čau.
+(PERSON4) Čau, čau.
+(PERSON8) Čau.
+(PERSON11) Čau.
+(PERSON8) Čau.
+(PERSON11) Čau.
+<laugh/>
+Tak už končíme ale.
+Takže teda ten článek, eh, nebo zkus vygenerovat ty výsledky aspoň a uvidíme, co s tím potom.
+(PERSON8) Zkusím vygenerovat výsledky.
+Možná začnu něco psát.
+Asi se to nenapíše do pondělí, ale tento článek se neztratí.
+(PERSON11) No, to, ale jako určitě se to neztratí, no, takže, takže pak se to, pak se to, pak si to rozmyslíme, kam, kam, kam to, kam se to pošle.
+(PERSON8) Já bych to směřoval k tomu SRV asi.
+(PERSON11) No.
+Jo, to, to by šlo.
+SRV je na začátku března nebo něco takovýho?
+(PERSON8) Jo.
+(PERSON11) Deadline?
+(PERSON8) No.
+(PERSON11) Jo, tak to už bys moh mít spousta dalších věcí udělanejch, jo.
+(PERSON8) A vono, že jo.
+Von je tam ještě nějakej ten mentoring k tomu, vo kterej se žádá někdy v lednu, takže je dobrý  třeba v únoru už mít ten článek napsanej.
+(PERSON11) Jo, hm.
+(PERSON8) Toto si myslím, že snad do února se z toho něco vyklube.
+Pokud se z toho nic nevyklube do pondělí.
+(PERSON11) Jo.
+Tak jo.
+<censored/>
+(PERSON8) No, tak -
+<laugh/>
+(PERSON11) Tak to jsem zvědav.
+<censored/>
+<censored/>
+<laugh/>
+(PERSON8) Jo.
+(PERSON11) Takže nevím, jestli o víkendu vůbec budu, stihnu dělat něco jinýho, no, ale -
+Takže, tak jo, tak mi potom, potom v pondělí, já v pondělí normálně přijdu na [ORGANIZATION1], takže, takže, takže to můžem pořešit.
+(PERSON8) No, tak já -
+Já v pondělí teda taky přijdu na [ORGANIZATION1], i když tam asi nebudu mít kde sedět, ale, no.
+(PERSON11) Jo.
+No, já tam asi taky nebudu mít, kde sedět.
+Hm.
+(PERSON8) Uvidíme.
+(PERSON11) No, tak -
+(PERSON8) Tak čau.
+Jo.
+(PERSON11) Čau.
+Měj se.
+(PERSON8) Čau.

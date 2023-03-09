@@ -1,0 +1,37 @@
+Zápis ze schůzky
+
+Datum schůzky: 31.3.2020
+
+Téma: Schůzka projektu [OTHER1]
+Vedoucí schůzky: [PERSON6]
+Účastníci: [PERSON6], [PERSON13], [PERSON8], [PERSON17]
+
+
+Zápis:
+
+- Sekce kontextové embeddingy: multilingualita: bude v knize;
+- Článek Designing and intrepreting probes with control tasks: probing: vloženo do Zotera: možná inspirace;
+- Calling: přesunuto: konání za tři měsíce v Barceloně;
+- EMNLP: bude se konat pravděpodobně virtuálně: 8.7. začátek author response period: deadline za měsíc;
+- 11. duben: začátek anonymity period na EMNLP
+        - Vložit vyhotovené články na Archive před začátkem anonymity period;
+- Black box: konání 15. července;
+- ACL: bude se konat pravděpodobně virtuálně;
+- Author response: konání 8.7.;
+- Abstract submission: konání 5.6.;
+- Paper submission: konání 12.6.;
+- Nejbližší deadline: abstrakty na TSD;
+- Embeddingy: nutno začít procházet článek a psát na čisto: deadline příští čtvrtek: v pátek vložení na Archive;
+- Přenahrát a přejmenovat článek: poté v submissionu uvést oba dva články;
+- Word element: přepsáno na základě připomínek z minulé schůzky: zkopírované věci z dizertace: nutno důkladně profiltrovat;
+- Attentiony: zatím pouze úvod: vloženy poznámky;
+- Návrh rozepsat kapitoly a podkapitoly;
+- Do příštího pondělí každý napíše alespoň dvě až tři stránky textu;
+- 22.4.: deadline na celou knihu;
+
+
+
+
+
+
+Zapsala: [ANNOTATOR1]

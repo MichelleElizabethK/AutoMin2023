@@ -1,0 +1,25 @@
+Schůzka [ORGANIZATION17], 2020-06-03
+
+Přítomni: [PERSON34], [PERSON37], [PERSON21], [PERSON8], [PERSON6], [PERSON15], [PERSON27], [PERSON33], [PERSON36], [PERSON22], [PERSON33], [PERSON1], [PERSON34], [PERSON7], [PERSON12]
+
+Na schůzce bylo řešeno:
+
+- příští týden už bude schůzka normálně v zasedačce
+- připomínky k práci home office bude probírat v pátek porada vedení
+- byl obdržen návrh doc. [PERSON11] na řešení [PROJECT10], do čtvrtka k němu napíše připomínky [PERSON15] a [PERSON27]
+- [PERSON21] doplní mapu známých záměrů na parkování
+- proběhlo jednání o [PROJECT3], zatím nejsou známy jeho výsledky
+- [PROJECT6] se bude projednávat mezi panem [PERSON26] a památkáři
+- napsat zpětnou vazbu na prezentaci studie [PROJECT14]
+- čeká se na podklady od dopraváků na [PROJECT19], uskuteční se výrobní výbor ohledně tramvaje a jejího okolí
+- je potřeba stále evidovat a nahlásit jednání, kde je více jak deset lidí
+- u Vackova by bylo vhodné, aby byl [ORGANIZATION17] neutrální
+- [PROJECT5] v Horních Počernicích se ještě řeší, proběhne ještě osobní jednání
+- 9. 6. v 11 hodin bude schůzka s panem architektem [PERSON19] kvůli [PROJECT4]
+- úpravy na [PROJECT12] bude procházet [PERSON22] a pošle to specialistům, zřejmě tam nebude žádný problém
+- [PERSON1] finišuje s koncepčním zadáním studie [PROJECT1] pro [ORGANIZATION13]
+- [PERSON34] se půjde podívat na [PROJECT20] a něco tam nafotí
+- příští týden bude oslava [PERSON12] na terase
+- na závěr schůzky proběhla prezentace studie [PROJECT14]
+
+Zápis sepsala: [ANNOTATOR2]

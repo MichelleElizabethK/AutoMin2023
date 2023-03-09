@@ -1,0 +1,42 @@
+ Zápis ze schůzky
+
+Datum schůzky: 25.2.2020
+
+Téma: Schůzka projektu [OTHER2]
+Vedoucí schůzky: [PERSON22]
+Účastníci: [PERSON22], [PERSON18], [PERSON15], [PERSON21]
+
+
+Zápis:
+
+- Surveye – pokročeno, přečteno 10, 15 článků: kontextové embeddingy: zjištěno několik oblastí nepokrytých surveyema
+        - Třeba vysurveyovat neurolanguage models, a poté modely na kontextové embeddingy: rozlišit poznámkou;
+- Sentence embeddingy: zatím nepoužity;
+- Attentiony: nelze rozdělit na morfologii, syntax, apod.
+        - Návrh vytvořit příběh: neuvádět pouze výčet;
+- Zkoumané úlohy: návrh na rozdělení: nejdříve popsat různé úlohy: poté popsat jak jsou zkoumány;
+- GPT: návrh popsat v příběhu;
+- Word2vec: tematizovat jako začátek paradigmatické změny v NLP: začátek dense features;
+- LSTM: prozatím ponechat;
+- Debiasing: napsat: poté případně přieditovat;
+- Introduction - samostatný příběh;
+- Struktura knihy: kniha bude sestavena z vlastních i cizích výzkumů: rozdělit do příběhů
+        - Návrh provést výběr pouze zajímavých příběhů a vyjádřit se k nim: nebude obsaženo vše;
+- Rozlišovat technologické a interpretační články: technologické chronologicky;
+- 4 a půl kapitoly: word element, attentiony, kontextové embeddingy, introduction: potenciální kapitola appendix;
+        
+- Deadline: 14. Března;
+- Rovnice: povoleny jednoduché rovnice: rovnice nejsou nutné, jestliže je vše jasné z textu a ilustrací;
+- Obrazový materiál: použít co nejvíce: dle možností část vygenerovat, zbytek citovat;
+- Bibliografie: nutno přesunout ze Zotera do BibTechu: zadáno: další články přidávat do Zotera;
+- Do příštího meetingu rozpracovat příběhy, vytvořit osnovu: začít je psát do knížky
+        - Deadline na úrovni sekcí a podsekcí;
+- Příští meeting: 3. března v 11 hodin.
+
+
+
+
+
+
+
+Zapsala: [ANNOTATOR1]

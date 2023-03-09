@@ -1,0 +1,47 @@
+Meeting 20. 4, 2020:
+- [URL] 
+- [URL]
+- PIN: 1234
+- Attendance:
+- [PERSON17], [PERSON14], [PERSON4], [PERSON15], [PERSON5], [PERSON8], [PERSON10] 
+- Administrativa
+- Vyplnili jste všichni timesheety? (deadline byl konec dubna)
+- období: (01/2019 - 03/2020)	
+- [URL1]
+- Deliverables:
+- [URL3]
+- TNTranslation:
+- (Task 3.4, nbest list navigation)+ 
+- [PERSON4] zprovoznil backend
+- docasne pouziva EN parafrazovaci model z Improved-Parabank-rewritera, ktory bezi nad [ORGANIZATION2] - prave [ORGANIZATION2] umoznuje (pos a neg) constrained decoding
+- nenasiel som zatial ziadne prekladove modely pre [ORGANIZATION2] - asi budeme musiet natrenovat vlastne (alebo pouzit [PROJECT1], ak je [PERSON6] rozsirenie dostatocne funkcne a stabilne, vid. tabulka dolu)
+- Public [URL2]
+
+MT framework	Server live	MT model	Constr. decoding
+[PROJECT2]	✗	✓	✗
+[PROJECT1]	✓	✓	✗ (asi v [PERSON6] branchi)
+[ORGANIZATION2]	✓	✗	✓
+
+- [OTHER2] 2:
+- caka sa na weak_cs model a QE
+- weak_cs model live
+- [PERSON4] pripravil pre [PERSON8] virtualny stroj, kde ho moze rozbehat (zatial sme dohodnuti, ze do 26.4)
+- model natrenovany [PERSON8] pouziva [PROJECT2] - serverovo ho riesil uz [PERSON1] s [PERSON12] a napisal nam kucharku
+- otazka, ci nebude jednoduchsie natrenovat na tych [PERSON8] random-5M datach [ORGANIZATION2] model, ktory mame serverovo nasadeny hned (vid. tabulka hore)
+- QE
+-	
+- [ORGANIZATION4] na nom pracuje. Na dokoncenie potrebuju “couple of weeks” ([PERSON13], 7.4.2020)
+- poziadali nas ([PERSON13] + [PERSON3] z [ORGANIZATION1]), ci by sme neurobili anotacie kvality prekladov [OTHER2] stimulov do cestiny
+- ja som zohnal 6-8 anotatorov (6 bude stacit, ale 8 bude vzdy lepsie ak ich mame z coho zaplatit)
+- teraz akurat [PERSON3] poslala guidelines a anotacne prostredie, ktore rozposlem anotatoromparafrazovanie
+- [PERSON2] som od meetingu v [ORGANIZATION1] vobec nekontaktoval a neukoloval, ale asi by ho chcelo nejak vyuzit
+- rozbehanu ParaBank parafrazovaciu servisu (vid. hore) mozme vyuzit ako alternativny sposob parafrazovania a vlozit to ako jednu z ponuk parafrazovacieho modulu - a potom sa moze skumat, ktory je lepsi na zaklade prekryvu ponukanych moznosti a uzivatelskeho vstupu
+- ked pride [ORGANIZATION4] s QE ako istym druhom source complexity, mozme oznacene komplexne slova vyuzit ako negative constraints pre parafrazovac
+- [PERSON15]: Nasadili jsme nový. Ale je kvalitativně stejný.
+- Paraphrases for multi-source MT
+- [PERSON4] na nich bohuzial nestihol robit, ale tento tyzden uz snad pusti aspon to generovanie parafrazi k CzEngu
+- [PERSON4] zbezne cital clanok o Improved ParaBank parafrazovaci, kde s nim robili experimenty aj v MT (asi iba augmented data) - zapisat do zdielaneho Zotero adresara
+- Lost in Backtranslation
+- mozete to prosim v rychlosti v calle zhrnut, aby sme vedeli, v akom je to stave? ([PERSON4] si to moze potom podrobne precitat aj v mailoch, ktore mu chodia, ale brief overview by bodol aj ostatnym)
+- [PERSON15]: Pracujeme na tom s [PERSON8], ale stále nic nemáme.
+

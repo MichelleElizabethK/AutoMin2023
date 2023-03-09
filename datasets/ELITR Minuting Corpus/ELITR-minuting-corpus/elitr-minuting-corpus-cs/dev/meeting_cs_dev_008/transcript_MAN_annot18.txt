@@ -1,0 +1,1371 @@
+(PERSON10) Tak to nebyl [PERSON14].
+Hm.
+(PERSON15) Tak už tam nejsem sám, už je tam nahrávátko.
+<laugh/>
+(PERSON10) No, vidiš to.
+Měl sis povídat s nahrávátkem.
+Ty jo, tady je docela dost.
+No, máš to.
+Je tady někdo přítomen.
+Online <unintelligible/>.
+(PERSON9) Zdar, kucí.
+(PERSON15) A, slyším [PERSON9].
+(PERSON10) Čau.
+(PERSON15) No a vidím [PERSON9], no.
+Čau.
+(PERSON9) Čau.
+(PERSON15) Slyšíš nás?
+(PERSON9) Co jsi říkal?
+<laugh/>
+(PERSON10) Ptal jsem se, jestli náš slyšíš.
+(PERSON9) Jo.
+Tak to jsem neslyšel, ale teď už slyším.
+<laugh/>
+(PERSON10) Jak tam šahá tím prstem.
+(PERSON15) Hm.
+(PERSON10) No.
+No, tak o čem si budeme dneska povídat?
+Můžeme se podívat na to, co [PERSON9] tam udělal.
+Tys, tys tam akorát zkopíroval tu svoji kapitolu z dizertace nebos tam dělal něco víc?
+(PERSON9) Hm.
+No, z vašeho pohledu jsem tam jenom zkopíroval kapitolu z dizertace, ze svýho pohledu jsem tam ještě přepsal asi tři odstavce a něco jsem z toho smazal.
+<laugh/>
+(PERSON10) Počkej, tak se na to můžem podívat.
+Eh, máš tam, ty máš na tom [ORGANIZATION6] to pdfko?
+(PERSON9) Eh, nedal jsem na [ORGANIZATION6] pdf.
+(PERSON10) To by se tam asi nemělo dávat, no.
+<laugh/>
+(PERSON15) Hm.
+(PERSON10) Já ho mám tady vygenerovaný, ale já si ho tady nezobrazím.
+(PERSON15) Hele, [OTHER2] book.
+Já to zkusím u sebe, jestli to dopadne lépe.
+Teď jsem to pulnul a teď mám říct co?
+Máme tam ňákej link?
+(PERSON10) Teď tam dej link.
+(PERSON15) Tak už to něco dělá.
+<laugh/>
+(PERSON9) A já, teď já tady na tom počítači to zase nemám naklonovaný.
+(PERSON15) Hm.
+Mně to tady říká ignored.
+<laugh/>
+(PERSON10) Jo, dej, to jsem vodignoroval todlecto.
+To vod-, vodskákej.
+Tady píše se i end, a když jsem řek end, tak mi to stejně už hledalo.
+Jo, přesně tak.
+(PERSON15) Anebo to mám prostě říct nahlas, end!
+<laugh/>
+End.
+(PERSON10) No, tak teď už to, zobrazíš si to?
+Máš to?
+Mně nějak zase přestalo fungovat displejovátko.
+(PERSON15) Tak, teď se něco stalo.
+(PERSON10) Máš to tam.
+(PERSON15) Hele, ňáká kniha.
+(PERSON10) Co je OOO?
+<laugh/>
+(PERSON15) To mám ňáký ty, otvírací shortcuty.
+Hele, <unintelligible/>.
+(PERSON9) Tak jo.
+(PERSON10) Ne, to je lorem ipsum.
+Dej face, <unintelligible/>.
+(PERSON15) Tady to už?
+(PERSON10) Jo, to je vono.
+Jo, já s tím budu -
+Hele, to je <unintelligible/>.
+(PERSON15) Hm.
+[ORGANIZATION10].
+(PERSON10) Hm.
+(PERSON15) Jo, to už jsem někdy asi viděl tady ty věci.
+<laugh/>
+(PERSON9) No, já vím, že ty, tys je čet, [PERSON15].
+(PERSON15) No, jo, ale už je to dlouho.
+<laugh/>
+(PERSON9) No, ještě to tady kompiluju.
+A koukám, že jsem tam nedal reference.
+(PERSON15) Hm.
+Jsou tam takový votazníčky, no.
+(PERSON10) Self attented networks.
+(PERSON15) A to velký Q je hrozně pěkný tady v tom fontu.
+<laugh/>
+Myslím tady to s tím.
+(PERSON10) S tou vlnovkou dole.
+(PERSON15) Takovej jako -
+(PERSON10) Jo.
+Dojdeš i k transformeru?
+<unintelligible/> decoding.
+Aha, to už je asi, ne, to ještě není transformer.
+(PERSON15) No, to už, to už, no, něco takovýho transformerovitýho, ale co to bylo?
+(PERSON10) Hele, tady to vypadá jako?
+(PERSON15) Jo, tendle obrázek se tam evidentně nevejde.
+<laugh/>
+(PERSON9) A -
+(PERSON10) Musíme udělat velkou knížku A4.
+(PERSON9) To já lehce předělám.
+No, vono je to totiž jako strukturovaný tak, že nejdřív, nejdřív jako, nejdřív popíšu, že máme ty diskrétní vstupy, ty dis-, ty diskrétní vstupy chceme nějak embeddovat.
+(PERSON15) Hm.
+(PERSON9) A, pak, pak řikám a teď máme ty, teď máme nějaký jako embeddovaný vstupy a co s tím dál, tak tam řeknu, že můžeme buď rekurentní sítě, konvoluční sítě, který bych možná vyhodil, protože ste -
+(PERSON10) Jestli tam nebude nic, tak to spíš vyhodíme.
+(PERSON9) Protože -
+(PERSON15) Jestli tam nebude nic vo nich.
+(PERSON9) No.
+A zrovna v těch, u těch konvolučních sítí vysvětluju, proč je důležitá rail normalizace a -
+(PERSON15) A konvoluční sítě asi budou, ne?
+Takovej ten sentiment, tos, tos, to si dělal něco s konvolučníma sítěma, ne?
+(PERSON9) To je pravda.
+To jsem dělal, no.
+(PERSON15) No, ty tam asi zůstanou.
+(PERSON9) No, a, a pak tam popíšu, jak vypadaj ty self, self attentiv sítě, a pak je jakoby střih.
+A pak řikám, a pak teď z tý sítě víceméně nějaký jsou, tak jako co můžeme dělat.
+Buď můžeme tam dát nějaký clasifire, eh, anebo, nebo můžeme dělat nějaký sequent labeling, anebo, nebo nejtěžší kalibr je autoregresivní decoding.
+(PERSON10) Jo.
+(PERSON9) A teď samozřejmě jako problém tohodle postupu vyprávění je, že attention se objevuje, eh, attention se objevuje, že jo, poprvý v těch dekodérech, a že to jako nepasuje historicky, že se nejdřív, že tam nejdřív vysvětluju ty self attentiv sítě.
+(PERSON15) Hm.
+(PERSON9) A pak se dozvíme, že ten attention z těch self attentiv sítí se ale původně vzal vod někud úplně vod jinud.
+(PERSON15) A to asi se nějak asi nic rozumnýho nedělalo předtím, co by jako ten attention dělalo, ale ne pro výstup.
+(PERSON9) No.
+(PERSON15) Jakože bych v principu moh prostě mít jako clasifire, kterej dělá sentiment a udělá si jako jenom jeden attention, v kterým si vybere, na co se chce podívat.
+Takže to by bylo v podstatě attention v enkodéru.
+Ale to se asi nedělalo nikdy.
+(PERSON9) To se, to se dělalo, ale, ale až potom, co to bylo v tom dekodéru.
+(PERSON15) Hm.
+(PERSON9) No, to je prostě vynález <unintelligible/> 2015 ten attention, a pak se jako narval úplně všude.
+Mimochodem je to taky pomalu, pomalu, jediná věc, která vznikla, nebo, eh, vznikla v NLP a dostala se v tom depardingu někam jinam.
+(PERSON15) Hm.
+(PERSON9) Jinak je to vždycky o práci.
+Někde si to vymyslej kluci z [OTHER3] a my to začneme používat.
+<laugh/>
+(PERSON15) Hm, hm, hm.
+Jo, tak to je prostě word alignment.
+To jsme měli připravený předem, no.
+(PERSON9) No.
+(PERSON15) Já nevím, jak moc to vadí?
+(PERSON9) Ale vymazal s-
+(PERSON15) Ale asi to nevadí.
+(PERSON9) No.
+(PERSON15) Mně to nevadí.
+(PERSON10) Já bych to asi zatím takhle nechal a že, pak uvidíme, co tam budem mít za tím, a případně až potom bych to nějak upravoval.
+Asi nemá smysl se nad tím teďka, hm.
+(PERSON9) No.
+A, eh, další problém toho textu je, že je tam z prostředka vystřižená kapitola vo computer vision.
+(PERSON15) A to si komplet vyhodil teďka?
+(PERSON9) Tu jsem komplet vyhodil, ale jako, no, můžu ji tam vrátit a zkrátit.
+A jako, že jo, tak důvod, proč ji mám v dizertaci je jasnej, protože ta dizertace byla o těch <unintelligible/> věcech, ale z hlediska toho, toho, tý story, se tam hodí proto, že v tom, v tom visionu jako proběhly ty, proběhly ty zásadní, ty, ty zásadní změny a objevy.
+(PERSON15) Jako pro naše účely je asi celkem jedno, vodkud ty vobjevy jsou.
+Pokud nebudeme dělat nějaký věci, který přímo s tím [OTHER3] něco dělaj.
+(PERSON10) Počkej, teď myslíš konkrétně co?
+Co tam bylo za vobjedy, za vobjevy v tom [OTHER3], v tom?
+Nebo konvoluční sítě?
+(PERSON15) Třeba.
+(PERSON9) Třeba.
+Ale jako takový ty věci jako droppout.
+(PERSON10) Jo, aha.
+(PERSON9) Eh, eh ty aktivační funkce, že potřebuješ relu, aby si neměl ve venesing radion, residual connections.
+Tyhle všechny věci jsou, tyhle věci jsou z [OTHER3].
+(PERSON10) Hm.
+(PERSON15) A já si myslím, že je tam asi chceme mít, ale asi je nám jedno, že jsou z [OTHER3].
+Že nás to asi zajímá jako vobecnej mechanismus.
+(PERSON10) Já bych to tam taky zbytečně, zbytečně ne-
+(PERSON15) Nebo já nevím, co z toho jako nás dovopravdy zajímá?
+(PERSON10) Hlavně -
+(PERSON15) Ale s tím, jak je podrobně zpracovaný vlastně to, co tam je, tak asi by bylo fér tam aspoň jako zmínit věci jako droppout.
+Ale nevím, jestli je zro-, jako konkrétně nějaká tady z těch věcí je pro nás vlastně nějak klíčová.
+(PERSON10) No, to záleží jako, na jakým stupni, eh, popular-, populárnosti tý knihy my skončíme.
+(PERSON9) No.
+(PERSON10) Abysme tam, že jo, abys tam teďka nepřidával nějaký složitý definice, když potom zjistíme, že je tam vlastně nepotřebujem.
+(PERSON9) Ale je určitě na místě připomínka.
+(PERSON10) Cože?
+(PERSON15) Co?
+(PERSON9) No, že je to jako, eh, že je to jako na místě přípomínka todle to a, no, nevím, no.
+A pak, a taky nevím třeba ty, ale asi ty rekurentní sítě by asi tam měly bejt, všechny ty rovnice a -
+(PERSON15) Jo, to jo.
+(PERSON15) Jako rozhodně tam musí bejt všecko, k čemu se budeme chtít někde nějak vodkázat.
+Takže třeba prostě, protože přímo rejpáme do attentionu, no, tak attentiony tam rozhodně musej bejt vysvětlený pořádně, že jo, self attentiony myslím.
+Normální attentiony možná až tak nerejpeme.
+Takže v tomhle tom smyslu jako to je jeden, jeden způsob, jak se podívat na to, který věci tam musíme pořádně popsat.
+(PERSON9) Jasně.
+(PERSON10) Jako jo, celej transformer, rekurentní sítě tam taky, že jo, ale vono, jako vono nevadí, když tam budou ty vzorečky.
+Vono jako, pokud to bude rozu-, srozumitelný i bez nich a budou tam pro ty fajnšmekry, tak jako to nevadí.
+(PERSON9) No.
+(PERSON10) Spíš jsme se ještě pořádně pořád nerozmysleli, jako -
+<laugh/>
+(PERSON15) Hm.
+(PERSON10) Kdo bude ten cílovej.
+Jsme říkali [PERSON8], no.
+<laugh/>
+(PERSON15) Hm.
+(PERSON10) A [PERSON2].
+<laugh/>
+Kdo bude ten cílovej trávník.
+<laugh/>
+Ale k tomu asi nějak dokonvergujem, že jo.
+(PERSON9) Hm.
+(PERSON10) Až prostě budem mít ten vobsah, co tam přesně chceme mít a vo čem povídat.
+Což doufám, že budem mít tam, nevím, za měsíc.
+(PERSON15) Hm.
+(PERSON10) Jsme si stanovili ten deadline.
+(PERSON15) Takže v tudle chvíli bysme mohli aspoň na vhodný místo toho intra dát nějaký jako tudů, tady možná chceme tohle, a pak se někdy zamyslet, jestli to tam fakt chceme anebo na to zatím úplně kašlat a napsat to až potom?
+(PERSON9) Hm.
+(PERSON15) Jako aspoň je dob-, jako teďka máme tu znalost toho, co tam chybí nebo, nebo co tomu jako po-, potenciálně chybí, to by bylo dobrý nezapomenout, že to tam není.
+(PERSON10) Jako, když tak, no, možná tam dopaš -
+(PERSON9) No?
+(PERSON10) Dopiš tam jenom poznámky, co tam chybí určitě, pokud, pokud tam chybí droppout a, a já nevím, nějaký takovýdle věci a my potom, když budem vymejšlet vobsah těch, no, nějaký podrobnější obsah těch dalších kapitol, tak my budem todleto vidět, že jo.
+A budem se moct na tohle vodkazovat.
+(PERSON9) Hm.
+(PERSON10) A budem, potom budem vědět, co sme -
+(PERSON9) Hm.
+(PERSON10) Co tam chybí a co tam je navíc nebo co tam být nemusí.
+(PERSON9) Jasně.
+Hm.
+Eh, tak jo.
+Eh, jestli je to všechno k vobsahu?
+Já to plá-, já to plánuju teď celý přečíst a projít.
+A zkonzistentnit, aby tam nebyly ty vodkazy ty na ty věty, co tam nejsou.
+Vodkazy do budoucnosti dizertace, která tam není, a tak.
+Eh.
+(PERSON10) Jo.
+(PERSON9) Pak, eh, pak nějaký technický věci.
+Zkopíroval jsem to tam včetně package, kterej jsem používal na, na zkratky.
+(PERSON15) Hm.
+A jak se to používá?
+Někde z nějakýho filu definuješ zkratky, a pak je používáš?
+(PERSON9) Jo.
+Někde si v nějakým filu definuješ zkratky, a pak, eh, a pro každou zkratku máš ňákej klíč, eh, a pak zavo -
+(PERSON15) Jo, a pak tam píšeš jen ten klíč.
+(PERSON9) A pak tam píšeš gls a ten klíč a jsou u toho nějaký varianty jako g, gls s velkým G znamená, že seš na začátku věty a chceš to případně kapitalizovat a -
+(PERSON15) Jo.
+(PERSON9) A gls pl je, že ti to z toho udělá plurál.
+(PERSON15) Jo, to jsem, to jsem používal někdy někde.
+To mi přijde dobrý.
+Nebyl jsem si jistej, jestli to víc práci přidělává nebo šetří, ale přišlo mi to, že je to tak na stejno, ale -
+<laugh/>
+(PERSON10) Já vždycky, já mám práh těchhle těch vychytávek daleko níž, takže já, já to začínám používat až, až když to fakt musím tupě nebo často předělávat.
+(PERSON15) No.
+(PERSON9) Hm.
+(PERSON15) Protože většinu času to znamená, že prostě místo, aby si napsal RNN, tak napíšeš gls RNN a to je jediná jako změna.
+<laugh/>
+(PERSON9) No, jasně, no.
+(PERSON15) Což nevypadá jako zlepšení.
+(PERSON10) No, dobře, pak když to přejmenováváš, tak je to jednodušší, že jo.
+(PERSON15) Hm.
+(PERSON10) No, tak nenapíšeš %S/RNN/.
+(PERSON15) Hm, hm, hm.
+(PERSON10) A to se ti potom změní v něco jinýho.
+(PERSON15) A tady je, co, ty to máš jako nějaký pak vodkazy na definice, jo?
+Nebo něco?
+(PERSON9) Jo.
+Jo, můžou tam bejt, můžou tam bejt -
+Jo.
+(PERSON10) To je tady.
+(PERSON9) Můžou tam bejt i definice.
+(PERSON15) Hm.
+Takže <unintelligible/> -
+(PERSON9) <unintelligible/> platný, platný prostě seznam zkratek s definicema.
+Nebo dokonce i -
+(PERSON10) A ty zkratky jsou teda ty modrý věci, jo?
+(PERSON9) Jo.
+Ty zkratky jsou ty modrý věci.
+(PERSON10) Jo.
+(PERSON9) A když se správně nastaví <unintelligible/> tak nebudou modrý, že jo.
+(PERSON10) No.
+Jasně, jasně.
+(PERSON15) Hm, hm, hm, hm.
+<laugh/>
+(PERSON10) Tak to by nám editoři upravili.
+(PERSON15) Hm, hm, hm, hm, hm.
+No.
+(PERSON9) Eh -
+(PERSON15) No, asi, asi jo, to asi chceme, no.
+(PERSON9) No.
+Ale dá se to používat nejenom, nejenom na ty zkratky.
+Ty prostě k tomu klíči jako nemusíš mít zadefinovanou tu zkratku i, a, a, a vypíše ti to tam ten pojem.
+Buď v jednotným čísle nebo v tom plurálu.
+(PERSON15) Můžem to používat obecně na pojmy.
+(PERSON9) A může to pak obecně dělat nějakej rejstřík.
+(PERSON15) Hm, jakože prostě třeba attention bysme taky psali tady tím způsobem a -
+(PERSON9) Jo.
+(PERSON15) Tak by si -
+(PERSON10) Zrovna se nám potom může vygenerovat rejstřík, který v těch knížkách bejvaj, že jo.
+(PERSON15) Hm.
+(PERSON10) Rejstříky, kde bude, no a k attention na stranách -
+(PERSON15) Hm, hm, hm.
+(PERSON10) Na všech stranách knihy kromě stran -
+<laugh/>
+(PERSON9) No.
+(PERSON15) A jak používáš ty klíče?
+Já jsem jako klíče prostě používal to, co chci, aby se tam dovopravdy napsalo.
+<laugh/>
+(PERSON9) No, samozřejmě, to já taky.
+<laugh/>
+(PERSON15) Akorát vobčas, když to bylo něco strašně dlouhýho, tak jsem si to nějak zkrátil.
+<laugh/>
+Což nevím, jak často tam něco takovýho budeme mít.
+(PERSON9) No.
+(PERSON15) Třeba kontext show embeddings, na to asi nemáme zkratku a to bysme mohli třeba jako nějak zkrátit.
+<laugh/>
+(PERSON9) No.
+<laugh/>
+(PERSON15) A pak to má aspoň nějakou výhodu, že člověk nemusí psát ty dlouhý věci furt dokola.
+(PERSON9) No.
+(PERSON15) A nevýhodu, že člověk neví, co z toho tam má tak, jak se to píše, a co z toho tam má v nějaký zkratce.
+<laugh/>
+(PERSON10) Pak, pak když si to necháš zkontrolovat [OTHER4], tak [OTHER4] se na tom vyseká.
+(PERSON15) No, samozřejmě, no.
+<laugh/>
+(PERSON10) A vono se vyseká i na RNN, takže vono je to asi jedno.
+<laugh/>
+Ještě [PERSON14] měl včera, ještě včera měl v tezích všude milion, milion language modelů, protože si to nechal přeložit transformerem do češtiny, a tak mu to [OTHER4] ne to, nevopravilo.
+<laugh/>
+(PERSON9) Bože.
+<laugh/>
+(PERSON10) No, snad už to vodevzdal bez toho, bez těch neuronů.
+<laugh/>
+Tak jo, já jsem si myslel, že budem dneska už debatovat vo těch surveích, ale vzhledem k tomu, že [PERSON15] nemá nic, já mám asi pět článků, eh, zatím jako bych si ještě potřeboval přečíst aspoň dalších deset, abych z, na ten můj moh udělat nějakej závěr.
+A [PERSON14] to sice tam vy to, vy-, vypsal, ale zase tam nemá skoro žádný podrobnosti a navíc tady není.
+(PERSON9) Hm.
+(PERSON10) Tak jsem si spíš řek, že se dneska teda určitě sejdem hlavně kvůli tomu, abysme si nějak našli nějaký způsob, jak se dokopat k tomu, abysme na tom pracovali.
+<laugh/>
+Deadliny, deadline je v pátek a, což vlastně pro [PERSON9] není, [PERSON9] už vlastně splnil to, co měl, ale, ale von tu bude tenhle ten problém pořád, že jo.
+Všichni mají strašně, strašně moc práce a -
+(PERSON15) No, tak já to mám nárazově, no.
+Teď třeba to nárazově je ten [OTHER1] a příští tejden asi nárazově začne semestr.
+<laugh/>
+(PERSON10) No, právě, příští tejden.
+<laugh/>
+Takže na deadlinech bych lpěl, ale nevím, jakej udělat trest pro toho, kdo to nesplní.
+<laugh/>
+(PERSON15) Nahlásíš ho [PERSON7] a bude muset dělat [OTHER1].
+<laugh/>
+(PERSON10) No, tak to ty stejně budeš muset dělat.
+(PERSON9) No, jo, ale to je, to, to je kontraproduktivní, že jo?
+<laugh/>
+Pak bude dělat [OTHER1] a nebude -
+<laugh/>
+(PERSON15) No, ale není to <unintelligible/>, no.
+(PERSON9) Tím tuplem psát.
+<laugh/>
+(PERSON10) Já se podívám, jak máme ty deadliny naplánovaný.
+(PERSON15) A teďka je na Valentýna.
+(PERSON10) Na Valentýna, a pak je tam za měsíc, že jo?
+(PERSON15) Pak je na Mezinárodní den žen myslím.
+(PERSON10) A to je za měsíc.
+<laugh/>
+To je 12. března, ne?
+Jo?
+Je to tak?
+(PERSON15) No, tak nějak.
+(PERSON10) Ne, [OTHER2] deadlines to není.
+<laugh/>
+To nejsou ty deadliny.
+<laugh/>
+[OTHER2] schůzky, že jo.
+(PERSON15) Já nevím, kde jsou.
+(PERSON10) Tam byly ty deadliny.
+(PERSON15) Jo, milníky.
+(PERSON10) Milníky, no.
+Do 14. 2., Valentýn.
+(PERSON15) Aha.
+(PERSON10) Překlopit věci z dizertace a udělat surveye.
+Pod tím si představuju vopravdu jakoby všechny články, který k tomu jsou, si přečíst a, a shrnout, co, co je pro to relevantní.
+Aby my sme měli aspoň každej povědomí o tom, co všechno se v tý oblasti udělalo.
+A plán knihy 14.3., a to už by mělo bejt vopravdu jako plán, kde by byly rozepsaný kapitoly a co v nich přibližně bude, abysme věděli co, jak ty surveye a ty naše práce prostě překlopíme do toho.
+(PERSON15) Hm.
+(PERSON10) A už budeme vědět přesně, co potřeb-, už budeme vědět přesně, co budem potřebovat i v tom intru vod [PERSON9].
+(PERSON15) Hm.
+Takže plán na úrovni nějakejch sekcí, podsekcí.
+(PERSON10) Plán na úrovni, jo.
+Na úrovni sekcí, podsekcí.
+A, no, tak si to nějak představuju.
+(PERSON15) Hm.
+(PERSON10) Ne.
+Jo.
+S tím, že tam, jako už abysme už věděli, co tam, vo čem tam přesně budem psát a jaký budou ty výsledky a prostě nějak překlopit ty surveye a ty naše věci všechny, co jsme udělali, do tý, do toho, do tý osnovy knihy.
+No, to je osnova knihy spíš.
+<laugh/>
+Takže teďka v pátek bude deadline.
+To zkontroluju, že to všichni mají.
+<laugh/>
+Jestli to někdo mít nebude, tak, tak to řeknu [PERSON7].
+<laugh/>
+A až přijedu, z, z prázdnin, což bude za, za čtrnáct dní, tak uděláme meeting a tam bysme se už opravdu bavili vo tom, co, začali řešit, co, jak to, jak to dáme dohromady tu, tu osnovu.
+A budeme mít na to pak ještě čtrnáct dní, než -
+(PERSON9) Čtrnáct dní, než co?
+(PERSON15) Než je Den pí.
+(PERSON10) Než je Den pí a to je deadline na osnovu.
+Ale jako to myslím opravdu podrobnou osnovu, jakože už, jako že tam budou nejenom názvy sekcí, ale už abysme věděli, co v těch sekcích, jaký budou závěry a prostě překlopíme ty surveye, všechny ty naše sloupečky a všech-, a všechny naše papery tam někam.
+(PERSON9) Hm.
+(PERSON10) A takhle bych si to představoval za těch čtrná-, eh, toho 14. 3.
+A pak tady máme první verze textu 22. 4.
+To je jenom měsíc na to, abysme napsali ty texty k tomu.
+(PERSON15) A vono, když už tam máš napsaný -
+(PERSON9) A tak zase -
+(PERSON15) Vo čem to má bejt.
+(PERSON10) A když to budem vědět, vo čem to, vo čem to máme psát, tak už -
+(PERSON9) To je Den Země mimochodem.
+<laugh/>
+(PERSON15) Ano.
+(PERSON10) No, to tady máme napsáno.
+Den Země.
+Máme Valentýna, Den pí, Den Země a, a po-, potom celá knížka hotová na Den dětí.
+<laugh/>
+To je 1. 6.
+(PERSON15) Což je dobrý, to je aby jsi si pamatoval, kdy ty deadliny jsou, že jo.
+<laugh/>
+(PERSON10) Akorát s tím Den, Dnem pí jsme měli -
+(PERSON9) V kterým je to dokumentu?
+(PERSON10) Je to v [OTHER2] schůzky.
+A je to v tý schůzce, jak jsi vodešel dřív a my sme potom řešili ty deadliny.
+(PERSON15) 21. 1.
+(PERSON9) Jo, jo, jo, jo, jo.
+<laugh/>
+(PERSON10) Jenže já asi tejden před Dnem dětí vod-, vodlítám do Finska přibližně zase, takže by bylo dobrý, aby to bylo nějak hotový, a pak to -
+(PERSON15) A letíš co, na tři měsíce?
+(PERSON10) Ne, jenom na měsíc, jenom na měsíc.
+Takže přiletím a budem muset odeslat tu knížku už -
+(PERSON15) Hm.
+(PERSON10) Recenzentům, takže -
+(PERSON9) A knížka se musí vodevzdat recenzentům kdy?
+(PERSON10) Eh, na konci června.
+(PERSON9) Jo.
+(PERSON10) Na konci června by měla bejt prostě v <unintelligible/> odeslanej, odeslanej a nevím, jestli si se musej shánět ty recenzenti nebo jestli jsou, asi se musí sehnat i recenzenti, no.
+Ale to asi někoho seženem.
+Jsem si řekl, že to -
+(PERSON15) Tak [PERSON8] a [PERSON2], že jo.
+<laugh/>
+(PERSON10) To je pravda.
+Pro ty to je.
+Ještě se musím zeptat, jak to, jak to chodí, protože zatím jsem čet jenom ty informace z toho, z toho, co je na [ORGANIZATION9] books, na, na webu, ale, eh, mělo by to bejt do konce června.
+Vono když to nebude, tak se tam pak bude muset posouvat na grantu [ORGANIZATION1], eh, plnění.
+Já bych rád, aby to bylo -
+(PERSON9) Jasně.
+(PERSON10) Hotový.
+Myslím si, že, uvidíme, jak to bude obsahově, myslím, ty jsi, že jo, ty máš ten, kolik jsi udělal stránek?
+Už 30?
+Ne, 36.
+Počkej, co?
+To je 89 stránek tady to?
+(PERSON15) Co?
+No.
+(PERSON9) No, to jsou ty loremy ipsumy všechno.
+(PERSON10) No, něco jsou loremy ipsumy, ale, eh, počkej, kde to začíná?
+Myslím -
+(PERSON15) A hele, tady todle to je to, co tam dal [PERSON9] teďka, že jo.
+(PERSON10) To je vod pěti.
+Jo.
+Vod pěti do dva-, do 33?
+(PERSON15) No, nějak 28 stránek už máme asi.
+(PERSON10) Já teď nevidím ty, jo, no.
+<laugh/>
+Zhruba 28 stránek, to je -
+(PERSON15) Počkej, co je tam těch deset stránek, totoc?
+<laugh/>
+Jo, deset stránek vo generování outputu?
+(PERSON10) Hm.
+(PERSON15) No, asi jo.
+(PERSON10) Jo, tam jsou ještě obrázky.
+(PERSON15) Tam jsou ještě obrázky.
+Tady je znova introduction.
+<laugh/>
+(PERSON10) Tak to, že jo, to může bejt tak -
+(PERSON15) Hm, hm, hm.
+(PERSON10) Jestli tohleto bude tak čtvrtina knihy, tak to už máme 100 stránek.
+<laugh/>
+No, uvidíme, jak -
+(PERSON9) A -
+(PERSON10) No?
+(PERSON9) Ještě k vobrázkům mám dotaz.
+Eh, bude to barevný ta knížka, nebo ne?
+(PERSON10) To se musím zeptat.
+Já jsem teď psal, že předpokládám, že tam, že tam budou barevný stránky.
+(PERSON9) Hm.
+(PERSON10) Voni akorát na, na těch stránkách [ORGANIZATION9] knih psali, že jsou vždycky černobílý ty knížky, protože barevnej tisk stojí strašně moc peněz.
+A nevím, co, čím, jako čemu voni říkají strašně moc peněz, že ta knížka bude čtyřikrát dražší nebo dvakrát nebo -
+(PERSON9) Hm.
+(PERSON10) Co to znamená.
+Takže to se musím taky zeptat někoho.
+(PERSON9) Jo.
+(PERSON10) Kdo to, kdo to má na starosti.
+Tak to já zase vznesu požadavky, to se -
+(PERSON9) Ale tak všechny, všechny ty moje schémátka asi můžou bejt černobílý.
+(PERSON10) No, předpokládám, že potom tam třeba barvičky chtít budeme a, asi ne-
+(PERSON9) No, jasně.
+(PERSON10) Já nevím, jestli bude problém prostě mít barevný jenom nějaký stránky.
+To asi voni nějak zvládnou udělat snad, nebo -
+(PERSON15) Pokud my zvládneme, aby byly barevný fakt jenom ňáký stránky, že nebudou ty -
+(PERSON10) Pokud to zvládneme my.
+Ano.
+(PERSON15) Pokud ty hyperrefy nebudou modrý.
+<laugh/>
+(PERSON10) Tak budou modrý jenom pak na těch barevných stránkách.
+<laugh/>
+(PERSON15) No.
+(PERSON10) Aspoň, že nebudou šedivý.
+<laugh/>
+To, tam, to nějak zvládnem a tos, to dělaj editoři, že jo, todle.
+To my neděláme.
+(PERSON15) Ale já už jsem to někdy zvládnul.
+(PERSON10) No.
+Já myslím, že, že se to dá zvládnout.
+A já se prostě zeptám na tu cenu, já jsem si na to vyhradil víc než, víc než, eh, by stála černobílá dvou set stránková kniha nebo co, takže uvidíme.
+Ale určitě bych se nerad jako omezoval v těch obrázcích a peníze na to máme.
+Uvidíme, jak, jestli někdo poletí do Dominikánský republiky nebo -
+(PERSON15) Hm.
+(PERSON10) Nebo prostě do Ameriky, ale pokud -
+(PERSON15) No, to se už nějak brzo něco dozvíme, ne?
+(PERSON10) No, teďka 12. budou ty, eh, -
+(PERSON9) Recenze, zejtra.
+(PERSON10) Recenze.
+Bez, bez bodování teda, ale z toho se dá leccos asi, leccos zjistit.
+No, a pak předpokládám, že ty články nakonec skončí na [PROJECT6] tady.
+<laugh/>
+Ale v tom, v tý Dominikánský republice, že jo?
+(PERSON15) Jo.
+A to je jako dobrý, že to je jako ten win win.
+Buď nám to vemou na [ORGANIZATION8] anebo nám to vemou do Dominikánský republiky.
+<laugh/>
+(PERSON10) No a -
+Jo,  až na to, že z toho zaplatím jenom jednoho.
+<laugh/>
+Z celýho, z celýho grantu [ORGANIZATION1] na tenhlecten rok si myslím, že zaplatím jednu Dominikánskou republiku a -
+(PERSON15) Hm.
+(PERSON10) No, tak vostatní pojedou z [OTHER1].
+(PERSON15) No.
+<laugh/>
+Na [OTHER1] jsem, ale nevím, jestli tam ještě budu nebo nebudu.
+(PERSON10) Tam nejsem, tam nejsem jenom já, ale já zase tolik do Dominikánský republiky jezdit nepotřebuju.
+(PERSON15) A [PERSON9], kdo ví, kde bude a kdo ví, na jakejch penězích?
+<laugh/>
+(PERSON9) No, zatím to spíš vypadá, že v [ORGANIZATION4] nebudu.
+(PERSON15) Hm.
+(PERSON10) Jakto?
+Tě nechtějí, nebo ty nechceš?
+(PERSON9) No, protože mě nechtěj.
+(PERSON15) Hm.
+(PERSON9) A -
+(PERSON10) A kde dělaj?
+(PERSON9) V Berlíně.
+A v Berlíně mě nechtěj a psal jsem nějakej proposal na visiting researchera, a tak tam mi napsali, že mě nechtěj.
+A pak jsem dostal nějakej naprosto náhodnej mail, vod, vod [PERSON6], že si všiml, že jsem, že jsem chtěl do Berlína a jestli mi nebude vadit, když si ten můj proposal přečte?
+<laugh/>
+Tak jsem mu napsal, že mi to vadit nebude, ale, ale [PERSON6] je v Kali-, je v Kalifornii a tam se mi nechce.
+<laugh/>
+(PERSON15) Hm.
+No, tak von se, to, na to se neptal, ne?
+<laugh/>
+(PERSON9) Na to se neptal, no.
+<laugh/>
+(PERSON10) No, jo, takže -
+(PERSON9) No a ten projekt, na kterým jsem tady v Mnichově je do konce, do konce roku a nevím, jak dlouho tady, jestli tady budu jenom do září, kdy mi končí smlouva, nebo tu budu do konce toho projektu.
+(PERSON10) Jo, takže je nějaká šance, že se tady zase objevíš, jo?
+Někdy v říjnu?
+(PERSON9) Jo, nějaká šance je, no.
+(PERSON10) No, tak my budeme rádi.
+<laugh/>
+Eh, -
+(PERSON9) No, kníž-, knížka už bude napsaná.
+(PERSON15) Hm.
+(PERSON10) Knížka už bude.
+Knížka, už bude napsaná teď.
+(PERSON15) Jo a my už budem přestěhovaný do [LOCATION1].
+(PERSON10) Já jsem si řek, že teďka už chci jenom -
+<laugh/>
+Že budu jenom učit a psát knížku teďka.
+<laugh/>
+Ale nevím, jestli se mi to vyplní.
+Protože vždycky to, vždycky se něco vyskyt-, vy to, vykopne.
+Eh, tak, takže tu knížku asi, budeme pracovat, my budeme pracovat na těch surveích a, a -
+(PERSON9) Hm.
+(PERSON10) A za 14 dní bysme se sešli u, a každej by už měl pohovořit o tom, co všechno zjistil a, a jaká by, jaká přibližně by měla bejt struktura toho jeho, nebo já pořád nevím, jestli to, jak to rozdělit tu knížku, jestli vopravdu podle těch, jak jsme si to rozdělili teďka podle toho, co se v těch architekturách jako dělá.
+(PERSON9) Hm.
+(PERSON10) Jestli se zkoumaj attentiony nebo se dělá probing, nebo, nebo vlastně ne, my jsme si to teď rozdělili podle, no.
+Nevím, jestli to bylo nejlepší ro-, rozdělení, kontextový embeddingy, slovní embeddingy a attentiony.
+(PERSON15) Tak nějak se to rozdělit musí, no.
+<laugh/>
+(PERSON9) No.
+(PERSON10) Protože -
+(PERSON15) Žádný rozdělení není dobrý, tak -
+(PERSON10) Jako těch slovních embeddingů je podle mě je hrozně moc.
+<laugh/>
+(PERSON15) Já ještě nevím.
+(PERSON10) Protože na mě to leze všude z těch attentionů taky.
+<laugh/>
+Protože všichni dělají ty kontextový, nevím, jak ty.
+(PERSON9) Hm.
+(PERSON10) No, prostě nějak si to rozdělíme a uvidíme.
+To, prostě vod toho, vod toho je tahleta schůzka, a potom případně od toho bude -
+(PERSON15) Hm.
+(PERSON10) Ta schůzka za 14 dní, abysme věděli, abysme věděli, co, co nám chybí, co nám chybí ještě.
+(PERSON9) A do těch, do těch <unintelligible/> je nějaký konkrétní čas domluvenej?
+(PERSON10) Není.
+(PERSON15) Hm.
+Ne, ale můžeme asi ne?
+(PERSON10) Můžeme ho domluvit teďka.
+(PERSON15) Já si tady vodevřu svoje kalendář.
+(PERSON10) Já teda ještě pořád nevím, kdy budu učit, protože jsem si to, protože ten můj předmět furt není rozvrženej, protože se na něj zapomnělo, ale -
+(PERSON15) Aha.
+A ten máš centrální?
+(PERSON10) Cože?
+(PERSON15) Jestli ho máš centrálně rozvrhovanej?
+(PERSON10) Nemám.
+(PERSON15) Tak to si prostě napíšeš [PERSON12], ne?
+(PERSON10) No, já si napíšu [PERSON12], ale já jsem chtěl nejdřív vypsat doodle, když už mám těch 12 nebo 13 studentů, což jsem vůbec nečekal, že tam budu mít.
+(PERSON15) Hm, hm, hm.
+(PERSON10) Tak jim asi napíšu doodle, ať si napíšou, kdy chtějí, a potom to napíšu [PERSON12].
+(PERSON15) My máme furt ale jednoho.
+<laugh/>
+(PERSON10) Ale zatím už to máte rozvržený zase.
+(PERSON15) No, to jo.
+<laugh/>
+(PERSON10) To se mě dneska ptal [PERSON17], jako kdy, jestli se to bude učit, nebo ne.
+(PERSON15) Hm, hm, hm.
+My tam máme toho, toho jednoho, co to, co, co u mě chce dělat tu diplomku.
+(PERSON10) Hele a já, kdybych, já, kdybych nebyl v povinně volitelných předmětech na IUI, nevím, jak jsem se tam dostal, tak bych měl taky jednoho nebo dva.
+(PERSON15) Hm.
+(PERSON10) No, takže pří-, může to bejt, radši bych dřív, radši bych zase třeba ve tři nebo ve dvě nebo -
+(PERSON9) Mně je to asi, je to 25. to budu <unintelligible/>
+(PERSON10) Jo, von bude masopust vlastně.
+Počkej von bude masopust v únoru v úterý.
+(PERSON15) Tedy já tady mám nějaký Břevnovský masopust, což nevím, jestli je ten, co tě zajímá.
+(PERSON10) Počkej, ne, ne, ne.
+Ve školce bude masopust.
+<laugh/>
+To jsem slíbil, že půjdu na masopust vodpoledne.
+(PERSON15) Hm.
+(PERSON10) Takže by bylo dobrý, kdyby to bylo dopoledne.
+<laugh/>
+Nebo těsně, těsně po vobědě.
+(PERSON15) To asi můžem, třeba v 11?
+(PERSON10) Můžem.
+Klidně můžem.
+(PERSON9) Můžem v 11.
+(PERSON15) 25. v 11?
+(PERSON10) Jo, sice, no, jo.
+(PERSON15) Nebo ještě dřív?
+(PERSON10) Uvidíme, jak, jak, otázka je, jak dlouho to, nám to bude trvat, ale, eh, to jsem nechtěl.
+(PERSON9) Není to Vítěznej únor?
+(PERSON15) To nevím.
+(PERSON10) Vítěznej únor byl v únoru?
+<laugh/>
+To já nikdy nevím.
+<laugh/>
+(PERSON9) No, samozřejmě, že tam byl.
+To jenom v Rusku jsou ty věci jindy, než jsou.
+(PERSON10) No, právě.
+(PERSON15) No, právě.
+(PERSON10) Tak, kdy že to je, dvacátýho?
+(PERSON15) 25.
+(PERSON10) 20.
+<laugh/>
+25. 2. v -
+(PERSON15) V 11.
+(PERSON10) V 11.
+(PERSON15) [PERSON14] nám stejně určitě řekne, že jde na nějakou divnou přednášku.
+(PERSON10) A, no, ne, má tady bejt.
+A otázka bude, jak jsou na tom surveye?
+<laugh/>
+(PERSON15) Hm.
+A dnešní, ten tam radši nemáme.
+<laugh/>
+(PERSON10) Dnešní den tam radši nemáme.
+(PERSON9) No, 25. 2. byl Vítěznej únor.
+<laugh/>
+(PERSON15) Tak to tam můžeš dopsat.
+<laugh/>
+(PERSON10) Jsou tam ňáký velký písmenka?
+(PERSON9) Nevím.
+(PERSON15) V.
+<laugh/>
+(PERSON10) Tak jo, to je super.
+(PERSON9) Vítězný únor píšou na wikipedii s velkým V.
+Únorový puč píšou s malým u.
+<laugh/>
+(PERSON15) Hm.
+(PERSON10) Tak jo.
+Tak ještě můžem, co ten článek?
+(PERSON15) Tam ty ženský?
+(PERSON10) Ty ženský.
+(PERSON15) No, k tomu jsem se nedostal, no.
+<laugh/>
+Ale vím o něm.
+Ale nedostal jsem se k tomu, abych s ním cokoliv udělal.
+(PERSON10) Já chápu, že teď, no, že teď je, je spousta jinejch věcí, který se musí dělat, ale musíme, jo, my máme prioritu tu knížku, a pak musíme -
+(PERSON15) Hm.
+(PERSON10) Si mys-, myslím si, že na [PROJECT2] se dá vždycky něco poslat.
+(PERSON15) Hm, hm, hm.
+(PERSON10) Až bude ten čas, tak budem mít něco minimálně čas, já nevím, jestli se může zase překrejvat knížka a článek v časopisu.
+(PERSON15) Asi může.
+(PERSON10) Ale na [PROJECT2] se dá poslat i nějaká část surveye, že jo?
+(PERSON15) Hm.
+Já už jsem zapomněl, co jsme chtěli s tím článkem dělat.
+Vím, že jsme na něj koukali.
+A nevím, jestli jsme se rozhodli, co s ním?
+Se můžu podívat, jestli z toho mám nějaký poznámky.
+(PERSON9) No, hlavně -
+(PERSON10) No, otázka je -
+(PERSON9) No, hlavně jste říkali nějak, dopsat jste říkali, ne?
+<laugh/>
+(PERSON15) Asi, no.
+Ale jestli už víme co.
+(PERSON10) Hele, vono by to bylo, bylo by dobrý v rámci surveye udělat survey, jestli někdo teda dělal něco v tomhlectom smyslu ještě dál, protože tam jsou furt jenom ty dvě ženský. 
+A to patří pod, to patří pod kontextový embeddingy, že jo?
+<laugh/>
+Asi hlavně.
+(PERSON15) Jo, no.
+Hm.
+Nevím, kam mi zmizely ty poznámky.
+Nevím.
+<laugh/>
+(PERSON9) A jak se to, no -
+Jak se -
+Jo, tady.
+Auto vocabulary evaluation se to jmenuje, co?
+(PERSON10) Jo, oov evaluation, jo.
+To je v tom a tam je spousta poznámek v tom [PROJECT7].
+(PERSON9) Tam je spousta poznámek.
+Třeba si něco, na něco vzpomenu, když se na něco podívám.
+Hm.
+(PERSON15) Hm.
+(PERSON10) No, to spíš by podle mě chtělo si naplánovat nějakej deadline a čas před tím, kdy, kdy bysme to dodělali.
+Deadliny jsou jedny na začátku března, a pak jsou na začátku dubna.
+Calling je na zač-
+(PERSON9) A co je za deadliny na začátku března?
+(PERSON10) Eh, jo, aha, to jsou [PERSON14], to je [ORGANIZATION8], [ORGANIZATION5] a to je [ORGANIZATION11], ale to je spíš, no, to si myslím, že to bude spíš ve [PROJECT4], a pak je calling na zač-, od 8. -
+(PERSON9) No.
+(PERSON10) Od 8. dubna a [PROJECT1] 10. dubna.
+Což to [PROJECT1] by se hodilo, kdyby ten článek byl na houby a-
+<laugh/>
+(PERSON10) Kdyby se, kdyby se nám ten článek nelíbil, no.
+Protože je, protože je v tom, v [OTHER5].
+(PERSON9) Ve [PROJECT4].
+(PERSON10) Hm.
+Ve [PROJECT4].
+A my ještě potřebujem mít jeden článek ve [PROJECT4]-, eh, aspoň ve [PROJECT4], tak -
+A, ale to je i [PROJECT8], že jo.
+(PERSON15) Jo, jo.
+Teďka bylo call for workshop, takže se to asi rozhoupe.
+(PERSON10) Takže jako když tak se může něco poslat na [PROJECT8], abysme uspokojili grant [ORGANIZATION1] a, a pak se to bude moct poslat -
+(PERSON9) Jo, jo, jo, udělat radost [PERSON13].
+(PERSON15) Cože?
+(PERSON9) Udělali radost [PERSON13].
+(PERSON15) No, to jo, to von bude mít radost.
+To von už mě prosil, jestli bysme něco poslali.
+<laugh/>
+Aby tam asi nebyl sám.
+<laugh/>
+(PERSON10) Tak vono to bude v rámci toho [PROJECT8], že jo, tak prostě bude, někdy vystoupí von před něčím nebo po něčem asi, ale, no.
+Ale to je, taky jako docela, zase já nechci zase jako plejtvat silama, abysme poslali článek na [PROJECT8], no, ale -
+(PERSON15) Hm.
+(PERSON10) Nevím, co s tím.
+Protože, že jo, v tom grantu [ORGANIZATION1] pak budou mít problém v tom, že jsme nesplnili plán.
+(PERSON15) Hm.
+Na 120 %.
+(PERSON10) No.
+<laugh/>
+(PERSON9) Hm.
+(PERSON10) Hm a třeba, no, když vony ty workshopy nejsou někdy ve [PROJECT4], že jo?
+Když se objeví něco ve [PROJECT4], tak je to hlavní konference a ještě dva roky potom.
+(PERSON9) No, když -
+(PERSON10) Když [ORGANIZATION8] nebo calling -
+(PERSON9) No.
+(PERSON10) Nebo něco.
+Jsem chtěl taky poslat něco na cycling, ale to je taky, to je něco jako [PROJECT1], ještě horší.
+(PERSON15) Hm.
+(PERSON10) Jestli, jestli bude.
+Jestli to ještě vůbec funguje.
+A to zase bejvá na zajímavejch místech.
+(PERSON15) Hm.
+(PERSON10) Indie.
+<laugh/>
+(PERSON15) Tentatively early May.
+<laugh/>
+(PERSON10) A kdy je deadline?
+(PERSON15) Se ještě neví, kdy to bude, a bude to v květnu.
+<laugh/>
+Ten je dobrý.
+(PERSON10) A kdy je deadline?
+(PERSON15) To je tentatively, no, tam asi nic není zatím.
+<laugh/>
+(PERSON10) Počkej tentatively, to je přece konference ne, kdy bude?
+(PERSON15) No.
+(PERSON10) A to není -
+(PERSON15) No.
+(PERSON10) Deadline.
+(PERSON15) Konference bude předběžně early May.
+(PERSON10) No, tak to, to mu pošliš, to mu pošleš chvilku před tím a von to, von najde rychle recenzenty, přijme to, a pak ti to hned, pak ti to vydá v tom, eh, v [PROJECT5].
+<laugh/>
+(PERSON15) A myslíš, že zatím čeká, jestli někdo něco pošle?
+(PERSON10) A bude to hotový.
+(PERSON15) Jestli bude vůbec dělat konferenci?
+(PERSON10) No, tak prostě to je taky úplně, to.
+Ale to je zase, no.
+(PERSON15) To aspoň [PROJECT8] je levnější.
+(PERSON10) No, právě [PROJECT8] je levnější a vyjde to nastejno.
+(PERSON15) Hm.
+(PERSON10) Sice bude mít míň účastníků, ale, ale dohromady je to bude zajímat stejně.
+<laugh/>
+No, tak to je jenom -
+Takže ten článek, já nevím, jestli zkusit cílit na něco jako je calling, abysme se dokopali to napsat.
+(PERSON9) Nemá podle mě smysl cílit na nic, co není áčková konference, bez ohledu na to, že to dopadne jinak.
+(PERSON10) Jako primárně cílit, nemá smysl cílit na nějaký podřadný, podřadný věci.
+(PERSON9) No.
+(PERSON10) Jako jo.
+Můžem, můžem cílit na calling, a pak to poslat na [PROJECT6].
+(PERSON9) No, třeba.
+(PERSON10) To určitě projde.
+Calling, calling notification je 10 June a [PROJECT6] je, eh, 15 Jula, to je jestě vo měsíc pozdějš.
+July tedy, ne Jula.
+<laugh/>
+Takže to se dá takhle udělat.
+Takže pokud si najdem nějakej tejden před, před, no, pokud nemáme nic lepší-, nic jinýho -
+(PERSON15) Hm.
+(PERSON10) Tak pokud si najdem tejden před callingem, před, prostě první tejden v dubnu a sednem si na to, tak, tak bysme to mohli poslat na calling.
+(PERSON9) No, vono -
+Vono taky já nevím, co jste nakonec všechno posílali kdo na [ORGANIZATION8], ale že jo, to je taky tejden, kdy se -
+(PERSON10) Jo, to je tejden, kdy se rozhodne [ORGANIZATION8].
+Jasně.
+Ale vono, já mám pocit, že třeba ten náš článek, co jsme posílali, já myslím, že ho nevezmou a že to budem vědět už, jakmile nám pošlou -
+(PERSON15) Hm.
+(PERSON10) Zejtra nebo pozejtří ten -
+(PERSON15) Hm.
+(PERSON10) Že už si to z toho velmi, velmi <unintelligible/> uděláme.
+(PERSON9) Jasně.
+(PERSON15) Hm.
+(PERSON10) A člověk sice nikdy neví, že jo?
+(PERSON15) Hm.
+(PERSON10) Těžko říct, no.
+Ale, že jako -
+(PERSON15) No, to já taky spíš čekám, že nám tam nic nevemou.
+<laugh/>
+(PERSON10) Počkej, ty tam máš co?
+(PERSON15) Já tam mám s tím [PERSON1] něco.
+(PERSON10) S tím [PERSON1].
+No, to byl, to je daleko lepší článek, než to, co jsme posílali my na [ORGANIZATION8].
+(PERSON15) Hm.
+I když tam to s [PERSON9], to by tam mohli vzít, ne?
+(PERSON10) Jo a ještě, jo, jak, jasně.
+(PERSON15) To jak napsal nakonec celý [PERSON9].
+(PERSON10) [PERSON9] tam má BE-, [PROJECT9].
+(PERSON9) Hm, to uvidíme, no.
+(PERSON15) Podle mě to má nejlíp ten článek napsaný, že jo.
+(PERSON10) Jo.
+(PERSON15) Páč byl hotový už měsíc předem.
+<laugh/>
+(PERSON9) No a taky, protože ho celej přepsal [PERSON3], kterej umí anglicky.
+<laugh/>
+Na rozdíl vod nás všech.
+(PERSON15) Von je Američan, ne?
+(PERSON9) Ne.
+No.
+(PERSON15) Hm.
+<laugh/>
+(PERSON10) Tak to je, no.
+(PERSON15) To je jako nefér výhoda prostě.
+<laugh/>
+(PERSON9) Samozřejmě, no.
+A hlavně umí články ty zázračně zkracovat především využíváním pravidla you can verb any noun.
+(PERSON15) Hm.
+<laugh/>
+(PERSON10) To já věčně mám spíš problém ten článek, že mi tam ještě něco chybí, viď.
+(PERSON15) Takže třeba jako místo: we present results, bude jenom: we results.
+<laugh/>
+(PERSON10) No.
+(PERSON9) No, ale je takový jako, že jo.
+(PERSON10) Všichni tomu rozumí.
+<laugh/>
+To já vždycky, ale já to čtu často.
+Já vždycky se nad tím pozastavuju, jestli, jestli to fakt takhle se může napsat, nebo ne.
+(PERSON15) Hm.
+(PERSON10) Ale jako když tomu rozumím, tak co, že jo?
+(PERSON15) Hm, hm.
+<laugh/>
+(PERSON9) Hm.
+No, no, když to nevemou ten článek s tím [PROJECT9], tak bych tam rád připsal ty věci s tím xlm, protože to, to sem ti psal, ne?
+(PERSON10) Mně ne.
+(PERSON15) Pro [PERSON10], xlm, xlm [PROJECT3], eh, je trénovaná na přibližně těch samých stoja-, stojacích jako multilinguální [PROJECT9], ale je natrénovaná mnohem líp a všechno, všechno, co jsme zkoušeli, s tím funguje mnohem líp.
+(PERSON10) Aha.
+No, tak to je dobrý.
+To už jenom jako, a jako, takže conclusion by byl, že jako [PROJECT3] funguje v těchhle těch věcech daleko líp?
+Než [PROJECT9]?
+(PERSON9) No.
+(PERSON15) Hm, spíš jde vo to potvrzení těch findings.
+(PERSON10) Jo, tak.
+A to, to stihneš za ten, za ten tejden, že jo?
+(PERSON9) To maj jenom tejden, než co?
+(PERSON10) No, notification je April 3 [ORGANIZATION8].
+(PERSON15) No, a pak se stane co?
+(PERSON10) A calling je April 8.
+(PERSON15) Jo.
+(PERSON10) Takže to není ani tejden, ale jako tak, že jo -
+(PERSON15) To by tam člověk mohl spíš dopsat preemptivně.
+(PERSON10) Ale vy už to budete vědět teďka, možná něco.
+(PERSON9) Jo.
+(PERSON15) No, to je pravda, to už asi bude zřejmý.
+(PERSON10) Minimálně, že jo, minimálně, když, eh, když vopravíte to, co vám teďka budou vytýkat, tak to nebude vadit, že jo.
+(PERSON15) Hm.
+(PERSON10) Buď to vopravíte na calling nebo to vopravíte stejně v <unintelligible/>, takže -
+(PERSON15) No.
+Hm, hm, hm.
+(PERSON9) Hm.
+No.
+(PERSON10) Dobře.
+A to bude ve [PROJECT4].
+Ale kdo ví, kdy.
+A kdo ví, jestli, když to bude na [ORGANIZATION8].
+(PERSON9) No.
+Hm.
+(PERSON15) Hm.
+(PERSON10) Pak bysme nemuseli řešit nějaký [PROJECT8] nebo [PROJECT1].
+I když, no, i když možná jo, protože vono kdo ví, kdy se to v tom [PROJECT4] objeví.
+A jestli vůbec.
+(PERSON9) No, tak nevím.
+Tak pak s tímhle tím můžeme udělat nějakou hroznou blbost a poslat to na [PROJECT8].
+Třeba místo multilinguálních [PROJECT9] tam pustit ty [PROJECT9] trénovaný na ty jazyky a přijít na to, že vždycky jim to nefunguje.
+<laugh/>
+(PERSON15) Nebo do toho můžem dát nějaký formální jazyky a zkoušet, co to na nich udělá.
+<laugh/>
+(PERSON9) Hm.
+(PERSON15) Jako <unintelligible/> tam Javu a C# a Python a budeš se snažit najít centroidy těch jazyků.
+(PERSON10) Já to budu muset zase nějak ale odůvodnit potom v tom grantu [ORGANIZATION1].
+<laugh/>
+Že to je něco rozumnýho.
+(PERSON15) Hm.
+(PERSON10) A možná, no vono možná to nebude až tak důležitý-
+Tam je důležitý, že jsme, že jo, co tam napíšem do tý zprávy všechno, co jsme udělali, a může bejt jeden sloupeček vo blbosti a voni si potom jenom zkontrolujou v tom seznamu publikací, že tam jsou ty tři Déčka, který jsme slíbili.
+(PERSON15) Hm.
+(PERSON10) A už si to nespárujou s tím, že prostě to Déčko je ta největší blbost v tom třeba.
+(PERSON15) Hm.
+<laugh/>
+Jakože chceš mít jako dobrej článek a chceš mít Déčko, ale nemusí to bejt ten samej článek.
+<laugh/>
+(PERSON10) Nemusí to bejt.
+To, to už potom to právě, no, a pak to jde mimo.
+(PERSON15) Jakože takový to po vzoru, jak ta ženská si dá inzerát, že hledá partnera, eh, abstinenta a nekuřáka, a, a přijdou ty dva chlapi, že jo.
+<laugh/>
+Jeden je alkoholik nekuřák a druhej je kuřák abstinent.
+<laugh/>
+Hm, tak, tak asi tak.
+<laugh/>
+(PERSON10) Tak jo, takže uvidíme, uvidíme, co, no, že jo.
+Je pravda, že toho 10. budem asi, ten tejden před tím deadlinem na calling asi budem dělat různý jiný věci.
+No, tak uvidíme, no.
+Uvidíme a řekneme si, až přijdou teďka ty, teďka, až budem vědět, co, co nám řeknou na články.
+(PERSON9) Hm.
+(PERSON10) Jako vždycky se dá, vždycky se dá poslat blbost na [PROJECT8] a poslat nějaká část surveye na, na [PROJECT2] a tím, tím my, tím my jako, tím to splníme.
+(PERSON15) Hm.
+(PERSON9) Hm.
+(PERSON10) Hm, tak jo.
+(PERSON9) A co stěhování do [LOCATION1] mi ještě řekněte.
+Kdy to, kdy to vypukne?
+(PERSON15) Hele, mluví se vo březnu a já si myslím jako, že to je over i optimistic.
+(PERSON10) O tom se mluvilo ale na, na [ORGANIZATION9] besídce, že jo.
+(PERSON15) No.
+No, my jsme byli teďka, že jo, v tom, v tom [LOCATION2], tak tam vo tom [PERSON16] mluvil a hlavně to byla taková jako standup comedy, kde vyprávěl takový ty věci jako, jak tam, eh, třeba máme mít nějakou [ORGANIZATION9] místnost, kterej je jako teďka jeden velkej kancl s tím, že v projektu je napsáno, že se potenciálně rozdělí příčkou na dva.
+A tak tam třeba jsou sice jako hezky udělaný zásuvky takhle uprostředka tý podlahy, aby se tam jako mohla postavit ta příčka a byly tam ty zásuvky.
+No, ale takhle na konci toho, kde má bejt ta příčka, tak je takhle radiátor.
+<laugh/>
+(PERSON10) Ale tak radiátor -
+<laugh/>
+(PERSON15) A, a tím stylem, jakože tam jsou takový jako detaily, takže -
+(PERSON10) Počkej a to je, budou tam, budou tam vchody voddělený nebo -
+(PERSON15) Jsou tam dva vchody.
+(PERSON10) Jo.
+(PERSON15) Jo.
+(PERSON10) Nebude to jako průchozí?
+(PERSON15) Vo těch dveřích říkal, že ty zdi, než do nich dali ty dveře, tak byly hrozně křivý, a že mu řekli, že se to srovná, až tam dají ty dveře a že těma futrama se to vopravdu jako nějak srovnalo ty zdi.
+(PERSON10) Ježišmarija.
+<laugh/>
+Papírový zdi jo?
+(PERSON15) No.
+A, a říkal, že na některý zdi nemáme radši nikdy nic věšet.
+<laugh/>
+Protože si nemyslí, že by to na nich vydrželo, a že by mohla spadnout celá ta zeď.
+<laugh/>
+No, taky třeba vokna -
+(PERSON9) Hm, super.
+(PERSON15) Vokna jsou vodvírací, ale budou zamčený a myšlenka, že se budou vodvírat jenom na to, aby se jednou za půl roku umyly a budou se vodvejrat dovnitř a tam budu pověšený skříňky na těch zdech, takže nepůjdou vodevřít stejně, protože tam budou v cestě ty skříňky.
+(PERSON10) Jo.
+A klíčky budou prej, [PERSON18] říkal něco, že klíčky budou k dispozici stejně jenom na vrátnici nebo kde.
+<laugh/>
+(PERSON15) No a takový jako zábavy.
+[PERSON16] tam má ňákou tu robotickou laboratoř, v který bylo v projektu napsáno, že tam má být podlaha ideálně rovná.
+<laugh/>
+Tak mu tam udělali podlahu.
+<laugh/>
+A říkali, že to je docela rovný, ne?
+A von říkal, no, ne, no.
+Tak, tak mu to vylili nějakou stěrkou, a pak byly Vánoce a přes Vánoce se tam nedělalo.
+A tak si řekli, to bude dobrý, to aspoň necháme ten barák pořádně jako vyschnout, tak pustili naplno topení a topení to vytopilo asi na pětačtyřicet stupňů a -
+<laugh/>
+A tak to jako v podstatě tu stěrku jako uvařilo.
+To byla taková pryskyřice, tak to tak jako vybublalo.
+<laugh/>
+A pak to jako ztuhlo tady v tom stavu, takže tam jako všude byly ty bublinky.
+<laugh/>
+Tak mu to nějak přebrousili a říkal, že to furt není rovný, tak mu to ještě vylili něčím jiným.
+(PERSON10) Další stěrkou.
+<laugh/>
+(PERSON15) A to už je prý dobrý.
+(PERSON10) Takže bude mít podlahu vo deset čísel vejš, jo?
+<laugh/>
+(PERSON15) No.
+No, jako ty stropy budou níž, protože jako v těch stropech se různě jako křižujou různý roury a jiný roury, a tak, a úplně to ne vždycky vyšlo.
+(PERSON10) Instalatér nebyl domluvenej se vzduchotechnikem.
+(PERSON15) No, že prej jako všecko bylo dobrý kromě vzduchotechniky.
+<laugh/>
+Že vzduchotechnika prostě byla namalovaná skrz všecky rozvody všeho vostatního.
+<laugh/>
+Zřejmě jako vzducho-, a to jsou ty největší roury, že jo.
+A, a vzduchotechnika se tam dělala jako první, takže prostě ta se tam udělala podle toho plánu.
+(PERSON10) Jo.
+(PERSON15) Ale ty vostatní věci už se tam nevešly.
+(PERSON10) Jsem teď slyšel, jak úžasný páry, který mají vrstvy -
+(PERSON15) No.
+(PERSON10) Tak ten vzduchotechnik si může zobrazit jenom tu svoji vrstvu.
+(PERSON15) No, jasně, no.
+(PERSON10) A na, na všechny vostatní vrstvy se vykašlat.
+(PERSON15) Takže v každým kanclu bude strop jinak vysoko ale protože už jsou vobjednaný ty skříňky přesně ke stropu, tak ta firma, co přiveze ty skříňky, tak potom v každým kanclu bude řezat ty skříňky tak, aby se do toho kanclu vešly.
+Takže nepůjdou skříňky přesouvat mezi kanclama jednoduše.
+<laugh/>
+Ale jako jenom jedním směrem, že jo.
+<laugh/>
+Takže takový detaily tam jako jsou, takže nevíme zatím, jestli budeme mít vlastně tři kancly nebo čtyři.
+Jako dva malý budeme mít, a pak ještě jako buď dva malý anebo jeden velkej podle toho, jestli se tam ten povede rozdělit, a tak.
+Ale tak i jsou i jiný lidi, třeba grafici, který jako maj nějakou místnost, kterou maj nějak ideálně celou černou a v tom mají třeba bílej radiátor, a tak.
+<laugh/>
+Tam chcou dělat nějaký grafický pokusy, že jo.
+<laugh/>
+A tak, že jo.
+(PERSON9) Ach jo.
+(PERSON15) Ale pochopil jsem jako, že v zásadě jako barák stojí a až na ňáký detaily asi funguje a, a asi to nějak jako časem bude a no.
+(PERSON10) Hm.
+<laugh/>
+Takže současnej termín je, stěhování, je co?
+Duben, nebo?
+(PERSON15) Jako, jako furt prostě se tam má vod října učit a v létě už tam maj bejt nějaký konference.
+(PERSON10) Jo, konference dokonce?
+(PERSON15) No.
+<unintelligible/> maraton tam možná bude v září.
+(PERSON9) Jo, tak když jsem mlu-, naposledy mluvil s [PERSON4], tak říkal, že, eh, radši to chce na [LOCATION3], protože nevěří, že ta [LOCATION1] bude.
+<laugh/>
+(PERSON15) Tak jako bude, že jo.
+Záleží jako, jaký na to člověk bude mít požadavky, že jo?
+Prostě možná se třeba stane, že zrovna ten den vyndaj všecky ty vokna a budou tam jenom díry nebo tak, to se asi jako může stát.
+<laugh/>
+Tam budou jako nějaký věci dodělávat a neví se který, že jo.
+<laugh/>
+(PERSON9) Hm.
+(PERSON15) A, a tak, a neví se třeba jako, jak to bude s nějakýma rozvodama čehokoliv, protože se tam natahaly nějaký jako husí krky na kabely a ty se pak zabetonovaly, takže ten beton je uvnitř těch husích krků, takže tam nejdou protáhnout ty kabely.
+<laugh/>
+Tak se to asi nějak potáhne nějakejma lištama venku a -
+<laugh/>
+(PERSON10) To je fascinující dneska ti řemeslníci.
+Ale je jich málo, tak si můžou dělat, co chtěj.
+(PERSON15) No.
+<laugh/>
+(PERSON15) No, ale fakt ten [PERSON16] tam evidentně jako chodil prostě skoro každej den a vobčas jako vyfotil nějaký ty věci a vobčas to jako reklamoval.
+Takže třeba tam jako měl fotku, kde vyfotil ty husí krky, jak takhle vede husí krk, pak je jako přerušenej, je tam jako díra, a pak vede dál ten husí krk.
+A tak to jako reklamoval a říkal, no, to jako nemůže takhle bejt, to musíte, že jo, napojit a voni, že řekli, že s tím něco udělaj.
+<laugh/>
+No, tak přišel druhej den, a to, co s tím udělali je, že to zalili tím betonem, že jo.
+<laugh/>
+(PERSON9) To je radost teda.
+(PERSON15) A jako vypadá to, že všechny schody povedou prostě z jednoho patra do, do druhýho a nebudou končit ve zdi, a tak a -
+<laugh/>
+<unintelligible/> jako průser.
+A jako každá místnost má aspoň jedny dveře a -
+<laugh/>
+(PERSON9) To je, docela nízký standardy, ne?
+<laugh/>
+(PERSON15) Tak co by si chtěl.
+(PERSON10) Mě tohle vůbec nepřekvapuje jako.
+(PERSON15) Jako mnohem líp je v tom, na tom to FHS, nebo kdo, kdo rekonstruuje tu budovu v [LOCATION1], tam to céčko?
+Já nevím, jestli je to [ORGANIZATION2] nebo [ORGANIZATION3], jedny tady z těch šmoulů.
+(PERSON10) Asi [ORGANIZATION3], no.
+(PERSON9) No, je to, je to [ORGANIZATION3], no, ale ty maj zase jiný problémy.
+(PERSON15) Ty maj, ty maj teďka v podstatě jako, ty v podstatě zbankrotovali jako fakulta.
+<laugh/>
+(PERSON9) No.
+(PERSON15) Protože ta firma, která vyhrála na nejnižší cenu, má nejnižší cenu, protože asi, eh, voni spočítali asi vo čtvrtinu menší plochu tý budovy, než jaká dovopravdy je plocha tý budovy, takže všecky ty nacenění byly prostě na menší barák, než kterej tam je.
+<laugh/>
+Přestože ten barák už tam jako stál, takže -
+(PERSON10) No, takže to vypočítala ta firma špatně?
+(PERSON15) No, takže ta firma to jako spočítala, že jo, a protože na [ORGANIZATION3] nemají nikoho, kdo by tomu rozuměl a řek, no, to jste spočítali blbě, no, tak, prostě vyhrála firma s nejnižší cenou, a pak se ukázalo, ejhle, vono je to vo čtvrtinu větší.
+<laugh/>
+A pak jako se jim to prodražilo -
+(PERSON9) No, ale není to -
+(PERSON15) Další služby, jako z dalších důvodů.
+No, ale, no, že my máme aspoň nějaký lidi s nějakým technickým vzděláním, který aspoň ty největší píčoviny jako vodchytnou a to voni asi nemaj, no.
+(PERSON9) No, to bych si ale myslel, že je jako problém tý -
+(PERSON10) Já si taky -
+Tý firmy, že jo?
+(PERSON9) Tý firmy, co to staví, že jo?
+(PERSON10) Že to doplatí, já nevím jako -
+(PERSON15) No, jasně, ale když jako prostě ty jim jako schválíš tady ten projekt, že je dobrej, protože tomu nerozumíš, tak pak už jsi ho schválil, no.
+<laugh/>
+(PERSON9) V tý smlouvě je nějaká cena a máš tam nějaký jako maximální procenta více nákladů, že jo.
+(PERSON15) Hm.
+(PERSON9) Tak jestli to má bejt, eh, tak snad to není čtvrtina.
+<laugh/>
+(PERSON10) To je otázka, jestli jsou v tý smlouvě rozměry tý budovy nebo jako -
+(PERSON15) Hm.
+Jako podle všeho ty firmy v tom hodně uměj chodit.
+Jako zejména ty, který soutěžej ty zakázky na tu nejnižší cenu, tak jako maj, jsou tam v tý firmě všichni debilové kromě těch, který jako maj na starosti tady ty právní předpisy a věděj, co všecko můžou.
+<laugh/>
+Takže to jsou ty jediný lidi v tý firmě, který něco zvládnou.
+<laugh/>
+Takže ty právě zvládnou si velice dobře vohlídat všecky tady ty jako papíry a peníze, a tak.
+<laugh/>
+A pak už tam jenom pošlou ty dementy, který ti postavěj dveře vzhůru nohama a -
+<laugh/>
+(PERSON9) No, takže jo, tak jestli tydlety lidi jako maximalizujou zisk, tak zároveň minimalizujou náklady najímáním největších, největších matláků, no.
+(PERSON15) No, právě.
+<laugh/>
+Přesně vono.
+Prostě libertariáni musej bejt nadšený.
+<laugh/>
+Prostě přesně to, co si vyžádáš, tak to přesně dostaneš.
+<laugh/>
+No, takže u nás prej taky unikly jako nějaký vtipnosti, že třeba prostě se ukázalo, že tam nejsou naprojektovaný, eh, rozvaděče, na síťový kabely, jako na, na switche a tak, protože ta firma dobře ví, že podle nějaký normy se to nemusí.
+A nebylo to v tý zadávací dokumentaci, že se to tam má udělat.
+No, tak to neudělali, že jo.
+Takže prostě až nějak jako během stavby se tam vymejšlelo, kde se tam dodělaj vlastně rozvaděče.
+<laugh/>
+Protože tam prostě na ně nebylo ani to místo.
+<laugh/>
+A tak jako, takže jako vtípky, vtípky, ale jako v zásadě asi barák bude stát a fungovat.
+A bude tam nějaký skvělý umění před tím barákem.
+(PERSON10) Umění?
+(PERSON15) <censored/>
+<laugh/>
+<censored/>
+<laugh/>
+A, a pak se stejně ukázalo, že to tam nemůže bejt, protože tam zrovna jsou nějaký kanály, do kterejch vobčas potřebujou hasiči.
+Takže se bude shánět nějaký menší dílo, který zároveň musí mít bejt mobilní, aby ve chvíli, kdy přijedou ty hasiči, tak ho mohli někam jako vodsunout a dostat se do těch kanálů.
+<laugh/>
+(PERSON10) Budou vodsunovat blikajícího dinosaura.
+<laugh/>
+(PERSON15) Ale jako pořád je nějakej rozpočet na to dílo, takže to tam asi někdy něco bude, ale jenom se neví, co a kdy a -
+<laugh/>
+Kdyby jsi chtěl nějaký umělecký dílo, který bude stát před tou budovou, tak nejspíš je příležitost.
+<laugh/>
+(PERSON10) Třeba transformera tam můžem mít nějakýho.
+<laugh/>
+(PERSON15) A tak, no.
+Prej tam budou celej den vodevřený garáže, kterejma půjde vlézt do tý budovy a tam za těma garážema bydlej ňáký bezdomovci, který tam teda asi budou bydlet v našich garážích.
+<laugh/>
+Ale -
+(PERSON10) Počkej jsou tam garáže, tam budou garáže podzemní?
+(PERSON15) Tam je podzemní garáž, no.
+Bude tam podzemní garáž v tý budově, protože se podle nějakejch těch zákonů musí, že jo, v každý nový budově dělat podzemní garáž.
+(PERSON10) No, jasně, no.
+(PERSON15) Takže tady se taky udělá, přestože tam asi není potřeba.
+(PERSON10) Třeba tam budu jezdit vozem.
+(PERSON15) No, a prej ty bezdomovci teda jsou dobrý, že tam někde našli jako, nebo fakulta, že tam našla někde v [LOCATION1] nějaký pěkný prostor, kam věšej takový ty panely, že něco je financováno z [ORGANIZATION7], takový ty velký, že jo, plastový prostě věci.
+(PERSON9) No, ano.
+(PERSON15) No a ty bezďáci, co tam bydlej, tak zjistili, že se z toho super dělaj přístřešky.
+<laugh/>
+Takže jako tady ty cedule maj konečně využití.
+Prostě ty bezďáci to vždycky vodmontujou a, a bydlej v tom.
+<laugh/>
+(PERSON9) Tak to je hezký.
+(PERSON15) Tak jako pak akorát se musí dohodnout, jestli jako řeknem těm bezďákům, ať to votočej ven tím logem, že to financovala [ORGANIZATION7], anebo radši ne.
+<laugh/>
+(PERSON10) By se rovnou mohly stavět domečky pro bezďáky, protože ze všech staveb <unintelligible/> je velká a -
+<laugh/>
+(PERSON15) No, tak to jsou ňáký zábavný novinky z [LOCATION1].
+(PERSON10) Tak to -
+(PERSON15) Ale asi jako nic důležitýho.
+(PERSON10) No, [PERSON5] mi dneska vo tom říkala, jsem <unintelligible/>, jak se tam těší.
+<laugh/>
+Jsem říkal, jestli, jestli přijdem za rok za [PERSON2], že vracíme těch 50000 a vrátíme se strašně rádi zpátky na [LOCATION3].
+<laugh/>
+A že jí dáme klidně i víc, klidně i 100, jenom, ať můžem, ať se můžem vrátit.
+<laugh/>
+(PERSON15) A [PERSON5] je zbytečně to -
+<laugh/>
+Zbytečně nervozní.
+Já si myslím, že to bude fajn.
+(PERSON10) Já si taky myslím, že nakonec to bude v pohodě jako.
+(PERSON15) Zejména jako tady ty trable, co tam jako jsou, tak maj v zásadě všecky nový budovy -
+(PERSON10) To je všude.
+(PERSON15) Co se stavěj, tak -
+(PERSON10) No.
+(PERSON15) Hm.
+Takže jako asi v poho.
+No, já si myslím, jako nepřišlo se s něčím zásadním, jakože by se ukázalo, že jako třeba nám bude chybět podlaha v kanclu nebo tak.
+To, s ničím takovým se jako nepřišlo.
+[PERSON16] nebude mít strop.
+<laugh/>
+Protože zjistil, že by mu ten strop tolik snížili, že už by nešly vodvírat okna, že prostě na něj, na jednom místě nějaká roura jde tak nízko, že kdyby ten strop udělali tak, aby byl pod úrovní tý roury, tak už bude pod úrovní horní hrany vokna.
+<laugh/>
+(PERSON10) A nemůže mít jenom strop, ze kterýho bude koukat ta roura?
+(PERSON15) Takže, takže nebude mít vůbec ty podhledy, bude mít prostě přímo ty roury na tom stropě.
+Tak říkal, že ať aspoň mu daj ty roury nějak jako v jedný barvě.
+No, tak tam má, že jo, šedivý roury, modrý roury, voranžový kabely, černý kabely.
+<laugh/>
+A tak.
+Takže říkal, že teďka vlastně zjistil, že na to čet teďka článek jako vohledně toho, jak se ty roboti orientuju v prostoru, a že čet článek vo tom, že můžeš teď k tomu robotovi jako vtočit kameru nahoru a von se orientuje podle toho, co vidí nahoře, takže to v tý jeho labu pravděpodobně půjde dobře, protože když jako budeš koukat nahoru na ten strop, tak to unikátním způsobem určí tvoji pozici kvůli tomu.
+(PERSON10) No, to právě, to si krásně určíš souřadnice, že jo.
+<laugh/>
+To nemusí jako <unintelligible/> kolem.
+(PERSON9) No.
+(PERSON10) Ale uvidí přesně, jo, teď jsem pod zkřížením žlutý a modrý roury.
+(PERSON15) No, jo, no.
+<laugh/>
+(PERSON10) <unintelligible/>
+(PERSON9) Hele, to je dobrý, to já bych taky klidně ne-, neměl podhledy.
+<laugh/>
+(PERSON15) To můžem vždycky sundat.
+(PERSON9) Pak to vypadá pro-, prostornější.
+Pak taky teda tam asi můžem dát ňáký věci.
+<laugh/>
+(PERSON10) <unintelligible/>
+<laugh/>
+Třeba si tam můžeš sušit.
+<laugh/>
+(PERSON15) A jako počítám s tím, že až to projde všema těma kolaudacema, tak pak si to jako přizpůsobíme k obrazu svému.
+A minimálně do toho nebudou kecat žádný památkáři a do toho, co si uděláme ve svejch kanclech asi nebude kecat celkem nikdo moc.
+(PERSON9) Hm.
+<laugh/>
+(PERSON15) Jako už teďka říkal, že jsou věci, který se tam musejí namontovat kvůli nějakejm jako projektům a už teď se ví, že se pak zase smontujou, až se to jako schválí.
+<laugh/>
+(PERSON9) Jako třeba?
+(PERSON15) Já to nevím.
+No, rozhodně se mluvilo vo nějakejch divnejch požárních udělátkách, který cosi divnýho dělaj za dveřma.
+Co způsobuje to, že když vypadne proud, tak se vodevřou všechny dveře v tý budově nebo tak něco.
+(PERSON9) Aha.
+(PERSON15) Což asi, když jako sobotu vypadne proud a nikdo tam nebude, tak se vodevřou všecky dveře a přijdou nás vykrást ty bezdomovci nebo tak něco.
+Což možná jako nechceme úplně.
+<laugh/>
+Jako -
+(PERSON10) Třeba by našli naši pípu a akorát by se vožrali.
+<laugh/>
+(PERSON15) Jako jsou tam ňáký dveře, který nepůjdou vodevřít dveře a dveře, který nepůjdou zavřít a -
+<laugh/>
+A tak a -
+(PERSON10) No, to je něco úžasnýho.
+<laugh/>
+(PERSON15) Je to nějaký strašně chytrý všechno.
+(PERSON9) Hm.
+(PERSON10) To mi připomíná, že teďka v sobotu jsem byl v bazénu, sepnul pož-, požární poplach a začali hlásit, abysme všichni okamžitě opustili budovu.
+(PERSON15) Hm.
+(PERSON10) Mokrý v těch plavkách.
+<laugh/>
+Tak jsem, venku byly asi tři stupně, tak jsem čekal, jestli nás fakt vyženou, nakonec nás nechali ve vestibulu.
+<laugh/>
+Dokonce nám rozdali prostěradla do sauny.
+<laugh/>
+(PERSON15) No, jako když hoří v bazéně, tak si v největším bezpečí ve vodě, ne?
+<laugh/>
+(PERSON10) No.
+No, prostě museli jsme vopustit budovu.
+Ale nakonec nehořelo, že jo, přišli tam hasiči, všechno zkontrolovali a mohli jsme zpátky do bazénu.
+Ale bylo to vtipný.
+Tak jestli to bude podobný, tak -
+(PERSON15) No, ale jako ze začátku asi se tam častou budou dít nějaký náhodný poplachy.
+Má ta budova taky centrální stop.
+Prostě někde je nějaký tlačítko, který někdo může zmáčknout a nějak se všechno vypne a u toho se asi vodevřou některý ty dveře a vokna.
+<laugh/>
+(PERSON10) I vokna se votevřou?
+(PERSON9) Fakt jo.
+<laugh/>
+(PERSON10) No.
+(PERSON9) Jo, a to je nějaký tlačítko, že je tam střelec.
+(PERSON15) No, já nevím.
+<laugh/>
+(PERSON10) To by mě hrozně zajímalo -
+(PERSON9) To chtěla [PERSON11], ne?
+(PERSON15) Jo, to je pravda, no.
+(PERSON10) Co?
+(PERSON15) No, tak [PERSON11] bude mít v kanclu generálního stopu.
+<laugh/>
+(PERSON10) [PERSON11] tam bude?
+(PERSON15) Asi ne.
+(PERSON10) Hele, to by mě zajímalo jako, eh, my se už tam nebudem moct nějak rozšiřovat o další lidi?
+(PERSON15) Eh, -
+(PERSON10) Nebo jo?
+(PERSON15) No, máme tam mít šestnáct židlí a víc ne, protože, protože některý katedry tam vůbec nejdou.
+Ale pak přišli s tím, že tam chtějí mít taky jako pár židlí pro případ, že tam budou třeba učit, aby si měli kam sednout.
+Na což už teda tam někde je nějaká jakoby sborovna, ale to v nějakou chvíli se zapomnělo, a tak tam ještě ty vostatní katedry taky několik kanclů jako dostaly pro lidi, který tam nikdy nebudou a -
+<laugh/>
+No.
+(PERSON10) No, protože zrovna jako ty lidi, co tam jdou, maj velkej potenciál jako nabírat doktorandy.
+(PERSON15) Hm.
+(PERSON9) No.
+(PERSON10) Jako vlastně vy všichni, že jo?
+(PERSON9) Hm.
+(PERSON15) Jako, co, co říkala [PERSON2], tak jakoby tady ty mocenský boje vo ty židle jsou nějaký hrozně složitý, že prostě ty kate-, že taková jako zajímavej stav, kdy tam na jednu stranu ty katedry vůbec nechtěj, ale na druhou stranu nejsou ochotný pustit ty židle, který tam maj.
+<laugh/>
+A já tomu úplně nerozumím.
+<laugh/>
+Ale -
+<laugh/>
+Jako představoval bych si, že když se třeba ukáže, že tam fakt je kancl, kterej je prostě prázdnej a, a že už zase se [ORGANIZATION9] jako nikam nevejde, tak že třeba vo tom půjde jako jednat.
+Ale není jasný s kým, protože teoreticky by to moh jako rozhodnout sekční proděkan, ale ten není ochotnej nic rozhodovat a je to hodně na jako tý autonomii těch kateder a ty katedry prostě nějak asi nemaj důvod někomu jen tak dát někde ňáký židle, aniž by za to něco dostaly.
+(PERSON10) Mně to pak napadlo zase, že se v [LOCATION1] budeme tísnit sedm lidí na, no.
+(PERSON15) No.
+(PERSON10) No, uvidíme.
+(PERSON15) No.
+Jako už to není řešitelný tady na, tady u nás vlastně v tom pátým patře, kdy prostě tam je tak doktorandská místnost, která je prostě skoro prázdná, protože tam nějaký ty katedry maj nějaký židle pro doktorandy, který nemaj.
+(PERSON9) Hm.
+(PERSON15) A [ORGANIZATION9] tam má už i tam jako sdílený židle pro doktorandy a některý doktorandi nemaj židli ani tam, ani nikde jinde.
+<laugh/>
+A, a tam je jako reálně prostě jako několik zcela volnejch stolů, u kterejch, eh, podle všeho nikdy nikdo nesedí, ale prostě patří to nějakým jiným katedrám, a tak to jako je neřešitelný
+(PERSON10) Hm.
+(PERSON9) Ok.
+(PERSON10) Hm.
+(PERSON15) No, takže já zatím jsem jako měl nepříjemný hovory akorát s [PERSON2], že mi to přijde debilní a -
+Hm.
+No, já jsem klidně ochotnej mít nepříjemný hovory s kýmkoliv dalším, ale vod [PERSON2] jsem jako se dozvěděl, že to jako nemá moc smysl, protože není s kým ty hovory mít nebo tak.
+<laugh/>
+No.
+<laugh/>
+Asi by jako sme museli vzbudit v tý katedře nějaký hnutí jako zespoda, aby prostě jako ty lidi v tý katedře nějak se rozhodly, jakože prostě nám chtějí jako dát ty židle, a, no.
+<laugh/>
+(PERSON9) Hm.
+(PERSON15) Tak jsem to zatím jako nezkoušel řešit.
+Jenom vobčas jako, když se potkám s lidma z jinejch kateder, tak to jako zmíním, jak jako prostě tady máme málo místa a že tady budeme mít málo místa, i když se těch dvanáct lidí odstěhuje do [LOCATION1], aby aspoň se vo tom jako vědělo.
+Protože to zatím ty vostatní katedry to ani jako nevědí, že máme toho místa takhle málo
+Tak mi přijde dobrý jako, tak postupně jenom šířit takovou jako informaci, že je nás fakt hodně a nemáme kde sedět a -
+<laugh/>
+Ale prej jako silou do toho jít, není dobrej nápad, no.
+(PERSON9) Hm.
+(PERSON10) No, budem debatovat na chodbách.
+Dáme si tam stoly.
+<laugh/>
+(PERSON15) Jako i z těch lidí, co tam teďka mají z těch jinejch kateder, tak se stejně i ty jako, co tam maj fyzicky přesídlit, tak se počítá s tím, že tam úplně moc jako nebudou.
+<laugh/>
+(PERSON10) Hm.
+(PERSON15) No, to se uvidí, no.
+(PERSON10) Hm.
+(PERSON15) A prostě fyzicky tam zřejmě místa bude až, až.
+A jako zatím se vejdeme.
+Zatím jako těch zájemců vo tu [LOCATION1] prostě je tolik, že se vejdeme.
+No, a pak se uvidí, co.
+(PERSON10) Tady to, tady to bude v pohodě, že jo.
+Tady prostě tím, že vodejde šestnáct -
+(PERSON15) No.
+(PERSON10) Nebo kolik?
+Čtrnáct lidí nebo kolik, tak -
+(PERSON15) Hm a jako vo důvod víc prostě si tam co nejdřív koupit nějaký velký nábytky, kterejma vyplníme ty volný prostory v těch kanclech dřív, než nám tam někdo začne cpát nějaký další lidi.
+(PERSON9) Jo.
+<laugh/>
+(PERSON15) Já vždycky, když řeknu, že tam chci kulečníkovej stůl, tak mi všichni vynadají, že ten se tam nevejde.
+<laugh/>
+Ale tak aspoň nějaký jiný velký věci.
+<laugh/>
+(PERSON9) No.
+(PERSON15) Potom vo těch společenskejch místnostech nějak nechtěl [PERSON16] vůbec mluvit, tak nevím.
+Uvidíme, jak budou vypadat, až tam budem.
+<laugh/>
+(PERSON9) No, tak jako třeba ty maj ty závady, jakože nemaj dveře a vokna.
+<laugh/>
+(PERSON15) Je to možný.
+Hm.
+(PERSON10) Hm.
+(PERSON15) Tak jo, my jdem asi na pivo.
+(PERSON10) My jdem na pivo, no.
+(PERSON9) No, tak si užijte pivo kucí.
+<laugh/>
+(PERSON10) Čau.
+(PERSON15) Čau, čau.
+(PERSON9) Čau.

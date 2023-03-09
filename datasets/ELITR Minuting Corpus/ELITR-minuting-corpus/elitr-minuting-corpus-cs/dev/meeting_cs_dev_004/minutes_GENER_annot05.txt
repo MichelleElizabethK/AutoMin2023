@@ -1,0 +1,40 @@
+Zápis ze schůzky
+
+Datum schůzky: 29.4.2020
+
+Téma: Porada [ORGANIZATION18]
+Vedoucí schůzky: [PERSON36]
+Účastníci: [PERSON30], [PERSON47], [PERSON22], [PERSON24], [PERSON44], [PERSON12], [PERSON43], [PERSON29], [PERSON27], [PERSON31], [PERSON7], [PERSON19], [PERSON28], [PERSON39], [PERSON25].
+
+Zápis:
+
+- Home office možno změnit dle potřeb: třeba střídat se v kancelářích;
+- Podatelna začíná fungovat každý den;
+- Požadovat digitální oběh dokumentů;
+- Vypsání soutěže na exteriéry [ORGANIZATION14];
+- [ORGANIZATION20]: [PROJECT19]: žádost předložit návrhy, jak parčík zhodnotit;
+- Studie [PROJECT7]: nutno dokončit;
+- [PROJECT24]: zatím nepodepsáno;
+- Koncepční zadání na [PROJECT25]: průzkum proběhne příští týden: na jeho základě poté začnou práce
+        - vyžádat mapu sítí;
+- [PROJECT11]: žádost o odvolání proti vydanému územnímu rozhodnutí: nebude podpořeno;
+- [PROJECT12]: třeba se informovat ohledně napsání výzvy na jednoho zhotovitele: nutno přidat i mapu širších vztahů;
+- [PROJECT6]: dvě varianty: pozitiva i negativa: za 14 dní zhodnotit a případně začít dělat esenci jedné studie
+        - nutno dohodnout se na variantě k prezentování: za týden;
+- EJA na [PROJECT3]: zatím nepodepsáno: chybí grafická příloha;
+- [PROJECT4]: odesláno k podpisu;
+- [PROJECT18] u [ORGANIZATION10]: bude se ještě řešit;
+- [ORGANIZATION19]: prozatím bez pokynu;
+- Dražba pozemků:  účast ve dražbě doporučena městu;
+- [PROJECT5]: řešit později;
+- [PROJECT13]: posun: třeba domluvit schůzku s architektem.
+
+
+
+
+
+
+
+
+
+Zapsala: [ANNOTATOR2]

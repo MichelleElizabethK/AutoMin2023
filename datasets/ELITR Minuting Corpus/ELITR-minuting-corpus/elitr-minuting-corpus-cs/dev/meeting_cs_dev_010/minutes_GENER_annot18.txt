@@ -1,0 +1,10 @@
+[OTHER8], 8.10.2019
+Minutes
+
+- ™: Zotero group?
+- ™: Neurem speech/EMNLP meetup
+- Multilingual bert
+- Word-level neural networks probing - co s tim?
+- Kniha - obsah
+[URL]
+- [PERSON6] -> Helsinki, budeme koordinovat s tematem pro [PERSON20]

@@ -1,0 +1,282 @@
+(PERSON7) Že píše nám na [ORGANIZATION2], že [ORGANIZATION6] nám dá nějaký lidi, kteří umí anglicky nebo německy a ti by sami upravili nahrávky z konferencí.
+(PERSON2) No, jo, to nějak souvisí s [PERSON4].
+(PERSON7) Že jo?
+(PERSON2) Ale mám pocit, že to nesouvisí přímo s tím [OTHER1].
+No, je to nějaký tajemný.
+Já vím, že tuto [PERSON4] si někdy stěžoval, že to šlo v jednom mailu a že to byly dvě nesouvisející věci.
+(PERSON7) Ano.
+(PERSON2) A tak to zřejmě furt pokračuje tohle zmatení, ale já už nevím teda, která s čím souvisí, a která s čím ne.
+Hm.
+To spíš vypadá, že meeting nemáme.
+Nevím.
+[PERSON3] psal, že nemůže.
+Já jsem akorát psal, že nemůže napsal, že nic nemám.
+Ale že bych se připojil v jednu, tak, tak nevím, tak počkám chvíli ještě, a pak usoudím, že to není.
+(PERSON9) Slyšíš mě?
+(PERSON2) Haló, haló?
+(PERSON9) Jo.
+(PERSON2) Jo, slyším tě.
+(PERSON9) Tady zro-
+(PERSON2) Jo, vidím ruku.
+Čau.
+(PERSON9) Tady zrovna řešíme, jestli máme co řešit.
+<laugh/>
+(PERSON2) Jo, to já nevím.
+Já jsem teďka čet ten mail vod [PERSON3], tak jsem zjistil, že tam ty věci na ten [OTHER4] jsem dával já.
+Takže jako <unintelligible/>.
+(PERSON9) Ty věci na ten [OTHER4], no.
+A můžeš to tam teda dát?
+(PERSON2) Jo, jo, jo.
+Jakoby, že jo, vznikne nová verze toho záznamu, která bude prolinkovaná s tou starou a bude vobsahovat i ty nový modely.
+(PERSON9) Jo.
+A jsou to teda modely a konfiguráky, vlastně, že jo, asi?
+(PERSON2) Hm.
+(PERSON9) Počkej, [PERSON3] to někde posílal.
+(PERSON2) <unintelligible/> byly nějaký zip fily a [PERSON3] něco posílal a říkal, že je to ve stejným formátu.
+(PERSON9) No, jo, tak to tam, tak to tam uploadni a tím, tím to bude asi vyřešeno.
+(PERSON2) Hm.
+(PERSON9) No a co je třeba ještě řešit?
+Eh, asi, jak se budeme scházet letos bysme mohli minimálně si říct.
+Já nevím, jestli úterky jednu hodinu nebo dvě hodiny nebo jak je to, jestli se to, tobě se to hodí?
+Nebo?
+(PERSON2) Hm.
+(PERSON9) Nebo ty máš nějakej nebo ty vůbec si říkal, že vlastně v úterky tady vůbec nemusíš bejt, že jo?
+(PERSON2) No, já teďka nevím.
+Tak teďka je zkouškový, že jo?
+Teďka nemám <unintelligible/>.
+(PERSON9) Jo, jo, jo.
+(PERSON2) A nebo <unintelligible/> -
+(PERSON9) Takže ještě uvidíme.
+(PERSON2) Ale teď je poslední týden semestru.
+Pak bude zkouškový, a pak se uvidí, no.
+V lednu budu asi -
+(PERSON9) No, pak se asi uvidí.
+(PERSON2) No, tak se jako -
+No.
+(PERSON9) A jinak ty úkoly, co jsem posílal, to je, já už si to zase nepamatuju.
+[PERSON3] měl uploadnout to na [OTHER4], to uděláš ty.
+(PERSON2) Hm.
+(PERSON9) Pře-, přečteme si ten neposlanej [PROJECT1] článek.
+(PERSON2) Hm.
+(PERSON9) Kterej někam pošlem možná, minimálně na [PROJECT4].
+(PERSON2) Hm.
+(PERSON9) Nevím ani, kde bych ho dal na archive teda.
+<laugh/>
+(PERSON2) Hm.
+(PERSON9) Jo a nastrkáme články do [OTHER3], [OTHER3] nebo jak se to čte.
+To je asi všechno.
+A příští, příští tejden bysme se teda mohli sejít už nějak regulérně.
+Dneska to je takový -
+(PERSON2) Jo.
+Příší tejden jsem v [LOCATION2].
+<laugh/>
+(PERSON9) Tak za 14 dní.
+<laugh/>
+Celej seš, celej tejden seš v [LOCATION2], jo?
+(PERSON2) Jo, jo, jo.
+<laugh/>
+(PERSON9) No, tak za 14 dní.
+Aspoň do tý doby všichni udělají, já ještě když tak pošlu připomenutí.
+Dneska pošlu, já jsem se k tomu nedostal, páč jsem celý dopoledne šašil s číslama na mzdy, protože to nějak pořád nevycházelo.
+Já to musím každý rok znova pochopit, tak je to hrozně složitý.
+(PERSON2) Hm.
+(PERSON9) Takže ten report, ten takovej ten věděckej report na, snad dneska nějak napíšu a pošlu vám ho, abyste v tom případě mohli najít nějaký chyby nebo, nebo něco upřesnit nebo dopsat.
+(PERSON2) Hm.
+(PERSON9) Vono tam má, vono jako ten report sám o sobě má mít jenom 3000 znaků maximálně, takže vono se nedá toho tam psát moc.
+Takže já víceméně shrnuju všechny články dohromady a, a dělám abstrakty z abstraktů a -
+(PERSON2) Hm, hm, hm.
+<laugh/>
+No a na to máš přece model na tu sumarizaci.
+<laugh/>
+(PERSON9) No, a pak doufám, že všechno, co je, že všechny články máme v [ORGANIZATION4], doufám?
+Když si vygooglím, teda když si vybiblím ten náš grant, že tam najdu všechno, všechno, kde se ty články, citovaly ten grant náš.
+(PERSON2) Já myslím, že jo, že to, co sem, to, co už je někde přijatý, tak jo, no.
+(PERSON9) Jo.
+(PERSON2) Ty, co jsou teprve submitnutý, tak asi ne.
+(PERSON9) Přičemž ty submitnutý články, tam budu psát o nich taky, že jsme je submitli.
+To znamená, to je ten, to je ten článek o multilinguálním [PROJECT2], pak je to ten článek, co jsi dělal s [PERSON8], a pak je to ten článek, já, co jsem dělal v Helsinkách a, a, to je asi všechno.
+Nevím, jestli [PERSON3] něco novýho submitnul.
+Ale vono i tak, toho už je docela dost za tenhlecten rok, tak, vono i tak, tak se to tam pořádně nevejde do těch 3000 znaků, takže -
+<laugh/>
+Takže -
+Jo, jinak knížka, já už jsem, já jsem vlastně s tebou včera mluvil, takže vono, deadline na knížku mám, je někdy na konci června asi plus mínus, no, aby se to stihlo do konce roku v roli.
+Ono v nejhorším se to dá nějak posunout.
+Jako posunout, eh, ten, že už potom nás samozřejmě nebude nikdo platit, ale ještě nám posunou ten termín, abysme dodělali ty publikace, co jsme slíbili.
+(PERSON2) Hm.
+(PERSON9) No.
+Takže hlavně to, co jsme vlastně těch, eh, důležitý je napsat tu knížku a mít ještě asi dva články v časopise.
+To znamená v [PROJECT4] -
+<laugh/>
+(PERSON2) Hm.
+(PERSON9) No, ideálně někde jinde, ale [PROJECT4] to jistí.
+A to [PROJECT4] je deadline teďka 19., což nevím, jestli se mi tam podaří překlopit tu diplomku [PERSON1], to možná jo.
+(PERSON2) Hm.
+(PERSON9) A další [PROJECT4] bude, bude za, za půl roku a tam by se mohlo něco napsat když tak, no.
+(PERSON2) No, no, 19.
+No, jako tam ten, ten článek, co jsme neposlali na to [PROJECT1], ten by stačil, ale já už si nepamatuju, v jakým stavu byl?
+(PERSON9) Cože?
+Von byl docela jako do-, v dodělaným stavu, tam spíš bylo problém, že tam potom nebylo nic už moc jako novýho, nebo -
+(PERSON2) No, no, no.
+No, že je možný, že ten bysme stihli, viď, ještě jako do 19., no?
+(PERSON9) Eh, počkej, tak -
+(PERSON2) Hele, podíváme se na něj a uvidíme, no.
+(PERSON9) 19., to je za, jo, to je v neděli.
+To je, když přijedeš z [LOCATION2].
+<laugh/>
+(PERSON2) No.
+<laugh/>
+Třeba tam budu mít čas dělat na článku, já vůbec nevím, já jsem tam nikdy nebyl, takže nevím, jak to bude vypadat.
+Ale [PERSON6] nějak říkala, že by bylo dobře, abych tam jel.
+(PERSON9) Aha?
+(PERSON2) Já už jsem tam byl pozvanej někdy před lety a to jsem nějak nemoh, a pak si mě tam už nikdy nikdo nepozval.
+A teď zas nějak se to znova stalo, tak asi toho mám nějak využít nebo já nevím.
+<laugh/>
+(PERSON9) Tak jestli máš pozvánku, tak toho využij, no.
+<laugh/>
+(PERSON2) Jo a voni maj na abstrakty deadline 12., koukám, <unintelligible/>.
+(PERSON9) No, deadline na abstrakt je 12., a pak to, no.
+Tak možná asi se na to spíš vykašlem a -
+(PERSON2) Hm.
+(PERSON9) A -
+(PERSON2) No.
+Hele, tak stejně, no, stejně budem koukat na to, jak ten článek vypadá, tak se na něj podíváme, a když nám bude připadat, že to zvládnem do tý doby tam poslat, tak to tam můžem poslat.
+(PERSON9) Hlavně -
+(PERSON2) Asi záleží, jestli to chcem jenom jako dopsat a poslat nebo jestli na tom chceme ještě něco udělat.
+(PERSON9) No, tak příště, pří-
+Teda, jo, seš na [LOCATION2].
+Tak dobře, tak za těch, za těch 14 dní se holt, se můžem na tom, nad tím sejít.
+Vykašlat se na, na to, na [PROJECT4] a prostě sejít se nad tím a uvidíme, no, co.
+(PERSON2) Hm.
+(PERSON9) To je vtipný, že já jsem už do tý průběžný zprávy z minulýho roku, jsem napsal, že už jsme na tom dělali experimenty v roce 2018 a že 2019 to doděláme a sub-, a submitnem to, někam to pošlem prostě.
+<laugh/>
+(PERSON2) Hm.
+(PERSON9) Tak to teď můžu napsat asi tak to samý.
+<laugh/>
+Že jsme sice udělali spousta dalších článků, ale že tendle ten prostě, pořád na něm pracujem.
+<laugh/>
+(PERSON2) No, prostě závažnej výzkum, to chce čas.
+<laugh/>
+(PERSON9) Já myslím, že je to ten článek, kterej my sme, kterej jsme chtěli poslat na [ORGANIZATION3] nebo kam to bylo.
+<laugh/>
+To je ten, ten, myslím to bylo v tom proposalu to bylo napsaný, no.
+<laugh/>
+(PERSON2) Tak jo, tak zkusíme dát na [PROJECT3] a bude.
+<laugh/>
+(PERSON9) To je pravda.
+Na [PROJECT3] to můžem furt poslat.
+I když není slon.
+(PERSON2) No, my jsme slona zrušili, ale [PERSON5] říkal, že v tom bude nějak pokračovat.
+(PERSON9) [PERSON5] bude pokračovat v čem?
+Že bude posílat dál články na [PROJECT3] nebo ve slonovi?
+<laugh/>
+(PERSON2) No, no, prostě udělá si tam svůj workshop, kterej nějak jako bude rozšiřovat slona, že rozšíří slona i vo ty formální jazyky.
+Aby mu tam nějak jako <unintelligible/> jeho věc -
+(PERSON9) Jo.
+Jasně.
+(PERSON2) <unintelligible/>
+(PERSON9) Tak jo.
+(PERSON2) <unintelligible/>
+(PERSON9) To bude sám čarovat a sám si to tam přednese ten svůj jeden článek.
+<laugh/>
+(PERSON2) No, ale že to jako bude furt i na ty normální jazyky, takže furt tam můžem něco poslat, když budem něco mít.
+<laugh/>
+(PERSON9) Jo.
+Tam se za tebou hejbe ňáká peřina.
+<laugh/>
+(PERSON2) Jo.
+To je možný.
+(PERSON9) To je dobrý, už ji nevidíme.
+<laugh/>
+(PERSON2) Taky teď koukám, že tam v tom <unintelligible/> něco je.
+<laugh/>
+(PERSON9) No.
+Tak dobře, tak asi, my asi budem tady pokračovat s [PERSON7] na, vo nějakejch <unintelligible/> a jinejch věcejch.
+<laugh/>
+A teda asi uděláme až za 14 dní ten, ten regulérní už snad call.
+(PERSON2) Hm.
+(PERSON9) Nebo bysme se mohli vidět i osobně třeba.
+(PERSON2) No.
+Já vůbec nevím, jak ten, jak ten [LOCATION2] bude vypadat.
+Když tam třeba bude internet, tak třeba můžem klidně udělat call i za tejden.
+To já nevím.
+Prej tam internet je, někdo říkal, ale nevím jakej.
+(PERSON9) Jo, tak jo.
+Tak uvidíme.
+(PERSON2) Asi, asi jako <unintelligible/> -
+(PERSON9) Co?
+(PERSON2) No, asi podle toho, jak to uvidíme v tu chvíli, no, jestli nám bude připadat, že chcem dělat call za tejden, tak -
+(PERSON9) No, hele, já uvidím co, až tady dopatlám teďka ten grant [ORGANIZATION1], tak, tak začnu něco dělat a když tak se můžem sejít dřív.
+Ale asi nemá smysl se scházet, když nikdo nic mít nebude, že jo, takže -
+(PERSON2) Hm.
+(PERSON9) Takže já budu posílat akorát upomínky, co se má udělat a -
+(PERSON2) Jo.
+(PERSON9) A až tam bude teda něco, že to někdo udělal, tak se můžem sejít.
+(PERSON2) Jo.
+(PERSON9) Ale minimálně teda za těch 14 dní teda.
+Maximálně za těch 14 dní.
+<laugh/>
+(PERSON2) No a grant [ORGANIZATION1] ten se posílá už nějak brzo, ne?
+Ten, ta zpráva?
+(PERSON9) Co?
+(PERSON2) Ta zpráva na ten grant [ORGANIZATION1], se posílá nějak -
+(PERSON9) To se posílá ve čtvrtek, no.
+Ve čtvrtek.
+(PERSON2) Hm.
+(PERSON9) Takže -
+(PERSON2) A tu zprávu na grant [ORGANIZATION1] jsi nám ještě neukazoval?
+(PERSON9) Já ti nerozumím, tady někdo mluví, takže -
+Asi -
+<laugh/>
+(PERSON2) Tu zprávu na grant [ORGANIZATION1] jsi nám neposílal ještě?
+(PERSON9) Ještě ne.
+Ještě ne, protože jsem právě dneska ještě musel místo toho dělat nějaký čísla tam, do toho počítat.
+(PERSON2) Hm.
+<laugh/>
+(PERSON9) To je taky těžký počítat, když to nevíš.
+<laugh/>
+(PERSON2) Hm, hm, hm.
+(PERSON9) To je tam jako težší než nějaký neuronový sítě.
+<laugh/>
+(PERSON2) Tak jo.
+(PERSON7) <unintelligible/> za posledních dvacet let <unintelligible/> neuronku.
+(PERSON9) Vono se to pořád mění ale, že jo.
+<laugh/>
+Tak jo, tak to asi můžem ukončit pro dnešek, protože nic nemáme.
+<laugh/>
+Tak čau a někdy přijď.
+Někdy přijď zase na [ORGANIZATION6].
+<laugh/>
+(PERSON2) Jo, aha, já tam asi zejtra, zejtra budu.
+Zejtra máme zas divadlo.
+Jo, zejtra máme divadlo, jestli chceš.
+(PERSON9) Jo, zejtra je ještě divadlo.
+A to, jo, to můžu.
+Kdy to je?
+(PERSON2) Eh, zejtra ve 3 ve [ORGANIZATION5].
+(PERSON9) A to je pro všechny?
+Tam můžu taky přijít?
+(PERSON2) No, jo.
+(PERSON9) Já ještě uvidím, jak, jak to budu stíhat, ale možná bych moh.
+(PERSON2) Hm.
+(PERSON9) Víš, mě to hrozně zajímá, ale -
+(PERSON2) Hm, kdybys chtěl.
+(PERSON9) Jako tady ti divadelníci.
+<laugh/>
+(PERSON7) A když už jsme u toho.
+[PERSON2], ty tam pudeš z [LOCATION1]?
+(PERSON2) Eh, jo, to záleží na tom, jestli předtím budou mít nějakou schůzku se studentama, což spíš vypadá, že jo, takže spíš půjdu z [LOCATION1].
+(PERSON7) Dobře, tak já pojedu taky z [LOCATION1].
+Akorát nevím, co tu budu mezitím dělat, když si nebudu mít kam sednout, ale to se nějak vyřeší.
+(PERSON2) Já, když budu mít schůzky se studentama, tak s nima budu v labu, že jo.
+(PERSON7) Jo.
+<laugh/>
+No, dobře, tak já počítám s tím, že se sejdem někdy v nějakou rozumnou dobu na [LOCATION1] a pudem tam hromadně.
+(PERSON2) Jo.
+Ostatně, i kdybych jel z domova, tak jestli se stavím na [LOCATION1], nebo ne, není velká zajížďka, že jo?
+<laugh/>
+Takže bych šel stejně z [LOCATION1].
+(PERSON7) Dobře.
+(PERSON9) Tak jo, tak čau.
+(PERSON2) Čau, čau.
+(PERSON7) Čau.
+(PERSON2) Čau.

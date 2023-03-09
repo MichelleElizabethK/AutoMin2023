@@ -1,0 +1,62 @@
+21. 4. 2020 11:00
+
+
+    *
+
+™: chceme rejstrík?
+
+
+        *
+
+Ano, zjistit jak se delají tucná císla do rejstríku
+    *
+
+
+™: obrázky na Ceštine nahradit nebo doplnit?
+
+
+        *
+
+doplnit
+    *
+
+
+™: cizí obrázky citovat nebo generovat?
+
+
+        *
+
+Citovat (zjistit licence), generovat, když zbyde cas
+    *
+
+
+™: obrázky k one-hot vektorum
+
+
+        *
+
+poslat one-hot tikz ?
+    *
+
+
+™: nová psací strategie
+    *
+
+™: LMs: statistical
+    *
+
+™: Debiasing: [ [URL] | [URL] ]
+    *
+
+každej den pred spanim každej napsat na Slack co udelal
+    *
+
+TSD clánek
+
+
+        *
+
+[PERSON13] preklopit
+        *
+
+[PERSON12]+™ dodelat

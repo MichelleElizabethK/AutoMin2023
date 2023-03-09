@@ -1,0 +1,38 @@
+Meeting 15. 6., 2020:
+- Meeting ID: [NUMBER]
+- Meeting Password: 1234
+- Join URL: [URL1]
+- Attendance:
+- [PERSON7], [PERSON23], [PERSON9], [PERSON29], [PERSON21]
+Zoom: zmena linku!
+Deliverable:
+- [PERSON11] doplnuje non-autoregressive
+- [ORGANIZATION1] po nas chce popis parent modelu [PERSON15]:
+- tento popis zkracene i do naseho Deliverable (pasaz od [ORGANIZATION4])
+- [URL]
+- dokoncit nas deliverable (do stredy 17.6.)
+- Sekce 1 intro - doplnit ([PERSON9]?)
+- Sekce 2 (kontrola by [PERSON21])
+- TODO poznamky pro [PERSON9] (drobne technicke)
+- doplnit reference na parent modely v textu od [ORGANIZATION4]
+- Sekce 3 a 4 zkontrolovat
+- Sekce 5 zkontrolovana [PERSON21]
+- co chybi?
+- [PERSON7]: autoplagiátorství, done
+nabory:
+- druhe kolo callu? 
+- do kdy deadline? Dnes
+- Moznosti za nasi stranu:
+- ([PERSON29], [PERSON21], a [PERSON9] doplni sve moznosti na ct, pa, pondeli, pak trem nebo vic nabidneme tyto sloty doodlem)
+- ([PERSON9] muze tento tyden jen ctvrtek, ma cely tyden dovolenou)
+- ct:
+- [PERSON29] muze 11.30-14.00; jako asi muzu i pozdeji, ale remeslnici => nejiste
+- pa:
+- [PERSON29] muze 10-14.30
+- po:
+- [PERSON29] muze 9-14.00 a 14.30-15.30.
+- [PERSON17]: zitra vsem musime dat vedet a) bereme; b) nebereme; c) prip. druhe kolo pohovoru, pokud se do toho [PERSON29] opravdu chce..
+	V patek call
+
+
+ 

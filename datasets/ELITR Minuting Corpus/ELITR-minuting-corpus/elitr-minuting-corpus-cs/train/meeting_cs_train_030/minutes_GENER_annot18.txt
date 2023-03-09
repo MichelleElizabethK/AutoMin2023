@@ -1,0 +1,17 @@
+Schůzka [OTHER1], 2020-04-07
+Přítomni: [PERSON8], [PERSON23], [PERSON6], [PERSON18]
+
+Na schůzce bylo řešeno:
+
+- v části, kterou napsal [PERSON23] upraven nadpis
+- [PERSON23] zmíní v úvodu dense featchures, přidá do textu k Word2vecu známý obrázek
+- probing bude používán v současném významu a [PERSON23] ho vysvětlí v textu v 2.3.1
+- zjistit, jestli bude kniha barevná
+- barvy obrázků v knize budou stanoveny tak, aby byly viditlené i pro barvoslepé
+- [PERSON6] přepíše úvod a do textu zapracuje [PERSON18] poznámky
+- [PERSON8] zapracuje [PERSON18] poznámky
+- probrán význam termínů probing a hidden state
+- další meeting je 14. 4. 2020
+- napsat do příštího meetingu 10 stran textu
+
+Zápis sepsala: [ANNOTATOR1]

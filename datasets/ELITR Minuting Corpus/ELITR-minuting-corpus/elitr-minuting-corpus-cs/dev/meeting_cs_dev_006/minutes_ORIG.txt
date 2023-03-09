@@ -1,0 +1,31 @@
+[OTHER3] internal meeting
+1. 6., 2020:
+- Meeting ID: [NUMBER]
+- Meeting Password: 1234
+- Join URL: [URL1]
+- Attendance:
+- [PERSON16], [PERSON8], [PERSON3], [PERSON1]
+- [PERSON4] ma problemy, Zoom si vynucuje aktualizaci, ale neudela ji...
+Deliverable:
+- 10.6. internal review!
+- Co jeste chybi (psani a experimenty)?
+- [PERSON14]: XLM, Multi-source experimenty (s initial vysledky)
+- [PERSON3] Multi-source (s initial vysledky)
+- [PERSON11]? (asi hotovo, takze smazat TODO)
+- [ORGANIZATION4] (vedi o tom, ale mozna je s tim vic otravujme)
+- [PERSON1] (doplnit zbyvajici todos…)
+- interni reviewer asi [ORGANIZATION3] ([PERSON10], [PERSON2], [PERSON9], [PERSON13]? nekdo z MT teamu?)
+- [PERSON3] napise email
+Teacher-student:
+- Co presne chce [ORGANIZATION4] pro QA?
+- ktery smer en-cs?
+- jake experimenty?
+- [PERSON1] napise [PERSON5]
+[OTHER1]:
+- Do patku se cekalo na [ORGANIZATION4]
+- Rozeslane emaily dobrovnolnikum na [ORGANIZATION2] (prvni 4 lidi uz zrejme anotuji)
+- Potencialni problem s rychlosti ceskeho prekladu (hlavni bottleneck)
+- problem s parafrazema:
+- vypadek serveru v patek
+- problem se skripty po vypadku
+

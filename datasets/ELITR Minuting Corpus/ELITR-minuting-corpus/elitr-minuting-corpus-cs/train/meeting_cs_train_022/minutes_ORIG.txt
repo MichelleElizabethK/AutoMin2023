@@ -1,0 +1,31 @@
+[OTHER3] internal Meeting 22. 6. 2020:
+- Pozor, zmena odkazu! Je to nove zoom-3, nikoli zoom-9
+- [URL]
+- Meeting ID: [NUMBER], Password: 1234
+- One tap mobile
+- [PHONE]
+- [PHONE]
+- Attendance:
+- [PERSON19], [PERSON16], [PERSON17], [PERSON5], [PERSON11]
+- Call on Friday
+- Administrativa:
+- Timesheet - [PERSON3] chybí březen-červen
+- Máme (skoro) všude přečerpáno - neni velky problem
+- doplnit DPP kontraktory - WP3
+
+- [OTHER2]
+- TODO:
+- evaluate rest of the translation (while we still have contractors)
+- Deliverable:
+- Review [ORGANIZATION6]'s D6.2
+- Someone already went through it? ([PERSON7]?)
+- D3.1
+- what is missing?
+- ask [ORGANIZATION2] to provide missing information in section 4
+- Proofreaded:
+- Section 2, 4, 5?
+- Please check, whether there are notes related to your part of the deliverable 
+- [ORGANIZATION2]'s D5.2
+- [PERSON13] is running the performance experiments on AWS
+- no new emails so hopefully everything is going smoothly
+

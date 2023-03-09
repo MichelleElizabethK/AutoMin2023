@@ -1,0 +1,39 @@
+ Zápis ze schůzky
+
+Datum schůzky: 17.3.2020
+
+Téma: Schůzka projektu [OTHER1]
+Vedoucí schůzky: [PERSON2]
+Účastníci: [PERSON2], [PERSON9], [PERSON3], [PERSON12]
+
+Zápis:
+
+- Připomínky z minulé schůzky zapracované do dokumentu;
+- Vložené reference na citované články;
+- Vyřešeny warningy u citací;
+- Doplněny sekce a subsekce;
+- Interpretace embeddingů z překladu vložena do sekce Applications: podsekce Machine translation;
+- Návrh používat výhradně inlinové okraje;
+- Vybrat z článků zajímavé poznámky a rozepsat detailně: návrh na jejich vkládání do poznámky pod čarou
+      - Nezajímavé poznámky neřešit;
+- Transformer ELMo – třeba blíže prostudovat;
+- Multilinguální a bilinguální word embeddingy: potenciální téma na článek: zatím nerozhodnuto;
+- Úprava obrázků: řešit později;
+- Skripty: vložit do Makefilu a repozitáře: pokud možno sjednotit;
+- Vložené všechny nadpisy: dohodnuta struktura knihy
+      - Možno začít plnit textem;
+- Deadline první verze textu: 22.4.;
+- Další schůzka za týden: 24.3.
+
+
+
+
+
+
+
+
+
+
+
+Zápis předložila: [ANNOTATOR2]
+

@@ -1,0 +1,4 @@
+[OTHER1] book:
+- word embeddings
+- attention
+- contextual embeddings

@@ -1,0 +1,35 @@
+Účastníci: [PERSON15], [PERSON10], [PERSON9]
+
+Účel schůzky: stanovení deadlinů přípravy knihy
+
+Datum schůzky: 11. 2. 2020
+
+Shrnutí schůzky:
+
+- kniha má mít velikost A4
+- kniha je strukturována tak, že se nejdříve popisují diskrétní vstupy, ty se budou embeddovat, pak mohou být rekurentní sítě, konvoluční sítě
+- pak se tam popisuje, jak vypadají self attentiv sítě, a co se z té sítě dá dělat
+- buď se tam může dát clasifire, sequent labeling nebo autoregresivní decoding
+- uprostřed je vystřižená kapitola o computer vision - zmínit alespoň droppout
+- zamyslet se nad tím pro koho bude kniha určená
+- může tam být i seznam zkratek
+- za měsíc by se mělo vědět o čem kniha přesně bude
+- do 14. 2. najít všechny články, které k tomu jsou, přečíst si je a shrnout, co je relevantní
+- deadline na plán knihy je 14.3., kde by byly rozepsaný kapitoly, a co v nich přibližně bude
+- překlopit surveye a všechny věci co jsou udělané do osnovy knihy
+- první verze textu by měla být 22.4.
+- celká kniha by měla být 1.6.
+- na konci června se kniha má odevzdat recenzentům
+- zjistit kolik stojí barevný tisk knihy
+- možnost rozdělení knížky na kontextový embeddingy, slovní embeddingy a attentiony
+- další schůzka 25 .2. v 11:00
+- měl by se ještě napsat článek
+- v rámci surveye udělat survey, jestli někdo dělal něco ve stejném smyslu ještě dál a patří to pod kontextový embeddingy
+- v overlivu je k tomu spousta poznámek
+- 8. dubna je calling
+- 10. dubna je TSD
+- je potřeba mít ještě jeden článek ve Skopusu
+- může se něco poslat na Itad, aby se splnil grant [ORGANIZATION1]
+- může se zatím cílit na calling, a pak to poslat na black box
+- calling notification je 10. června a black box je 15. července
+- notification je 3. dubna

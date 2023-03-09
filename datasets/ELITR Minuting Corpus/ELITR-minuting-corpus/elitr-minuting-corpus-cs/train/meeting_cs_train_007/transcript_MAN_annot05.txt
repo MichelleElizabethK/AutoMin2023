@@ -1,0 +1,1127 @@
+(PERSON2) Haló?
+<other_noise/>
+Slyšíte mě?
+(PERSON17) Jo.
+(PERSON2) <unintelligible/> -
+Čus.
+(PERSON17) Čau.
+<other_noise/>
+(PERSON6) Čaute.
+<other_noise/>
+(PERSON2) Čus.
+(PERSON6) Čau, čau.
+<other_noise/>
+<unintelligible/> -
+<other_noise/>
+<unintelligible/>.
+(PERSON2) Jaktože nejsi v práci?
+(PERSON6) No -
+Eh -
+Neviem.
+Lebo -
+<laugh/>
+Lebo som robil z domu, no.
+(PERSON2) Aha.
+Já jsem tady v tý zasedačce.
+<other_noise/>
+(PERSON6) Ja si hovorim, že to neaký, že, že jak si otočený zvláštne.
+Hej, hej.
+A čo, není zabookovaná dneska?
+<other_noise/>
+(PERSON2) Já jsem si ji zabookoval.
+(PERSON6) Aha.
+<other_noise/>
+(PERSON2) Jinak tam nikdo ne-
+Jinak tam nikdo nebyl.
+<other_noise/>
+(PERSON6) <unintelligible/> vznikol minulý týždeň obrovský clash.
+(PERSON2) Já jsem to -
+Já jsem to sledoval, no.
+<other_noise/>
+<laugh/>
+(PERSON6) <unintelligible/> sbor.
+<laugh/>
+<other_noise/>
+Počkaj, ja si musím, ja vás nepočujem.
+<other_noise/>
+<unintelligible/> mi to nefunguje.
+<other_noise/>
+(PERSON14) Čekáme na [PERSON9] a na [PERSON4]?
+Nebo už jedeme?
+(PERSON17) Eh, [PERSON4] bude mít zase zpoždení.
+Trochu.
+<other_noise/>
+Ale, ale nevím jako na koho bychom mohli čekat, možná na [PERSON9].
+<other_noise/>
+Ale jinak nevím.
+<unintelligible/>.
+<other_noise/>
+(PERSON6) A [PERSON17], ty m-, kde máš kočičku?
+<other_noise/>
+(PERSON17) Hm, na počítači, ale teď jsem na mobilu.
+<laugh/>
+Dddd -
+<other_noise/>
+No, tak v principu, co chybí?
+Chybí něco k deliverablům ještě?
+Tam už máme snad všechno, ne?
+<other_noise/>
+(PERSON2) Já jsem se chtěl zeptat -
+(PERSON6) Eh -
+No?
+(PERSON2) Já jsem se chtěl zeptat, -
+(PERSON17) No?
+(PERSON2) jak to dopadlo s tím [PERSON18]?
+Von říkal, že ti posílal ty, ty časy, a že nedostal žádnou odpověď.
+<other_noise/>
+(PERSON17) Jo, takhle.
+Eh, no, to můžu přeposlat.
+<other_noise/>
+Eh, já jsem se na to moc nekoukal, protože, hm -
+Vypadá, vypadá, že to, že to nějak -
+(PERSON2) <unintelligible/> jenom jestlis to -
+Jestli jenom, jestlis to -
+(PERSON17) Nějak to řešil s [PERSON5].
+No?
+(PERSON2) Jo.
+Jenom, jestli to někdo dal do toho deliverablu.
+(PERSON17) Eh, ne.
+To asi ne.
+<other_noise/>
+Jestli to tam nedával [PERSON18], tak by bylo dobrý -
+Počkat.
+Přepošle konverzaci -
+Aby to tam ještě někdo přidal.
+Jako máme čas do zítra do pěti?
+(PERSON2) Hm.
+(PERSON17) Nebo tak nějak.
+Eh -
+(PERSON2) Jo.
+Já se na to mrknu.
+Třeba už to tam je.
+<other_noise/>
+(PERSON17) Jo.
+Počkej, já ti to přepošlu.
+Eh, eh, eh -
+<other_noise/>
+Tak.
+Jo, tak doufám, že tohleto je -
+To je ten poslední mail, co mně posílal ohledně tech konverzace.
+<other_noise/>
+No.
+Dobrá.
+To je jedna věc.
+Pak tam bylo -
+<other_noise/>
+co?
+A v tom našem deliverablu, tam už nic moc nechybí, ne, [PERSON6]?
+<other_noise/>
+(PERSON6) No, teraz som sa akurát díval, lebo som tam komitoval ja nejaké veci.
+Možno -
+(PERSON17) Hm.
+(PERSON6) iba pre teba, eh, lebo som si konečne prečítal tu vašu sekciu.
+(PERSON17) Hm.
+(PERSON6) A ja som tam <unintelligible/>, [PERSON17], nejakú jednu vetu neviem rozparksovať úplne.
+(PERSON17) Jo.
+Dobře, no.
+(PERSON6) A potom som menil tu záverečnú tabulku s tými -
+(PERSON17) Hm.
+(PERSON6) tvojmi výsledkami.
+Pretože neodkazoval si na ňu v texte.
+A tak som zlúčil tie dve tabulky dohromady.
+Tak se iba na to pozri, či to je zrozumitelné.
+Ja myslím, že hej.
+(PERSON17) Jo, ok.
+<other_noise/>
+(PERSON6) Nevyzerá to úplne akože najkrajšie, -
+<other_noise/>
+ale -
+(PERSON17) No, tak <unintelligible/> -
+<laugh/>
+Zkontroluju to.
+<other_noise/>
+Dobrá.
+<other_noise/>
+A jinak, jinak nic, eh -
+Conclusion už máme -
+(PERSON6) To je -
+(PERSON17) Nebo ne?
+(PERSON6) Conclusion -
+<laugh/>
+ešte dopisujem a -
+<other_noise/>
+No, teraz som to písal, ale, hm, mal som clashe práve s tými, týmito s-
+Lebo ja to robím cez Git.
+<other_noise/>
+Eh -
+(PERSON17) Hm.
+(PERSON6) Takže, hm, oni, lebo ty to tam dopisovali, eh, nie [ORGANIZATION3] -
+Eh, [ORGANIZATION1].
+(PERSON17) Hm.
+(PERSON6) Takže musím sa ešte pozrieť, čo teda dopísali.
+Lebo oni tam nemali vôbec žiadnu diskusiu nad tými ich výsledkami.
+(PERSON17) Hm.
+(PERSON6) Takže ešte musím si prečítať to, čo tam dopísali a nejak to zohľadniť do toho záveru.
+A chcel by som to dneska poslať tomu [PERSON4].
+<other_noise/>
+Nech to pozrie.
+<other_noise/>
+(PERSON17) Dobrá.
+Nějaké připomínky od [ORGANIZATION3] tam nemáme náhodou?
+(PERSON6) Eh, od [ORGANIZATION3] -
+Ja si myslím, že oni to vôbec ešte nečítali.
+Akože dneska -
+(PERSON17) No.
+(PERSON6) som si -
+Dneska som si updatol a bolo to bez akýchkoľvek zmen.
+A začali sa v tom delat zmeny až teraz a tie pochádzajú, podľa mňa, od [ORGANIZATION1].
+<other_noise/>
+(PERSON17) Ok.
+No, tak, eh -
+No, to je jejich věc, že jo.
+Jestli to zkontrolují -
+<other_noise/>
+nebo ne.
+(PERSON6) No.
+(PERSON17) No.
+<other_noise/>
+Dobrá.
+Takže -
+<other_noise/>
+Jo.
+No, dobře, tak v principu to je teda vyřešené, ne?
+Asi.
+<other_noise/>
+Z naší strany.
+(PERSON6) Hej, viacmenej hej.
+Akože -
+(PERSON17) <unintelligible/>.
+Dobrá.
+(PERSON6) Je to už v pomerne, v pomerne odovzdatelnej forme.
+Takže -
+(PERSON17) Hm.
+No -
+(PERSON6) Možno iba mám poslednú otázku na, eh, čo sa týka ešte toho deliverablu.
+<other_noise/>
+(PERSON17) Hm.
+(PERSON6) Na, na [PERSON14].
+Lebo -
+<other_noise/>
+my sme tam predtým mali tie -
+Stále neviem ako úplne vyriešiť, eh, tú sekciu o tých, eh, source variation, o tom paraphrasingu.
+Lebo teraz je to tak <unintelligible/> napísať.
+Teraz som to napísal ten príbeh tak, že, eh, ten 41 pivot nefungoval, tak som tam, tak sme sa rozhodli pre 5 pivot a -
+Lenže potom minulý týždeň som zistil, že nakoniec sa používa ten 41 pivot.
+(PERSON17) Hm.
+(PERSON6) Len s tým, že sa nejako, eh, filtrovalo, eh, tie výsledky.
+A to sa chcem práve spýtať [PERSON14], že ktoré jazyky tam ako filtroval?
+Ktoré sa ukazovali?
+(PERSON14) Jo.
+Ono -
+Jako byl to Bak, ale měl nějaký odůvodnění.
+A -
+<other_noise/>
+(PERSON6) Hm.
+(PERSON14) Bral si ty jazyky, které jakoby byly známé -
+<other_noise/>
+v [OTHER1].
+Takže pokud chceš, -
+(PERSON6) Hm.
+(PERSON14) tak já ti můžu tady jako pacenout, které jazyky to byly.
+Jako byly to ty známější jazyky.
+Takže se dá očekávat, že ty, které jsme filtrovali jakoby byly ty lepší.
+Protože -
+(PERSON6) Hm.
+(PERSON14) Že jo, to jako -
+Jazyky typu francoužština, němčina, a tak dále.
+(PERSON6) Jo.
+(PERSON14) A -
+(PERSON6) Lebo ja som videl, že si tam mal pri tom, eh, nejaký zoznam jazykov pri tom -
+(PERSON14) Jo, <unintelligible/>, no.
+(PERSON6) volaní t-, toho AJAXu.
+Ale tam ich bolo iba 5.
+A ukazovalo sa určite viac než, niekedy je 9 výsledkov.
+(PERSON14) Jo.
+Já jsem ti teďka poslal, eh, ty, které se braly.
+Nebo jako průnik s těma, co se braly.
+<other_noise/>
+(PERSON6) Eh, teraz si to do chatu poslal, nie?
+(PERSON14) Jo, jo.
+(PERSON2) Hm.
+(PERSON6) Aha.
+Ok, ok.
+Takže jasne.
+Tak tých je viac než 5.
+<other_noise/>
+Dobre.
+Hindi, hej, ale to tam vôbec nie je, takže -
+Hm -
+(PERSON14) Jo, to bylo jako průnik s tímto.
+(PERSON6) Jasne.
+Takže vlastne všetko okrem Hindi.
+Hej.
+No, tak neviem, no.
+Tak, eh -
+Neviem, jak to tam obkecať, no.
+Že lebo, lebo na, na tomto sa robil vlastne -
+<other_noise/>
+ten prvý experiment, eh -
+Alebo ten prvý, ten [OTHER1] 2.
+<other_noise/>
+Eh -
+(PERSON14) 2B.
+(PERSON6) 2B, no.
+A -
+(PERSON14) No, jakože hraje nám opravdu do karet to, že tohle jsou zrovna ty jazyky, u kterých tušíme, že ten parafrázovač bude lepší.
+Ale nevím <unintelligible/> -
+(PERSON6) Tak možem to tam napísať -
+Možem tam napísať tak, no.
+Ako -
+<laugh/>
+že zobrali sme -
+(PERSON14) No, je to takový na hraně.
+(PERSON6) Hej, akože je to na hrane, ale už som to -
+Není to úplne košer, ale veľakrát sa ospravedlňuje niečo dodatočne.
+Aj Bak.
+<laugh/>
+<other_noise/>
+Takže ako môžeme tam napísať, že proste volit tie, eh -
+Že nechceli sme brať ten 5 pivot, pretože ten je, predsa len není až tak diverzifikovaný.
+Čo je pravda, to som ako zisťoval minulý týždeň.
+<other_noise/>
+Tak sme zobrali ten 41 pivot, ale vyselektovali sme z neho iba tie ako najsilnejšie jazyky, aby ten uživateľ nebol zahltený výsledkami.
+Tak to je podľa mňa ako super, zlatá stredná cesta a snad to ako -
+(PERSON14) Tak jo.
+<other_noise/>
+(PERSON6) No.
+Takže takto -
+<other_noise/>
+to tam napíšem.
+<other_noise/>
+Dobre.
+(PERSON17) Ok.
+Tak jestli to tak dali -
+(PERSON2) Mimochodem -
+(PERSON17) No?
+(PERSON6) Hm.
+(PERSON2) Eh, díval jsem se do toho [ORGANIZATION3] deliverablu na ten autoregresivní překlad a ty časy už tam jsou od [PERSON5], nejspíš, daný.
+(PERSON17) Jo.
+<other_noise/>
+(PERSON2) Ty, co měřil [PERSON18].
+Takže to už je hotový.
+(PERSON17) Jo, dobrý.
+Takže to máme to.
+A [ORGANIZATION2] jsme vlastně, jak [PERSON4] říkal, že teda zkontroloval ten jejich ten.
+Takže to máme taky vyřešené.
+Takže -
+Let's move on.
+<other_noise/>
+Tak měli bychom -
+(PERSON6) <unintelligible/>.
+(PERSON17) začít řešit -
+<other_noise/>
+to -
+Prezentaci.
+(PERSON6) Eh -
+(PERSON17) To tak jakoby kladl [PERSON4] na srdce.
+(PERSON6) Eh, to tiež.
+Ale neviem, či ste si všimli -
+(PERSON17) <unintelligible/> -
+<other_noise/>
+(PERSON6) Neviem, či ste si všimli, ale pred dvoma dňami, alebo pred troma dňami -
+No, proste cez víkend nám [PERSON5], eh, na GitHube pridelil -
+<other_noise/>
+úkol.
+(PERSON17) Aha.
+<unintelligible/> úkol.
+(PERSON6) Že integrácia, intengrácia Albans translation do Firefoxu do konca júla.
+<laugh/>
+(PERSON17) Do konc-
+(PERSON6) Čo ma moc teda nepotešilo teda.
+<laugh/>
+(PERSON17) No -
+Do konce července.
+Dobře, <unintelligible/>.
+(PERSON2) Mně taky něco [PERSON5] přidělil na tom, na GitHubu.
+(PERSON6) No -
+No, to si asi tam tiež.
+Ja neviem, či ťa už považuje za, za nášho alebo za jeho.
+Tak -
+(PERSON17) Jo.
+Albans t-
+Jo, už to vidím.
+<other_noise/>
+Eh -
+(PERSON14) No, já bych se tak zeptal, co to vůbec znamená?
+Nebo?
+(PERSON6) Ja tiež neviem, čo to znamená.
+<other_noise/>
+<other_yawn/>
+(PERSON14) Jakože k-, kdybychom měli nějaký softwarový plán, co to má dělat, tak bychom jako asi tušili.
+Ale my nic takovýho nemáme, že jo.
+(PERSON6) No.
+(PERSON17) No -
+Takhle, <unintelligible/> má být ještě dnes-, teda tento týden call?
+Eh, asi ne, ne?
+Nebo?
+(PERSON6) Mňa sa zdá, že už nie.
+<other_yawn/>
+Že už nemá byť.
+(PERSON17) Dobrá, no.
+Tak v tom případě je třeba napsat [PERSON5] přímo, co -
+<other_noise/>
+si od toho představuje nebo -
+(PERSON2) Co tím myslí.
+(PERSON17) No.
+(PERSON6) No, ako teoreticky, ak by to malo byť iba, eh -
+Lebo ja neviem proste, veľa z toho by podla mňa mali naprogramovať ty [ORGANIZATION2], hej?
+Akože tak čo my máme programovať?
+<unintelligible/> -
+(PERSON17) Hmm -
+No, však právě.
+(PERSON2) No, von tam -
+(PERSON6) No a -
+(PERSON2) Hele, já teď koukám na tu -
+(PERSON6) My by sme mali dodať iba tie modely, predpokládám nejak.
+(PERSON2) Já teď na tu GitHubovou issue a je tam esajnovanejch prostě 10 lidí.
+A jeden z nich je, je ten [PERSON1].
+<other_noise/>
+Takže já bych to řešil s ním.
+Jako říct mu -
+(PERSON6) Hm.
+(PERSON2) ,,Tady vy jste zodpovědný na integratio-, za integration, tak řekněte, co máme jako dělat."
+<other_noise/>
+(PERSON6) Hm.
+(PERSON2) Ne?
+(PERSON17) <unintelligible/>.
+(PERSON6) No, ako ja si to viem pre-
+Jako ja si to predstavujem tak, že my sme teraz ako nejaké veci odzkúšali.
+Teraz v tom [OTHER1].
+<unintelligible/> teraz jako pomáha ten back translation.
+<other_noise/>
+Tak ako v tej úplne simplistickej verzi by sme vytvorili, eh -
+Alebo by výsledok mala byť nejaká integrácia, kde sa bude ukazovať ten back translation.
+<other_noise/>
+Pri prekladaní formulárov.
+<other_noise/>
+No, ale to, všetku tu mašinériu by mali, podla mňa, naprogramovať -
+<other_yawn/>
+<unintelligible/>.
+A my by sme im mali dodať iba tie modely.
+(PERSON17) No, to by bylo -
+(PERSON2) No.
+(PERSON17) ideální.
+Eh, <unintelligible/> na ně takovým způsobem tlačit, no.
+(PERSON6) No.
+Lebo oni proste tie modely, eh, vlastne budú používať, hm, aj na ibound, inbound translation.
+Takže ti-, ten, ten -
+Proste tu mašinériu už budú mať ako naja-
+<other_noise/>
+eh, naimplementovanú.
+Tak, ehm -
+Ja myslím, že to takto ako by malo byť, no.
+<other_noise/>
+(PERSON2) Podle mě je to jako primárně, eh, jejich práce.
+(PERSON6) No, jasne.
+(PERSON2) Ale je potřeba je jako -
+Je potřeba jim to říct, že si to myslíme.
+Aby to nebylo tak, že si každej bude myslet, že je to práce pro <unintelligible/>.
+(PERSON17) No, určitě.
+Určitě se to musí, no.
+No.
+Jasně.
+(PERSON6) No, akože my musíme zadefinovať, čo to znamená ako ten nejaký -
+<other_noise/>
+Albans translation pilot.
+Alebo proste <unintelligible/>.
+(PERSON17) Hm.
+(PERSON6) No a ak to zadefinujeme, že to je teraz iba back translation.
+A že, eh, proste, hm, ten source complexisi, complexity sa úplne neukázal ako funkčný, eh, prototyp.
+Source variation sice funkčný je, ale museli -
+<other_noise/>
+by sme ho pretrénovať pre niečo, čo ako funguje -
+<other_noise/>
+lepšie offline.
+<other_noise/>
+Takže niečo v [PROJECT1].
+<other_noise/>
+No, takže -
+(PERSON14) Jo.
+J-, já mám takový pocit, že to <unintelligible/> problému mi-, by měli dělat lidi, co pracují s uživatelským rozhraním.
+Protože my jako nemůžeme -
+(PERSON17) Hm.
+(PERSON14) Jakože nemáme kompetenci na tom, abychom řekli:
+,,No, tak bude se teda jako někde zobrazovat back translation, protože nevíme, jak se to má dělat správně."
+(PERSON6) No, nie, ale my im musíme -
+My im musíme povedať, že -
+(PERSON17) Hm.
+(PERSON6) my sme zistili, že back translation jednoducho funguje pri Alban translation a chceme, aby sa tam kdesi zobrazoval.
+Zariaďte to nejak.
+(PERSON14) Jo.
+(PERSON17) No, jasně.
+Nějaké, nějaké ty výsledky bysme měli zapracovat.
+(PERSON6) Alebo -
+<other_noise/>
+Alebo, alebo takto, po-, hm -
+Že robili sme tu aj takto nejak ako, eh, experimenty, ukázalo sa to.
+<other_noise/>
+Takže už ako to tam vy naprogramujete, že sa to bude uživatelom zobrazovať, to je už ako na vás.
+Ale my proste zabezpečíme nejaký, eh, model, ktorý bude dodávať výsledky toho, té back translation.
+Alebo prípadne paraphrasingu, keď by sme ešte -
+<other_noise/>
+tam chceli byť velmi akčný.
+<other_noise/>
+(PERSON17) Ok, no.
+Tak jo.
+Eh -
+<other_noise/>
+Tak buďto -
+Já nevím, jestli to napsat jako rovnou do toho -
+<other_noise/>
+do toho vlákna na GitHubu, že jo, ať je to, ať je to transparent.
+(PERSON6) No, asi možno -
+(PERSON17) To bude možná -
+(PERSON6) Hej, to bude asi najlepšie.
+(PERSON17) No.
+<other_noise/>
+Dobře.
+<other_noise/>
+Eh -
+<other_noise/>
+Takže to bychom měli tohle.
+No a teď, teď ty slidy.
+<other_noise/>
+Já jsem tak přemýšlel, že bychom je řešili až příští týden.
+<other_noise/>
+Tam máme po tom, po, po tom svátku ještě dva týdny, ne?
+Na to.
+Jestli se nepletu.
+(PERSON6) No, hej, tak nejak, no.
+(PERSON2) Příští týden, mimochodem, je [ORGANIZATION6].
+<other_noise/>
+(PERSON17) Eh, [ORGANIZATION6] je ale online jenom, ne?
+<other_noise/>
+(PERSON2) Jo, ale, hm, z-, zabere to nejspíš jako -
+<other_noise/>
+Že jo, já už nebudu na [OTHER2]-
+Nebo jako budu na [OTHER2], kolik?
+Deseti procentama?
+Takže jako něco přicmrndnout můžu, ale už budu pracovat pro ten [ORGANIZATION3].
+<other_noise/>
+Nicméně -
+(PERSON17) Jo, jasně.
+(PERSON2) Nicméně -
+<other_noise/>
+Eh -
+Zorganizujem tady v [LOCATION3] nějaký jako společný promítání [ORGANIZATION6].
+<other_noise/>
+Takže i, i jako, kdyby vy jste chtěli se -
+<other_noise/>
+přidat, tak, tak přijďte sem.
+A já, já to asi ještě pak napíšu na [ORGANIZATION4].
+<other_noise/>
+(PERSON17) Ok.
+(PERSON2) Takže -
+(PERSON17) To je v které dny když tak?
+(PERSON2) Je to od neděle do pátku.
+(PERSON17) Počkat, od neděle do pátku to je i s-, co?
+S workshopama, nebo?
+(PERSON2) I s tutoriálama a s workshopama.
+<other_noise/>
+(PERSON17) Jo, jo.
+Jo.
+(PERSON2) I když počkej, to si nejsem jistej.
+<other_noise/>
+Možná ty workshopy jsou až pak.
+<other_noise/>
+Ne, dobr-
+Ne, je to do desátýho včetně workshopů.
+(PERSON17) Ok.
+(PERSON2) Jo.
+<other_noise/>
+A desátýho je ten, je ten, je to WNGT.
+<other_noise/>
+(PERSON17) Jo, jo, jo.
+<other_noise/>
+Ok.
+<other_noise/>
+Dobrá.
+No -
+<other_yawn/>
+Tak, eh -
+Já nevím.
+[PERSON6] -
+<laugh/>
+Moh-, mohl bys -
+(PERSON6) No?
+(PERSON17) Připravit nějakou hru-, hrubou, hrubou osnovu těch slidů nebo něco takového?
+<other_noise/>
+Nebo máš, máš -
+(PERSON6) No, asi hej.
+(PERSON17) Přemýšlel jsi nad to-, nad tou struk-, nějakou hrubou s-
+<other_noise/>
+Přemýšlel jsi nad nějakou hrubou strukturou?
+Jako <unintelligible/>.
+(PERSON6) Ja neviem vôbec akože kolko tých slidov, eh, a že aký budem mať časový slot alebo -
+<other_noise/>
+Že -
+(PERSON17) Eh, dobrá připomínka, to se zjistí.
+(PERSON6) Že či to mám koncipovať ako proste naozaj -
+Alebo že to proste budeme robiť zatial tú štruktúru ako top down.
+Že pôjdeme zvrchu, a keď prípadne -
+<other_noise/>
+tak tam pridáme slidy nejaké ďalšie.
+(PERSON17) Eh -
+Ne, ne, ne.
+Do-, dobrá, dobrá věc, to se zeptám [PERSON5].
+Ten by to mohl vědět.
+Von asi někde i dával to, už možná nějaký program, co tam bude.
+Eh -
+No, dobrá.
+(PERSON6) Lebo náš deliverable máš tak na 40 stran.
+Takže o tom sa dá hovoriť aj hodinu, ak by sme -
+<laugh/>
+<other_noise/>
+mali.
+(PERSON17) J-, jasně.
+Jasně.
+Já bych tipnul, že budeme mít, podle mě, 15 - 30 minut.
+<other_noise/>
+(PERSON6) Hm.
+Jo.
+(PERSON4) Aho-, ahoj, ahoj.
+Já už tu chvíli jsem.
+Už to sleduju.
+A, eh -
+(PERSON6) Ahoj.
+(PERSON17) <unintelligible/>.
+(PERSON4) <unintelligible/> už vod tý integrace, eh, jsem tady, ale ještě jsem nemoh pořádně mluvit.
+Takže -
+(PERSON17) <unintelligible/>.
+<other_noise/>
+(PERSON4) Eh -
+Postupujete dz-, správně.
+Eh, zatím -
+<laugh/>
+nám nedali jasný zadání, co to znamená integrovat.
+A, eh, jako těžko, eh, s-, eh, těžko my budem, eh, něco přímo dělat do [ORGANIZATION2], když vůbec nevíme jak.
+Takže s-
+<other_noise/>
+Vopravdu zeptat se [PERSON1] a, eh, potom zjistit, eh, teda jakým způsobem voni maj naplánovaný, že bude probíhat zavolání [PROJECT1].
+A, eh, v podstatě, eh, s-, eh, jako to, co my, eh, jim tam můžeme poskytnout je [PERSON14] kód, eh, kterej stejně už je na GitHubu.
+Aby ho jako správným způsobem, eh, přeparcelovali, jo?
+Aby prostě, eh, se volal, eh, [PROJECT1] tím způsobem, jak je potřeba volat ho.
+<other_noise/>
+Eh, a -
+(PERSON6) Hm.
+(PERSON4) potom dodat jako ty modely, ale ty stejně pravděpodobně budou, eh, ty student's modely, který [ORGANIZATION3] taky udělá.
+A uživatelský rozhraní, eh, f-, v, eh, [OTHER1] je nějaký, že jo, ale musí to úplně překopat ty, ehm, eh, s-, ty lidi z UI, nějakým způsobem.
+Nebo lidi vod [ORGANIZATION2] nějakým způsobem, jo?
+(PERSON6) Hm.
+(PERSON17) Hm.
+(PERSON4) A to prostě, eh -
+My na to sice jako můžeme věnovat -
+Ale ještě, eh, je-, jeden argument, kterej tam je je, že my máme na, ehm, integraci 3 člověkoměsíce na celek, myslím.
+Jo?
+To se podívejte.
+Ještě možná míň.
+Jo?
+(PERSON6) Aha.
+(PERSON4) To znamená, že, ehm, z toho vopravdu vyplývá, že v-, po nás by neměli chtít programování něčeho, jo?
+(PERSON6) Hm, hm.
+Hm.
+(PERSON17) Jo.
+(PERSON4) Měli by určitě -
+(PERSON6) Že my proste dodáme len tie modely a -
+A už nech si s tým robia, čo chcú.
+(PERSON4) Jo.
+Nějaký jako přizpůsobení něčeho, to je jako v pohodě.
+Ale prostě, -
+(PERSON6) Hm.
+(PERSON4) eh, aby se někdo teďka přes léto, eh, jako ty-
+Nebo dokonce do toho, aby 3 lidi se vrhli a, a, eh, do toho, eh, konce července jako 100 %, eh, s-, času tomu věnovali, tak by -
+(PERSON17) Hm.
+(PERSON4) vysálo rozpočet, kterej je jako na, eh, zbytek projektu, jo?
+Čili vopravdu -
+(PERSON6) Hm.
+(PERSON4) eh, maximální -
+Já teď samozřejmě nevím, jak je na tom jako [PERSON14], ale maximální by bylo prostě -
+<other_noise/>
+teďka třeba -
+(PERSON14) Hm.
+(PERSON4) ten [PERSON14], eh, pracovní čas v červenci.
+A i to si myslím, že jako nelze dělat bez zadání, že jo.
+Takže, eh -
+(PERSON17) Jasně, no.
+(PERSON4) No.
+A, eh, pak další, eh, je ty slidy.
+Eh, já jsem právě to tam jako připsal a jsem rád, že jste se pustili do toho probírání, jak je nachystat.
+Právě protože je ještě čas, aby pak jsme nebyli jako nepříjemně zaskočený, že to potřebujem.
+Ale, eh, důležitý je, že vod [PERSON5] musí vzejít, eh, agenda na ten meeting.
+A z ní bude jasný, kolik toho má bejt.
+A, eh -
+(PERSON6) Hm.
+(PERSON4) Jak to říkal, eh, [PERSON6], tak já si myslím, že my máme bohatě dost vobsahu samozřejmě.
+Takže, eh -
+(PERSON6) Hm.
+(PERSON4) Prostě se to bude muset jako smysluplně redukovat, aby se to tam -
+<other_noise/>
+Eh, se to tam vešlo.
+To, co budou chtít.
+<other_noise/>
+No.
+Takže, takže holt za mě, za mě jako postupujete -
+(PERSON6) Hej.
+(PERSON4) dobře.
+A to, že zbytek projektu je poněkud, eh, dezorganizován, to, hm -
+(PERSON6) Hej, hej.
+(PERSON4) není naše starost velká.
+<laugh/>
+(PERSON17) Hm, dobrá.
+(PERSON6) Eh, [PERSON4], ja ti pošlem, ešte som to nestihol, -
+<other_noise/>
+ale nejaké <unintelligible/>, asi dneska večer ti pošlem iba ten, aby si videl -
+(PERSON4) Ten conclusion.
+(PERSON6) ten conclusion.
+No.
+(PERSON4) Jo.
+(PERSON6) Tak nejaký ten úvod, záver.
+Prípadne možno, že úvod i do tých kapitol, toho jako nebude veľa.
+(PERSON4) Hm.
+Jo.
+Dobře.
+(PERSON6) No.
+(PERSON17) No.
+Takže, takže co?
+Tak já napíšu [PERSON1] ohledně té implementace.
+[PERSON5] ohledně agendy.
+A jinak to je asi pro tento týden všechno, ne?
+(PERSON4) Eh, ano.
+A ověřit, jestli je call.
+A ještě jedna věc k tomu, eh, ov-, ohledně tý agendy.
+Jestli plánuje nějakej remote, eh, t-, c-, cvičnej.
+<other_noise/>
+<unintelligible/> -
+(PERSON17) Jo.
+Jo, jasně.
+To je v, to je v poznámkách.
+No.
+(PERSON4) <unintelligible/> -
+(PERSON6) No, ja som sa díval do, ja som sa díval že do -
+Eh, alebo jak je plánovaný ten meeting v Lucemburku, tak ten prvý deň je podla mňa ako nejaký, nejaká skúška, nejaká generálka.
+(PERSON4) Aha.
+Dobře.
+Jo.
+No.
+Ale já teda určitě nemůžu jako cestovat nikam.
+(PERSON17) Hm.
+(PERSON6) Jasne, no.
+(PERSON4) A, eh, 23., což je ten čtvrtek, jsem si jako vyhradil, že budu v Praze a můžu bejt -
+<other_noise/>
+jako online.
+I, i celej den.
+(PERSON6) Hm.
+(PERSON17) Hm.
+(PERSON4) Jo?
+Takže -
+(PERSON6) Hm.
+(PERSON4) S tímhletím počítám.
+Ale s-
+[PERSON6], jak to nakonec dopadlo s tebou?
+Sou-, souhlasíš a seš oho-, ochotnej tam zajet fyzicky?
+<other_noise/>
+(PERSON6) No -
+<other_yawn/>
+Ako počítam s tým momentálne, že áno.
+(PERSON4) Jo.
+<other_noise/>
+<unintelligible/> -
+(PERSON6) Ale, ale tak ja neviem, jak se to, eh -
+Hej.
+J-, ja sám osobne s tým počítam.
+Je otázka, čo sa zmení dovtedy, ako -
+(PERSON4) Hm.
+(PERSON6) Ale to my neovplyvníme.
+(PERSON4) Možná už se dá jet -
+Možná už se dá jet po zemi, teda.
+Jako nejsem si úplně jistej, eh, jestli vlaky jsou smysluplný nebo nejsou.
+<other_noise/>
+Čili možná jako proveď, eh, dotaz na pozemní dopravce, no.
+Do toho Lucemburku -
+(PERSON2) A leta-
+(PERSON4) se stejně vždycky lítalo s přestupem, jo?
+<other_noise/>
+Anebo <unintelligible/> -
+(PERSON2) A letadla nefungujou?
+(PERSON4) Cože?
+(PERSON2) Letadla už lítaj, ne?
+(PERSON4) Eh, no, jako někdo mi říkal, že se dokázal -
+[PERSON11] -
+[PERSON11] se dokázal dostat do -
+<other_yawn/>
+eh, Dublinu.
+<other_noise/>
+A než -
+Von právě pokračoval ještě někam dál.
+A letadel je málo a jsou drahý, ale, eh, do Lucemburku to vždycky taky -
+<other_noise/>
+bylo blbý.
+Takže, eh, možná už se dá i koupit letenka do Lucemburku, no.
+(PERSON2) No, já mys-
+<other_noise/>
+Hele, 3000 -
+Ne, sorry.
+No, 3000.
+<other_noise/>
+Zpáteční.
+<other_noise/>
+(PERSON4) Jo?
+(PERSON6) Praha - Lucemburk?
+(PERSON2) Jo.
+(PERSON4) No, tak super.
+(PERSON2) S jedním přestupem.
+<other_noise/>
+(PERSON4) No, tak to je dobrý.
+Tak -
+(PERSON2) <unintelligible/> -
+(PERSON4) [PERSON6], jestli, jestli -
+(PERSON2) Jako zhruba.
+Nekoukal jsem na přesný datumy -
+<other_noise/>
+Ale někdy jako za 14 dní.
+(PERSON4) Jo.
+<other_noise/>
+No, tak to je, to je jako dobrá zpráva, že by se tam [PERSON6] vopravdu moh bejt schopnej dostat.
+<laugh/>
+Tak [PERSON6]-
+(PERSON6) Počkaj -
+Ale, ale počkaj.
+Ale však aj [PERSON17] ide, nie?
+(PERSON4) Jo?
+(PERSON17) No, to jsem se chtěl teďka zeptat, že jestli -
+<laugh/>
+Jestli má jet jenom, jenom [PERSON6] nebo mám se přidat taky?
+<other_noise/>
+(PERSON2) <unintelligible/> -
+(PERSON6) Ja počítam s tým, že ideme obaja.
+(PERSON17) No, původně to byl, no, plán.
+<other_noise/>
+Dlouhodobě jsme s tím asi tak počítali.
+(PERSON4) Jo.
+Tak to jsem akorát já nevstřebal tudle informaci, abych si ji -
+(PERSON17) Hm.
+(PERSON4) jako dostatečně zapamatoval, jo?
+(PERSON17) Jo.
+(PERSON4) Takže klidně dva.
+(PERSON17) Hm.
+Ok.
+(PERSON6) Jo.
+Ok.
+(PERSON4) Protože peníze na cestovný tam -
+My jsme to teďka jako různě vysáli, ale, eh, s-, eh -
+Nebo vysáváme těma, eh, těma GPUčkama nějakejma.
+Ale vono víc GPUček už se ani koupit nedá, protože pro ně nemáme příkon.
+Takže teď jsme absolutně na limitu.
+Jako na žádné další, eh, výdaje na, na hardware -
+<laugh/>
+nejsou smysluplně použitelné, protože není jak to zásobit elektřinou.
+<laugh/>
+(PERSON2) A, [PERSON4], eh, když už jsme -
+(PERSON4) No?
+(PERSON2) u vý-, u výdajů na cestovný a na konference.
+Eh, konferenční poplatek na [ORGANIZATION6] z toho jde zaplatit?
+(PERSON4) Jo, určitě.
+(PERSON2) Jo.
+(PERSON4) Jestli tam -
+(PERSON2) Tak já si to zejtra koupím.
+(PERSON4) No, poč-
+Eh, eh -
+(PERSON2) Máme, máme paper na workshopu a je tam podepsanej [OTHER2].
+(PERSON4) Tak to je naprosto v pohodě.
+To je ideální.
+(PERSON2) Jo.
+(PERSON4) No.
+Super.
+A to ale už bude asi drahý teda, možná.
+To se prošvihlo, ne?
+(PERSON2) Už je, už je <unintelligible/>, no.
+(PERSON4) <unintelligible/>.
+(PERSON2) Ale já nevím, podle mě to není vo tolik dražší.
+(PERSON4) Vo 25 dolarů, myslím.
+(PERSON2) No, tak to, to s-
+To není takovej problém, ne?
+(PERSON4) Není to jako smrťák, no.
+(PERSON2) No, dobrý.
+(PERSON17) Jinak co se týče toho promítání, tak, eh, tam s-, oni to budou poskytovat ty, ten online přenos zadarmo, nebo -
+<other_noise/>
+je tam potřeba nějaká regi-
+(PERSON2) No, je -
+Právě se tam musí zaregistrovat.
+Ale jako když tady budou registrovaný dva lidi -
+(PERSON17) Hm.
+(PERSON2) Jako já a [PERSON10], tak -
+Nebo možná [PERSON12] to taky má.
+<other_noise/>
+Tak to je jako v pohodě.
+Jde spíš vo to, aby tady vždycky byl někdo, kdo je registrovanej.
+Aby to moh pouštět na to plátno.
+(PERSON4) No.
+(PERSON17) Hm.
+(PERSON4) Už je registrovanej [PERSON15] a [PERSON7].
+Eh, myslím si, že asi každej, jestli se nepletu.
+(PERSON2) Hm.
+(PERSON17) Jestli je [PERSON15], -
+<other_noise/>
+tak bude moct být paralelní promítačka v S1?
+<other_noise/>
+<laugh/>
+(PERSON4) To už si domluvte.
+Já, já budu <unintelligible/> -
+(PERSON17) No?
+(PERSON4) Já budu vlastně v Praze, to je fakt.
+Ale, ale ne jen jako v edera-
+Ne, přes [ORGANIZATION6] ne.
+Jenom, eh -
+Ne, nebudu, nebudu.
+Eh, no.
+To si domluvte, jak chcete.
+Ja nebudu bohužel -
+(PERSON2) To spíš -
+
+To spíš, [PERSON17], přijeďte do [LOCATION3], ne?
+My tady máme suprovej chlazenej meeting room.
+<other_noise/>
+(PERSON17) Jo, jako můžem <unintelligible/> -
+(PERSON2) <unintelligible/> tohleto.
+(PERSON17) Tu možnost bych tam chtěl mít.
+No, můžem.
+Tak to je vyřešené snad.
+<other_noise/>
+Eh -
+No a teď už je to snad opravdu všechno, ne?
+(PERSON2) Hm.
+(PERSON17) Nebo, hm -
+(PERSON6) No, tak ešte teoreticky -
+(PERSON17) Nebo -
+No?
+(PERSON6) Ešte -
+Eh, ja s-, s tebou, [PERSON17], musíme ešt-
+Ale tak, hm, neviem.
+Behom tohto týždňa buď sa ja zastavím na <unintelligible/> -
+<other_noise/>
+Zastavím na [LOCATION2] -
+(PERSON17) Hm.
+(PERSON6) A preberieme toho, eh, že čo by sme zadali tomu z [LOCATION].
+<other_noise/>
+(PERSON4) Jo.
+No.
+(PERSON17) Ok.
+(PERSON4) No.
+<unintelligible/>.
+(PERSON6) Lebo on teda napísal, že ok, že súhlasí.
+Alebo že teda ako ne-, necukol teda.
+<other_noise/>
+(PERSON4) Ano.
+Na-, ne-, necuknul.
+Eh, co teda pořád je problém je, jak platit.
+Já mám, eh, vod toho, eh, s-, eh, j-, jednoho člověka, kterýmu jsem posílal českou smsku -
+<other_noise/>
+Tak mám jako špatnou zprávu, eh, že nějak ani s ní se mu -
+Ani, eh, českou simku.
+Eh, tak ani s českou simkou, se mu z Německa nepodařilo zařídit si v Čechách účet.
+A -
+(PERSON6) Hm.
+(PERSON4) Eh, s-, eh, to, co teďka vypadá jako ta jediná možnost jsou takový ty společnosti, jak říkal [PERSON3] -
+<other_noise/>
+Jako [ORGANIZATION5].
+Eh, takže teďka [PERSON9] zkusí zavolat někomu, ne přímo [PERSON8], aby ho nerozčílila.
+Ale jestli je možný prostě vyplácet na jeden společný účet, eh, kde, eh, variabilní symbol odlišuje, co to je za osobu.
+<other_noise/>
+(PERSON2) No, a když máš TransferWise, tak, tak máš normálně číslo účtu český.
+(PERSON4) Jo?
+(PERSON2) A dá se to u-, udělat -
+No, já jsem takhle, já jsem takhle na-, v tom [ORGANIZATION3] s-, přes ten TrasferWise.
+Jsem si udělal prostě na netu a máš normálně bankovní účet.
+(PERSON4) Jo.
+<unintelligible/> -
+(PERSON2) Kterej se tváří navenek jako lokální.
+<other_noise/>
+(PERSON4) A je to prostě tvoje číslo účtu přímo?
+Není to, není to -
+(PERSON2) Jo.
+(PERSON4) <unintelligible/>.
+(PERSON2) Je to normálně tvůj nějakej IBAN <unintelligible/>.
+Nebo já nevím, jak, jak to funguje s českou lokalizací.
+<other_noise/>
+(PERSON4) Hm.
+(PERSON2) Já vím, jak to funguje s britskou lokalizací.
+A tam to je tak, že je to vopravdu lokální.
+(PERSON4) Normální <unintelligible/> -
+<other_noise/>
+Hele, pošli prosím tě todlecto jenom [PERSON9], ať to víme jako možnost pro ty, eh, pro ty lidi.
+(PERSON2) Hm.
+(PERSON4) Jo?
+Ono jich je víc a potřebujeme i prostě někoho, eh, z-, jako z [LOCATION1], a tak.
+Jo?
+<other_noise/>
+Takže -
+<laugh/>
+tam prostě jsou -
+<other_noise/>
+(PERSON2) Já -
+Hele, počkej, já s-
+Tak vydrž -
+<other_noise/>
+tady 10 vteřin.
+(PERSON4) Jo.
+No, ale, eh -
+<unintelligible/> já jsem totiž, já jsem na mobilu a <unintelligible/> -
+(PERSON2) Já s-
+Já se do toho zaloguju a -
+<other_noise/>
+Podívám se, jestli mám český číslo účtu.
+(PERSON14) Jo.
+Já očekávám, že po mně už se asi nic chtít nebude.
+<other_noise/>
+Takže -
+(PERSON2) Hm.
+(PERSON14) bych se rozloučil.
+(PERSON4) Asi -
+Asi ne.
+Jenom já jsem ještě, eh -
+[PERSON14], už, už nic doufám nedlužím?
+(PERSON14) Eh, no, posudek ještě teda.
+(PERSON4) Posudek.
+<laugh/>
+Ano, ano, to je pravda.
+Posudek dlužím do zejtra.
+Jo.
+Ale -
+<laugh/>
+t-, ten dlužím už, eh, tý s-, eh, [PERSON13].
+Takže -
+To, ta už se připomínala.
+Ano, ano.
+Posudek dlužím.
+A -
+(PERSON17) Jo, když tak ještě než odejde [PERSON14], tak, eh, poslední věc.
+Příští pondělí asi nebudeme mít call, ne?
+Přesuneme ho nebo úplně -
+<other_noise/>
+zrušíme?
+<other_noise/>
+Asi by to bylo dobré spíš přesunout na úterý nebo něco.
+<other_noise/>
+(PERSON4) A já budu stejně na dovolený, takže já jsem mimo hru teď, no.
+(PERSON17) No, tak v tom případě můžeme jenom tak interně udělat jen s [PERSON6], že jo.
+Budem řešit slidy -
+(PERSON6) Tak my budeme, my budeme spolu -
+Tak v -
+Takto <unintelligible/>.
+Však [PERSON2] bude v Prahe, eh -
+(PERSON17) Hm.
+(PERSON6) Ty budeš tiež, prídeš na to [ORGANIZATION6].
+Tak sa minimálne takto stretneme.
+No a [PERSON14] neviem, kde, kde <unintelligible/>.
+<other_noise/>
+(PERSON18) ešte sa bude pripravovať na ten, na tu obhajobu, že?
+(PERSON14) No, já mám ve 12 hodin v úterý obhajobu.
+(PERSON4) Hm.
+(PERSON14) A pak v 16 hodin nějaký další call.
+<laugh/>
+Tak nevím, jak se to vleze.
+(PERSON17) Tak ono v principu bychom měli asi řešit jenom ty slidy, ne?
+(PERSON6) Alebo prípadne -
+[PERSON14], však ty bývaš na [LOCATION3], nie?
+(PERSON14) Eh, ne.
+(PERSON6) Ne, teď ne?
+(PERSON14) Já jsem, eh, v Nuslích.
+(PERSON6) Aha.
+Ok.
+No, ale tak to nevadí, ale môžeš sa prísť pozrieť na [ORGANIZATION6] prípadne.
+<laugh/>
+Nebo obhajovať a -
+(PERSON14) Jo.
+(PERSON6) Keď by sme potrebovali ako, eh, niečo ešte prediskutovať alebo tak.
+Asi <unintelligible/> -
+(PERSON14) Jo.
+No, pa-, pak jako -
+Já si myslím, že pak začnem spoluřešit, eh, co přesně bych měl dělat.
+Protože teď jsem se tomu jako docela vyhýbal.
+Ale bude tam jako -
+(PERSON6) <unintelligible/>.
+(PERSON14) potřeba ode mě napsat všechny ty skripty na to vypracování, a tak.
+(PERSON4) Na ten, na ten experiment, jo?
+(PERSON14) No, no.
+(PERSON4) Anebo -
+Nebo na tu integraci?
+To se ne-
+Jako a kdyby náhodou vzniklo zadání.
+(PERSON14) No, obojí, no.
+Jako -
+(PERSON4) Jo.
+(PERSON6) Hm.
+<other_noise/>
+(PERSON14) Jo.
+(PERSON2) Tak ten TransferWise ten český, ten českej účet nemá.
+<other_noise/>
+(PERSON4) Jo.
+Hm.
+Tak to je blbý, no.
+<other_noise/>
+<laugh/>
+Takže to nám nijak ne-, nepomůže.
+A, eh, [ORGANIZATION5] teda je, eh, ta, ta možnost, kterou zatím máme, no.
+Tak uvidíme.
+<other_noise/>
+Protože -
+(PERSON2) Hm.
+Ono to je podobný.
+To je jako -
+(PERSON4) Jo.
+<other_noise/>
+No.
+Protože, eh, s-, že by uměla univerzita vyplácet na účty, ehm, který jsou v Británii nebo v Německu, to si nejsem jistej teda.
+(PERSON2) Hm, hm.
+(PERSON4) Myslím, že nemůžou úplně stejně.
+<other_noise/>
+Jo.
+Tak díky za zjištění, jo?
+No, tak to je asi všecko teda.
+Že jo?
+(PERSON17) Dobrá.
+A ten call teda příští pondělí nebude, ne?
+Jsme, jsme dohodnutí?
+Jo?
+(PERSON6) Nebude.
+V pondelí určite nebude.
+(PERSON17) Ok.
+(PERSON6) A prípadne si -
+<other_noise/>
+napíšeme e-mailom, že sa u-
+Však väčšina z nás okrem [PERSON14] sa určite stretneme na tých [ORGANIZATION6] -
+<other_noise/>
+A -
+(PERSON17) Ok.
+<other_noise/>
+(PERSON6) Takže tak, no.
+(PERSON4) Super.
+Tak, tak já děkuju, eh, jak to, eh, ts-, pěkně vedete beze mě.
+<other_noise/>
+To se mi líbí, to je hlavní.
+<laugh/>
+(PERSON6) Ja viem.
+<laugh/>
+(PERSON4) Tak -
+(PERSON6) No, dobre.
+<laugh/>
+(PERSON4) Tak jo.
+Tak díky.
+<laugh/>
+(PERSON2) Čau.
+(PERSON6) Ok.
+(PERSON14) Ahoj.
+(PERSON17) Ahoj, ahoj.
+(PERSON6) Čaute.
+(PERSON4) Ahoj, ahoj.
+<other_noise/>

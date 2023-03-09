@@ -1,0 +1,44 @@
+Zápis ze schůzky
+
+Datum schůzky: 27. 7. 2020
+
+Téma: Schůzka projektu [OTHER1]
+Vedoucí schůzky: [PERSON5]
+Účastníci: [PERSON5], [PERSON15], [PERSON4]
+
+
+Zápis:
+
+
+- [ORGANIZATION1]: vyřešeno: čeká se na odpověď.
+- Summary of publications: třeba vyplnit: informovat se ohledně registrace.
+- Diseminace: nutno doplnit.
+- Připravovány účty a vše potřebné pro zahájení spoluprácí: nutná podepsaná smlouva.
+-- Vytvořeny všechny přístupové účty.
+- Návrh na úlohu: natrénování [PROJECT1] studenta: napsána žádost o zaslání linků a informací ohledně způsobu trénování.
+- Student modely: plán použít je i pro slabý model: cílem shodný response time: záměr nahradit silný i slabý model Student modelem: rozdíl mezi modely nebyl kvantifikovaný: momentálně rozhodováno o způsobu natrénování slabého Studenta: zrychlení oproti Teacher modelům: rozdíl desetiny sekund: Student model bude používán v prohlížeči.
+-- Předchozích výsledků málo: není možné porovnání: cílem modely použitelné v integraci ve Firefoxu.
+- [PROJECT2]: na CPU: response time: rozdíl několik sekund.
+- Návrh porovnat Studenta připraveného ze slabého modelu s modelem natrénovaným v [PROJECT1] na menších datech.
+- Teacher: vygenerovaná data možno zveřejnit na [PROJECT3] vložením do repozitoru Chengu.
+- Issue na GitHubu: issue 29: problém s detokenizací: neupřesněno: návrh prozatím neřešit: zjistit bližší informace na příštím callu.
+- Review notes: poznámky zatím neprostudovány: důležité info: schopnost [ORGANIZATION2] vytvořit pseudo paraphrasing přes zero shot: v rámci tohoto tématu nutno být v kontaktu: nutná koordinace při vzniku integračního problému.
+- Source variation task a complexity: ukončeno.
+- Paraphrasing: současné fungování v prohlížeči a na CPU: nepoužitelné.
+- [OTHER2]: rozběhlé servery na GPU: na CPU nevyhovující.
+-- Návrh na zadání úkolu: quality estimation: po najetí na slovo v sourcu se zobrazí čáry k frázi v parafrázi nebo back translationu.
+- Data používaná k multilinguálnímu překladu: třeba se informovat.
+- Některé experimenty nutno pouštět v integrovaném environmentu: lepší vzájemná porovnatelnost: při prezentaci nejlepších výsledků třeba provést kontrastivně evaluaci implementace modelů i v [PROJECT1].
+- Domain adaptation: vypracovat: další možnost spolupráce s [ORGANIZATION2]: nutno případně nasbírat nové formuláře: zatím není třeba řešit.
+- WMT: nelze stihnout.
+- EACL: konání v 20. 9.
+- WebNLG Challenge: konání 27.9.
+- Návrh: po [OTHER2] experimentech možno přejít na (embeslis) navigation či multi-source translation.
+
+
+
+
+
+
+
+Zápis předložila: [ANNOTATOR1]

@@ -1,0 +1,35 @@
+Přítomni
+[PERSON6], [PERSON4], [PERSON8], [PERSON12]
+
+Zmínilo se
+[PERSON8] vysvětlil rozdíly mezi PCA a ICA
+Debata o [PERSON11] a [PERSON5]
+[PERSON8] má NMT a trénuje v něm transformera z angličtiny do různých jazyků 
+Zmíněny články z Google na téma massively multilegal multilingual NMT, následovala debata o dekodéru a enkodéru
+[PERSON12] prezentoval, co udělal (viz Splněno…) a s jakými výsledky
+Řešilo se, zda bude short paper nebo long paper overlive
+Debata o [PERSON13], který napsal e-mail, ale nevybral si téma ani vedoucího práce
+[PERSON12] upřesnil, že Mnichovani zjišťují věci o sémantice
+Debata o [LOCATION3], kdo by šel, nedořešeno
+
+Splněno před schůzí
+[PERSON8] napsal články, které si [PERSON4] dočte
+[PERSON12] udělal fine-tuning multilinguálního Berta (zároveň se učí mass language model a zároveň se pomocí adversariálních klasifikátorů odnaučuje rozpoznávat jazyk)
+[PERSON12] u retrievalu zkusil na jinách datech naučit lineární projekci
+[PERSON12] zkusil quality estimation a nefungovalo
+[PERSON12] měřil, jak centroidy klastrujou a jak to připomíná jazykové rodiny a word alignment
+[PERSON12] si naprogramoval expectation maximization
+[PERSON12] trénuje na hacku s BERTem – language classification, odečtou se centoridi, to se dále použije
+[PERSON12] nastřelil overlive
+[PERSON12] dal do dokumentu dva články se stejným problémem – long is opposite of ask
+
+Úkoly
+[PERSON4] si přečte články od [PERSON8]
+[PERSON4] vyzkouší v nejbližší době ICA, PCA
+[PERSON12] pošle [PERSON8] link na články o NMT
+[PERSON6] vylepší fastliny, není si jistý, zda tento týden; [PERSON12] mu k tomu poskytne větší data
+7., 8. listopadu dát do archive ACL
+[PERSON8] si přečte [PERSON13] článek, napíše mu dvě tři témata na výběr
+
+Schůze ukončena debatou o [LOCATION3], záznam byl vypnut. 
+

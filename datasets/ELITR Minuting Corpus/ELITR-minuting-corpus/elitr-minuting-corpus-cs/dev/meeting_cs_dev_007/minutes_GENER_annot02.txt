@@ -1,0 +1,29 @@
+
+[OTHER1]
+2019/09/25
+Účastníci: [PERSON6], [PERSON8], [PERSON4], [PERSON12]
+
+[PERSON6] a [PERSON8] konzultují možnost využití ICA (Independent component analysis) místo PCA. 
+
+[PERSON8]:
+• dává návrh na využití Hiera.
+• Informuje o NMT, kde trénují transformera z angličtiny do cca pěti různých jazyků. Pouze jeden dekodér, který podle kódu jazyka pozná, do kterého jazyka má překládat. Tím je nezávislý enkodér na cílovém jazyce a učí se lepší syntax. 
+[PERSON12] doplňuje o informaci o „massively multilegal multilingual NMT“, který překládá ze 102 jazyků do angličtiny. Má jeden multilinguální enkodér jako Bert. Obsahuje tasky - Crosslinguální tagging, crosslinguální name entity recognition a crosslingual natural language indeference.
+[PERSON6] dodává, že pro multilinguální reprezentaci jazyka je Bert nejlepší z možností.
+
+[PERSON12]:
+• potřebuje od [PERSON6] fasteliny – větší data.
+• Informuje o fine-tuningu multilinguálního Berta, který se zároveň učí mass language model a zároveň se pomocí adversariálních klasifikátorů odnaučuje rozpoznávat jazyk. Získaná reprezentace není crosslinguálnější než multilinguální Bert. Na sentence retrieval funguje fine-tuning stejně jako refine-tuning. 
+U retrievalu zkusil naučit lineární projekci mezi průměry skrytých stavů. Sentence retrieval funguje na 70%, při vycentrování na 83%, při naučení projekce na 98%. Quality estimation příliš nefunguje.
+• Měřil klastrování centroidů. Připomíná to jazykové rodiny. Přestože není možné klasifikovat jazyk, klastruje dobře podle jazykových rodin.
+• Word alignment je při použití projekcí, naučených na průměrových stavech, horší. Centrování není řešení.
+• Naprogramoval expectation maximization. Na náhodných datech zlepšuje asi o 1%. Doufá v použití získaných projekcí v metrice Bert score, která slouží k evaluaci. Výpočet matice podobnosti všech slov na obou stranách, maxima, precision a recall a z toho Fskóre. Tato metrika nejvíce koreluje s human judgementem. Quality estimation vůbec nefunguje.
+• Trénuje language classification s odečtením centroidů s normálním Bertem.
+
+Přijato rozhodnutí o tvorbě short paper. Plán je dát do archive dřív než začne anonymity period. Pro zařazení je třeba dát 7. nebo 8. 11.
+
+Zapsala [ANNOTATOR3]
+2019/09/25
+
+
+

@@ -1,0 +1,22 @@
+Schůzka [OTHER2], 2020-04-27
+
+Přítomni: [PERSON4], [PERSON5], [PERSON1], [PERSON9], [PERSON15], [PERSON10], [PERSON12]
+Omluvena: [PERSON17]
+
+Na schůzce bylo řešeno:
+
+- meetingu se od příště má zúčastňovat také [PERSON17]
+- je potřeba sehnat více lidí pro práci na [OTHER2]
+- zjistit, jestli může v [ORGANIZATION5] pracovat [PERSON9] na neautoregresivním překladu
+- dávat studentům témata, které je potřeba rozvíjet
+- nejvíce hoří deliverable, je potřeba to odevzdat v červnu
+- nejproblematičtější část, která se bude psát, je [OTHER1] a snižování komplexity, je potřeba ji začít psát co nejdříve
+- data, které jsou nasbírané v angličtině, potřebuje [ORGANIZATION7] s [ORGANIZATION5] v češtině na nějaký jejich experiment
+- k rozpracovanému článku, který se má posílat na WMT do 15. července, chybí quality estimation z [ORGANIZATION5]
+- napsat [ORGANIZATION7], aby udělali potřebnou práci do 8. června
+- napsat termíny [ORGANIZATION5]
+- kontaktovat [PERSON17] ohledně překladu
+- [PERSON5] bude kooordinovat [PERSON8]
+
+
+Zápis sepsala: [ANNOTATOR1]
