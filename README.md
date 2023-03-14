@@ -40,6 +40,10 @@
 ## Models
 ### Pretrained summarization models
 - https://huggingface.co/models?pipeline_tag=summarization&sort=downloads
+- Relevant:
+  - https://huggingface.co/vmarklynn/bart-large-cnn-icsi-ami-v3
+  - https://huggingface.co/philschmid/flan-t5-base-samsum
+  - https://huggingface.co/lidiya/bart-large-xsum-samsum
 
 ## Implementations
 ### Minuting Baseline Experiments
