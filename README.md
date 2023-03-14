@@ -21,6 +21,9 @@
 - SAMSum Corpus
   - on HuggingFace
   - messenger-like conversations with summaries
+- DialogSum
+  - on HuggingFace
+  - dialogues and summaries
 - XSum Dataset
   - on HuggingFace
   - news articles and summaries
