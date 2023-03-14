@@ -27,6 +27,9 @@
 - XSum Dataset
   - on HuggingFace
   - news articles and summaries
+- MediaSum
+  - on HuggingFace 
+  - media interview transcripts and summaries
 - OAGK/OAGKX
   - on Lindat
   - scientific articles with abstracts
