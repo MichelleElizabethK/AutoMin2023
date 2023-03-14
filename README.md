@@ -27,6 +27,9 @@
 - OAGK/OAGKX
   - on Lindat
   - scientific articles with abstracts
+
+- Info:
+  - AMI and ICSI best but rather small
 ### ELITR Minuting Corpus
 #### Minutes
 - Original
