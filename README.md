@@ -24,7 +24,9 @@
 - XSum Dataset
   - on HuggingFace
   - news articles and summaries
-
+- OAGK/OAGKX
+  - on Lindat
+  - scientific articles with abstracts
 ### ELITR Minuting Corpus
 #### Minutes
 - Original
