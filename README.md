@@ -37,6 +37,7 @@
 - QMSum
   - not on HuggingFace
   - meeting transcripts, query-based summarizations of various topics discussed
+  - https://github.com/Yale-LILY/QMSum
 
 - Info:
   - AMI and ICSI best but rather small
