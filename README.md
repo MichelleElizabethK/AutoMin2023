@@ -12,9 +12,10 @@
   - CNN articles and summaries
 - AMI Meeting Corpus
   - on HuggingFace 
-  - meetings transcripts and summaries
+  - product meetings transcripts and summaries
 - ICSI Meeting Corpus
   - not on HuggingFace
+  - academic meetings transcripts and summaries
   - code to process: https://github.com/xcfcode/meeting_summarization_dataset
 - Spotify Podcast Dataset
   - not on HuggingFace
@@ -33,6 +34,8 @@
 - OAGK/OAGKX
   - on Lindat
   - scientific articles with abstracts
+- QMSum
+  - meeting transcripts, summarizations of various topics discussed
 
 - Info:
   - AMI and ICSI best but rather small
