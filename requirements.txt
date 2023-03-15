@@ -1,0 +1,5 @@
+huggingface-hub==0.13.2
+transformers==4.27.0
+torch==1.13.1
+torchaudio==0.13.1
+torchvision==0.14.1
