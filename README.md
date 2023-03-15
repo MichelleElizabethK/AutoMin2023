@@ -35,7 +35,8 @@
   - on Lindat
   - scientific articles with abstracts
 - QMSum
-  - meeting transcripts, summarizations of various topics discussed
+  - not on HuggingFace
+  - meeting transcripts, query-based summarizations of various topics discussed
 
 - Info:
   - AMI and ICSI best but rather small
