@@ -1,0 +1,12 @@
+[submodule "datasets/automin-2023-data"]
+	path = datasets/automin-2023-data
+	url = git@github.com:ufal/automin-2023-data.git
+[submodule "implementations/automin-2021-submission"]
+	path = implementations/automin-2021-submission
+	url = git@github.com:cruxieu17/automin-2021-submission.git
+[submodule "implementations/minuting-pipeline"]
+	path = implementations/minuting-pipeline
+	url = git@github.com:ELITR/minuting-pipeline.git
+[submodule "implementations/Minuting_Baseline_Experiments"]
+	path = implementations/Minuting_Baseline_Experiments
+	url = git@github.com:ELITR/Minuting_Baseline_Experiments.git
