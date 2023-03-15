@@ -60,6 +60,8 @@
   - https://huggingface.co/philschmid/flan-t5-base-samsum
   - https://huggingface.co/lidiya/bart-large-xsum-samsum
 
+- DialogLM (model for long dialogue understanding) https://github.com/microsoft/DialogLM
+
 ## Implementations
 ### Minuting Baseline Experiments
 - Many work done, but not documented properly
