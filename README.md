@@ -71,6 +71,9 @@
 - https://nlp-yang.github.io/Dialogue_Summarization.pdf
 - https://www.catalyzex.com/s/Meeting%20Summarization
 
+## Computing
+### Running jupyter notebook on UFAL servers
+- https://nero-docs.stanford.edu/jupyter-slurm.html
 
 ## TODO
 1. Try some HuggingFace summarization pretrained models and finetune it on the minuting dataset
