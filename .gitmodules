@@ -10,3 +10,6 @@
 [submodule "implementations/Minuting_Baseline_Experiments"]
 	path = implementations/Minuting_Baseline_Experiments
 	url = git@github.com:ELITR/Minuting_Baseline_Experiments.git
+[submodule "datasets/europarlmin"]
+	path = datasets/europarlmin
+	url = git@github.com:ufal/europarlmin.git
