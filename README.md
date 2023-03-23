@@ -78,3 +78,4 @@
 ## TODO
 1. Try some HuggingFace summarization pretrained models and finetune it on the minuting dataset
 2. Download and analyze the various datasets
+3. Preprocess the Europarl dataset
