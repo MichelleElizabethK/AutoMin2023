@@ -1,0 +1,13 @@
+Attendees: PERSON1, PERSON3, PERSON4, PERSON6, PERSON7, PERSON13
+
+ * [PERSON4]: I can write it but it, the book is really not finished yet.
+ * [PERSON4]: I suggest we finish the writing and the end of the June.
+ * [PERSON3]: I think we need several deadlines.
+ * For some conferences that happen in the first half of 2021 we could still use the money from the project?
+ * [PERSON4]: I donít know whether we can say we cannot, we couldnít write the book.
+ * For the book we shouldn't ask for the extension but for the conferences it would make sense to use it for some conferences next year.
+ * We will not need to like to postpone it.
+ * [PERSON4]: I think we will make it somehow.
+ * [PERSON4]: I was working on Iím still working on the attention metrices and different patterns.
+ * [PERSON7]: I donít think I will be writing very much about the generative, the new generative language models because like they are based on sub-words and the embeddings are not interesting anymore.
+ * Most of the papers are about probing for part of speech (tag) so.

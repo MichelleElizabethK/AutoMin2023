@@ -1,0 +1,19 @@
+Attendees: PERSON1, PERSON2, PERSON3, PERSON4, PERSON5, PERSON6, PERSON7
+
+ * [PERSON4]: I asked [PERSON5] to do the transcripts by German ASR for the German transcriber.
+ * He is working on other things.
+ * [PERSON6]: Tomorrow I'll be working on the Monday similar model as well.
+ * [PERSON1]: I'm curious about the evaluation.
+ * [PERSON3]: Once I have the (WAB) file, I probably won't need to do convert.
+ * This just receiving the numbers will be a big relief for me.
+ * They reflect the domain that we have for the (SG1) meeting.
+ * We will do first test of this tomorrow at one Prague time.
+ * [PERSON1]: I would like to have the ASR numbers today.
+ * Improved numbers on Monday.
+ * We need at least two numbers to compare.
+ * You may select the best ASR worker in quality.
+ * During the month of August we also had numbers for the empty models.
+ * [PERSON7]: Text me on slack (on the weekend).
+ * The so the first one is the word.
+ * The next is the pronunciation of the word.
+ * We have a test run with [PERSON3] that we were discussing.

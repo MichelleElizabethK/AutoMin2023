@@ -1,0 +1,59 @@
+﻿DATE: 2021-07-16
+ATTENDEES: PERSON3, PERSON4, PERSON7, PERSON1, PERSON6f, PERSON2, PERSON6
+
+
+
+
+SUMMARY-
+
+
+  The left speaker is to the right.
+  This is a problem for the start project.
+  It can be fixed in the computer but it will be strange because the sound will go in the other direction.
+  The connection is very good, but on Thursday and Friday PERSON7 officially has a vacation.
+ -PERSON4 will send the table of contents of Project12 book to PERSON9 so that he can start searching for reviewers.
+ -PERSON3, PERSON4, PERSON9, and PERSON6 are working on the book.
+  The deadline for the book is at the end of June.
+  There is a calling deadline on July the first.
+ -Person4 wants to send the book to PERSON9 in the next week.
+ -PERSON4 will be here from the thirteenth to the nineteenth.
+ -PERSON6 will be there from the sixth to twelfth.
+ -PERSON4, PERSON6, PERSON3 and PERSON1 are going to have a meeting in the middle of July.
+  There will be regula meetings for next two Tuesdays. 
+  The third Tuesday will be holidays meetings.
+  There is a deadline for submitting a PERSON3 and PERSON4 will probably not submit anything.
+  The official deadline for the book was the end of June but they have one month more.
+  They need several deadlines: one for stopping adding new content, one for having all the comments at rest or deleted, and one for going PERSON4, PERSON7 and PERSON13 are discussing the project deadline.
+  They discuss how to use the money from the project for some conferences in the first half of 2021.
+ -PERSON4 is working on the attention, attention metrices and different patterns for the PROJECT2.
+  The next meeting is on July thirteenth.
+ -PERSON3, PERSON4 and PERSON1 are discussing the similarities between the LOCATION1 paper and the "Attention is all you need" paper.
+ -PERSON1, PERSON4, and PERSON6 are working on their projects.
+ -PERSON3, PERSON4 and PERSON7 are working on the book.
+  The book is one hundred and thirty pages long and they still don't have anything.
+ -PERSON3 suggests that the less details the better.
+ -PERSON7 has written a few paragraphs since he started.
+ -PERSON7 wants to redo the visualisations in her book.
+  She doesn't want to write about the generative language models as they are not interesting anymore.
+  She wants to talk about the data and what data should she do the visualisation on.
+  He needs to go through at least the first two articles mentioned in the three, zero, one, two and rewrite it to make sense.
+ -PERSON6 reorganizes the section "Who is better" and reorganizes it according to the individual papers.
+ -PERSON4, PERSON6 and PERSON3 discuss the semantics of the text they are working on.
+ -PERSON4 thinks it's better to keep it as a separate subsection.
+ -PERSON6 has covered most of the abstractions that people look for.
+ -PERSON6, PERSON4 and PERSON3 want to report on multilinguality.
+  They don't know if they want to put it into the chapter or not.
+  They want to copy some information from the PROJECT3 paper and leave out the technical details.
+  The first chapter is taken from her dissertation.
+  She's writing a survey about, syntax in, neural networks.
+ -PERSON1 has done a comparison between language models and machine translation.
+  Language models are better for pretraining tasks.
+  Machine translation is better for part of speech.
+ -PERSON1, PERSON3, PERSON4 and PERSON6 are going to do a visualisation about transformers.
+  They want to make sure all the visualisations look at least similar.
+ -Person3 and Person4 will discuss everything during the week in order to update it.
+
+
+
+
+Minuted by: Team ABC

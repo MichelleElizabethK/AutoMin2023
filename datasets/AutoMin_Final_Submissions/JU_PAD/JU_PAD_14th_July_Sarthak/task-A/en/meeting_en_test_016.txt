@@ -1,0 +1,36 @@
+Attendees: [PERSON11], [PERSON12], [PERSON13], [PERSON14], [PERSON16], [PERSON17], [PERSON18], [PERSON1], [PERSON20], [PERSON21], [PERSON23], [PERSON3], [PERSON4], [PERSON6], [PERSON7], [PERSON8]
+
+Summary:
+1 , 2 , 3 , 4 there was the pin , but it is also [PERSON12]'s  net . 
+
+[PERSON14] , [PERSON18] can mute yourself , while [PERSON18] are not talking . And [PERSON12] would feel like to hear from [PERSON21] if he is on the call . 
+
+[PERSON12] hope that all ok with that been recorded and . and [PERSON12] would really like to have every week . and the reason is for [PERSON12] to collect this credits . what [PERSON8] have been working on this week . , [PERSON12] is not working on anything specific myself . 
+
+[PERSON12] do not know , maybe we should just follow in a circle . 
+
+[PERSON3] can say , what [PERSON3] have been doing since a week . last week , [PERSON3] started do transcribing the YouTube videos . Things [PERSON3] need to do , is incoming days , integrate [PERSON23]'s audio compression on these YouTube videos . And progress more on the[PERSON2] 36 empty models and doc translation , and basically like that [PERSON15] . who [PERSON12] [PERSON12] misheard about the models . 
+
+[PERSON3] have been would hope to going their have been some hard to use the them . And there is one more person to synchronize on what the launching of these models . 
+
+[PERSON6]'s  work include this document . the data that [PERSON20] mentioned , these can be used for all the models , that we are training ourselves . 
+
+[PERSON7] have already collaborate with [PERSON14] for the compression thing . And this week , [PERSON7] was working on the [PROJECT1] thing . PERSON14] , can [PERSON7] tell us , how . probably , maybe [PERSON3] coming 1 , 2 days , that should be integrated . it is there anything in [PERSON7]'s  plans from the surge ,As of know [PERSON7] shall be ready to interest for example , the compression . 
+
+[PERSON4] we had a problem of segmentation , when we wanted to calculate delay . 
+
+[PERSON4] decided from yesterday to do to propose a new idea . now , in our tool set , [PERSON4] want to report who define delay . now , [PERSON4] want to propose both of them andmaybe . and it will be testing [PERSON4]'s  tool , whether it evaluates the files correctly . That , one is [PERSON14] , who has the access to the pipelines . And [PERSON5] , who will know everything about the data . And it would be a big pitty , if [PERSON20] did it twice . , [PERSON20] understood only a part of thing ,but [PERSON20] will get in touch with [PERSON15] and whatever is needed . 
+
+[PERSON20] should benefit from that experience as well . 
+
+[PERSON8]'s  job's to have an overview of all the data , we use for the [ORGANIZATION4] Congress . 
+
+[PERSON12] have anyone had some data source . right now [PERSON5] is mainly working on the IWSLT test set ,And beyond that , [PERSON5] will be also supervising and knowing ,that's , what [PERSON12] was telling earlier ,that [PERSON14] should regularly process the test sets with pipelines . 
+
+[PERSON12] is not sure , if this is feasible , or not . 
+
+[PERSON12] think , it is to use the Wednesday opportunity to have better [PROJECT1] systems as a good thing . , [PERSON12] is telling [PERSON12] is telling saying better [PROJECT1] systems . right now , in the pipeline we use Czech to English by [PERSON16] . And it could be and that from [PERSON12]'s  point of view from [PERSON12]'s  point of the of the more important . and [PERSON12] replied  We have a source audio , that is the one , that is [PERSON19] . 
+
+[PERSON3] want thing to say to maybe [PERSON10] and [PERSON20] . But [PERSON4] think [PERSON4] thnik , that should be ready . 
+
+[PERSON4] think , the tool should be ready next week . the next week , [PERSON6] is not available on Thursday and Friday because .

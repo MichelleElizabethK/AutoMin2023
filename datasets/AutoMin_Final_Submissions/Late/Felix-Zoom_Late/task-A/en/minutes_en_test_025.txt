@@ -1,0 +1,1 @@
+[PERSON4] and [PERSON1] discuss the [ORGANIZATION4] plans to create a system for measuring the number of words in a single user, using the same word, [PERSON6] and [PERSON3].

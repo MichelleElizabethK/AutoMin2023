@@ -1,0 +1,44 @@
+DATE : 2021-07-16
+ATTENDEES : PERSON5, PERSON15, PERSON1, PERSON13, PERSON9, PERSON6, PERSON16
+
+
+SUMMARY-
+
+  The Czech Republic government has lifted the rules.
+ -People can go out even if they don't need to, but they have to wait until the 4th of June for the free circulation of people.
+  They can go to the forest, but if you are in PERSON6, PERSON5, PERSON1, PERSON3, PERSON15, PERSON16 and PERSON12 are going to do the summarization and three-point-one review.
+ -PERSON6, PERSON5, PERSON8, PERSON2, PERSON1 and ORGANIZATION6 are writing a project management guide for a party.
+  There is no description of the deliverable and there are no project management guides.
+ -PERSON5, PERSON1, PERSON6 and PERSON4 are working on the EU projects.
+  They need to finish the internal reviews by mid June at the latest.
+  They have two weeks to finish it and then they have a week to fix it.
+  There is one more milestone, the PERSON6 wants to have the PROJECT1 test sets populated and described by August so they can be ready to submit as a deliverable.
+ -PERSON10 is not feeding the annotators with the prepared files.
+  The annotators are searching for poll documents and in many of the languages.
+  They need more people to be added to the language map.
+ -PERSON6, PERSON1 and PERSON9 agree that the public use of the test sets should be limited to few of them.
+  They also agree that there should be only 3 file lists for the general public.
+ -PERSON1, PERSON9, PERSON6, PERSON16 and PERSON9 are discussing the implementation of the SLTF.
+  According to PERSON6, the only reliable way to do the comparison is to run the models or a serve the model.
+ -People can misinterpret the time stamps and the forced alignment is not reliable for them.
+ -PERSON6 and PERSON1 are doing both finding and curating the translations and translating them into Czech.
+  They made progress in getting translations out of the auditing websites.
+ -PERSON1, PERSON15, PERSON6, PERSON7, PERSON5, PERSON11 and PERSON16 are working on a project.
+  The project was started when the EU still existed.
+  There are ten tens of thousands of sentences.
+  Irish is equally important to the project as other languages.
+ -PERSON1, PERSON9 and PERSON6 are discussing ASR's retranslation policy.
+  They discuss the pros and cons of retranslating.
+  There is no internal SLT in the endtoend ASR.
+  The MT only translate will be get from ASR hypothesis.
+  There is research going on how to integrate the ASR and MT.
+ -PERSON6 is trying to run GPT tool to predict the tail of the sentence.
+  The interpreters can guess up to 90% of the time, but sometimes they get it wrong.
+  There is no way to touch up on these topics before the PERSON16 will create a Doodle, send it to both partners and ask them what they would like to demo.
+  The demo should include both the ORGANIZATION1 representation and the sub-representation with subtitles.
+ -PERSON1, PERSON6, PERSON13 and PERSON9 discuss screenshare and how to improve the quality of the machine translation.
+ -PERSON1 thinks the idea screenshare is a good one, but it takes away one indicate.
+ -PERSON6 is sorry for not managing the half an hour for the demo in the coming days.
+
+
+Minuted by: Team ABC

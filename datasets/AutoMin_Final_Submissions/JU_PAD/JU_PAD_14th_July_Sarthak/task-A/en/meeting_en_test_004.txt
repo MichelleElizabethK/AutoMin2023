@@ -1,0 +1,48 @@
+Attendees: [PERSON12], [PERSON1], [PERSON2], [PERSON4], [PERSON6], [PERSON7], [PERSON8], [PERSON9]
+
+Summary:
+[PERSON9] asked  , can X hear [PERSON9] , is it doing anything ? have not heard from [PERSON7] this morning , and what we do not have is the presentation platform . This is what [PERSON4] should be seeing now , it is [PERSON1]'s screen that runs the client for connecting together , one ASR worker and then the translation into Czech . 
+
+[PERSON9] will try to get the batteries , and [PERSON4] are right the good thing about German ASR is that we do not rely on the German , on the English segmentation workerthat that could run as well . 
+
+[PERSON4] should see blinking here , [PERSON9] . One , two , three , four,One , two , three , four , this is what [PERSON9] is saying directly to the head set microphone . any observation [PERSON4] make , , add it there . PERSON1] will connect with one more laptop . 
+
+[PERSON9] will start sharing [PERSON9]'s  screen . 
+
+[PERSON7] know [PERSON1] extended the client . And wierd ASR behavior , [PERSON9] agree . 
+
+[PERSON9] think it is what we want , because it is very same string then the empty worker should not have been called . the workers are not running , and [PERSON1] cannot get audio into [PERSON1]'s  laptop right now . 
+
+[PERSON7] run a test with the English ASR , maybe it was [PERSON7] . 
+
+[PERSON7] finished , it is all available now . 
+
+[PERSON7] can surely and going to write it in the Google doc . 
+
+[PERSON7] cannot share these right now , because it is up and running . But maybe it is better if [PERSON7] share [PERSON7]'s  screen with [PERSON9] . 
+
+[PERSON7] do not have this button unfortunately . 
+
+[PERSON9] shall stop presenting for now . what we would like to have is [PERSON1] notebook initiating the session . 
+
+[PERSON9] should be able to see in subtitles what [PERSON9] is saying . 
+
+[PERSON7] think it is a matter of web browser [PERSON7] is using . But , [PERSON7] have something , this is good . during the day [PERSON9] is available from eleven to three . 
+
+[PERSON9] think that the [ORGANIZATION5] people can leave now , thank [PERSON4] very much for [PERSON4]'s  time today and thanks [PERSON2] especially for putting this worker together . 
+
+[PERSON9] would like to avoid the time scale , . of course [PERSON7] have to be registered , let us say to the system as administrator . In this case [PERSON9] see the main page , possible by each one has the browser . The configuration page where [PERSON9] are able to set the and the stream provided for each language . 
+
+[PERSON9] think we should we should try to wrap up , [PERSON9] would like to ask everybody who is still on the call , to go through the current state of the Google document , and add whatever we have not recorded in . PERSON7] [PERSON7] mentioned three issues with this with the presentation platform . and [PERSON7] replied  But [PERSON7] is managing it is in the integration worker , which is the one who has the minus pub fingerprint . 
+
+[PERSON9] asked  what is this available language sources ? [PERSON12] do not know what is going on . 
+
+[PERSON9]'s  question , [PERSON9]'s  original question was when changing here in , [PERSON9] is still sharing the screen . 
+
+[PERSON9] is making these up , [PERSON9] is not sure If . the only way [PERSON9] can do is use the same . 
+
+[PERSON9] shall stop sharing [PERSON9]'s  screen , how do [PERSON9] , stop that . 
+
+[PERSON9] shall try actually [PROJECT2]dot [ORGANIZATION4] dot com . it is Firefox , but [PERSON9] shall try to rotating it . 
+
+[PERSON9] think it would be ok already now . , [PERSON7] think probably at the moment the CSS is operate the same we have to . If [PERSON9] like to have a bigger video screen text , [PERSON7] can note and [PERSON7] will ask them . extracting this worker logic from [PERSON7]'s  worker of the presentation platform would be very useful for us . that the same worker would offer two output , one would bethat [PERSON7] can connect it and it does not change the stream and the other one would be the one that we could then directly use as the console client .

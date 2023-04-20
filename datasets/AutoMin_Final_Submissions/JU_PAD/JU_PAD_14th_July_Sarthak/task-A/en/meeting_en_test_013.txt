@@ -1,0 +1,44 @@
+Attendees: [PERSON13], [PERSON1], [PERSON3], [PERSON4], [PERSON6], [PERSON7]
+
+Summary:
+[PERSON4] just realized that the , the speakers are . 
+
+[PERSON4] donít know how to change it but . 
+
+[PERSON1] can fix it in the computer but really , they should fix the cabels here . 
+
+[PERSON3] have not told [PERSON4] , [PERSON3] would like to arrange meeting , for the [start] project . And [PERSON7] have something planned for Thursday . Unless [PERSON3] find something outrageably bad . 
+
+[PERSON4] would like to had the book more or less written on , at the end of June . At least [PERSON4] will be , [PERSON4] will not be here in the first and the third week of July . Because [PERSON4] would like to submit the paper to [PROJECT11] and the paper we havenít we sent to ACL . 
+
+[PERSON6] asked  We do not have a Google calendar for [PROJECT12] , right ? Because [PERSON4] will be here , just thirteenth to nineteenth . Or [PERSON7] , [PERSON6] plan to be here ? [PERSON4] will , [PERSON4] will write it . 
+
+[PERSON4] want to set the meeting , like the holiday meetings . Or [PERSON4] can always join like [PERSON3] . 
+
+[PERSON4] donít have nothingI should , [PERSON4] could submit , . 
+
+[PERSON3] think we need several deadlines . 
+
+[PERSON7] didnít , without the corona crisis than we could , we could postpone it , to the 31st of January like . and [PERSON4] replied  what we have promised , all that papers there is promised we will , we should have at the end of the end of this year . But [PERSON4] think we will make it somehow . 
+
+[PERSON3] asked  , what was the next step ? [PERSON4] was working on , Iím still working on the attention metrices and different patterns . Because what [PERSON4] , observed in [LOCATION1] but they didnít use , they use , , [PROJECT6] , [PERSON4] think . Also [PERSON1] think colors really negative sometimes . 
+
+[PERSON4] have also the blue or white or something . that was what [PERSON4] was working at last week . This is [PERSON6]ís [PROJECT5] copied in the , in the . Then [PERSON4] have , the section about selfattentions and . This will be written mainly by [PERSON1] and he already . 
+
+[PERSON4] think itís better we donít write it like one hundred fiftyeight , , itís for a book . 
+
+[PERSON7] think [PERSON7] would concentrate on visualisations of embeddings and comparing visualisations of different embeddings inside that because all the papers thereís always this interesting visualisation but then not , no other paper does the same thing . They came up while we were writing the book and , we can just ignore them , or [PERSON3] could put them in one [PERSON3]'s  chapters possibly . 
+
+[PERSON4] cannot make zero , three , zero . the things that are there should stay where they are , already and [PERSON6] need to add more , things somewhere . And [PERSON6] had some todo lists , later but , this is what [PERSON6] plan to . 
+
+[PERSON6] donít know for example there is , work on noun gender . 
+
+[PERSON4] think it could be better for reading . Maybe [PERSON6] shall find something else which will get its own subsection but ,More or less this is what [PERSON6] think will be there and , then there a few more . 
+
+[PERSON6] donít know , [PERSON6] think it belongs here because [PERSON6] mean the effect on what the representations capture after that ,[PERSON6] think this should be maybe two pages , now itís one paragraph . 
+
+[PERSON6] think whenever [PERSON3] have something that fits into something here , feel free to put it there . 
+
+[PERSON6] donít know if anybody , wants to take over this section , [PERSON6] would be glad but . But [PERSON3] think we donít want to copy all the paper what , with plenty of technical details . , first , the first chapter is , is taken from [PERSON3]'s  , from [PERSON3]'s  dissertation . [yes no time for pictures] , but [PERSON4] donít know whether [PERSON4] can that , [turn] it in Overleaf . itís mostly a thing what also [PERSON6] was talking about . 
+
+[PERSON6] think it would be nice too , to include this .

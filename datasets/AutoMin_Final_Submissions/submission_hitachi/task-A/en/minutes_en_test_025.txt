@@ -1,0 +1,141 @@
+Summary:
+
+* PERSON1 and PERSON4 are working on the transcripts for check. One transcriber of Germany is working alone until December the 10th. 
+  - Disc: The mother is writing the question for the German subti-subtitling-user study. 
+  - Fact: She will move it to the spreadsheet and then she will give feedback to the transcriber. 
+* PERSON1 hasn't heard from PERSON8 and he's not on the call either. 
+* He suggests that he should ping him back. 
+  - Fact: He hasn't responded yet. 
+* He's still on the phone with someone else, however, so he should try to contact him. 
+* PERSON1 and PERSON4 agree that the more they do, the better it is for the society. The more uh we do the the better"  - PERSON1. 
+* PERSON5 has added the transcripts for the first 30 parts of the German ASR for the German transcriber. 
+  - Disc: For some folders, the audio format is wrong and some files are still not working properly. The problem is related to the big trade or something is wrong with the files. 
+* PERSON1 and D-PERSON4 would like to train empty systems so that they do the shortening. 
+  -- Disc: They need to do it for the upcoming sessions, but it's too time consuming for the next week, so they ask PERSON5 for help. 
+* PERSON1 has seen a demo of PROJECT3's offline subtitling. 
+  - Disc: It's slightly easier than what we do, but their machine translation is doing shortening. The data is shortening because their target side is the subtitles created for the hearing impaired. It would be great if we could locate some such type of data. 
+* PERSON5 looked at the tutorial from from Dual EMNLT. 
+* The models work with sequence to sequence. 
+  - Fact: When the final output f- from from the entire input sentence is generated, the model starts generating the next one from there. 
+* PERSON5 explains how ORGANIZATION2 processes prefixes and generates a new token with every new one they get from the input. It's so that the first K word is processed as they get it into the input and then they generate the first word and the new token. 
+* PERSON5 and PENPON1 agree that shortening in this model could be easy to implement. 
+  -- Disc: They would train it so that it stops generating after some time and then it would be shortening because they ran out of time, as they say. 
+* PERSON1 has talked to PERSON10. 
+  - Disc: PROJECT4 is not ready for speech translation. There is no one in Edinburgh who would have the time to implement it. There are no other candidates. Some students of PERSON11 might be able to help. 
+* PERSON1 is looking for a replacement for PERSON12 from the PROJECT5 project, who works halfway in Prague and halfway in Brno. 
+  - Disc: The only other possible candidate is PERSON5 from PROJECT4, but he is working on other things, so PERSON1 doesn't want to distract him. 
+* PERSON5 wants to change the code in PROJECT4 but he doesn't know if it's realistic. If he understands what's going on in the code, he will let PERSON1 know if he's able to do it. 
+  - Disc: He's looking at the source code. 
+* PERSON1 wants to hear an update for the sessions for next week. The Monday seminar should be done easily. The preparation for the two setups for PROJECT2 and PROJECT1 needs to be done. 
+  - Disc: PERSON6 will work on it tomorrow and will prepare it for the session. 
+* PERSON6 doesn't have the webpage for PROJECT2, but he has found it now. PERSON1 and PERSON6 are trying to confirm this information with the person who mentioned it earlier. The person who mentions it earlier is PERSON6. 
+* PERSON6 is trying to gather data from the program for PROJECT2. He is away from 11 to 12 on Friday. He will have a dry run of some past similar talks to PROJECT2 to see how the system works. 
+  - Disc: It's not too late for for PERSON3. 
+* PERSON6 and PERSON1 will run the dataset for Monday. The more tests they do, the better, as it would be useful to test the two concurrent subtitlings without domain adaptation, without waiting for tomorrow's results. The results will be available on Monday. 
+* PERSON1 and PERSON3 are planning to play two videos at the same time tomorrow afternoon. 
+* They need two local machines to do it: Arc and blackbird. The presentation will be ready to paragraph use ready. 
+  - Fact: It will be played at one or two Czech time. 
+* PERSON1 has been working on adaptation for the two domains. 
+  - Disc: On Friday there will be a test time for two concurrent sessions. 
+  - Fact: One session will start with Saul's video and the other one will follow it. 
+  - Disc: The pipeline will be probably the same. 
+* PERSON1 will update the models on Friday and update the pipelines on Monday for the two different domain adaptations on the same pipelines. 
+* The models will be updated with the  with the domain elected ones, not with the ones running on the pipelines, as previously stated. 
+* PERSON1 wants to know about the evaluation. 
+  - Fact: PERSON3 is already doing some ASR. 
+    -- Fact: Some videos are not getting some audios or videos aren't connected properly into a 16 (cave) format, so he's compiling some clusters for that. 
+* PERSON7 told PERSON3 yesterday that there are some issues with some audio files and he has to do that manually if that doesn't happen. 
+* This should be part of the automatic evaluation of PROJECT1's test set right. 
+  - Fact: The audio files get converted to the unintelligibile format when passed to the (A S I) system. 
+  - Disc: The sound system won't work on that. 
+* PERSON1 converted the mp3s with the 16 players for a match from MP3s. 
+  - Disc: He wants to know which player is not getting passes with ASR. 
+* He needs to keep a track of it so that he would not need it in the future. 
+* PERSON1 and PERSON3 agree that the evaluation should be run from scratch every time. 
+  - Disc: The sound quality is a little worse. 
+* The files need to be manually converted so that PERSON3 can write a script to handle the known ones. 
+* PERSON3 has been working on PROJECT1 test set since August. 
+  - Disc: He has been having problems with conversion of the of the file formats. 
+  - Fact: Today he will have a call with Brian to learn the transcript together with him and get the numbers from the system, so they can evaluate it. 
+* PERSON1 is organizing some event tomorrow and over the weekend. 
+  - Disc: Today is the last chance for PERSON11 to get it running before the weekend, because he will be busy. He will be able to help from Monday onwards, which is better for PERSON1. 
+* PERSON3 will ask PERSON7 if he's available to join the call with PERSON11 as he will also be on that call with PERSON1 at the same time. 
+  - Disc: He will let him know if he is available. 
+* PERSON3 will send the numbers for ORGANIZATION4, ORGANIZATION4 and ORGANIZATION4 2020 to PERSON1 as soon as he receives them. The data set is a ORGANIZATION4 <unintelligibile> (IWSLT) 2020. The files reflect the domain for the (SG1) meeting. 
+* PERSON1 and PERSON6 are going to do a Monday seminar tomorrow. 
+  - Disc: They will discuss the ASR test for the two domains. 
+  - Fact: They are also going to discuss the multiple custom dictionaries and domain adaptation models. PERSON11 is not going to take part in the seminar. 
+* PERSON6 is trying to develop a new model for a phoneme bi-to-graphheme. 
+  - Disc: The sample he has is too small to be useful, but it can be used by developing for some model later on. 
+* PERSON1 explains to PERSON6 how to convert the international phonetic alphabet into the phonemes. 
+* It is assumed that <unintelligible> should contain our (words) so it means that that (lace) should contain Watson, but PERSON1 doesn't know if that is the case. 
+* PERSON1 and PERSON6 are on a call. 
+  - Fact: They are discussing how to use a new dictionary. 
+  - Disc: They agree that there is a lot of noise in the dictionary. 
+* PERSON1 wants to share the screen with PERSON2 to figure out how to work with it. 
+* The language model substitute is still needed. 
+  - Fact: The dictionary will have three columns: the grapheme as it is output, the phoneme form and multiple lines with different phoneme variations. 
+  - Disc: The third column will be the same again for all of those. The language model will see it. 
+* PERSON1 wants to test if it works with the generated dictionary. It's not ready for two big custom dictionaries, so it needs to be tested. 
+* It needs to work with the knowledge of the two people involved in creating the dictionary, so that it works together. 
+* PERSON2 is finishing training of German ASR that may be used for time stamping. He's training it on Liberty Speech. The actual training set contains only around 300 hours. The training set does not contain similar sentences. In English or Czech, the sentences are spoken by different speakers. 
+* PERSON2 took some samples during the training. 
+  - Disc: There are still some serious errors in the in the ASR output. He is hopeful that for the time stamping it's good enough. He and PERSON4 might try to do it. 
+* PERSON2 and PERSON4 want to enrich the language modal by texts. They need transcripts and time stamps to do this. 
+  - Disc: There is possibility to use language model. 
+  - Disc: They may also need Transcripts for (defen) test set and forced alignment for the rest of the set. 
+* PERSON7 has some presentations to make and assignments to complete. There is a meeting with PERSON11 this afternoon. 
+* The first test of the double system will take place tomorrow at one in Prague time. 
+  - Disc: The numbers that we want to obtain for the different models need to be obtained. 
+* PERSON1 wants to have the ASR numbers today and improved numbers on Monday. 
+  - Disc: On Monday, they will decide which of the models to use. 
+* The decision has to happen on Monday as Tuesday is already the project day. The baselines and the improved numbers need to be compared. 
+* PERSON1 is leaving at the moment. 
+  - Fact: The call can run as long as PERSON3 is on the call. The numbers to send are: PERSON6, PERSON2, PERSON1 and PERSON7, and get the numbers today. 
+* Some of the files in ORGANIZATION4 data set doesn't get converted into 16 (killer) <unintelligible> format easily, but it's not a big issue for PERSON3 and PERSON7, so they don't worry about it. 
+* PERSON4 wants to compare all the ASR workers and their quality and latency. 
+  - Fact: There is only one ASR worker, one of whom is from ORGANIZATION1. 
+  - Disc: The other one is a normal one. 
+  - Fact: In the Monday seminar one of them will do adaptation for both the saw and for the different tasks. 
+* PERSON7 and PERSON3 discuss the differences between the rainbow and the summer set of translation workers. The rainbow set of workers performed better than the other set. 
+  - Fact: The summer set had between 32 and 43 languages and had lesser scores than the rainbow set, but still had better scores. 
+* PERSON5 is trying to commit an ASR. 
+  -- Disc: The output is terrible for some folders, but okay for others. 
+  - Disc: It may be caused by the speaker. 
+  - Disc: The annotator will filter out the bad files. 
+    -- Disc: The files with Czech names are even worse. 
+* PERSON5 is having problems with converting files to the correct format. He will try to use the wrong format again and then he will use <unintelligible> to correct the problem. 
+  - Disc: The transcripts for for these files don't have the right length so they were processed incorrectly. 
+* PERSON5 wants to run 100 worker- workers in parallel on one machine. He will change the conversing to convert the files to the SOX format and then he will do it in one hour on the current version of the program. 
+* PERSON4 and PERSON2 will work on the German ASR. They will use the language model to process the interpreters. 
+  - Fact: The texts will be monolingual German text in the ORGANIZATION6 domain. 
+  - Disc: The quality for recognition will be of good quality. 
+* PERSON2's ASR is lower case and without punctuation. 
+  - Disc: He wants it done by tomorrow, but he's not sure if he'll get it by today. It's okay for him if it's written by PERSON4, who agrees. 
+* PERSON5 found out that in some files there is an interpreter and a person saying something in English in the background. 
+  - Disc: It's picking up the wrong person. 
+    -- Disc: It happens everywhere. 
+  - Disc: It's only at the beginning or during the whole speech. 
+* PERSON4 wants to know if it works now. If it doesn't, he will apply some filter to cut off the effort with with low volume. PERSON5 will try how it works and he will see if it's effective. 
+* PERSON4 and PERSON5 will ask the annotator if the transcription work helped to spare her time. 
+  - Disc: If she says it doesn't, they don't need to care much about the quality of the work, even when the quality is good, then it's not important. 
+* PERSON6 is sharing his screen with PERSON2. 
+* PERSON6 needs to convert some phonemes into the f-formatted alphabet for the names, but some of them are not in the correct format. 
+* He needs to share the other f-package with PERSON2. 
+* PERSON6 and PERSON2 are trying to produce some variable pronunciations. 
+* They need to replace a phoneme with another one. 
+  - Fact: PERSON6 shares a link to a Wikipedia page with a list of phonemes. 
+  - Disc: PERSON2 is still seeing the common line in chat. 
+* PERSON2 and PERSON6 will have a call tomorrow. 
+* They need to talk about the main adaptation models. PERSON2 will send a dictionary to (CMU) to remind PERSON6 where to find the calendar for tomorrow. 
+  - Disc: PERSON2 is free tomorrow. 
+* PERSON6 wants PERSON2 to convert the IPA list to the alphabet phonemes so that it would be IPA. 
+  - Disc: PERSON2 agrees to do that. 
+* He will change the IPA to the (CMU) and the CMUs, as requested by PERSON6. 
+
+------ Note ------
+*: A topic or important point of the discussion.
+Fact: An objective statement.
+Disc: A subjective discussion such as an opinion and claim.
+-: An item related to the topic or point.
+--: A supplemental or supporting statement for its previous sentence.

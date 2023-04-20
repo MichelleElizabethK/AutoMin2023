@@ -1,0 +1,51 @@
+[PERSON4] may or may not join us depending on (PERSON1) is going to write them
+[PERSON8] said he'd like to hear from everyone what they are working on and what's the status.
+Next week, the participants of the meeting can see something (PERSON1) don't know exactly when.
+[ORGANIZATION2], [LOCATION1], [PERSON3], [ORGINIZATION2] and [LOCATIONS2].
+[PERSON15] also propose us another option for the main stage presentation problem in order to present subtitles without the presentation platform in order But (PERSON1) have to investigate it little bit participants, maybe the meeting can find different solution.
+(PERSON9) think that having a text client would be useful also for debugging.
+[PROJECT2] worker [,PERSON1]: [PERSON9]'re proceeding well.
+[PROJECT2] server, [ORGANIZATION6] worker and in between a Python server which handles-other_noise>Um, last week (PERSON9) have written that and it seem to be working.
+(PERSON9) don't know if-[PERSON12], could [PERSON1], could (PASTER1) explain what exactly the participants of meeting would like to have for this type of testing?
+And there is text client which should be able to send text to text worker.
+And also here participants of the meeting work this week and it works with their Czech machine translation, but there is still some bug on kick side, only the first sentence. [PERSON5], [pERSON6].
+some checks that relate to partial sentences for example, if one sentence in (PERSON1) r chat testing data does not end in the period or a full stop.
+[PERSON1] is the only one who's left.
+Though worker round, that (PERSON9) can do that works somewhat is waiting between sending sentences.
+Actually this week the participants of meeting work together with [PERSON12], in order to find better workarounds.
+The batch is needed by [PERSON12].
+Yes this is, (PERSON1) need the segmentation fo to obtain train data for training MT the participants of meeting would need it for analysis of evaluation.
+[PERSON1] needs to test the output of the online ASR.
+What the participants of the meeting already know that online operational mode will be slightly different from what the participants get offline.
+(PERSON1) is not sure how close it will be to what online ASR produces.
+(PERSON1) think the best way would be constantly running ASR worker, and [PERSON1] sending the audio file and making sure that the finger prints like connect the together.
+For the offline ASR the participants of meeting won't have a worker.
+participants the meeting do not want any offline mode of operation.
+[PROJECT2] worker to do the translation.
+[PERSON12] mentioned some problem of things being stuck somewhere.
+[PERSON5], what the participants of the meeting need is to have lines of text that resemble the output of the ASR.
+(PERSON1) think participants of the meeting also have very similar offline systems.
+[PERSON1] think the offline ASR does not use the same type segmentation.
+(PERSON9) see that as big risk, because it would be a different segmentation pipeline.
+The ASR output does relatively close to resembles like TED talks and (PERSON9) r sort spoken word empty datasets.
+[PERSON14] is saying that they have managed to get or that actually tried with online ASR.
+[ORGANIZATION5] have already connected together online ASR and machine translation system trained independently on the current state the art.
+(PERSON9) mean [PERSON1]'re saying that it may look different.
+- everyday, (PERSON1) can send [PERSON9] some samples from the actual translator.
+(PERSON1) just say it's quite difficult to get lots of lots of online ASR, is that the problem the participants of meeting can't really get the partial sentences.
+Participants the meeting can get online ASR, of the participants the meeting have 19 different lectures that are using online ASR.
+Updating and redoing the segmentation,
+[PERSON12] would like to send the TED files which do have their translations.
+[PERSON12] is like it.
+(PERSON9) would like to know whether this is the problem with the client, [PERSON9] would check it.
+[PERSON9] think that the participants the meeting are just seeing again the same bug.
+[PERSON12] also need either the [PROJECT2] worker or text client for CTM to TXT, get the final hypothesis.
+Yes, to txt is second to that machine worker.
+(PERSON1)'m not even sure what it looks like, that send that sort data.
+This week (PERSON9) created such client or there was one and [PERSON9] start using it.
+The segmentation worker shares a lot of the code with MT worker and therefore will probably have the same problem as the text client for the MT worker.
+The CTM is the word level output of ASR.
+Yes they working on line mode,,, but not in batch mode.
+(PERSON1) understand that in order to test the machine translation system, it always have to ship audio and [PERSON1] always need to rely on some ASR worker being available and that's problematic.
+The segmentation workers in [ORGANIZATION5].
+It should, there is no urge to fix this client for CTM, but at, but the condition log the testing of the machine translation.

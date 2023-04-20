@@ -1,0 +1,59 @@
+Summary:
+
+* PERSON7 sent a TDID for keyboard extractor in the minute for the ORGANIZATION9 group. M did a dry run of the TDID and evaluated it for the same meeting. 
+  - Disc: It gave horrible results. M and A agree that he is a funny person. 
+* PERSON29 has written some TDID based on keywords from his own program, but the one from ORGANIZATION6 is not good. 
+  - Fact: M and A will try a different one from Charles University to see if it gives better results. 
+  - Disc: It does not seem to be. 
+* PERSON7 sent M and T to discuss how the results came for that task. It is because a meeting data gives you the most common and maximum probability words. 
+  - Disc: The summarizers are giving horrible results. They can't preprocess the data and it gives sentences which are not relevant. 
+* PERSON7 wants to include a newer motivation to share task or some paper in the TDID. 
+* M suggests the common occuring words which we usually extract when we are doing summarization for meeting data as a motivation for summarizing the data for the meeting. 
+* The submission deadline is January 15th. The special session will be run by the sick dial people. 
+  - Disc: It will be a part of the program. 
+  - Fact: The deadline is 3 months before the paper submission deadline. 
+  - Disc: If the deadline is harsher than the interspeech deadline, then the special session might not be necessary. 
+* The paper submission deadline for the shared task paper for sick dial is not yet set. 
+* O and T suggest that the deadline should be around the time of the deadline for interspeech. The paper would be reviewed by the program committee of sick dial, which is a scientific commission large enough to handle paper reviews. 
+* O has done it for a few empty marathons several years ago. O used to have system or tool papers that were published as a special issue of PROJECT11. If the tool was presented at the empty marathon, the authors were invited to submit for another review for the next PROJECT11 issue. 
+* O and T had a conference in September, and the paper submission was in May, whereas A's conference was in July. 
+  - Disc: The application process for sick dials is easier, but it's possible that a <unintelligible> dial could attract better participants. 
+* O and T would like to have at least four months buffer time between the sick dial and the interspeech special session. 
+  -- Disc: The sick dial is already established to attract more participants. 
+  - Disc: O would still prefer the later timing. O agrees that the people would spend two weeks working on the submissions at most in some cases. 
+* It is a rare thing that the test sets are updated and also the training data are updated in PROJECT26. 
+  - Disc: It is better that it doesn't happen in PROJECT26 as it is a very established task and everyone knows what to do when preparing the data for the shared task. 
+* The deadline for papers for special session papers for interspeech 2021 is in June. 
+* O and T want to apply for the special track. 
+  -- Disc: They want to do interspeech at a live event if they get accepted. 
+  - Disc: O is in favor of the later deadline. 
+* O has done empty marathons and has a lot of experience with organizing workshops. O knows the people and the structure of the workshop better than A. A. would not do that and would rather work for less income. T thinks the later time is more important. 
+* O and T are worried about the issue of speech rights in interspeech. 
+  -- Disc: The program committee would choose the people that they want to appear in the proceeding. 
+  - Fact: They can also run it as a sick dial thing without. 
+  - Disc: The papers appearing in sick dial are okay. 
+  - Fact: They do not publish in PROJECT11 those who are not appearing in PROJECT11. The papers are submitted by the March deadline. 
+* O will do the proceedings of the interspeech satellite event as the PROJECT11. 
+  -- Disc: If someone does it earlier so they can send T interspeech, it will be a total surprise thing. 
+  - Disc: O explains that interspeech is listed as a participant in the shared tasks. 
+* The interseech live event results won't be announced until March 15th. 
+  - Fact: If someone is working on the project for a long time, he will have the deadline for PROJECT11 until the March deadline. If he's not working on PROJECT11, then he has no deadline. 
+* T and O have to prepare the proposal for both interspeech and the one for interspeech. 
+  - Fact: They have to commit it soon as the proposal is already active. After the endorsement they have to send it by February to them. 
+  - Disc: They will do another round of division. 
+* O and T need to apply for the membership of the institution. 
+  - Fact: The membership costs 20 euros for one year. The institutional membership costs 240 euros for four members from the institution and four researchers and two students. 
+  - Disc: It is required that all the organizers have the membership. 
+  - Fact: If one has the membership for the institution, they have some discount at the interspeech conference. 
+* O thinks they are all set at the moment, at least to him. 
+  - Fact: O and his partner are going to meet soon. 
+  - Disc: "This is all clear to me"   ...   in the moment. In the future 
+* T and O need to make a scientific committee and prepare the website for the Ah proposal. O suggests T to email the email address at the very top of the website to make sure it is not sent privately. 
+  - Disc: T agrees to do it. 
+
+------ Note ------
+*: A topic or important point of the discussion.
+Fact: An objective statement.
+Disc: A subjective discussion such as an opinion and claim.
+-: An item related to the topic or point.
+--: A supplemental or supporting statement for its previous sentence.

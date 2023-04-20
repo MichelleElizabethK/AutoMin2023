@@ -1,0 +1,93 @@
+Summary:
+
+* PERSON2 got a new machine one and a half or two months ago. It was built during the <unintelligible> period. 
+  - Disc: It's nice and well-made. 
+  - Fact: It came from PERSON4's place. 
+    -- Disc: He likes it very much. 
+* PERSON1 was ill during the holidays. Now he's back to work and his mood has improved. The holidays for PERSON2 were also not fun as he was busy with assignments and projects during the New Year's holidays. 
+* PERSON2 is staying in a private private apartment in Barbican city, Mannheim. 
+  - Disc: It is more like a kind of village part of the city than in the dorms, as he explains to PERSON1 and PERSON1 that he is staying there. 
+* PERSON1, PERSON4 and PERSON3 are here. The electricity is back. 
+  - Disc: There is some noise cancellation, but it's not very bad. 
+  - Disc: in the area where they are. 
+* PERSON1 has started documents with "to do" lists. The Holocaust survivor's session for PROJECT2 has been postponed by a month. The project for PROJECT3 has also been postponed. 
+* He wants to ask anyone who can help him with the two projects. He also needs help with the assignments and exams. 
+* PERSON1 suggests that PERSON2 should talk directly to PERSON3 and ask if there is any one-shot thing that he could do. 
+  -- Disc: It could be downloading for domain data or preparing data for two events. 
+* PERSON1 is going to the PROJECT3 technical meeting tomorrow. 
+  - Disc: He wants to record the sound on the site. 
+* He needs someone to take care of the recording. 
+  - Fact: He also needs someone as a back-up person for the PROJECT2 event, which has been moved to the 26th of February. 
+  - Disc: PERSON5 agrees to do it. 
+* PERSON1 suggests to use simple HTML tables that would be auto generated and that would grow to show the performance of the new systems. 
+  -- Fact: He also suggests to move the few scripts from the PROJECT1 test set and some automatic runner. 
+* He suggests to create a conversion from the tables into HTML and to put the results regularly to the webpage. 
+* PERSON1 has a lot of work to do. 
+  - Fact: He has to update the demo paper submission which is due next Friday. 
+    -- Fact: He also has project reports to do, and he's starting to gather documents for the two sessions. 
+  - Disc: He's also busy with minuting. 
+* PERSON1 and PERSON2 have heard from PERSON2 that there will probably be no progress over the Christmas. PERSON3 is reporting the statistics about the transcript percent. He was happy with D one point five and unhappy with D six point three when doing D. 
+* PERSON3, PERSON1 and PERSON3 are going to prepare a test set size for PROJECT5. 
+* They need to check if they need to remove some lines from PROJECT5 due to profanity filtering or if empty lines need to be removed due to other reasons. 
+* PERSON1 wants to add profanity filtering and rare words evaluation to the complimentary metric. Both require manual preparation of the reference and scoring by something which directly accounts for the words that should not be included in the output. The list of names and terms that are not to be included is an explicit list. 
+* Ivana has compiled a translation dictionary. 
+* She should share it soon. 
+  - Disc: It could become an PROJECT10 part of the second thing of the railroad. It will be the rare words for PROJECT10, and then from PROJECT2 it will be some dictionary. 
+* Next week, PERSON1 will consider if PERSON3, PERSON7, or PERSON13 can extract positive plus negative lists from PROJECT8 or domain documents from the files of PROJECT8 and/or domain documents, as well as if they have the capacity to do it. 
+* PERSON1 and PERSON3 need to improve their segmenter to get a higher score. 
+* The world scores are getting revised fine, but if they improve the segmenter, their score should be higher than what they are getting now. 
+  - Disc: It's a problem with the score calculation. 
+* PERSON1 and other partners will have a meeting next Wednesday to discuss a project-related issue. 
+  - Disc: They want to know if they are happy with the way the delay is being calculated. 
+* They need the delay scores for some of the files from the IWPROJECT6 Dev set and other domain files. 
+* PERSON1 is happy with the tables that they put into the deliverables. 
+  - Fact: He has been asking for this since August. 
+* He wants to have the continuous evaluation for the ladder climbing for the next few weeks. 
+  -- Disc: It was stressful to get all the things together for the deadline. 
+* PERSON1 wants to choose the system for both of the sessions, PROJECT2 and PROJECT3. The system has to be based on some numbers. 
+  - Disc: PROJECT2 is going to be in Czech, and PERSON3 is not sure which one to choose. 
+* PERSON1 needs to keep in touch with PERSON7 and PERSON4 because they need to revive PROJECT4. 
+  -- Disc: PERSON4 finally managed to compile PROJECT4 and is trying to get it up and running for himself, but he's not sure how far he's going to go. 
+* PERSON4 is trying to train a model on common voice for his experiment. He will use more datasets than the one recommended by ORGANIZATION4. 
+* He needs to choose which data set to use. 
+  - Disc: The common voice alone would be too small for comparison purposes. 
+* PERSON4 wants to write a paper from the experiment. He will use the most frequently used dataset. The link to deliverables in the work package one is already available to some extent. 
+  - Fact: The one link is D one point and D one five, which is the one that is publicly available. 
+* PERSON1 is in the search organization document D one five for this call. He has pasted the link to the ORGANIZATION7 document as well. The document is already published. There is an PROJECT5 section in the document. 
+* PERSON1 is training a new system at ORGANIZATION3. 
+  - Disc: He wants to make sure that the data on the disks is stored properly. 
+  - Fact: He also wants to work on a non native speech system as part of his masters thesis. He will talk to PERSON3, PERSON4, and PERSON7 about it. 
+* PERSON2 wants to have a call with PERSON7 to discuss when to go through the video. 
+  -- Fact: Some of the paths are not existing yet, so some of the options are not available yet. 
+  - Disc: PERSON4 is two part of the video and wants to start from the beginning. 
+* PERSON4 wants to work on the non native speakers part of his thesis. 
+  - Disc: He would like to do the model using PROJECT4. He will send an e-mail to the project manager to invite him and the other participants to the meeting on Monday or Tuesday. 
+* PERSON1 doesn't have anything to say about the call with PERSON7. PERSON3 wants to know when they finalise the replacement for him. The replacement will be training PROJECT5 systems if he is to replace PERSON7. 
+* PERSON1 needs to respond to a message from Vi. 
+  - Fact: It's on his "to do" list. 
+* He needs to give the summary to PERSON5. 
+  -- Disc: She will present it. 
+* The message is from PERSON1 to PERSON8. 
+* PERSON5 released the corpus for PROJECT9 before Christmas. This week he implemented a speech language identification model for Czech, German and English. It works in online mode with three seconds delay. He is going to integrate it into the mediator and create a simple start up script to increase control so anyone can use it. 
+* PERSON1, PERSON5 and PERSON9 are going to work towards the ORGANIZATION13 deadline with a subtitler study paper and then with PROJECT7. They are aiming to do it towards the end of the project based on PROJECT9 or based upon PROJECT9. 
+* The project involves considering multiple sources and multiple channels. It will be as audio to text worker and it will emit time stamps like time stamps. 
+  - Fact: The project is called PROJECT5 and it's being developed by PERSON1 and PERSON5. 
+  - Disc: It's a language idea. 
+* PERSON1 needs a tool to separate the output into the three language channels and filter it to produce either silent or correct output depending on the language. 
+  - Disc: The tool is called PROJECT7 and it will be preserving the text output and following the time stamps. It will emit either silent if it's the wrong language or the recognized text if it is the correct language. 
+* PERSON1 is trying to figure out the best way of integrating the language ID into the pipelines. He suggests that the same sound is shipped to PROJECT5 and the same language checker is used to silencing the other one if it's in the wrong language. 
+* PERSON1 and PERSON3 are trying to come up with a solution to the problem of multi-lingual models and building blocks for the translation of languages into English. It's possible to do both, but it will bias the translations. 
+* PERSON1 and PERSON3 are discussing the quality of multilingual models. 
+  - Fact: They discuss the difference between direct bilingual models and pivoted models. 
+  - Disc: The quality depends on the data available. If the data is more available through English, it's better to go directly through English. 
+* PERSON1, PERSON3, PERSON5 and PERSON2 have a meeting about the book. 
+  - Fact: They have to have it out in the middle of the year. 
+* They need to start writing right after the subtitler study. 
+  - Disc: The continuous evaluation is the most urgent thing now. 
+
+------ Note ------
+*: A topic or important point of the discussion.
+Fact: An objective statement.
+Disc: A subjective discussion such as an opinion and claim.
+-: An item related to the topic or point.
+--: A supplemental or supporting statement for its previous sentence.

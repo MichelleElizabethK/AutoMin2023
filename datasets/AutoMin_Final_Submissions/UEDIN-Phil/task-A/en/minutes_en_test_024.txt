@@ -1,0 +1,10 @@
+Attendees: PERSON1, PERSON2, PERSON3, PERSON4
+
+ * What is not allowed, is to have uncertainty about the status of the process.
+ * The XML markup should be absolutely clear, about the, stages of the processing and the annotation itself can be like undecided, that is okay.
+ * The stage of the processes have to be clear.
+ * The one option is that we will have left this NE suspect.
+ * [PERSON1]: I think that we have to present the full documents.
+ * [PERSON1]: I think that they, definitely have to, make the decision for the undecided ones, for the maybe ones, that's the, bright yellow, and, I think that they should just occasionally look at the green and red ones.
+ * [PERSON1]: The way to roll it out to the web, if you, if made any changes on the GitHub, will they automatically appear in the web or, will you have to push a button?
+ * We have to send that proposal.

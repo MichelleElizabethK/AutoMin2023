@@ -1,0 +1,157 @@
+Or maybe can can someone else, give it a try as well.Because wi- with [PERSON2], I remember that uh [PERSON2] also had uh some microphone issues at times.(PERSON1) Yeah, so uh so I'll try to reconnect uh I'll uh yeah.<other_yawn>
+
+Yeah, so I I'm I'll make [PERSON3] the host for now.So for some reason I have always has to connect a few times uh until Zoom starts sending also the sound to me.It's <laugh> uh annoying.So uh s- 
+
+I was in a call until the very last minute.Uh so, uh [PERSON4], if you could start.(PERSON4) <other_yawn>
+
+And my mother is writing the question for the German subti- subti- subtitle user study.(PERSON1) Uh, I'm hopeful about [PERSON8].So let's uh uh uh-
+
+Feel free to ping [PERSON8].Then-
+
+Yeah-
+
+(PERSON4) And and I asked [PERSON5] to do uh the transcripts of- by German ASR f- for the German transcriber.(PERSON1) Yep, yeah, that's also very good.(PERSON5) So so uh I have just added the transcripts for the first 30 parts.Basically, (the big trade), or something is wrong.So some files a- are still-
+
+Have still weird output, bu- but for most folders, it should be already fine.It's, uh uh uh it's it's great that, ah, the D- [PERSON4], you have thought of [PERSON5].(PERSON1) Uh so if you uh [PERSON5] had the time uh obviously, there is no way we could do it for the next week.(PERSON1) And uh af- I've asked [PERSON9] because I've seen uh the uh [PROJECT3] project uh demo.And uh it would be great uh  if if we could also locate some such type of the data.And uh we would get this-
+
+We would uh uh w- like put this into the architecture.(PERSON5) (Dual EMNLT)-
+
+(PERSON1) Yeah.So so uh-
+
+All of our models uh basically work with s- with uh with, yeah, sequence to sequence.(PERSON5) And then they generate the first word and the-
+
+And then basically with every new token that they gather they they generate the new-
+
+(PERSON1) Mhm.So basically, it's much faster because you just generate one word at at a time.And also, uh I I think i- it it-
+
+It could be quite easy to implement the shortening in this in this model as well.Yeah yes, s- so basically we would just uh call it like to-
+
+We would just train it s- so that it is stops- uh generating yeah- after some, some time.Uh s- uh so I've talked to [PERSON10].Or or [PERSON10] mentioned in in a call that, uh [PROJECT4] is not ready.So this made uh (K) and other strategies are not in [PROJECT4].(PERSON5) <laugh>
+
+(PERSON1) Well maybe I I I thought uh uh that that maybe some students of [PERSON11].Uh, who uh uh like works halfway in Prague and halfway in Brno.(PERSON1) If that would be- <unintelligible>
+
+(PERSON5) Okay, so right now I don't know if it is realistic.It's v- very in C++ and so on.(PERSON5) But i-
+
+But i- i- if I if I see that i- it is possible.If I understand what's going on in the code.I've never seen-
+
+So we have [PERSON2], [PERSON6] and [PERSON3] here on the call.But I think that [PERSON6] should uh just like, click, uhm <other_yawn> click on to s- s- s- some buttons.(PERSON1) Yeah, so-
+
+(PERSON6) (Probably) I will work it on tomorrow.Uh but uh then a lot of effort is to be put into uh.For, uh ([PROJECT2]) uh and (SG1).(PERSON1) And uh [PERSON6], you mention it that you don't  have the webpage for ([PROJECT2]).(PERSON6) And I I am trying to uh gather the data <unintelligible> from those (tasks) that are mentioned in the program.(PERSON1) So could you merha- maybe, perhaps, perhaps, for the uh uh-
+
+Well well, oh you are you are away.Okay, so in the afternoon, for example, in in the Czech afternoon, you are able to to uh to do something.And I guess it's not that uh uh you could have a z- Zoom call again uh with the videos uh.And uh t- uh like to uh to have a dry run of some past similar talks to ([PROJECT2]) (docs).I- 
+
+(PERSON6) I I I'm a bit afraid that the (mayborl) probably will not be prepared till tomorrow.Because uh tomorrow I'll be working on the Monday similar model as well.(PERSON1) So even if we do the test of uh like the two concurrent uh subtitlings.(PERSON1) Without domain adaptation, it would be useful test.(PERSON1) Yes, but you need two local machines.Uh c- c-should we say, like one or two, Czech time.So like uh Zoom Test for uh two uh youtube uh videos at the same time.So uh [PERSON3], would the uh-
+
+Two uh-
+
+Uh p- presentations be ready to paragraph use ready.(PERSON3) Uh so I got the access to (took his platform, my engage last night).(PERSON3) Basically yesterday (or worked) with all the steps.(PERSON3) So tomorrow we are going-
+
+(PERSON1) There is, there is some chance that-
+
+<laugh>
+
+Uh, yeah.So, and [PERSON6] [PERSON6] uh has been working on uh adaptation uh for the two domains.Uh and then uh Friday uh um test uh time for two concurrent sessions.So [PERSON6], if you uh put, could put uh a link here.Uh, l- like l- later Friday or on in on Monday.It is basically that some videos are not getting some audios or videos are not really connected properly into a 16 (cave) format.So [PERSON7] told me yesterday-
+
+(PERSON1) Mhm.It should be part of uh the automatic evaluation of [PROJECT1] test set right.But there are some audio files uh where it, it gets converted to the <unintelligibile> format.(PERSON3) But when you pass it to the (A S I) system, the sound system will not work on that.But yeah, ah, that that saying a bit of time.Because I need to figure out which one is the one which is not uh getting passes with ASR.(PERSON3) So once I know that, I can keep a track of it.The sound quality is is uh a little worse.Uh so this should really be done uh all the time.So every time we run this evaluation, it should be, uh, run from scratch.So uh every time, there should be a fresh download of [PROJECT1] test set, a fresh conversion and fresh evaluation.Uh but still, if I am keeping track of the files, which uh needs to be manually converted so that I can write write a script.Yeah, so this is uh <laugh> an important thing that we should have s- uh uh like c- come across, some months ago.Remember, I it's it's it's since August that I've been telling that that we want to evaluate on [PROJECT1] test set.So uh so uh that's a message for everybody.Zoom never worked as badly for me as it as it was <laugh> today for the recording.And here we are running on the uh in the problems of conversion of the of the file formats.(PERSON1) And you have the-
+
+(PERSON3) I'll have a call with him.There are like a lot of things to run.But I'm also simplifying everything so that, uh, we won't have.This just receiving the numbers will be a big relief for me.<laugh>
+
+(PERSON3) I will, at least for <unintelligible> will send you the numbers today.(PERSON1) Yeah, so for for which data set the uh-
+
+(PERSON3) It is a [ORGANIZATION4] <unintelligibile> (IWSLT) 2020.Because they reflect the domain that we have for the (SG1) meeting.(PERSON1) And there is uh the (money dogs), and these are important for uh the uh (CL) domain.(PERSON3) Yes, oh, okay, so uh I, I'll send you-
+
+All the three.And uh so I know that [PERSON6] is working on the [PROJECT1] test for the two domains.So, [PERSON6], are you taking uh a part in that call, uh, with [PERSON11] as well?(PERSON1) Uh I think it's uh I think you also should.Uh the uh-
+
+So I'm I'm hoping that you will be able to have uh the multiple uh custom dictionaries in the ASR system.(PERSON6) Uh I I received your email yesterday with uh the thing I was I mentioned in the <unintelligible> (ASL) system without using (pretest) (for pronunciations) was better than <unintelligible> (multiple pronunciations).So [PERSON2] sent this email with the forwards, the uh (Watson IBM) and yeah.(PERSON6) So so this (family) was-
+
+I sent the uh files to [PERSON2].Three files of IBM and three files of Watson.(PERSON6) And so he sent me the uh phonemes spoken in those files.(PERSON6) And so beca- uh since his model works on some (ASR).S-
+
+For example, there was one file in which the word was for IBM.And so uh uh it the (ESL) decoded it as I think (for IBM).(PERSON6) And so the phonemes were recorded <unintelligible>
+
+So uh in this way, he sent me the phonemes.(PERSON6) And so the performance of dix- (description) was exactly the same with the without uh adding these pronunciations in their dictionaries.And the one uh domain adaptation model that I develop with my manual uh pronunciations.(PERSON6) So-
+
+Uh.Well, this is too small of a sample.And then I noted- uh, uh, uh, [PERSON2] produced uh the long uh word list, right?(PERSON1) So you just convert the uh the uh international phonetic alphabet into the phonemes, uh, that uh uh that uh (cmu) knows.(PERSON6) Uh so so it means that that (lace) should contain Watson.(PERSON1) Uh well, I do not know if that is contains Watson.But it's-
+
+(PERSON6) But I mean-
+
+So uh dele- it is assumed that <unintelligible> should contain our (words).And then I agree that there is a lot of noise in this dictionary.So the thing that I asked for is that you would have various versions of this dictionary by taking only the words that were observed five times.(PERSON1) So that way uh these random errors, such as the example with this (four Ibm) instead of (Ibm).If you remember, if he says this also with zet 20 times in the uh in the talk.[PERSON6], you to be in the touch with [PERSON2], maybe continue uh uh on this call, right?I have to uh uh  I will have to leave now, because I need to give the kids, the, the, the lunch and so on.Please have a look at that.You need to figure out what words are in the uh in the language model.And you will also possibly run into one more problem that it's not ready for two big custom dictionaries.And you need to put these two (knowledgeist) <laugh> pieces of knowledge together.Uh, so that it works with the uh with the generated dictionary.Any-
+
+(PERSON2) Well, maybe maybe interesting information for [PERSON4].I'm finishing training of uh German ASR that may be used for for uh for uh time stamping.Uh uh it uh they claimed it has uh more than 600 hours than a but uh uh the training set.The uh the uh uh actual training set uh contains only around 300 hours.For example, in English or Czech uh I was used to uh.So, uh, and well if if I'm a uh.I uhm take uh some uh samples uh f- of uh during the training.Then there are some still some uh serious errors in the in the ASR output.So so so maybe I'm I'm I'm I'm hopeful that-
+
+Uh, for for the time stamping it's good enough.If we want to just uh infer uh like like (obtain) uh transcripts.(PERSON2) But uh if if you have uh transcript, and we want just to do uh just to do uh time stamping.And then reco- recognition for uh for the rest for around a 100 hours.(PERSON2) Well, there are uh (f- the for the) recognition.I would like to stay uh [PERSON6] to stay on the call with [PERSON2], right, and discuss how to use the dictionary.It it actually depends on on what day are we asking, like.So while uh there is a lot of things that [PERSON3] needs to do.And I think it would be good if you too would like split it among yourselves so that [PERSON3] can manage that in time.(PERSON1) Because this is the this is the numbers that we want to obtain for the different models.Uh and then uh [PERSON3] needs to prepare to have the double uh system running.We will do first test of this tomorrow at one uh Prague time.I don't know the meeting time for, uh, with [PERSON11].Uh and then we will, on Monday, decide which of the models to use.So the uh the uh (CL) decision uh really has to p- happen on Monday.<laugh>
+
+Get one number the baselines now and the uh.Uh, uh on Monday.Yeah s- uh so as a baseline.(PERSON7) Thank you-
+
+(PERSON1) Thank you for (stressed for) all the, for these tests things.(PERSON3) Well, [PERSON7] I'll send you uh a text on Slack later.Because, oh, as was mentioned by you on the call call lat- yesterday or (day before) yesterday.But I uh think some of the files, even in uh [ORGANIZATION4] data set.Are uh are (tools) files, which doesn't get converted into 16 (killer) <unintelligible> format pretty easily.(PERSON7) Okay, that is not, that's not a big big issue.(PERSON3) Uh-
+
+(PERSON4) All the workers and their quality and latency?(PERSON3) Uh uh actually mostly about uh the.Ah, even for with ([ORGANIZATION1]), we have two.(PERSON3) Uh, the <unintelligible> seq- sequence.The other one is a normal one.(PERSON3) And uh in the Monday seminar one [PERSON6] is going to do more of an adaptation.For the (saw) and uh s- uh uh for both the different tasks.And uh finally, on Monday, we'll see, uh which model performs best.For (IWSLT), then I observed that that there are no big differences in machine translation parts.And (flicker) you might test quite quite easily on one document.(PERSON7) During the month of August uh, we also had numbers for the empty models.The (rainbow empty models), uh scores were better than our len- our I think yeah.So you may be <unintelligible>
+
+(PERSON3) Uh I have the scores, so that's why.So uh actually, Mohammed compared the scores between, I think, uh it was (rainbow) and there (summer) set of workers.And that were kind uh, they had like little uh lesser scores, I mean.Basically how what [PERSON1] mentioned on the call that there was two <unintelligible> individual translation workers, you can see if they are performing better.Uh okay, so I'll make [PERSON6] the host now.It's pretty late here, and I didn't (have lunch).(PERSON6) <unintelligible>
+
+(PERSON7) Thank you bye-bye.(PERSON5) Okay, [PERSON4].(PERSON5) But for some folders it's okay, and for some, it is terrible.(PERSON5) Because, like, it's just uh the- 
+
+Like most common words in the language.Like half of the words it's <unintelligible>, or you know.If you want to inspect it, then l- listen to the to the source audio.It just told me like (ff mpe) (again) told me that-
+
+That there were wrong time stamps in the file, whatever that means.So uh so I, I now see that the the transcripts for for these files are don't have the right length.And I'm not sure how to uh how to convert them properly, because (F F M P G) just just returns the error for those files.(PERSON5) Yeah, but it does not support the the format, actually.(PERSON5) It's-
+
+Yeah it is actually od-.And actually, how how many how many worker- workers can I run in parallel on (cpu)?Or-
+
+(PERSON5) I don't know, like on any- anywhere-
+
+(PERSON4) Or or in (Q)?(PERSON5) Okay, be-
+
+Because like-
+
+(PERSON4) By by (Q summit) or.Because I think that the uh best thing right now would be basically to throw away everything.(PERSON5) Because-
+
+(PERSON4) No problem.(PERSON5) Because like now, I think for my maybe half of the files it would be, you know, like totally wrong.(PERSON5) And that would like confuse everyone, a- a- and and I can't really find whi- which files.It is because it's a lot of files, so I would have to open everything.(PERSON4) And how much time do you have to work on the German ASR?Can can we-
+
+Ca- can we-
+
+Or should we go forward with the language model fo- to process the the interpreters?(PERSON4) Yes or-
+
+(PERSON2) Well.And then I hope there will be a good quality for the recognition.But-
+
+(PERSON4) Yeah, no problem.(PERSON5) Yeah, uh, okay, ah, yeah, one more thing.(PERSON5) So I figured out that actually in the fi- in some of the files there is, you don't just hear the interpreter.But you also hear the person saying something in English in the background.(PERSON4) Yeah, uh but so if it does work now, then okay.If it doesn't work, then I can apply some kind of filter to cut off the- this effort with with low volume.Or you- 
+
+(PERSON5) Okay, I will just s- I will just try how it works and I will see.(PERSON5) So-
+
+(PERSON4) Or we can ask the annotator whether the transcription work helped to spare ther- spare her time.(PERSON4) And <laugh> if she says that not, even when the quality is good, then then we don't need to care much about the rest.(PERSON4) And we rather focus on [PERSON2]'s uh high quality on on the others.(PERSON6) Not a [PERSON2] may (we discuss) now.But there are the curly brackets uh around the pronunciation and be (calibrated) around first and the last for me with (W B) in there.(PERSON2) And the some some special mark, or or- 
+
+(PERSON6) Uh which one?(PERSON2) Uh the W B.And even if uh if this is not there, I think it it's not a big issue for me to (append).So I think you can find it (about it) on Wikipedia, as well.They found a package of our language.Which, which automatically converts the (IP) to <unintelligible> the other way.And so there was there was very some phonemes that weren't (formatted) into the f- corresponding alphabet for names and uh.So I p- I am afraid that when I will be processing this list of graphemes to phonemes to graphemes so probably there will be some issues regarding the such phonemes.So if I I I can share the other f- package with you if if you are familiar with (arl) that is actually very easy to use.I can uh take a look at the.(PERSON6) Yes, I-
+
+But I think uh-
+
+(PERSON2) <unintelligible> (IP) (right)-
+
+(PERSON6) Mhm.<other_yawn>
+
+(PERSON6) There was an- another as well, but (by a tree).We want to uh, produce uh some uh a pro- variable pronunciations.(PERSON2) And the nearest one are for example, you did not link these two or s-
+
+Or um.With this phoneme with two other words with both or or three other versions of that word with using these (three) phonemes.Then there is some uh or some mapping or or some map of uh um <other_yawn> of how which which phonemes are actually near, and which are more far apart.(PERSON2) Uhm can you open it in your window?(PERSON6) Uh <laugh> <unintelligible>
+
+Multiple pronunciation (anywhere but this).(PERSON6) <unintelligible>
+
+I don't know the uh a pronunciation of any of these vowels.If if you click on it, then, for example, it's in uh (bat).And <other_yawn> if we go for for the the letter, we do not have in in (CMU).And there is an example like uh a not not bird.(PERSON2) And (it's in a rich word) in our dictionary.In which (word) uh did you find the this this uh a rotated A?(PERSON2) M.
+
+So-
+
+(PERSON6) So I think the better example is this ter- E.
+
+Uh in in (Watson).(PERSON6) It's uh it-
+
+(PERSON2) Oh, it's the E.
+
+It it uh <unintelligible>
+
+(PERSON6) Yeah.Maybe I'm well somehow if you uh pronounce this uh pronounce it incorrectly.Well, uh sorry [PERSON3], I need to uh go, because I have another main thing.Um, let's have a call uh tomorrow.(PERSON6) I think probably it will be difficult to have a call tomorrow.I will let you know an email or (flight), because tomorrow I I uh am usually off for Friday prayer on Friday for ten to twelve.And then we have a test run with [PERSON3] that we were discussing.Uh uh-
+
+<unintelligible>
+
+(PERSON2) Uh so uh let's just-
+
+(PERSON6) We need-
+
+Mhm.Uh, my a dictionary to (CMU).But I'm uh uh I'm as sure I am <unintelligible> the main adaptation models.So so that that (it would be IPA) (there will be the phonemes of alphabet).(PERSON6) I'm saying that if you could just change these (IPAs) to the alphabet phonemes.Uhm
+
+(PERSON6) Thank you so much.(PERSON2) Okay so I I will- I get in touch with you.
