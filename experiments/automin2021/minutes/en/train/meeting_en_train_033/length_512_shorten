@@ -1,0 +1,64 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON9 , PERSON13 , PERSON8 , PERSON11 , PERSON16 , PERSON4 test run tomorrow in afternoon.
+  Thursday is national holiday in Germany, Friday , Thursday is day of week people can work.
+  test run will PERSON3 can start systems today.
+ -PERSON9 , PERSON11 , PERSON17, PERSON12 going to set second mediator for test session.
+ -PERSON17 wants to set second instance machine, use different set of ports , switch extremely fast.
+  details of mediator will available in ORGANIZATION8 Document , I asked PERSON13 to enter details.
+  PERSON9 asks PERSON11 to highlight languages can supported in subtitling platform.
+  There is problem with streaming of slides to presentation platform of Organization 2.
+ -Person2 will take care of it tomorrow, Friday.
+ -PERSON9 , PERSON16 , PERSON10 , PERSON8, PERSON16 on conference call.
+  discussing critical observations from document.
+ -PERSON16 will make sure recording is happening.
+ -PERSON9, PERSON16 have collected logs from PROJECT1 session.
+  going to record audio as basis of test set.
+  will work on audio over coming months to polish pipeline.
+ -PERSON9 will make sure to let everybody know when document ORGANIZATION8 document is to date with requests.
+  incremental ASR not working as it described by Organization 5.
+  timestamps missing , it impossible to tell timestamps for token in packages , not in WG session.
+  If request unsegmented text , receive token overlaps previous one.
+  When request language is spoken by text client , PERSON14 advises PERSON8 to use real time mode.
+  not work in dry run.
+ -PERSON16 uses two clients , one for one instance of client, one for.
+  second client does not send timestamps to first one.
+ -PERSON16, PERSON8 problems with ASR worker.
+  need to change client, measure times when receive messages.
+  also need to monitor sound channels.
+ -PERSON16 , PERSON2, PERSON8 trying to solve problem with presentation layer of platform.
+  need to record to ASR, archive it.
+ -PERSON17 is working on newer version of published worker.
+  There is problem with empty deliverance output number segment, is not enough space into subtitle window need to change subtitling window.
+  presentation platform is not big enough to display PERSON17 explains to PERSON16 presentation platform works.
+ -PERSON16 , PERSON17 , PERSON2, PERSON9 discuss results of experiment.
+ -PERSON16 , PERSON8, PERSON17 discussing implementation of presentation.
+  discuss technical issues with it.
+ -PERSON16 is going to review scripts.
+  server does not notice socket is closed , it takes long time to shutdown.
+  interpreter interpreters want to see whole output specific times.
+  congress is in May next year.
+  There PERSON16 is debugging subtitles until he shown output.
+ -PERSON8 , PERSON14, PERSON16 discuss issue of timestamps.
+ -PERSON14 explains to PERSON8, PERSON16 to get immediate results from client.
+  timestamps from ASR lost.
+ -Person8 needs them in order to know when text is updated , when it is transmitting from unstable to stable , otherwise have to resort.
+ -Person9 distinguishing of of partial , not partial hypothesis in chapter.
+ -PERSON8 does not understand empty worker ca not access timing information from ASR.
+ -PERSON14 explains difference between ASR, MT.
+ -PERSON8, PERSON14 do not understand do not get time offset from audio.
+ -PERSON8 explains to PERSON14, PERSON17 pipeline works.
+ -PERSON8, PERSON14 arguing timestamps in log file from Project1 live demo.
+  log file is not accurate , timing information does not come from audio information.
+ -PERSON14 , PERSON3, PERSON8 trying to figure timestamps not recorded properly dry run.
+  suspect it might related to multiple clients PERSON2 talking.
+ -PERSON14, PERSON17 agree in principle it work in principle , need to address issue between, text on presentation platform.
+ -PERSON17 , PERSON8, PERSON16 working on project.
+  At moment , do not have access to correct timestamps for dry run , can not decide what to translate.
+  also problems with intermediate steps.
+
+
+Minuted by: Team ABC

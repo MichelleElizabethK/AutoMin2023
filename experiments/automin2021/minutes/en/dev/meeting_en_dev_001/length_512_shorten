@@ -1,0 +1,58 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON10, PERSON5, PERSON3, PERSON4, PERSON6
+
+
+SUMMARY-
+ -PERSON4 is getting visa Friday.
+  She has appointment on visa embassy.
+  She gathering documents.
+  She will send link to PERSON3 to look ORGANIZATION1 sessions.
+ -PERSON10 would prefer to have ORGANIZATION2, PROJECT1 data instead of information from Organizing1 talk.
+ -PERSON3 , PERSON5 , PERSON6 , PERSON4 , PERSON10 discussing much data need for share task.
+  need to prepare for today meeting.
+  data set for training is small for full training.
+  participants will get half of test set, half will used for development set.
+ -PERSON6, PERSON10 have task to summarize 19000 hours of data.
+  There speed summarization share task for long time.
+  There is gold standard for task.
+ -PERSON10 , PERSON3, PERSON3 going to use ORGANIZATION1 data from 2006 to 2011.
+ -PERSON10 does not want to invest much work into data set.
+ -PERSON3 is showing PERSON10 summary of minutes from meeting on 6th of October 2011.
+ -PERSON3 wants to know if it would good idea to have minutes of previous sitting as separate track.
+ -PERSON3 asked one of annotators to do alignment.
+  IDs of ORGANIZATION1 corpus can not used to search for minutes.
+  In minutes minutes left with hyperlinks.
+ -PERSON6, PERSON10 discuss structure of project.
+  agree on 3 test sets , ORGANIZATION2, PROJECT1 , 3 tracks.
+ -PERSON10 , PERSON1 , PERSON3, PERSON6 discussing what provide as training data for organization 2 , project 1, organization 10.
+ -PERSON3 is sharing screen with PERSON10 to find minutes from ORGANIZATION1 corpus.
+  There one session in last 5 years.
+ -PERSON3, PERSON10 looking for someone can download, reconstruct structure based on matching of strings.
+ -PERSON5 , PERSON3 , PERSON10, PERSON6 on call.
+  need to decide if take data from Organization 1, provide it as training data.
+  If do it , divide it into 3 parts like short meetings, long meetings PERSON5, PERSON10 want to include ORGANIZATION1 in share task.
+  first step is finding, downloading pairs of transcript, minutes for sessions.
+  minutes not variable , not useful for participants.
+ -PERSON5 proposal is to have people create summary of work of best transcript find.
+ -PERSON10 idea is to aggregate subset to existing data, increase diversity of data.
+ -PERSON3 wants to take whole ORGANIZ PERSON10 , PERSON5 , PERSON6, PERSON3 going to prepare ORGANIZATION1 transcripts, minutes corpus as test set for shared task.
+ -PERSON6 will try to find Wget expert can download, prepare corpus.
+ -PERSON10 will ask him for session he will walk way he downloaded speech part of transcripts, summaries.
+  do not have uniformal format of data PERSON3, PERSON10 discuss presentation by remote colleague of ORGANIZATION5 is developing PROJECT3.
+  agree presentation in one format.
+ -PERSON3 is looking for way to preserve original data.
+  needs to contact colleague , works remotely for ORGANIZATION5 , has working on web browser for big corpora for 10 years.
+ -PERSON3 , PERSON10, PERSON1 discussing format of transcript.
+  going to ask PERSON1 to prepare data.
+ -PERSON10 suggests PERSON6 downloads data , PERSON6 will start processing conversion, PERSON6 would finish.
+ -PERSON3 wants to start from ORGANIZATION1, reorganise files.
+ -PERSON6 wants PERSON5 to put whole corpus to server, organize it according to dates, names of sessions.
+ -PERSON6 , PERSON10 , PERSON3 , PERSON5, PERSON6 organizing data.
+ -PERSON6 will continue annotating data with annotators.
+ -PERSON3 will share link to sticker data from from Organization web.
+ -PERSON3, PERSON5 in doctorate.
+  source for machine translation work released as part of parl corpora for machine translation.
+ -PERSON3 , Person6, Person1 will see tomorrow.
+
+
+Minuted by: Team ABC

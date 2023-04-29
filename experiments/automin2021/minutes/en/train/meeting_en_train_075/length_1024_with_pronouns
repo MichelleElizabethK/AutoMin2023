@@ -1,0 +1,28 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON16 and PERSON4 are on a conference call.
+  There is a deadline in six days and he has a lot of work to do.
+  There are issues with confidentiality of the transcripts and the access to their talks before the event.
+  They spent a whole day yesterday fixing a bug in Organization 2's servers.
+  Organization2 couldn't connect to the machines at all.
+  Organization 2 had a spare backup copy of their segmenter system, but it was not fully functional.
+ -PERSON15, who is responsible for Organization 2 On Friday PERSON9 collected data on the first attempt to evaluate spoken language translation.
+ -PERSON4 wants to try some modifications of the Rainbow model to improve performance on ASR.
+ -PERSON4, PERSON6, PERSON9, PERSON16 and PERSON19 will prepare the baseline workers and the domain adapted ones for the demo.
+ -PERSON16 has sent the short three minute transcript to PERSON4.
+  They will correct it and send it to PERSON11.
+ -PERSON11 will prepare the videos in English and Czech.
+  The deadline for the demo is for this Friday or next Friday.
+ -PERSON4, PERSON16 and PERSON22 will prepare a demo for the demo on Thursday.
+  They need the data from PERSON12 and the speech transcript from PERSON19 to create a talk level adaptation sub drive.
+ -PERSON4, PERSON9, PERSON21 and PERSON22 will train their own ORGANIZATION4 system.
+  The system was provided by PERSON21, but it was just a system run.
+ -PERSON4 wants to make three identical copies of the same thing.
+  The platform is free to downgrade to more generic models, and that could change the behaviour of the pipeline.
+  When I use domain adapted and lauch a worker that very fingerprint should have a unique signature.
+
+
+Minuted by: Team ABC

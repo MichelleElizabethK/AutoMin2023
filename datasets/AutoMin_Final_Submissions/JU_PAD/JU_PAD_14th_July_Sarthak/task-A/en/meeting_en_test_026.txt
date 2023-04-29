@@ -1,0 +1,42 @@
+Attendees: [PERSON10], [PERSON11], [PERSON1], [PERSON2], [PERSON3], [PERSON4], [PERSON5], [PERSON6], [PERSON7], [PERSON8], [PERSON9]
+
+Summary:
+[PERSON1] is curious , if [PERSON4] is here , we do not have [PERSON4] . that is good that [PERSON2] are finally starting . Then [PERSON2] only need to finish the executive summary . 
+
+[PERSON1] asked  What is , what is really outstanding , what are the problems that we have not like . 
+
+[PERSON1] asked  that is the transcripts ? [PERSON1] really think that some experiments with multisource text , in [ORGANIZATION3] should be done immediately after . Also , [PERSON4] have a call with [PERSON11] later today . 
+
+[PERSON1] know it's , it is complicated . 
+
+[PERSON4] do not think we need to fold proprietors spasm removal , because if we remove the one from the ASR itself . And hopefully [PERSON17] will be there as well . 
+
+[PERSON1] asked  are [PERSON4] also in touch with [PERSON17] ? that [PERSON4] can do it yourself next time . just make sure to be in touch with [PERSON6] . , [PERSON6] , include [PERSON4] in this part as well . And the pipeline had to be started by [PERSON10] and [PERSON17] . That something which [PERSON1] do not understand . next week , [PERSON1] would like to hear from [PERSON5] three how far [PERSON5] got in the in the specifications of the requirements . 
+
+[PERSON8] can maybe make itthat there is one script , because . But what [PERSON5] think is that if we could have multiple word , multiple replicas of [PERSON8]'s  same workers , and , each emitting , a different subset of languages . 
+
+[PERSON5] shall see what errors are those , and . 
+
+[PERSON8] think that [PERSON8] is not either , but also , [PERSON8] is using the newest version of [PROJECT3] actually to train the shortening models . And also , if [PERSON5] do not know who could help [PERSON5] with what , email [PROJECT1] dash [ORGANIZATION1] . And [PERSON1] is just asking [PERSON21] to add [PERSON3] there . Like all of [PERSON5] , who can possibly answer such questions are there . 
+
+[PERSON8] can use Command DF and it will tell [PERSON8] the space on all the disk . 
+
+[PERSON8] [PERSON8] actually have one last thing . 
+
+[PERSON8] think that would work for [PERSON8] , [PERSON8] can write to him . that is probably edge and [PERSON8] want still . 
+
+[PERSON8] is now highlighting the experience , from the [ORGANIZATION7] and as [PERSON1] want again . for that because the last week [PERSON4] could not work . 
+
+[PERSON4] have started finishing that today . 
+
+[PERSON4] think [PERSON4] shall be able to wrap it up today itself . 
+
+[PERSON4] think [PERSON4] shall have a call with [PERSON7] later . after that [PERSON4] shall have a call with [PERSON7] to discuss all the , things that [PERSON4] put in the script , and then [PERSON4] think he can take it up from that . It could give [PERSON4] the cashed , output already . 
+
+[PERSON1] think it could , because [PERSON1] think it is better to have it , run again . as a fallback solution , if [PERSON1] if [PERSON1] forget to make sure that we have these people available , or they do not know that they will not be available . then , another thing that [PERSON1] spotted is this is in the Monday test document . Maybe it is not faster for [PERSON7] in the end , but at least [PERSON7] should consider it . But [PERSON10] would like to see the benefit of that domain adaptation in in the [PROJECT2] set up . And [PERSON6] , because he is doing how to work with [PROJECT2] . 
+
+[PERSON4] thinkbecause , [PERSON4] thinkbecause we had , we were testing it with a non domain adapted model . if there would be anyone else , would be curious about this , let [PERSON1] know . But maybe we could employ these neural networks that [PERSON6] forget how this task is called , but it is based on the movie review . 
+
+[PERSON4] is not sure how well it will perform . 
+
+[PERSON1] think he should stay with the non native English accent .

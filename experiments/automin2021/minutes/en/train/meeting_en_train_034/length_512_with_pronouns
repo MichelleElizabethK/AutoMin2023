@@ -1,0 +1,81 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON4, PERSON5 and PERSON9 are meeting to discussed technical issues concerning the architecture of the audio service.
+  They are waiting for PERSON3, who will join them in about 15 minutes.
+ -PERSON5 wants to use Epifun to cast lights.
+  The problem is that the quality of the image is not good and it distrains the image of the screen.
+ -PERSON4 and PERSON5 will use Epifun to duplicate the video signals from presentation notebook to overhead projector.
+  They need to steal the image at the same time.
+ -PERSON4, PERSON5 and PERSON3 are trying to figure out how to duplicate the video signal to the overhead projector and to Epifun without it interfering with the presentation.
+  They have no experience with HTML stream viewers.
+ -PERSON5 will provide a demo of the streaming of the slides.
+  The slides should be ready by the end of June.
+  The presentation notebook is the same as the video streaming notebook.
+  There are two possible ways of presenting the slides.
+  The other is reading the slides directly from the presentation laptop.
+ -PERSON4 wants to stream his exam on Linux, but Organization 3 may not like to present their presentations from Linux laptop.
+  There is a library for Linux that can write subtitles directly on the screen, but the presentation client would have to be different.
+  They and PERSON5 will present a presentation of the city council of Rome over the Internet.
+  The live subtitling service is performed by the audio video service of the rooms.
+  It is visible in the setup that PERSON4 saw PERSON4, PERSON5 and PERSON9 will share a presentation.
+  The presentation will be presented by PERSON9.
+  The hardware setup is that there are some selfpresentation computers, a video mixer, and the video mixers Epifun and PROJECT2.
+ -PERSON4, PERSON3 and PERSON9 will meet to discussed the presentation and mixing of the slides on the same machine.
+ -PERSON4 will bring the video mixer and some presentation notebooks.
+ -PERSON9 will upload the document of the functional analysis.
+  They uploads the en analysis the functional analysis document.
+  The presentation platform has the full screen no waste mode, so that the same presentation platform can be used in people's webbrowsers and on the PROJECT2 video mixing notebook.
+  There are subtitles on each participants notebook PERSON4 is thinking about the lecture translator.
+  People should be able to choose between French and Polish as their second language.
+ -PERSON5 thinks it would be useful for the participants to choose up to two languages.
+ -PERSON9 thinks only one language should be chosen.
+  At the fair where PERSON4 tested the technology, they restarted the underlying client many times during the day and every time it created a new session ID.
+  They want the machine to reconnect automatically whenever the underlying service is changed.
+  In the case where a worker dissapear or there PERSON4 wants to know how to notify the overhead presentation platform to again.
+ -PERSON5 doesn't have an exact implementation yet, but it could work in some sense.
+  The presentation platform should always take subtitles from the first stream, and it should always be the first one.
+  P PERSON4 wants to set up a multilingual stream selection worker.
+ -PERSON4 and PERSON5 are talking about two different things: the ASR input for the machine translation and the subtitles before publishing them.
+  They explains to PERSON5 how he would implement the ORGANIZATION5 service architecture.
+  They and PERSON5 discussed the implementation of a new system for their project.
+  It will not be ready in time for June.
+  In the cascade there is one selection worker for Czech and German ASR, one for English and one for German.
+  There is a second stream selection worker who checks the quality of the English that we got.
+  There are multiple Englishes available, so the operator will choose the best one.
+ -PERSON4, PERSON5 and PERSON3 discussed whether it is more important to review the subtitles in their final language before they are published or the input to the machine translation system.
+ -PERSON4 thinks it's not worth while for the PROJECT2 setup to review the subtitles only.
+  People speaking many different languages should be done at the different layer.
+  The fallback solution for the ORGANIZATION2 platform is that all the remote meeting participants of the session will PERSON4 and PERSON5 discussed on Friday the problems with the way the ORGANIZATION2 platform works.
+  One speaker sends his audio through the organizer2 platform, but receives only subtitles of all the other participants and not its own voice.
+  People should be able to hear PERSON5 works in the dictation field.
+  The presentation platform connects to many sessions, but it doesn't connect anywhere.
+  It is relevant for the upcoming years of the project.
+ -PERSON4 explains to PERSON5 that for the August milestone, the only thing that will be missing is some orchestration.
+  Organizing2 will probably send the audio for transcription, but so far they've decided to do the recording themselves.
+  They and PERSON5 worked on a presentation platform.
+  The proposal is to upload audio and video files with subtitles and stream them to the platform.
+  There will probably be just a text field in the presentation platform.
+  The text field solution is the most flexible one.
+  People will be able to choose only the subtitles they have seen.
+  If they change a language, they will only receive German subtitles.
+ -PERSON4 would like to have two or possibly even three windows next to each other.
+ -PERSON5 will talk about it with the development team.
+  They explains to PERSON5 that when input is finished the presentation platform should move to the new text field.
+  The ASR should tell them what is final at that point.
+  The segmentation is tricky as the partial hypothesis may change also timestamps, of words, even PERSON4 and PERSON5 are concerned about the amount of text collected in the text field and the layout of the user interface.
+  They are also concerned about subtitles readability.
+  They were on both of the calls on Friday.
+ -PERSON4, PERSON9, PERSON3 and PERSON5 want the ASR to be able to update the previous segments without going back to the past.
+ -PERSON5 wants to check the grant agreement document.
+ -PERSON3 confirms that the congress will have 400 participants.
+ -PERSON4 confirms that there will be up to 1000 concurrent users.
+  They confirms that they are planning to be online only.
+ -PERSON4, PERSON3 and PERSON5 discussed how to stream videos from abroad to the participants at the main event and how to distribute them to them.
+  They are sceptical about the quality of the video being broadcast on WiFi.
+ -PERSON4 is from the school lof computer science and their network people told them that it's impossible to gather for 100 notebooks in one room.
+
+
+Minuted by: Team ABC

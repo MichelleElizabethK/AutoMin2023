@@ -1,0 +1,8 @@
+Attendees: PERSON2, PERSON3, PERSON5, PERSON7, PERSON8, PERSON9, PERSON10, PERSON12, PERSON13, PERSON14, PERSON15, PERSON17, PERSON22, PERSON23
+
+ * [PERSON7]: The recognition works (wee), but I'm unable to us the microphone for the call itself.
+ * we should be able to (test) this.
+ * The idea is to - to have notebooks also in the interpreters' (booths), but we can run into physical limits, maybe there is not enough space on their desk and - and so on.
+ * Obviously, someone has to be fine with that.
+ * At the moment, we haven't had any requirements for user (authentication), but we (willing) to (use) it in the next versions, not for this event, sorry.
+ * [PERSON2]: I just want to be sure that we are able to provide the correct (source) language in the presentation platform.

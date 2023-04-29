@@ -1,0 +1,42 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON17, the organiser of the Organization 7, is sharing the agenda with the rest of the participants.
+  Organization 7 asks for the technical description of the technical set up, the description of cables that will be connected to the interpretation booth, the graphical map and the first draft of PERSON17 wants to use the ORGANIZATION4 platform for the short-term event in March.
+ -PERSON15 confirms that the EPI are the same as the one used in the PROJECT2 project.
+ -PERSON17 will start with connecting the machine translation with the sample connector and PERSON17 and PERSON15 are trying to set up a full test system for the March event.
+  They need to get the platform running on their machines, and they need access for both users and modul providers.
+  The platform is a software, which is a build in pieces and it There will be a test of the mediator.
+  Organizing3 will connect their tools including the web presentation to this mediator and let Organizing1 know so that they can test it out.
+  There will be more sites at the fair, which will benefit from this translation.
+  There is PERSON15 is senior software developer in ORGANIZATION4 service architecture.
+  He explains to the participants how the system works.
+ -PERSON15 explains to PERSON17 how the ORGANIZATION4 service architecture works.
+ -PERSON15 explains to PERSON15 how the client and the worker exchange data.
+ -PERSON15 explains to the student how to send and receive data.
+ -PERSON15 explains to the client how the system works.
+ -PERSON15 explains to PERSON17 how to implement a machine translation worker.
+ -PERSON15 explains to PERSON17 how the handshake works.
+  Organization 3 will connect their tolls to the meditators for the student fair.
+  Organization 4 will connect the recording clients to the mediator.
+  Organized 3 will send them the details of the event by the end of the PERSON17 needs the audio recording from the ORGANIZATION6 platform by the end of March.
+  There are several use cases for the recording.
+  One of them is that at the fair people will have to present their countries in 90 seconds and each of their pitches will be held in PERSON18 wants to set up an audio service for the recording of the meetings.
+ -PERSON17 and PERSON11 discussed the technical details of the service.
+ -PERSON15 explains to PERSON17 how the ORGANIZATION4 platform manages audio channels.
+  The platform doesn't manage them, it's charged to the worker and the client to manage them.
+ -PERSON11 explains to PERSON17 how the sessions related to the channels.
+  The system only supports one session per channel.
+  There are time stamps required to synchronize all the different sessions as well as the output the translation can be displayed.
+  People15 will upload slides from the presentation to the PERSON15 and PERSON17 worked on a system that translates a sentence into six languages at once thanks to the if in the GPU.
+  The system is not supported in the current design of the platform.
+  People will use the online mode and possibly also the batch mode.
+  Organization 6 will PERSON15 gives an audio recording example.
+ -PERSON17 will try to record what they have discusseded about the channels and recording and time stamps.
+  Organization 6 needs to discussed this directly with Organization 4.
+  Organization 4 needs to get the clients and workers running and connecting.
+
+
+Minuted by: Team ABC

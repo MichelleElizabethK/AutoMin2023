@@ -1,0 +1,41 @@
+DATE : 2021-07-16
+ATTENDEES : PERSON3, PERSON5, PERSON1, PERSON2, PERSON6, PERSON4, PERSON7
+
+
+SUMMARY-
+ -PERSON1 was in a call until the last minute and forgot to remind everyone to connect.
+ -PERSON2 and PERSON3 couldn't hear him or her.
+ -PERSON5 added the transcripts for the first 30 parts and for the next ten parts, but for some folders the audio format is wrong PERSON1 wants to have the systems ready for the upcoming sessions.
+ -PERSON5 would like to put natural shortening into the architecture.
+ -PERSON12 from the PROJECT5 project might be able to help.
+ -PERSON5, PERSON2, PERSON3, PERSON6 and PERSON1 are working on the project code for PROJECT4.
+ -PERSON5 will let them know if it's possible.
+ -PERSON3 has to operate two local machines to play two videos simultaneously tomorrow in the afternoon.
+  He has two laptops at home and one more machine with X to go, so he will use blackbird.
+ -PERSON3 is doing the automatic evaluation of PROJECT1 test set, but it's not working properly.
+  There are some audio files where it gets converted to the format, but when you pass it to the A S I system, the sound system doesn't work.
+  The sound quality PERSON11 is organizing some event tomorrow and over the weekend.
+ -PERSON3 will have a call with him.
+ -PERSON1 will ask PERSON7 if he's available.
+ -PERSON6 will take part in the call with PERSON11 as well.
+ -PERSON2 sent the files of IBM and Watson to PERSON6.
+  Since his model works on ASR, he first recognized the words in the audio file and then converted them into phonemes.
+ -PERSON6 recorded the pronunciations and added them to his dictionary.
+  The performance of PERSON2 is finishing training of German ASR that may be used for for time stamping.
+ -PERSON1 wants to split the work among himself, PERSON2, PERSON3, PERSON6 and PERSON7 to get the numbers they need for the different models.
+ -PERSON3 and PERSON4 want to compare the error rates in machine translation and ASR.
+  There are two ASR workers, one from ORGANIZATION1 and one from OASR2.
+  They want to choose the one with the best quality and the lowest latency.
+ -PERSON5 is having problems with the files he's trying to transcribe.
+  The files don't have the right length, so they were processed incorrectly, and when he tries to convert them to the correct format, it returns an error.
+  The solution is to throw away everything and run PERSON5 is working on the German ASR.
+  There are a lot of files to convert.
+  The converting command is called SOXI and it gives you only the information.
+  Some of the files are in English and some are in German.
+ -PERSON4 will send an email to PERSON2.
+ -PERSON2 will send a link to the ASR.
+ -PERSON2 and PERSON6 are trying to solve the pronunciation problems of the vowels.
+ -PERSON2 will translate the list of IPA's into the CMU phonemes.
+
+
+Minuted by: Team ABC

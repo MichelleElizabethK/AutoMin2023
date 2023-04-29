@@ -1,0 +1,52 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON9 is a PhD student in the ORGANIZATION3.
+  She will clear the labels for the pipeline.
+ -PERSON5, PERSON9, PERSON7, PERSON3 and PERSON8 want to test different versions of the ASR worker or also of the machine translation worker.
+ -PERSON9 and PERSON8 discusseded how to label the workers in a way that it's obvious when somebody changes the worker to a different version or that they can test it.
+  They discussed how to name the workers, name the fingerprints of the workers and put the version in the name PERSON9 and PERSON8 have two conflicting goals: all workers should not have to know what exact version of the previous pipeline is being run and the empty workers shouldn't need to change the input fingerprints.
+  It's not possible to have both goals at the same time.
+  The API PERSON8 wants to extend the cloud library.
+  There is no way to specify the full path in the communication protocol.
+  Changing the workers is a manual process, because of the doctorisation.
+ -PERSON8, PERSON9 and PERSON5 have to run a test set over all the possible ASR workers, segmentation workers and empty workers on the later tester.
+  There is no way to specify the version of the workers, so they need to run all the tests PERSON3, PERSON8, PERSON9 and PERSON5 discusseded the changes to the mediator and the workers.
+  The mediator is supposed to be more automatic and provide more control over the workers, but it's not possible to do that in a short period of time.
+  They The ORGANIZATION5 mediator hasn't been used for a long time.
+  There is a restriction on making new public IP addresses now.
+  People can run as many mediators as they need, but they have to make sure that only the workers they want to test are connected to PERSON3, PERSON8 and PERSON9 want to create a pipeline that will use the output of one ASR worker from one mediator and one empty worker from another mediator.
+  They want to test it with two workers from different mediators.
+  They need to make a PERSON8 and PERSON9 worked on a solution to solve the problem of working with multiple versions of workers in a service architecture.
+ -PERSON9, PERSON5 and PERSON8 will meet in a couple of days to discussed the issue of multiple output fingerprints.
+ -PERSON9 suggests to start the client and explicitly request all of the intermediate fingerprints, including the last field, which is just for the information and the versioning.
+ -PERSON8 and PERSON9 are trying to set up a system that allows them to request multiple fingerprints from the client.
+  The problem is that there are no English to German workers running.
+  The solution is to change the translation workers.
+ -PERSON8 wants to investigate how to extend the ehm ensloud communication protocol in order to specify a full path.
+ -PERSON4, PERSON8 and PERSON9 agree that it's okay and useful for others to have multiple workers which have the same version of the model.
+ -PERSON4 would like to see the Organization 3 worker for English in the mediator very soon, because on the first of December there is a metaphorum and on the third there is another meeting of the ORGANIZATION1 preparation group.
+ -PERSON9 suggests to PERSON4 that they should also request as output the intermediary fingerprints.
+  The intermediary is the one that is not an input but an output.
+  If the fingerprint matching on the service is strict, the sound file will be processed with one ASR and translated to French PERSON9 and PERSON7 discusseded the possible failures of the examle for examp.
+ -PERSON8 shares with PERSON4 the fingerprint text file they created together with, which is useful to have a look at.
+ -PERSON5 and PERSON6 need to bookmark it.
+ -PERSON9 wants to investigate how to separate the different versions of workers.
+ -PERSON4, PERSON8 and ORGANIZATION7 want to keep a record of the versions of the workers.
+  They also want to have a deterministic behaviour for the evaluation purposes.
+ -PERSON8 and PERSON4 want to know the description and the service name of the PROJECT2 test set.
+  They want to label the outputs with this service name.
+  There is no way to do it.
+  The client knows the session ID of the service but doesn't know the PERSON9 wants to know why there is a difference between using the description and the version in the fingerprint and noting the version of the fingerprint.
+ -PERSON4 explains that there are two PROJECT1 NMT systems.
+  One of the machines from the cluster has a different GPU card and PERSON9, PERSON4 and PERSON7 are arguing about the implementation of the protocol.
+ -PERSON9 wants PERSON4, PERSON5 and PERSON4 to make sure the test is done and that they know the answer.
+ -PERSON9 wants every partner to label their workers with the date of their department.
+ -PERSON8, PERSON5 and PERSON9 will schedule a test together next week.
+ -PERSON8 and PERSON9 worked on a new client's bug procedure in Java, but it doesn't share the pipeline with the other clients.
+  The mediator doesn't use the same instance of ASR both for te ASR output and machine translation, so the test can't PERSON8, PERSON5, PERSON3 and PERSON9 will make a hands on session and simulate the use case in order to design an intermediate solution.
+
+
+Minuted by: Team ABC

@@ -1,0 +1,81 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON4 , PERSON5, PERSON9 meeting to discuss technical issues concerning architecture of audio service.
+  waiting for PERSON3 , will join them in 15 minutes.
+ -PERSON5 wants to use Epifun to cast lights.
+  problem is quality of image is not good, it distrains image of screen.
+ -PERSON4, PERSON5 going to use Epifun to duplicate video signals from presentation notebook to overhead projector.
+  need to steal image time.
+ -PERSON4 , PERSON5, PERSON3 trying to figure to duplicate video signal to overhead projector, to Epifun without it interfering with presentation.
+ -PERSON4 has experience with HTML stream viewers.
+ -PERSON5 will provide demo of streaming of slides.
+  slides ready by end of June.
+  presentation notebook is as video streaming notebook.
+  There two possible ways of presenting slides.
+  is reading slides directly from presentation laptop.
+ -PERSON4 wants to stream exam on Linux , Organization 3 may not like to present presentations from Linux laptop.
+  There is library for Linux can write subtitles directly on screen , presentation client would have to different.
+ -PERSON4, PERSON5 going to present presentation of city council of Rome over Internet.
+  live subtitling service is performed by audio video service of rooms.
+  is visible in setup PERSON4 saw PERSON4 , PERSON5, PERSON9 going to share presentation.
+  presentation is going to presented by PERSON9.
+  hardware setup is selfpresentation computers , video mixer , video mixers Epifun, PROJECT2.
+ -PERSON4 , PERSON3, PERSON9 going to meet to discuss presentation, mixing of slides on machine.
+ -PERSON4 will bring video mixer, presentation notebooks.
+ -PERSON9 is going to upload document of functional analysis.
+ -PERSON9 uploads en analysis functional analysis document.
+  presentation platform has full screen waste mode , presentation platform can used in people webbrowsers, on PROJECT2 video mixing notebook.
+  There subtitles on participants notebook PERSON4 is thinking lecture translator.
+ -People able to choose between French, Polish as second language.
+ -Person5 thinks it would useful for participants to choose to two languages.
+ -Person9 thinks one language chosen.
+  At fair Person4 tested technology , restarted underlying client many times day, every time it created new session ID.
+ -Person5 wants machine to reconnect automatically whenever underlying service is changed.
+  In case worker dissapear PERSON4 wants to know to notify overhead presentation platform to.
+ -PERSON5 does not have exact implementation yet , it could work in sense.
+  presentation platform always take subtitles from first stream , it always first one.
+ -P PERSON4 wants to set multilingual stream selection worker.
+ -PERSON4, PERSON5 talking two different things : ASR input for machine translation, subtitles publishing them.
+ -PERSON4 explains to PERSON5 he would implement ORGANIZATION5 service architecture.
+ -PERSON4, PERSON5 discuss implementation of new system for project.
+  will not ready in time for June.
+  In cascade is one selection worker for Czech, German ASR , one for English, one for German.
+  There is second stream selection worker checks quality of English got.
+  There multiple Englishes available , operator will choose best one.
+ -PERSON4 , PERSON5, PERSON3 discuss whether it is important to review subtitles in final language published input to machine translation system.
+ -PERSON4 thinks it is not worth for PROJECT2 setup to review subtitles.
+ -People speaking many different languages done different layer.
+  fallback solution for ORGANIZATION2 platform is remote meeting participants of session will PERSON4, PERSON5 discuss on Friday problems with way ORGANIZATION2 platform works.
+  One speaker sends audio organizer2 platform , receives subtitles of participants, not voice.
+ -People able to hear PERSON5 works in dictation field.
+  presentation platform connects to many sessions , it does not connect anywhere.
+  is relevant for upcoming years of project.
+ -PERSON4 explains to PERSON5 for August milestone , thing will missing is orchestration.
+  Organizing2 will probably send audio for transcription , far 've decided to do recording.
+ -PERSON4, PERSON5 working on presentation platform.
+  proposal is to upload audio, video files with subtitles, stream them to platform.
+  There will probably text field in presentation platform.
+  text field solution is flexible one.
+ -People will able to choose subtitles have seen.
+  If change language , will receive German subtitles.
+ -PERSON4 would like to have two possibly even three windows next to.
+ -Person5 will talk it with development team.
+ -PERSON4 explains to PERSON5 when input is finished presentation platform move to new text field.
+  ASR tell them what is final point.
+  segmentation is tricky as partial hypothesis may change also timestamps , of words , even PERSON4, PERSON5 concerned amount of text collected in text field, layout of user interface.
+  also concerned subtitles readability.
+  on of calls on Friday.
+ -PERSON4 , PERSON9 , PERSON3, PERSON5 want ASR to able to update previous segments without going back to past.
+ -PERSON5 wants to check grant agreement document.
+ -PERSON3 confirms congress will have 400 participants.
+ -PERSON4 confirms will to 1000 concurrent users.
+ -PERSON5 confirms planning to online.
+ -PERSON4 , PERSON3, PERSON5 discuss to stream videos from abroad to participants main event, to distribute them to them.
+ -PERSON4 is sceptical quality of video broadcast on WiFi.
+ -PERSON4 is from school lof computer science, network people told them it is impossible to gather for 100 notebooks in one room.
+
+
+Minuted by: Team ABC

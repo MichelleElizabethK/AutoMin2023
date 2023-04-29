@@ -1,0 +1,349 @@
+[PERSON6] Or me in a sense.I, now I, I, I get, got rid off the, like the to do sections at the end of the section so I can figure it all the papers that I want to refer to somewhere.This one -
+
+OK.
+
+Um -
+
+[PERSON14] So introduction is to do.<laugh>
+
+[PERSON14] The problem is that we haven´t that defined what does it mean to add new content.[PERSON6] Like kind of the information is already there more or less so...
+
+[PERSON21] <unintelligible> new contents.Um, yeah, cause I don´t know much about it actually but I think we maybe (say) we can just -
+
+[PERSON20] (We have) the paper about that.So I guess the paper that cited there the [PERSON17] <unintelligible> for the multilinguality this is what we´ll kind of appear there and yeah.I´m just planning to rewrite what´s already there, um..
+
+<laugh>
+
+[PERSON14] So you didn´t understand what, what it is content.<laugh>
+
+Yeah, because -
+
+Yeah, in the next week we should, we should -
+
+[PERSON6] Like if you have -
+
+[PERSON14] Have it and comment everything so...
+
+[PERSON6] Yeah.Like I don´t know if you have a box of chocolate and you just plan to arrange the chocolate nicely so you´re not adding new content, you´re just rearranging what´s already in the box.<laugh>
+
+[PERSON14] So -
+
+<laugh>
+
+So now we know what, what -
+
+<laugh>
+
+What are you think and you have still 13, 13 hours to -
+
+<laugh>
+
+[PERSON6] OK.
+
+<laugh>
+
+[PERSON14] To arrange the chocolate in the, in the box.[PERSON14] So I don´t know how, how many such paper we sh-, we, um, how many s-, um, these copied so <unintelligible> pictures are there.So I opened the paper in Inkscape and I degroup it and I saved just the image into the file and <unintelligible> png.[PERSON14] Should-
+
+Shouldn´t we ask the (alters) whether, whether we can include such image, their image -
+
+[PERSON6] Hm.[PERSON14] Yeah, if it is, if it is ACL paper or -
+
+[PERSON6] Hm.[PERSON14] It should be OK.
+
+[PERSON6] Hm.[PERSON14] We cite, um...
+
+[PERSON6] Hm.[PERSON6] And...
+
+Yeah, I actually don´t know like to rules like, I think it depends on the licence of each of the papers.[PERSON20] Um, if it´s from ACL antology it´s, it´s creative comments.You need to specified the licence that´s OK.
+
+[PERSON6] Um, where do I find it?[PERSON6] The licence now but I don´t know where it appers -
+
+[PERSON14] <unintelligible> specify but -
+
+[PERSON6] Ah, licence.<laugh>
+
+[PERSON6] So, so it doesn´t give me any -
+
+[PERSON20] No.And...
+
+Yeah, it´s, it´s (nakl) so when is, when is (nakl) it should be OK you say.[PERSON6] OK.
+
+And should we, I don´t know, explain that somehow like that the licence allows that or I don´t know what the (nakl) licence is like.[PERSON20] Like even what page of the paper it is and, and, and under what lesson it is.[PERSON24] Hm, it´s -
+
+[PERSON20] Well -
+
+[PERSON24] It´s an atribution and no additional restrictions so...
+
+[PERSON20] But I would, I would still mention the licence.[PERSON14] OK, the thing is one -
+
+How many such pictures you would like to have in our book?[PERSON14] Um...
+
+Because in my, in my, in my chapture I (like) the matter the, all the, of the figures will be, will be ours.Or I can generate some of pictures from maybe -
+
+I, I plan to generate the picture from, from tabels which are in the, in the, in the papers so, so it looks better.So they, they even no say much more in the original paper actually and I don´t know any other papers, um, on that.[PERSON14] But it, it´s, it´s strange to the -
+
+[PERSON24] You (two), you (two) deffinitely say more about event fractuality.<laugh>
+
+[PERSON14] OK, yeah.<laugh>
+
+[PERSON14] <unintelligible> fractuality, yeah.<laugh>
+
+[PERSON6] OK, fair enough.OK.
+
+<laugh>
+
+[PERSON14] Usually at the content at least.<laugh>
+
+[PERSON6] OK.
+
+OK.
+
+<laugh>
+
+I agree.[PERSON21] I think -
+
+[PERSON6] I didn´t really know -
+
+[PERSON21] That people -
+
+[PERSON6] How to -
+
+[PERSON21] <unintelligible> like about the experiments.I didn´t want to put through it just other but then it´s true that I don´t know where to prove it like these are syntax but, but the the other ones like gender of nouns -
+
+[PERSON21] Hm.Um...
+
+Yeah, I tried to group them just on (through) things like syntax or semantics but, um, often I actually did not very sure, um.[PERSON14] So...
+
+[PERSON6] So, so here -
+
+Yeah, in the, in the, in the hidden states or (contextual) embeddings people look for lot of stuff, um, yeah.[PERSON14] Um, we still have the picture like the, (like) [PERSON24].[PERSON14] Um, it, it is -
+
+Yeah, I don´t know why all, all my pictures are at the end of the chapture, there is some problem.That I think half of this -
+
+<laugh>
+
+Half of this figure is like for attentions and the other half is like for, for probing, isn´t it?[PERSON21] Like it´s hard <unintelligible> but some parts are probing but in transformers.[PERSON14] So maybe we should, we should devide this, this, um -
+
+[PERSON6] Hm.[PERSON21] Yeah, this is like GPT -
+
+[PERSON6] Hm.Um, there is also hidden one with [PROJECT2] -
+
+[PERSON6] Hm.This pgf but -
+
+<laugh>
+
+Look so far I haven´t look in, into it so...
+
+[PERSON6] Hm, hm, hm, hm.[PERSON21] Yeah, I, I think it can be some box that you can because to, to like put it some box -
+
+[PERSON6] Hm.[PERSON21] Yeah, they can like (part, part it) into -
+
+[PERSON14] Yeah and there, there are also one problems if these element of, of -
+
+<other_noise>
+
+<unintelligible> pgf, I don´t know, yeah.Well the problem is that, that, that (lighting) doesn´t want to, um, do the words through, through Overlap.[PERSON14] Do the, for, for -
+
+[PERSON20] So it -
+
+Um...
+
+Latex just, just for to prevents, the words from overlapping and then, then that´s why it does those stuff.[PERSON14] The other some like pdf and I think so I, I (need) to, um...
+
+Yeah, this is, this is, this is like, this is google docs.So from 5.2...
+
+Maybe is -
+
+Yeah, missing -
+
+Um, maybe I would, I, I -
+
+Some, in some parts I would, I could write more but...
+
+Yeah and there are some pictures missing.[PERSON20] OK.
+
+[PERSON14] Um, so, so 5.2 and 5.3.Yeah, the, the pictures will be, will be changed within so the-, they, they should be nicer but, um...
+
+5.2, syntactic function, dependency trees, so yeah.This will written by [PERSON24] and I, I have rewritten some, some parts so that it more fits the, the book.I have rewritten a bit the 5.3 but, um, is still, there is still missing the last, last part of this and some discussion o-, on this part so there is still missing something and the end of this sub-, subsection.[PERSON14] And then -
+
+Yeah, today morning I wrote or today night I, I wrote this conclusion but yeah, I don´t know.So this is more or less written but yeah, some parts still need to be rewritten and, and the pictures may-, must be done better.The first part is written I guess and I´m sure that it would, um, like I´m sure that, um, it would benefit from further reading and comments and rewritting and so on.And yeah, then there´s this 3.2 which I´m not sure if it belongs here or what to do with it but I think we can decide that at the end.<laugh>
+
+[PERSON14] I think this was, yeah, [PERSON6]´s, [PERSON6]´s, this was [PERSON6]´s thing.I, I promised that I will, I will, I would, I will move fast of my introduction of my chapture to here as well because these, these are, these two texts are very, very similar.[PERSON24] OK.
+
+Well, I´m not sure how -
+
+[PERSON14] So <unintelligible> in, in our plan, um, it is...
+
+Um, where it is?[PERSON6] No, the -
+
+[PERSON14] Yeah, yeah, this one.[PERSON20] Yeah, but -
+
+[PERSON24] You can see the, the bands here and the bands here in the FastText´s image are similar.[PERSON20] But, but my point is that if you, if you would try to like shift the mean of the Glove colour scale you might end up with the same image as, as they, as they had.[PERSON6] So, so basic <unintelligible> numbers should be normalized a bit.[PERSON24] Well, I´m not sure what do you mean because -
+
+[PERSON6] <unintelligible>.Like they don´t probably have the same, um, like the same mean, um, in the different models.[PERSON24] So...
+
+[PERSON20] Yeah, but, but it <unintelligible>.[PERSON6] <unintelligible> on scale but -
+
+[PERSON24] That´s what maybe happening in this Glove image but why isn´t the same thing happening here?[PERSON21] It´s possible for Czech, not for English.So in the end the only things left for the to does is the, is -
+
+<other_language>
+
+And then 4.1, 4.2 and 4.3 which I´m confident I can do today so...
+
+Tonight the chocolates will be in the box.And tell me what, um, how does it -
+
+Because I think it´s, this is the same as my figure, um...
+
+Where is it, um, where is it?Also these figures are not completely the same because the original [PERSON2] model had some, um, I´ll -
+
+How do I get back to the -
+
+Here.[PERSON20] Um...
+
+[PERSON24] But yeah, also I think this is -
+
+[PERSON20] That´s (line) only say that, um, that you can find the, um, the probability value for word at depositions it´s...[PERSON24] OK.
+
+<laugh>
+
+OK.Also I think this is a bitmap image so it should be deleted anyway.I will delete this figure and I may do something with your figure so...
+
+[PERSON20] OK.
+
+[PERSON24] Because like...
+
+What I don´t like here is for example this arrow here.<laugh>
+
+[PERSON20] OK.
+
+Well, if I, if I make the, the subsign smaller it will, it will get fixed probably.[PERSON14] <unintelligible> my part write your text, um, like 4.2 or 4.3 and then you can, you can make this figure, um, better.[PERSON20] By the way this is the very first image I, I made in tix and the code is really terrible.<laugh>
+
+[PERSON24] Well, I´m but I´m not putting my face into the book.[PERSON14] And figures at least in, in some -
+
+Yeah, at these they should be there but they, they might ugly or we, we need to know what is there, what is in the figure.[PERSON14] No if the figure is ugly or not and then -
+
+[PERSON24] I, I guess -
+
+[PERSON14] You can make the figures, improve the figures.[PERSON24] Yeah, I think we can improve the figures after it´s been send to the reviewers right?So if it, if we have it in pdf and not it pgf, it´s no problem I think.[PERSON14] If only (the font) change and the, the, the picture will be same only the nicer and then I´m sure it´s OK.[PERSON14] You will have figures in the missing sections like PCA and ICA.<laugh>
+
+[PERSON20] Which is a bit map?I think I maybe able to find the source and generate a tix file.In the - [PERSON24] Well, it will be resible, visible as it is visible now.[PERSON24] Like right now, um...
+
+It´s, hm...
+
+Like it´s almost readable now when it´s a bit map so if, if it was text it would be readable.[PERSON24] Even though it´s quite ugly at this solution so...
+
+Yeah, but OK, I´ll, I´ll transform this from a bit map into proper text after everything else is done.<laugh>
+
+[PERSON24] Hm, well...
+
+<laugh>
+
+I don´t know.[PERSON20] Um, and, and the same (wholes) for, for, for, 4.8 which is a bit map too as, as well.[PERSON20] Yeah, but at least you can replot it so it, so it has the same font as the book.[PERSON20] You can replot it so it has the same font as a book.[PERSON20] And, and it´s truly easy in Inkscape.You just, you just open it in Inkscape as a pdf and save it as a pdf with Latex text labels.<laugh>
+
+[PERSON20] It´s one (commented) a common line.[PERSON24] Yeah, that, um -
+
+<other_noise>
+
+Inkscape.<laugh>
+
+[PERSON24] OK, I can do that.When you finish your part made the lines in the, in the [PROJECT3] schůzky document, um, green.And yeah, if I don´t see the, the green lines and I don´t see that it is really done in the comment I will, I will, I don´t know.I -
+
+The only thing missing for me is add PCA and ICA which I can basically copy from other texts.But at least it will be there and then move, move 4.1, 4.2, that´s also like 0,5 hour at most and then write something about probing I guess.Or whet it´s written somehow we should all of us, we should read it all of book and comment it what is missing where and yeah, where are the problems and other things.[PERSON14] And I think that it is not as...
+
+For example [PERSON16] the word of tokens (text and trees), the reviewers are [PERSON10], [PERSON22].[PERSON14] So this is the last book, um...
+
+[PERSON27], Sentiment <unintelligible> in Czech.But, but, um, I think if we have like, like one <unintelligible> reviewer from, from [LOCATION1], it´s OK.So like...
+
+Can we -
+
+But it, it -
+
+I think it´s better if we have, when we have the book alm-, almost finished, we can, we can ask someone.[PERSON14] It would be at least abstract or I don´t know if I ask only, OK, we will have a book with <unintelligible> about -
+
+[PERSON6] Hm.<laugh>
+
+[PERSON6] So do we have some kind of abstract at some -
+
+[PERSON14] We have the preface.[PERSON20] I was also thinking about the preface don´t we need like a real introduction that, that all the books have?Like what exactly you will find in the book, um, how was it structured, how should you read the book...
+
+[PERSON14] Yeah.Because we have, yeah, after preface we have a background but this is deeplearning.<other_noise>
+
+[PERSON6] Yeah, <unintelligible> summary.I, I just -
+
+[PERSON6] Yeah, on it.[PERSON14] Wha-, what would be the different between like the -
+
+[PERSON6] Hm.I mean, um, you can have some conclusions that you draw from, from the book, from, from the research you, you need but the summary of, of the book is somethin else.[PERSON6] Yeah, anyway would we put something different into a book conclusion and into a book summary?[PERSON14] Yeah, it´s as a, it´s like a paper.[PERSON14] First you write what are you going to present, then you present it and then you -
+
+[PERSON6] Yeah.[PERSON20] That [PERSON24] brought some books to, to, to have a look how, how they are structured.[PERSON20] And there are no rules, um, it, in the books series that we should have a summary and, and summary in Czech and something like that.Um...
+
+Yeah, summary in English must be in every Czech book.<laugh>
+
+[PERSON14] So for example [PERSON16] has conclu-, concluding tokens and then summary.And concluding tokens...
+
+[PERSON6] That´s more like (future) <unintelligible> so...
+
+[PERSON14] Hm.So let´s -
+
+We can write the summary which is so kind of abstract and -
+
+[PERSON20] And if the book is too short we can the summary in Czech.<laugh>
+
+[PERSON14] Yeah, we can.[PERSON24] And then we can -
+
+[PERSON14] <unintelligible> to -
+
+[PERSON24] We can have a transformer transform the summary into Hindo.[PERSON14] And [PERSON16], [PERSON16]´s book is coh-, 158 so it´s almost the same size of the book.<laugh>
+
+[PERSON14] So it, yeah.It, it is a book.So we, we have to write it somehow and so it´s readable, readable and...
+
+[PERSON24] wanted to do <unintelligible> for -
+
+[PERSON6] Yeah, it´s, yeah.Some defined cit-, citations -
+
+[PERSON14] Yeah, these are -
+
+Yeah, many of these are probably main because I, I don´t care so far.<laugh>
+
+Cause first I want to write a text and then I will, then I will solve the -
+
+[PERSON6] Hm.[PERSON24] Well, it´s hard not to introduce new errors when I, when there is so much errors that I can see if I´m introducing new errors.[PERSON6] Yeah, so there are some citations that are not in the Zotero format so they´re deffinitely will bee always missing.<laugh>
+
+[PERSON14] OK, so yeah.Like -
+
+[PERSON24] OK and -
+
+[PERSON14] Going to be before, before the [PROJECT1] meeting?The <unintelligible> meeting is plan, planned 12:30 and currently [PROJECT3] is -
+
+[PERSON14] Hm.[PERSON6] Um...
+
+[PERSON14] But -
+
+[PERSON6] I don´t know.[PERSON24] So it´s lunch, [PROJECT1] meeting, [PROJECT3] meeting and [ORGANIZATION2] beer.[PERSON6] 2 p.m.
+
+[PERSON14] 2 p.m.
+
+[PERSON20] OK.
+
+[PERSON6] Yeah, the document says that, um, it´s true.So it´s still 2 p.m.
+
+[PERSON14] Yeah.[PERSON14] And you would, you would need to read all the book and -
+
+[PERSON6] Yeah.Um, well, [PERSON20] -
+
+[PERSON14] Yeah, we all -
+
+[PERSON6] Suggested something on slack.I, I´m not registered for ACL anyway and I didn´t understand much like how it´s really works and I didn´t have time to investigate it so I´m just waiting so if somebody else like prepares it for me and says me, sit here and watch this and -
+
+<laugh>
+
+[PERSON20] There are, there are prerecorded presentations and a-, after there are broadcasted, there are live QA sessions.[PERSON14] So the presentation will be, presentation will be separated from the, um, question and answering sessions so -
+
+[PERSON6] Hm.So, so the presentations will be broadcasted like prerecorded and then the QA will be live.If you want to prevent like situations one, one, no one someone´s internet connection <unintelligible> presentation or something like that.Though, though you need to watch it at, at the given time and <unintelligible> for each paper there are two time slots.[PERSON24] OK.
+
+[PERSON20] Um, but you can, you can ask questions live on [ORGANIZATION1].So perhaps all videos who are registered will get [ORGANIZATION1] link and will, will be able to ask questions and, and maybe the others can watch it as well, I don´t know.[PERSON24] Hm, I´d like to watch the interpretability and analysis tutorial.[PERSON20] Yeah, that´s -
+
+[PERSON24] It´s with [PERSON9].<laugh>
+
+[PERSON21] Is it necessary to be here in person to watch it or?OK.
+
+[PERSON6] I think it should work (badly) if you´re here and somebody else also wants to watch the same thing and he´s registered which I don´t know if, if it will be true.I know [PERSON20] is registered and [PERSON23] is registered and maybe [PERSON11] is registered.[PERSON6] So I don´t know how many paralel sessions there are but I <unintelligible> a lot again.[PERSON20] So if, if, if, if [PERSON20] is there registered one and the <unintelligible> one on what sessions <unintelligible> all the time.

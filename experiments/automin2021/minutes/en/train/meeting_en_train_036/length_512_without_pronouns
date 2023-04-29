@@ -1,0 +1,31 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+
+  He has some questions about the regulation that applies to him.
+ -PERSON3 explains to him what the forced aligner does and how it works.
+ -PERSON3 explains to PERSON5 how the system works.
+ -PERSON3 and PERSON5 are looking for a way to improve the quality of the transcripts.
+  The most promising approach is web based subtitles.
+ -PERSON3 hasn't read the IMSC1 specification yet.
+ -PERSON5 has already chunked and segmented the audios and needs to concatenate all the audio segments.
+ -PERSON3 and PERSON5 need to shift the time stamps to get the audio to be properly captured inside the karaoke files.
+ -PERSON5 needs to create a script to convert the growing sentences of PERSON1 into a web VTT for the life view of of the files.
+ -PERSON5 is confused about the difference between the original sound transcript and the OSTT.
+  He will use PERSON1's sript to show the difference.
+ -PERSON3, PERSON2 and PERSON5 discusseded a problem with the ASR.
+  The ASR has added a feature that allows it to process full words, but it doesn't always work properly.
+ -PERSON3 and PERSON5 talked about the alphabets in forced alignments.
+  The Czech model accepts lower case letters, no punctuation and no upper case letters.
+  The English model accepts apostrophes and numbers, but they need to do some trick with numbers to spell PERSON5 needs to prepare the log directories for the mock conference.
+  The audio recordings have 6 channels, so PERSON3 needs to separate them out and do the ASR.
+ -PERSON5 needs to prepare logdirs for each of the channels separately.
+  They start at the same time as the other channels.
+  They need to check which of the English versions is better.
+  The interpreter needs to get the English MT from the French ASR and the Czech MT from PERSON3 will be in the office in the afternoon from 3, 4ish till about 7 or 8.
+ -PERSON5 doesn't have to come to the office.
+
+
+Minuted by: Team ABC

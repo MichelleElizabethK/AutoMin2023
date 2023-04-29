@@ -1,0 +1,29 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON13 is busy with the IW SLT, writeup, interviewing people to replace those who are moving forward and preparing the demo for Project Officer.
+  They and PERSON10 worked on a project.
+  They need to check the quality of the audio and the timing of the videos.
+  They should also check the accuracy of the translations.
+ -PERSON13, PERSON6 and PERSON19 worked on the evaluation of the PROJECT1 and ASR submissions for the IWSLT last week.
+  They need to find a substitute site for each of their systems for Thursday's call.
+  They, PERSON2, PERSON18 and PERSON19 need a good tokeniser.
+  They don't trust the NLTK bleu score.
+  The enverse segmenter is a bad tool.
+ -PERSON13 needs to implement enverse segmenter in the first level of the work, but they don't have the source code of it.
+  They, PERSON19, PERSON18, PERSON10 and PERSON6 worked on a project.
+  They have a deadline of the internal deadline on the 8th.
+  They, PERSON6, PERSON18 and PERSON5 have to prepare a presentation for IWSLT by June the 17th.
+ -PERSON13 asks PERSON18 and PERSON19 to provide the document scores for her and the validation error for her findings paper.
+ -PERSON10 has been working on his thesis and wrote a parts.
+  They would like to have a set-up which does not rely on a mediator.
+  She wants to have the word level time stamps in the log files for the real time recording and for the recognition of the ASR output of PROJECT2 ASR.
+ -PERSON3 sent Danish and remaining Russian text data to PERSON1 for the validation.
+  The Norwegian text data was sent to PERSON4, but she didn't respond to it.
+  It's possible that she was busy with other work.
+  They have asked PERSON16 if they have any other.
+
+
+Minuted by: Team ABC

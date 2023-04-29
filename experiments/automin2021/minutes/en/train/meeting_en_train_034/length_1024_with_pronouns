@@ -1,0 +1,37 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON4, PERSON5, and PERSON9 are waiting for PERSON3, who will join them in about 15 minutes.
+ -PERSON4 asks PERSON5 how to duplicate the video signals from the presentation notebook to the overhead projector and at the same time to be Epifun.
+  They and PERSON5 discusseded how to stream slides from a web browser.
+ -PERSON5 will send him some HTML code to test it on his machine.
+  They explains to PERSON5 how the system works.
+ -PERSON4, PERSON3 and PERSON5 will meet to discussed the presentation of slides for the workshop.
+  They need to do the presentation and mixing of the slides on the same machine.
+  The presentation platform has the full screen no waste mode, so that the same presentation platform can be used in people's webbrowsers and on the PROJECT2 video mixing notebook.
+  People are free to choose one or more language subtitle at the same time.
+  People can choose up to PERSON4 wants the machine to reconnect automatically whenever the underlying service is changed.
+ -PERSON5 suggests a queue of streams that will take subtitles from different streams in case the main stream dissappears.
+ -PERSON4 would like to have a multilingual stream selection worker.
+  They would like the option to review the subtitles before publishing them.
+  They explains to PERSON2 how the system would work.
+ -PERSON4, PERSON5 and PERSON3 discusseded whether it's more important to review subtitles before they are published or to review the machine translation outputs.
+ -PERSON4 and PERSON5 are arguing about the implementation of the ORGANIZATION2 platform.
+  The main solution is to send the audio of the participants of the remote meeting to the ORIZATION5 mediator, but there is a delay of up to 3 seconds between the audio PERSON4 and PERSON5 worked on a presentation platform for the August milestone.
+  The presentation platform connects to many sessions, but it doesn't connect anywhere.
+  Organizing2 has skipped away from the recording of the call, so they need to send the audio to PERSON4.
+ -PERSON5 doesn't know if VLC streams the subtitles.
+ -PERSON4 would like to know more about the data format for subtitles in the presentation platform.
+  They want to have three windows next to each other, one of them in English, one in German and one in Swedish.
+  The second window should be in English and the third one in Czech.
+  The ASR is supposed to make a decision based on timestamps, but PERSON4, PERSON3 and PERSON5 were on the call on Friday.
+  They discussed the technical aspects of the ASR.
+  The ASR has to accept a stream of updates including the timestamps.
+  There will be up to 1000 concurrent users at the congress.
+  The PERSON4, PERSON3 and PERSON5 discusseded how to stream videos to the participants of the workshop and also for the main event.
+ -PERSON4 is from the school lof computer science and their network people told them that it's impossible to gather for 100 notebooks in one room.
+
+
+Minuted by: Team ABC

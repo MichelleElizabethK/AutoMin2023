@@ -1,0 +1,63 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON9, PERSON13, PERSON8, PERSON11, PERSON16, and PERSON4 are having a test run tomorrow in the afternoon.
+  Thursday is national holiday in Germany and Friday off, so Thursday is the only day of the week that people can work.
+  The test run will PERSON3 can start the systems today.
+ -PERSON9, PERSON11, PERSON17 and PERSON12 will set up a second mediator for the test session.
+ -PERSON17 wants to set up a second instance machine and use a different set of ports, so the switch should be extremely fast.
+  The details of the mediator will be available here in the ORGANIZATION8 Document, where I asked PERSON13 to enter the details.
+  The PERSON9 asks PERSON11 to highlight the languages that can be supported in the subtitling platform.
+  There is a problem with the streaming of slides to the presentation platform of Organization 2.
+ -PERSON2 will take care of it tomorrow and Friday.
+ -PERSON9, PERSON16, PERSON10, PERSON8 and PERSON16 are on a conference call.
+  They discusseded the critical observations from the document.
+ -PERSON16 will make sure that the recording is happening.
+ -PERSON9 and PERSON16 have collected their logs from the PROJECT1 session.
+  They will record the audio as a basis of a test set.
+  They will work on the audio over the coming months to polish the pipeline.
+  They will make sure to let everybody know when the document ORGANIZATION8 document is up to date with all the requests.
+  The incremental ASR wasn't working as it was described by Organization 5.
+  The timestamps were missing, so it was impossible to tell the The timestamps for each token are in the packages, but they are not in the WG session.
+  If you request unsegmented text, you receive a token again that overlaps the previous one.
+  When you request the same language that is spoken by the text client, you PERSON14 advises PERSON8 to use the real time mode.
+  It didn't work in the dry run.
+ -PERSON16 uses two clients, one for one instance of the client and one for the other.
+  The second client doesn't send timestamps to the first one.
+  They and PERSON8 are having problems with the ASR worker.
+  They need to change the client and measure the times when they receive the messages.
+  They also need to monitor the sound channels.
+ -PERSON16, PERSON2 and PERSON8 are trying to solve a problem with the presentation layer of the platform.
+  They need to record to the ASR and archive it.
+ -PERSON17 worked on a newer version of the published worker.
+  There is a problem with empty deliverance some output was number segment and there is not enough space into subtitle window so they need to change the subtitling window.
+  The presentation platform is not big enough to display a PERSON17 explains to PERSON16 how the presentation platform works.
+ -PERSON16, PERSON17, PERSON2 and PERSON9 discussed the results of the experiment.
+  They, PERSON8 and PERSON17 discusseded the implementation of a presentation.
+  They discussed some technical issues with it.
+  The server doesn't notice that the socket is closed, because it takes a long time to shutdown.
+  The interpreter interpreters want to see the whole output but only some specific times.
+  The congress is in May next year.
+  There are PERSON16 is debugging all the subtitles until he's shown output.
+ -PERSON8, PERSON14 and PERSON16 discussed the issue of the timestamps.
+ -PERSON14 explains to PERSON8 and PERSON16 how to get immediate results from the client.
+  The timestamps from the ASR are lost.
+ -PERSON8 needs them in order to know when the text is being updated, when it's transmitting from unstable to stable, otherwise they have to resort.
+ -PERSON9 did some distinguishing of of partial, not partial hypothesis in his chapter.
+  They doesn't understand why the empty worker can't access the timing information from ASR.
+ -PERSON14 explains the difference between ASR and MT.
+ -PERSON8 and PERSON14 don't understand why they don't get the time offset from the audio.
+  They explains to PERSON14 and PERSON17 how the pipeline works.
+  They and PERSON14 are arguing about the timestamps in the log file from Project1 live demo.
+  The log file is not accurate, because the timing information does not come from any audio information.
+ -PERSON14, PERSON3 and PERSON8 are trying to figure out why the timestamps were not recorded properly during the dry run.
+  They suspect it might be related to the multiple clients that PERSON2 was talking about.
+  They and PERSON17 agree that in principle it should work in principle, but they need to address the issue between the and text on the presentation platform.
+ -PERSON17, PERSON8 and PERSON16 worked on a project.
+  At the moment, they do not have access to the correct timestamps for the dry run, so they cannot decide what to translate.
+  They are also having problems with the intermediate steps.
+
+
+Minuted by: Team ABC

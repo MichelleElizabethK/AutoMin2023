@@ -1,0 +1,60 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON6 , PERSON3 , PERSON5, PERSON7 working on presentation.
+  presentation is shared task in minuting , in automatic summarization, prepare data for it , exact definition of what task what is inputs, outputs.
+ -PERSON7 wants to know if is system for generating automatic minutes for meetings.
+  There is , is system for summarizing minutes.
+  One of annotators is machine translation model trained on large data sets.
+ -PERSON6 wants to show horrible outputs of summarization training data to PERSON7, PERSON5.
+  current training data is mainly from available data sets, domain is different.
+  results poor, ultimate goal is to design automatic minuting system.
+  ultimate goal is to create automatic system will automatically summarize meetings.
+  However , moment do not have good starting point, do not know what done with word.
+  One option is to start with summaries, generate fake meetings, train model on PERSON7 wrote mail.
+ -PERSON5 will develop shared task, PERSON6 will develop deep neural network for generating summaries.
+ -PERSON6 explains to PERSON7 if want to adopt abstractive style , need to train sequences to sequences deep network , see network finds data similar to what have in minutes.
+  If choose extractive approach , need PERSON3, PERSON6 discuss differences between minutes of annotators A, B.
+  discuss need to break task into smaller units.
+ -PERSON6 , PERSON6, PERSON7 have original transcript , ASR transcript, corrected transcript.
+  need to write number for of A, B summaries.
+  also need to come with method for scoring.
+  assignment is fluid, is strict assignment.
+  annotators given transcript , first listen to sound, revise text , create minutes.
+  second round of annotators reads transcripts, creates minutes A, B.
+ -PERSON3 , PERSON5, PERSON7 discuss differences between annotator one, annotator two minutes.
+  discuss different minutes can look like.
+  also discuss to personalize summaries.
+ -PERSON6 wants to specify task of automatic meeting summarization.
+  task annotators given is pretty hard.
+ -PERSON6 , PERSON7, PERSON5 discussing minuting word package.
+  discuss constraints of task, to fulfil assignment.
+  One extreme way to do it is to create summary for everyone.
+ -PERSON6 does not know to write good summary.
+  does not want to constrain minds of students.
+ -PERSON3 thinks it is better if define assignment for after have seen meetings.
+ -PERSON5 asks professor PERSON6 for timeline for share task, when want to do it.
+  project ends with end of 2021.
+  call for proposal conference would start in September, submition would October November PERSON6 , PERSON5, PERSON3 want to prepare presentation on text summarization for workshop PROJECT3.
+ -PERSON4 attended workshop in Luxembourg last year on topic.
+ -PERSON6, PERSON7 planning internal workshop on available summarization models for Tuesday 11th of August.
+ -PERSON5 ca not come as he will working from 1st of August , he ca not join.
+ -PERSON6, PERSON7 will meet on 11th of August.
+  assignment is to create summary of ehm of meeting, take notes on techniques use.
+ -PERSON6 will send invite for call workshop on 11th of August.
+ -PERSON3 will take notes from call, make summary of meeting.
+ -PERSON6, PERSON7 going to make decision call for sharetask.
+ -PERSON3 , PERSON7, PERSON5 trying to figure to download 600 megabytes of data from Internet.
+  need measure to distinguish minutes from minutes of different meetings.
+ -PERSON5, PERSON3 will switch to ORGANIZATION2 Meet.
+ -Person3 will send them link to concrete data have.
+ -PERSON3 will send texts , audio of meeting, summ summaries to PERSON5, PERSON7.
+ -PERSON3 will share with them guidelines for annotating texts.
+ -Person5 will use email instead of email.
+ -Person7 will send request to Organization 1 PERSON7 is talking PROJECT2 ORGANIZATION1 PRO Project2 personals.
+ -PERSON3 wants to know if can automatically find measure to distinguish minutes from different minutes meetings.
+
+
+Minuted by: Team ABC

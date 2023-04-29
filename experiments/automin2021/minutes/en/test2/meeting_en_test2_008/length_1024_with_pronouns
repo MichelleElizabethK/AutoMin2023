@@ -1,0 +1,34 @@
+DATE : 2023-04-26
+ATTENDEES : 
+
+
+SUMMARY-
+ -PERSON9 and PERSON10 were supposed to have a meeting with PERSON7, but he didn't respond to their messages.
+  The annotator has stopped annotating the document, so PERSON10 will have to do it himself.
+ -PERSON4, PERSON10 and PERSON9 are looking for the Coffee Meetings agenda from the middle of December.
+  The agenda is in the master document.
+ -PERSON10 and PERSON4 worked on a project.
+  They need to remove named entities from the collection of documents.
+  They will do it at the word type level and then word token level.
+  They and PERSON4 discussed the typos in named entities, the problems with the edition of new documents and how to prevent leaks into the final data.
+ -PERSON10 and PERSON4 discusseded how to deidentify the speakers.
+  They are waiting for PERSON14 to finish her work on the procedure.
+  She needs to agree on a timeline and remove personal data from the collection.
+  They and PERSON4 worked on the consent forms for the data collection and publication of the project.
+  The consent forms are not perfect, but they are signed by thirty percent of participants.
+ -PERSON10 wants to prepare the data set as a directory with documents which people could browse.
+ -PERSON9 wants to collect the names of the participants from the minutes of the meeting.
+  They and PERSON10 will collect data from the participants by the end of February.
+  They want to have the data ready for them to browse.
+  They need to deidentify the participants and ask them for consent.
+  They will prepare the individualized sheets for them.
+  They PERSON10, PERSON9 and PERSON4 discusseded the agenda for the meeting.
+  They need to prepare the Xml file, remove the text from the document and send it to the Scientific Committee by the end of February at the latest.
+  Some of the participants are PhD students PERSON9 and PERSON10 will prepare a proposal for a project.
+  They need to send it to the scientific committee within the next ten days.
+ -PERSON10 will send the proposal to ORGANIZATION7 on January 15th.
+ -PERSON4 will come to Organization 4 on Thursday and they will talk about it.
+  They and PERSON10 will talk in English this afternoon.
+
+
+Minuted by: Team ABC

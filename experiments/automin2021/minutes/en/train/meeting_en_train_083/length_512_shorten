@@ -1,0 +1,48 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+
+  connection to ean seems to work today.
+ -Person12 , Person14 , Person3, Person8 can hear.
+ -Person14 is signing in to Gmail , it is not required to.
+  going to meet every Tuesday for 30 PERSON12 is supervising creation of PROJECT1 test set, edible SLT test set.
+  set of tools have hand is nicely growing.
+ -PERSON3 is working on setting client audio visualization.
+ -PERSON12 wants to set visualizer to validate source channels for live sessions.
+  also wants to release set to clean cruise control set.
+ -PERSON3, PERSON12 dissatisfied with quality of segmenter working on.
+  want someone to supervise students.
+ -PERSON3 added bug months ago , he forgot to run ASR to prevent it.
+  There is configuration bug in system.
+  issue tracker in GitHub used for cruise control.
+ -PERSON12 is unable to change daily routine of checking list of issues, ticking them in issue tracker.
+  There is error in log file.
+  error can worker anywhere.
+  There is log file for dry run workshop.
+  path to workshop is on PERSON16 machine.
+ -Person12 has uploaded 6 languages on GitHub.
+ -Person13 has uploaded several languages, provided transcription of workshop.
+ -PERSON12 wants to check status of annotators.
+ -PERSON12, PERSON11 set process for of annotators to follow.
+ -Person6 evaluated new ASR workers for edible SLT.
+ -PERSON12 is frustrated with ASR have from ORGANIZATION1.
+ -PERSON4 is starting to train implementation in English, PERSON8 is also trying to train another PROJECT6 based ASR.
+  Both of them will have transcripts , without time stamps.
+ -PERSON6 is going to reformat MT wrapper, online text events.
+  After , he will implement scripts for Flicker, delay evaluations.
+ -PERSON8 is training PROJECT6 co ORGANIZATION4 common voice English ASR.
+ -PERSON8 wants to train language model on text as MT model , it would helpful if language model would trained on similar text as well.
+  There is feature from PROJECT6 can help with segmentation.
+  predicts silence after word , if duration is longer threshold it is good indication is end of sentence.
+  would good to integrate segmentor with Czech PERSON14 scores slightly lower PERSON6 for IWSLT test set.
+  There is one model for languages.
+  Some of tools running , others not.
+  There scripts run worker on coster.
+  For PRO PERSON12 wants to integrate PROJECT5 model to mediator can provide target languages , 42 languages with subtitles.
+  need to increase set of cover languages , Monday seminar Czech Organization Organization call could have subtitles in Kazakh PERSON11 will create directory of back translated text monotext with back translation for PERSON11, PERSON10.
+  audio terrible, I ASR 'd it.
+
+
+Minuted by: Team ABC

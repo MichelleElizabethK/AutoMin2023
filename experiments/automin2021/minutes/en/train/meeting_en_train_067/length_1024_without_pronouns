@@ -1,0 +1,31 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON6, PERSON12, PERSON9 and PERSON14 worked on a project.
+  They need to provide a separate model for PROJECT1 and a paraphrasing and back translation to the outbound translation interface.
+  They also need to implement a new NMTAPI.
+ -PERSON9 and PERSON14 are writing a paper for the NASEL.
+ -PERSON9 is surprised by the results of the analysis.
+ -PERSON2, PERSON9 and PERSON14 discusseded the data augmentation experiment.
+  They discussed the differences between a fast and slow system.
+ -PERSON1 and PERSON2 are showing each other the graphs showing the pretraining and fine tuning of the system.
+ -PERSON1 and PERSON2 discussed the differences between the monolingual data and the synthetic data used to train the system.
+ -PERSON1 would like to fine-tune the models on the currently pretrained models.
+ -PERSON2 and PERSON7 think about using all the data at once and using some text to mark the source instead of fine-tuning.
+  Czech monolingual had the worst Bleu scores.
+  The test set was English sentences translating into Czech.
+ -PERSON2, PERSON6 and PERSON11 worked on a translation problem.
+  The system is deterministic with regards to the current input, but it doesn't produce all the possible lemmas for a word.
+ -PERSON2 suggests to run the lemmatization during PERSON13 asked PERSON11 to book a flight ticket to Czech Republic.
+  The flight is usually cheapest on the New Year's Eve, but it can be cheaper on the other days.
+ -PERSON11 and PERSON2 will meet on Friday at 11 a.
+  at LOCATION1 in PERSON10 worked on the implementation of the trees.
+ -PERSON2, PERSON1, PERSON4, PERSON13 and PERSON6 discusseded how to pay Czech people with vouchers.
+ -PERSON2 and PERSON1 are negotiating the payment for the annotations.
+  They will use the same people that do the annotations for the participants as they have the same contract with the same institution.
+  If the price is too high, they will end the negotiations.
+
+
+Minuted by: Team ABC

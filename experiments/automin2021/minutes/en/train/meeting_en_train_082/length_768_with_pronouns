@@ -1,0 +1,47 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+
+  The Chinese person hasn't joined yet.
+  The meeting is about incremental SLT models and evaluation and latency.
+ -PERSON7, Wolfang Mecharized and Airy Pedragon are the authors of the paper.
+ -PERSON1 has implemented device beam search and the mass key.
+ -PERSON8 has the bias beam search working on Nemesis.
+ -PERSON7 and PERSON8 discussed the differences between the way they approach ASR and SLT.
+  They and PERSON3 worked on a system to record audio files.
+  The system is not fully automated yet.
+  It takes some time to start it and then the issue an AT command to run it with some delay or some rounded time and then you have to subtract this starting time PERSON7 is explaining to PERSON4 and PERSON8 how the system works.
+  They are trying to gather data, where there is some input speech, the correct transcript of that, interpretation, transcript of the original thing and also text based translation.
+ -PERSON4 sent an email to Organization 7 on Monday morning.
+  Organization 7 has a data set with a number of six directories and a transcript of the original speech and a translation of the interpreter's voice.
+  Organized 7 is happy to do the forced alignment of the transcript, but the PERSON7 and PERSON4 are trying to make sure they understand what PERSON4 is saying, but the connection is bad.
+  They have to align the interpreter's sound with the intre with, and then create the transcript of the interpreters PERSON7 explains to PERSON4 how to prepare a translation.
+ -PERSON7 and PERSON8 are trying to work out how the system works.
+ -PERSON4 will write a paper on it.
+  They and PERSON8 discussed the user interface and how it can be manipulated to make it look like something is happening or may be happening.
+  Organization 3 wants to keep the older system as real time as possible to avoid caching.
+ -PERSON7 would like to leave the presentation as a separate topic.
+ -PERSON2 and PERSON4 want to finalize SLTF and test it on the data.
+  In the task, one of the users is given the audio and they are expected to produce target language text.
+  They do not have to do the Giza alignment.
+  The task is based on the order alignments by Giza.
+  If the participants participate themselves, they will be the only PERSON7, PERSON4 and PERSON8 worked on the data set preparation.
+  They need to collect various SLT systems run on audios, when they have the correct transcript and the reference translation and ideally, where they also have the reference interpretation and then they can compare PERSON8 worked on a spoken language translation project.
+  The deadline is the 17th of March, which is early.
+  There is a lot of experimentation with the microphones.
+  People are not very good with microphones.
+  The ASR is followed by punctuation insertion and followed by sentence events PERSON8 explains to PERSON7 how the BIOS beam search works.
+  It's a retranslation of the log file and adds a small penalty to the score provided by the translation system.
+  The system works well for English to German, but not so well for other languages.
+ -PERSON7 should have the addable selfie depth set ready already, but she hasn't put it together yet.
+ -PERSON3 will provide it with the reference translations into German and Czech and source sound.
+ -PERSON8 will train a big system on the same training PERSON8, PERSON3, PERSON7, and PERSON4 are on a conference call.
+  There is a problem with the internet connection of Organized Company 8.
+  They will write some notes to ORGANIZATION5 doc.
+ -PERSON4 will write to what he meant to say in the doc and explain later.
+ -PERSON3 sends a file with the audio and a system to transcribe the audio.
+
+
+Minuted by: Team ABC

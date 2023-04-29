@@ -1,0 +1,32 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON7 is recording this meeting because they are gathering data for evaluation.
+  They worked on a paper about measurement and latency.
+ -PERSON8 and PERSON7 worked on a system to improve the performance of the BIOS beam.
+  They are also working on the evaluation tool that PERSON4 is developing.
+ -PERSON7 explains to PERSON8 how the system works.
+ -PERSON7 is explaining to PERSON4 and PERSON8 the data set that will be used for the ASR for PROJECT2 and for the EUROSAI congress.
+  The data set is a screw, which replays the log.
+  The recordings of the interpreters have been PERSON7 and PERSON4 are trying to create an ASR timestamped transcript.
+  They have the source, for example in English, the translation, transcript on it, but they don't have the recordings of the interpreters.
+  They need to talk to PERSON5 again.
+ -PERSON7 explains to PERSON4 how to prepare a transcript of the interpreter's sound and how to compare it with the written translation.
+ -PERSON4 explains to PERSON7 and PERSON8 that using the Giza alignment is the same as using the word alignment.
+ -PERSON7 and PERSON8 discussed the presentation technology.
+  They discussed the differences between the old and the new system and how to improve it.
+ -PERSON7 explains to PERSON8 how a task in nonnative language translation works.
+ -PERSON4 can't change the builtin microphone in the program.
+  The deadline is the 17th of March, which is early for the task.
+ -PERSON3 has a local company's ASR system.
+ -PERSON7 and PERSON8 worked on a system to improve the stability of the search.
+  The system is based on the ASR followed by a punctuation insertion and followed by something called online text flow events.
+ -PERSON1 does English to German, while PERSON7 does PERSON7 asks PERSON8 to collect the translations and only take the final ones and train a standard system on the same training data that they have for the smaller one.
+ -PERSON4, PERSON8, PERSON3 and PERSON7 are on a conference call.
+  They are having problems with the internet connection.
+  They need to leave the call now and write notes on the ORGANIZATION5 doc.
+
+
+Minuted by: Team ABC

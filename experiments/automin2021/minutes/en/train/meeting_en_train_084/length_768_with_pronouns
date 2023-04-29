@@ -1,0 +1,45 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON17 will share with Organization 7 the agenda.
+  Organization 7 needs to provide Organization 2 with the technical description of the technical set up and the graphical map.
+  Organization 3 needs to confirm that Organization 4 and Organization 3 will provide the details.
+  Organization 2 wants to include the description into the PERSON17 wants to know the technical differences between the ORGANIZATION3 platform as he saw it when he was in Organization 3 and the ORIZATION4 platform, which will be used for most of the events of the PROJECT1 project.
+ -PERSON17 and PERSON15 will prepare a machine translation and a Kaldi ASR for March.
+  They are also going to train the assistant that they will have fo will have for the fair.
+  They need to set up the physical set up for the ASR and a backup PERSON15 is rereading the four topics.
+  There are two reasons why getting a full replica running in LOCATION1 would be difficult: licensing and technical issues.
+  The second reason is that the software is a build in pieces and it's not too easy to, to get it running There will be a test of the mediator.
+  Organizer3 will connect their tools including the web presentation to this mediator and let Organizer1 know so that they can test it out.
+  The mediator is the heart of the live system that will be used in March at the PERSON15 is a senior software developer in ORGANIZATION4.
+ -PERSON15 explains to PERSON17 how the Organization 4 service architecture works.
+ -PERSON17 wants to know more about the operation of the batch audio file processing and the practical limits of the platform.
+  They explains to the mediator how the process works.
+  They explains the typical client implementation in the documentation.
+ -PERSON15 explains to PERSON15 how the sending queue works.
+  They explains to PERSON17 how to implement the ASR.
+  They explains how to implement a machine translation service implementation in the right callback.
+  They explains to PERSON17 how the handshake works.
+  The documentation is complete and there are examples in the repo.
+  Organizing3 will connect their tolls to the meditators by the end of the week.
+  The deadlines for the ORGANIZATION2 events are for the PERSON17, the organiser of the fair, asks Organization 3, Organization 4, Organization 5, Organization 6 and Organization 7 to prepare the audio recording for the fair and the recording from the ORGANIZATION6 platform.
+  They need to start recording by the end of March.
+  At the fair there will be presentations by nonnative speakers.
+  People will have to present their countries in 90 seconds.
+  The recording will be done by the ORGANIZATION4 recording worker.
+  The organization needs the recording in order to start using the recording capacity PERSON17 was not involved in the negotiations with ORGANIZATION4.
+  Organization 6 has its own audio set up an audio service.
+  It will be easy for Organization 6 to make the March milestone, and they could start having their calls within the Organization 6 platform.
+  Organized 6 PERSON17, PERSON14 and PERSON18 will discussed with Organization 4 how to handle separate channels.
+  The mediator is only the oncem and in charge of managing the interaction between client and workers.
+  The workers can only manage one connection per time.
+  The mediator would have many OTHER3 ASR workers that produce sound packets to, the, to the, mediator.
+ -PERSON15 will upload slides to the ORGANIZATION4 platform sample co sample connector repo.
+  They and PERSON17 want to develop a machine translation system that can translate from one language into six languages at the same time.
+  The system is meant to be able to scale up to to many worker and interaction during the project, but it's not supported in the moment.
+  They and PERSON17 are going through instructions on how to work in real time and how to simulate live streaming from an audio file.
+
+
+Minuted by: Team ABC

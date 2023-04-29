@@ -1,0 +1,26 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON13 is busy with IW SLT , writeup, interviewing people to replace moving forward.
+ -PERSON7 has split video between English, Czech , Czech part has cut using English time stamps.
+ -PERSON10, PERSON11 not have PERSON13 wants PERSON6 to check quality of German, English audio files for Project1.
+  She also wants to know if have substitute for of systems.
+  She wants to back systems, find partner to run them.
+ -PERSON13, PERSON19 working on evaluation of PROJECT1, ASR submissions for IWSLT last week.
+  There is problem with calculating bleu score.
+  need to use SacreBLEU instead of NLTK.
+ -PERSON13 needs to implement logic into SLTF , to run enverse segmenter.
+ -Person17 is busy with preparation for exam , he will start experimenting soon.
+ -Person19 needs to write new assignment.
+ -PERSON13 , PERSON18, PERSON6 going to work on speech detection tool.
+  want to test it over summer.
+ -PERSON18 has document scores for files of Antrecorp , does not have findings paper.
+  She will send them to PERSON13, PERSON19.
+ -PERSON10 has working on thesis.
+ -PERSON13 would like to have word level time stamps for real time recording of PROJECT2 ASR in log files.
+ -PERSON3 collected data in Georgian , Icelandic , Serbian , Danish, Dutch, sent them to PERSON14 for validation.
+
+
+Minuted by: Team ABC

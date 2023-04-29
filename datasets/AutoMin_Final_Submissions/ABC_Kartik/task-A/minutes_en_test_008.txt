@@ -1,0 +1,29 @@
+DATE : 2021-07-16
+ATTENDEES : PERSON3, PERSON7, PERSON10, PERSON5, PERSON6
+
+
+SUMMARY-
+ -PERSON6 and PERSON3 want to do some probing on transformer networks.
+ -PERSON7 wants to probe on PROJECT2, PROJECT5 or GPT tool.
+ -PERSON7 is trying to explain to PERSON3 how the paper works.
+ -PERSON7 suggests that PERSON3 should start with PROJECT2.
+ -PERSON7 wants to have a skype call with the people in LOCATION3.
+  They want to come to LOCATION2 for two weeks and collaborate on something together.
+ -PERSON5 and PERSON7 discuss the structure of attention matrices.
+ -PERSON5 is training about its raise or the dependency trees or constructure.
+  There are many different types of balustrades in different heads.
+ -PERSON5 is in LOCATION1 until the 15th of December.
+  He will switch to another network like PROJECT2.
+  There are papers where they took syntactic trees from syntactic parser and used them to form the input of machine translation systems.
+  There is also a paper where they had two heads which were trained to be similar.
+ -PERSON3 is working on the experiment tactogrammer and others and reworking on the manual hewit paper.
+  He wants to write a master thesis.
+ -PERSON6, PERSON9, PERSON3, and PERSON10 are working on a project.
+  The project is multilingual PROJECT2, PROJECT4 and PROJECT5.
+ -PERSON3, PERSON10, PERSON6, and PERSON10 are discussing the differences between different machine translation models.
+  Transformer trained for machine translation would be more syntactic and PROJECT2 less syntactic.
+ -PERSON6 will send the paper to PERSON1 and PERSON10.
+ -PERSON8 should write a paper with PERSON10.
+
+
+Minuted by: Team ABC

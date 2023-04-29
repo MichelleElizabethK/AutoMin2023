@@ -1,0 +1,57 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON2 has shared an annotation user doc with the rest of the group.
+  She has also put it into the agenda.
+ -PERSON4 apologized to PERSON4 for not writing back for the meet up.
+ -PERSON6 and PERSON3 are in a meeting.
+  They want to divide the work among themselves, so that less synchronization is necessary.
+  They have extra funding and they want to hire human annotators for the manual evaluation of meetings.
+  The software is in a good shape, but the distribution of files is not.
+ -PERSON1 will be busy until the end of September.
+ -PERSON6 wants to get acquainted with the tool that PERSON1 was developing and is still developing.
+ -PERSON PERSON2 has seen the instructions how to install the annotation interface.
+ -PERSON6 and PERSON2 will use it in the coming 2 weeks.
+  The idea is that annotators will manually align, the items from the different meeting minutes and then based on this alignment, there will be PERSON1's tool is designed and planned for the alignment between the transcript and the minutes.
+ -PERSON3, PERSON6 and PERSON2 discusseded how to improve the quality of the automatic minuting system.
+ -PERSON6, PERSON3 and PERSON8 are arguing about the evaluation of summaries.
+ -PERSON3 has already done the segmentation part of the summary.
+ -PERSON6 thinks they need to do the evaluation at the level of individual items in the summary and then aggregate them to see how overall it worked for a particular meeting.
+ -PERSON3 was tracking in the class about data, but it's messy.
+ -PERSON6 wants to talk to PERSON2 and verify if the segmentation makes sense for their shared task.
+ -PERSON3 and PERSON6 discussed the pros and cons of shared tasks and the evaluation methods used in PROJECT1.
+ -PERSON6 and PERSON3 agree that blind evaluation is better than automatic.
+ -PERSON6, PERSON2, PERSON3 and PERSON8 will run a test with just chunks of meetings and chunks of minutes.
+  If it works well, they will do a revision of all the minutes splits during the autumn.
+ -PERSON8's voice quality is much better now thanks to PERSON6's help.
+  They will discussed the alignment approach next week.
+ -PERSON6 and PERSON2 discussed initial page, initial papers.
+ -PERSON6 proposes to skip the first stage of annotation and assume that individual lines are the relevant units.
+ -PERSON2 suggests to make more variance of the minutes.
+ -PERSON6 and PERSON2 discussed the evaluation of summaries and the quality of the manual minutes.
+ -PERSON2, PERSON6, PERSON8 and PERSON1 agree that the alignment tool by PERSON1 is exactly what they want, because every candidate minute would be simply aligned.
+  The transcript is good because it's solid.
+  The summary is common to all the candidates and the number of units PERSON5, PERSON2, PERSON3 and PERSON6 will do a manual evaluation of the transcript and the summary.
+  They need to finalize their dataset by December.
+  They will try to make the summary smaller by segmenting it into 5 sentences.
+ -PERSON3 should get in touch with PERSON2 and split the dataset.
+ -PERSON4 will help with the segmentation of the meetings.
+ -PERSON6, PERSON2, PERSON3 and PERSON8 are concerned about the presentation of the data.
+ -PERSON3 will try to split the meetings that PERSON2 would provide.
+ -PERSON8 will check if these splits make sense.
+ -PERSON6 and PERSON3 suggest that people who create the data should create shorter samples, 2 pages summaries, 10 page transcripts and 2 page summaries.
+ -PERSON3 suggests splitting the transcript into 3 or 4 parts, 2 pages each, and then the summary in the same way.
+ -PERSON6 wants to try the tool by PERSON1.
+ -PERSON3 will be exploring the idea of dividing it and were, eh, proceed with the alignment and PERSON6 wants PERSON8, PERSON2 and PERSON3 to come up with a procedure that aggregates the scores and comes up with measures to check the coverage.
+ -PERSON2 wants to divide the Czech data and ask the annotators to do it quickly because they are Czech.
+ -PERSON6, PERSON8, PERSON3 and PERSON4 want to share their past experiments so that they can easily share the data imports, the evaluation measures.
+ -PERSON3 has started a workbench already a year ago and he has used the numbers that he has reported to the slides.
+ -PERSON6, PERSON4, PERSON8 and PERSON3 will prepare a paper.
+  The deadline for Organization 1 has been extended to early October.
+  The experiments were technically done, but they need to be rerun now, so that they are comparable and on the same dataset.
+  The manual annotation should be reusable and stand of and reusable so that it can be recalculated later.
+
+
+Minuted by: Team ABC

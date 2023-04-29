@@ -1,0 +1,172 @@
+Summary:
+
+* PERSON23 a PERSON4 se smějí na fotku přítele, který fotí s červenou trávou na pozadí.
+  - Fact: Kamarádova kamera měla problém s nastavením a obrázek se ukázal tak, jak byl v původní podobě, takže PERSON4 ho teď vypne.
+* Person18 musí v červnu vzít svůj bakalářský titul. Je z toho znepokojená a žádá Person23, aby si ho co nejdříve přečetla, protože už je znepokojená.
+  - Disc: Souhlasí s tím.
+  - Fact: Je teprve na polovině svého diplomu.
+* Person4 by měl psát svému vysokoškolskému studentovi, který vůbec nepil vodu, když ho pil v lednu, protože je nyní blíž k bakalářské podmínky, než předtím.
+  - Disc: On je dobrým příkladem pro PERSON23, aby ho následovala.
+* Měl by mu také napsat.
+* Person23 čeká na někoho, s ním mluvil asi před hodinou.
+  - Fact: On se s ním spojí.
+  - Disc: Person25 tam píše právě teď stránku.
+  - Fact: A dnes večer napíše zbytek.
+  - Disc: Person1 hodně pomohla.
+* Person1 a Person25 hrají hru.
+  - Disc: Bude to těžký, pokud se zasáhne OTHER3. Existuje technická chyba, kde rychlé ID generuje náhodný uživatelský ID, ale je to vždy náhodné.
+  - Fact: Musí určit, kdo je kdo a pár těchto uživatelů na stejných.
+* Person18 je zmatený a zklamaný kvůli nízké únikové nabídce. Nemyslí si, že je to pravda pro účastníky. Myslí si také, že to není pravda pro Person7, který je zmatený také.
+  - Fact: Jestli obdrží tyto e-maily, jestli já píšu a ty potřebuješ odpovědět, a jestli za to nezaplatí, jestli prostě posílá dotaz a kdokoliv mu odpoví, odpoví.
+* Person1 a Person23 mu museli vysvětlit, že QE není spojena s odbory s stranami.
+  - Disc: Rozumil a přestal reagovat na jejich e-maily. QE tým pracuje na integraci obou odborů.
+* Person1, Person23 a Person25 mají problémy s jejich projektem.
+* Potřebují trénovat na projektu1, ale projektový manažer chce, aby byl postaven téměř bez nich.
+  -- Disc: Pokud to není možné, přepínají se na jiný jazykový pár.
+* Person18, Person23 a Person25 nemají rádi myšlenku WMT. Myslí si, že to bude špatný experiment. Person4 si myslí, že je divné, že ho najali. Person1 si myslí, že ho položí na korunu.
+* Person1, Person23 a Person4 si myslí, že Amazon UK může zaplatit Amazon na Turk. Aplikace byla odmítnuta na začátku. Jediné, co se objevilo v Turk rozhraní bylo závěs s závěsem a stránky s rolovacím pruhem v něm.
+* Person25 musí napsat odkaz na dokument, o kterém má mluvit v pátek. Organizace5 je blokuje.
+  - Disc: Ráno bude volat, bude to doručeno okamžitě, takže se s tím budou moci vypořádat později.
+* Person23 přemýšlí, jak ho bez nich ušetřit.Person25 si myslí, že to bude trvat 10-15 minut, ale Person1 na to nemá čas.
+* Person1 a Person23 jsou systémy odborné přípravy pro Čechy. Organizátor organizace 3 se jmenuje ORGANIZATION15. Dalším organizátorem je organizátor organizace 3, ORGANIZATION3. Organizace 3 má systém odborné přípravy pro Čechy. Organizátor organizace 3 se jmenuje ORGANIZATION3.
+* PERSON1 a PERSON23 diskutují o organizaci5.
+  -- Fact: Person15 již není ve vedení, protože zrušil organizační postavení osoby Person24.
+  - Disc: Person1 slibuje, že Organizace5 bude pro každého zdarma. Jde o to, že bude.
+* Person18 testoval překlad, který funguje pouze na jednosměrném vstupu a všechny výsledky jsou jako 100%.
+  - Disc: Je to 100% překlad, takže je to také pofide. To nelibuje mnoho o odhadu kvality. Je stanoveno, že bude horší než pilotní experiment.
+* Person1 chce být spisovatel, ne hodnotitel, pokud se rozhodnou, že nebude odborníkem.
+  -- Disc: Nelíbí se mu, že na seznamu účastníků jsou nesignátoři.
+  -- Disc: Bojuje se, že by se ho mohli rozhodnout udělat jedním z nich.
+* PERSON1 a PERSON23 souhlasí s tím, že dohled nad vzdělávací skupinou byl správný.
+  - Fact: Kdyby to byl ráno bolo, jediné, které tam byly, nebyly iba, takže preto, který od nich dostanou, je 0, 1.
+* PERSON1 chce být zase tak špatný jako ti chlapi, ale není. PERSON23 o tom bude psát, jestli je lepší než ti chlapi. p.p.18 se ho ptá, jak ví, že nejsou zlí.
+* Person18 chce změnit cíl z WMT na nějakou jinou konferenci.
+  - Fact: Lhůta pro WMT byla stanovena v červenci. Výzkumné práce pro 15. srpna výzkumné práce mají být vydány 15. července, takže lhůta je 30 dní.
+* Person1, Person25, Person4 a Person23 se v pátek dostanou na konferenci nazvanou WMT.
+  - Disc: Existují omezení prostor, ale předtím s tím nebyl žádný problém, podle person25 a person23, kteří plánují konferenci.
+* Person25, Person23 a Person4 měli problémy s pexipem. Může to udělat na Zoomu, pokud si mohou rezervovat. Van měl hodně problémů s Zoomem, ale to není problém pro Van.
+* Zoom již není používán, takže není bezpečný používat, podle person4, person23 a person4.
+  -- Disc: Je možné se zeptat, jestli je pořád v bezpečí.
+  - Disc: To není pravda.
+    -- Disc: Mohlo by to být, jak se mohou ptát.
+* Chat na Skypu společnosti PERSON4 nefunguje na jeho nastavení. Společnosti PERSON23 a PERSON19 napsaly do chatu další platformu k řešení problému. Funguje pro společnost PERSON25, ale ne pro společnost PERSON4, která je na Skypu.
+* Zoom funguje nejlépe pro person4 z hlediska kvality přenosu, podle person25 a person2, kteří hovoří s person4 na telefonu.
+  - Fact: Jsou ve stejné místnosti jako PERSON25.
+* PERSON25, PERSON23 a PERSON4 provedou další Zoom na serverech ORGANIZATION1.
+  - Fact: Bude to nahrávat a nahrát to do cloudu.
+  - Disc: PEXIP někdy má omezení a není dostatečná kapacita pro pexip.
+    -- Fact: Person7 již poslal nápovědu PENperson23 v e-mailu.
+* Person23 chce poslat nápovědu bez nastavení místnosti.
+  - Fact: Jednou zařídil Zoom, aniž by ho zařídil, ale nezačal.
+  - Disc: Chce to dát každý podzim, protože kdysi neměl čas to udělat sám a spojení nefungovalo.
+* Person23 neví, proč nezačal nahrávat pro ORGANIZATION1.
+  - Disc: Porovnává to s Zoomovými účty, kde se všichni chovají trochu jinak, dokonce i v organizaci1.
+  - Fact: Účty Zoom mají různé rozlišení videa, takže nahrávky mají také různé rozlišení.
+* Person4 a Person23 chtějí začít nový účet na Zoom. Pište Ji, aby se zeptali, zda to může být nazýváno Zoom, protože se bojí, že pexip nebude mít kapacitu a raději by to nazývali Zoom, jak je zde založeno.
+* Pexip má v současné době kapacitu 20 osob, takže si to může person2 nastavit a pak zrušit v pátek. Person2, Person23, Person4 a PEXIP se sejí od 11:00.
+  - Disc: PEXip je v pátek zdarma, takže pro ně není problém.
+* CET je 11 hodin. Už je to 4 roky od léta do zimy. Person25 a Person4 nezáleží na tom, že je 11 v 11 hodin, protože bylo 11 v době předchozího času.
+* Už jsou dva měsíce, co se PERSON25 a PERSON4 spolu promluvili. Někdo je na pexipu opravoval už hodiny. Setkáme se 11. listopadu. Bude to poprvé od 11. listopadu.
+* Person1 a Person23 nemají rádi být ostatní3.
+* Vyzkouší české-estonské nebo estonské jako zpětné překlady slov pro další jazykovou dvojici.
+  - Disc: Využijí Estonský systém implicitnosti, což je docela dobré, pokud to funguje.
+* Person4, Person23 a Person25 jdou v pátek do baru. Person4 si rezervuje hodinu a půl na prohlídku psa ročníku 1. ročníku. Person1 je znepokojen organizací5. Doufá, že organizátor bude programovat identifikaci studentů.
+* PERSON1, PERSON18 a PERSON25 chtějí změnit jazykovou dvojici z angličtiny na estonštinu a z estonštiny na česky. Chtějí se zbavit uživatelů, kteří mluví česky-česky.
+  - Fact: Len právě začal pracovat na tom projektu.
+* PERSON1, PERSON18 a PERSON25 diskutují o českém a estonském systému, jak přeložit citát pilota do cílového jazyka pilotů a týmu.
+  - Disc: Mluví také o kvalitě předkládaných kapitol.
+* Person1 chce vědět, jestli PERSON19 dělá nějaké hodnocení na toto téma. Zeptává se, jestli je nějaký počet, aby to udělal. Odkazuje na pokusy s tím překladem z kapitoly o variaci zdroje z první rady.
+* Person1 chce vyhodnotit parafrazování v angličtině.
+  - Disc: Bude poslat nějaké dokumenty do školy, pokud si myslí, že může udělat svůj vlastní. Chce zjistit, jak vyhodnotit parafrazní systém.
+  - Disc: Oceňuje všechno modré.
+* PERSON1, PERSON19, PERSON4 a PERSON25 diskutují o tom, jak vyhodnocovat parafyziologii. Nejvýhodnější je, když tým je folk hodnocení.
+* Potřebují tu parafrazi, aby jim pomohli s tím experimentem, protože tam nemají žádný bazén.
+* Person25 požaduje hodnocení v rámci OTHER3 alespoň tak velké jako v článku. Parafraze je jedním z backendů v experimentu.
+  - Fact: Je to parafraze připravená z angličtiny do češtiny.
+  - Disc: Nemůže být automaticky vyhodnocena na základě jednoho odkazu.
+* Person1 provede ten experiment.
+  - Fact: Bude tam z jednotky vydané person18.
+  - Disc: Experiment je udělat nějaké malé čísla, aby se všeobecně začít s a pokud se probudíte, budete se účastnit.
+* Person1 a Person23 pracují na experimentu s odhadem kvality v estonštině.
+* Ještě nezkoušeli česky, takže potřebují pracovat na výměně jazyků. Musí změnit nastavení a začít pracovat na nezávislém vlastním zkušebním.
+* Person1 honí za doručeným.
+  -- Fact: Musí to dostat někomu z Chalanova asi za měsíc.
+  - Disc: Person18 je v současné době ve státním oddělení, což je pro něj špatný čas, aby to udělal.
+* Poslední vyšetření PERSON18 je 7. bakalářská obrana.
+* Musí mít alespoň 3 týdny rezervované.
+  -- Disc: Důležité je také dodání některých čísel z experimentu.
+* Musí vytvářet své parafrazy a nechat je na sto malých.
+* Person1 chce jít k zdroji složitosti práce, kterou PERSON23 a PERSON4 dělali.
+  -- Fact: Person4 má QE a nedávno se na to podíval.
+  - Fact: Dělal to na modelování jazyků.
+* Person1 buď vysvětlí postup, nebo jeho část z něj zkrátí. On se díval na dostupné's z asi dva tucty stránek a teď je to 16 stránek.
+  - Disc: Prozatímní zpráva byla jen přezkum, není dostupná jako IR.
+* Person1, Person4 a Person23 souhlasí s tím, že je správné dát pozitivní čísla tam jako text. Pokud nemají surové čísla, nebo pokud to nefunguje, pak je možné, že tam nejsou žádné pozitivní čísla.
+* Person23 píše organizaci5, organizaci15, organizaci6, organizaci24, organizaci7, organizaci1, organizaci2, organizaci3, organizaci4, organizaci5 a organizaci6 pracují na projektu.
+  - Disc: Trvá dlouho, než se řídí instrukcemi. Poskytnou třístranné instrukce.
+* PERSON18, PERSON23 a PERSON2 chtějí provést experiment na ne domorodých lidech zdarma.
+  - Disc: Potřebují lidi, kteří nemluví česky a kteří nemluví estonsky.
+* Chtějí je použít jako poznámky v pracovní knize.
+  - Disc: Bude tam víc než osm lidí.
+* PERSON18, PERSON23 a PERSON2 budou pořádat schůzku.
+  - Disc: Potřebují někoho s smlouvou, aby to vypadalo, jako by rychle organizovali schůzku.
+  - Fact: Vloží na to stůl a vloží tam jména, které znáte, a do něj přidá jména, které znáte.
+* Person23, Person1, Person1 a Person2 chtějí provést experiment.
+* Potřebují 20 účastníků pro každý jazyk.
+  - Fact: Získali 210 stimulací.
+  - Disc: Chtějí pokrývat všechny konfigurace.
+    -- Disc: Potřebují také lidi, kteří nerozumí češtině a estonštině.
+* Person1 a Person23 mají problém s organizací3 a organizací5.
+* Musí to vyřešit do konce dne.
+  - Disc: Osoba 1 napíše jména Organizace3, Organizace5 a Organizace18 na stůl a vypíše, kdo je vosklý a kdo ne.
+* Person1, Person23 a Person2 se hádají o tom, kdo je nejdůležitější osoba na světě. Souhlasí, že Person23 je vítězem.
+  - Fact: Konverzace končí tím, že osoba 1 a osoba 1 souhlasí, že osoba 2 je číslo 27.
+* Person23 a Person1 doporučuje, aby jim napsali dopis a dali jim pití, pokud jsou v potížích.
+  - Disc: Děláte si z toho srandu.
+  - Fact: Napíšu jim dopis."
+* Person23 jim napíše dopis. Volání je v pátek a na pořadu jednání má být odkaz na dokument, který mají napůl hotový, takže tam vloží odkaz.
+  - Disc: Person1 za chvíli odesílá odkaz.
+* Person1 se pokusí opět potrestat Person4 a dovolte mu zkusit některé z těchto experimentů. Tentokrát nemají žádné čísla špatně, takže nemusí používat lékařské čísla.
+* Musí mít číslo s číslem.
+* Person1, Person23, Person25 a Person18 nemají čísla pro ostatní3. Ani nedosáhnou konce dodávek.
+  - Fact: Pořád potřebují stejný počet lidí, kteří nezná Estonštinu, a jsou mezi nimi.
+  - Disc: Jestli jim nedají víc času, tak je vyhodí do vzduchu.
+* PERSON1, PERSON23 a PERSON18 chtějí vědět, kdy bude otázka státní příslušnosti posouzena a zda se o ní může rozhodnout před 15. lednem.
+  -- Disc: Jde o otázku, kdo to vyhodnotí a nenechá se dotknout státních představitelů.
+* Person18, Person23, Person1, Person17, Person2 a Person25 se sejdou dnes ráno.
+* Musí do pátku poslat e-mail na organizaci3 s odkazem na QA a v pátek poslat e-maily anotatorům.
+* Person1 zašle e-mail s úvodní zprávou někomu v Estonsku a České republice. Dále zašle hodnocení prvků nové služby jiné osobě v Estonsku.
+  - Fact: Osoba, která nemluví anglicky, bude muset vytvářet angličtinu a estonštinu.
+* Person1 musí vypracovat údaje a zkusit je.
+  - Fact: Má tři údaje, tři jádra přidělené a perly v deseti krocích na předním a deseti na zadním konci. Nehraje soubory, komunikuje s nimi jako s <nerozumitelným>.
+* Person1 musí cvičit model na maximálně asi milion párů veterinářů.
+  - Disc: Model je 3 gigabitů intelektu. Tokenizer nefunguje správně, takže PERSON1 tokenizuje model.
+* Person18 používá nástroj, který není pro něj přístupný. Příště jí ho zašle.
+  - Fact: Jestli model nepošle, tak ho natáhne.
+  - Disc: Estoňané jsou podle něj lepší než ty, které používal.
+* Person1 a spadající tým budou pravděpodobně vítězi. Person1 píše e-mail MT a připravuje něco pro něj právě teď. Bude dokončit pekařství a element s týmem, a bude se starat o služby tam.
+* Person18 to zapíše.
+  - Disc: Bude vás někdy probudit, a když je dolů, pošle vám zprávu. Je to také jako vypořádat se s tím, zda je (course inabled) a jestli vám posílá zprávy.
+* Person1 se bojí, že každých pět minut zkoumává stránku a chce, aby to každý udělal intenzivně, aby udržel bolest v pozadí naživu. Server řídí, jestli je to jako správná stránka. Kurs byl zabezpečen.
+  - Fact: Bude to zase kořist.
+* Person1 a PERSON18 chtějí používat stejné 6 komponent, které používají v každém backendu.
+  - Fact: Existují dva zdroje backendů, jeden z nich by byl definován v OTHER3 a druhý v tomto skriptu.
+  - Disc: Bylo by to dvojitě definované, takže první je definováno v druhém.
+* Person18 bude dělat kopii plakát na OTHER3 za půl hodiny.
+  - Disc: Jestli to tam udělá, bude to jako proroctví.
+    -- Fact: Požádá ho o to od serveru, protože se bojí, že ho požádá o kopii pasty.
+* Person1 natočí další video.
+  - Fact: Má chaláni, čo správjů, spravujů a PROJECT11 služby. Som potřebuje službu, takže udělal nějaký korunový proces.
+  - Disc: Každou minutu se od jeho koruny zeptá, jestli je služba naživu.
+* Person18 a Person1 s nimi souhlasí.
+  - Fact: Person1 musí běžet na trénink.
+  - Fact: "Musím teď jít trénovat." "PERSON1 se brzy vrátí."
+* PERSON18 pomohla PERSON1 tím, že mu dala informace, které nepatří k ORGANIZACÍ5.
+  - Disc: Person1 je o tom šťastný a myslí si, že je to dobré i pro něj. Person1 a Person18 se smějou na each other's vtipy.
+
+------ Note ------
+*: A topic or important point of the discussion.
+Fact: An objective statement.
+Disc: A subjective discussion such as an opinion and claim.
+-: An item related to the topic or point.
+--: A supplemental or supporting statement for its previous sentence.

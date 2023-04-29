@@ -1,0 +1,55 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON10, PERSON26, PERSON25, PERSON8 and PERSON9 are on a conference call.
+  The session is the PROJECT1 session next Wednesday.
+  There are two urgent things that need to be done before the session: the paymen PERSON16 and her colleagues will present a poster and a demo of the technology at the Project Expo on December 2nd at 12 p.
+  They are also going to talk about the summarization of the project.
+ -PERSON16 wants to use PROJECT1 as a demo for a dry run for the full conference translation.
+ -PERSON14 wants to have the systems evaluated on the PROJECT2 test sets.
+  He wants to know how the system behaves when it's connected in the SLT pipelines.
+  The technical coordination will involve the technical coordination for the PROJECT1 and the SG1 meeting on the 4th Thursday.
+ -PERSON16 wants to run a test under cover.
+  The conference is probably going to be divided into parts.
+  PROJECT2 has applied to be able to participate in the online only part of the conference in April.
+  The physical meeting with workshop and marketplace will be postponed until it's safe PERSON16 wants to know what should be in the deliverable for the early December.
+ -PERSON15 has prepared a template, but the microphone is not working.
+ -PERSON13 and PERSON26 are busy with the PROJECT2 deliverable.
+ -PERSON7 will put a comment into the tables.
+ -PERSON13 agrees to do the review of the data deliverable.
+  The deadline is the 6th of December.
+  The reviewer will probably be our researcher PERSON5.
+  The training data is about 4 hundred thousand.
+  German, Italian and Welsh are being trained.
+ -PERSON16 wants to integrate her Kaldi based system with PERSON17's neural implementation, but they don't have the onlinization.
+ -PERSON17 is relying on just the implementation of Kaldi, whereas PERSON7 has her own.
+ -PERSON16 will talk to PERSON17 and PERSON26 PERSON24 is rejoining the project.
+ -PERSON14 is now the main operator of the systems.
+ -PERSON24 will be the main person putting the numbers together to a sensible table.
+ -PERSON1 worked with the data set from the European court of auditors.
+ -PERSON16 wants to know if there is any improvement in the PROJECT2 test set.
+  There was a paper at PROJECT3 about document level evaluation and a summary evaluation over the domains.
+ -PERSON6 has been collecting documents for a number of languages PERSON15 is collecting data relevant to machine translation.
+ -PERSON9 is collecting manual transcripts for ten hours of Czech and German.
+ -PERSON15 is getting verbatim transcripts of the organiser's speeches.
+ -PERSON10 hopes by early December the data sets should be ready for minuting.
+ -PERSON7 and PERSON16 worked with common voice and a Librispeech German corpus.
+ -PERSON16 and PERSON9 are dissatisfied with the quality of the tutorial they received from Organization 7.
+  They want to implement some of the code in PROJECT4, but they don't have anyone on the team who can do it.
+ -PERSON9 and PERSON16 worked on a project.
+  They need more people fluent in C and/or in CUDA.
+  Some versions of the project have had high latencies due to ASR issues.
+  They are running a study on how much space people need to watch videos PERSON16 and PERSON9 worked on machine translation.
+  The system is stable, but there is no stability component in the MT systems at the moment.
+  The manual evaluation has been tested to some extent, the automatic evaluation is probably being implemented by PERSON21.
+ -PERSON16, PERSON13, PERSON21, PERSON10, PERSON29 and PERSON6 worked on various projects.
+ -PERSON14 and PERSON25 are helping with versioning among components.
+ -PERSON6 worked on packaging of various components and making them dockerable in an easy way.
+ -PERSON PERSON16 wants to include demos with the ORGANIZATION7 technology in the dissemination talks.
+  The organization doesn't have the necessary consents yet.
+  They will send a couple of free slots for the upcoming days.
+
+
+Minuted by: Team ABC

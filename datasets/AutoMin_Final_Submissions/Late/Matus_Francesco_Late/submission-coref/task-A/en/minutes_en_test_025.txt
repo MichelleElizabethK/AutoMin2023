@@ -1,0 +1,32 @@
+[PERSON3] Hello, can (PERSON1) say something?
+[PERSON4], if (PERSON1) could start.
+The Yea and (PERSON1) asked [PERSON5] to do the transcripts o by German ASR for the German transcriber.
+But for some folders, for some reason the audio format is wrong.
+It's great that that [PERSON5] now has the time There are other things where (PERSON1) was thinking of [Person5].
+[PERSON5] should be able to do it for the next week.
+[PERSON9]: [PROJECT3] project demo is doing offline subtitling.
+And then when the participants meeting have the final output from the entire input sentence the participants of meeting start generating.
+And then they generate the first word and th And then basically with every new token that they gather they generate ne One new token.
+The participants of the meeting would just call it like t, and it would stop generating yea after some time.
+[PERSON10] mentioned in [PROJECT4] is not ready.
+[PERSON9] are one possible candidate.
+[PERSON5], please think about it.
+(PERSON1) don't know how hard it will be to change this.
+If (PERSON1) see that it is possible.
+[PERSON6] and (PERSON9) would like to hear an update uh for the sessions for next week.
+[PERSON6], (PERSON1) mention it that (PONT1) don't have the webpage for ([PROJECT2]).
+(PERSON9) would suggest if it's not too late for [PERSON3].
+Participants of the meeting can do the same thing with the [PROJECT1] test set.
+(PERSON1) is a bit afraid that (mayborl) probably will not be prepared till tomorrow.
+c-should the, of participants meeting say, like one or two Czech time.
+[PERSON3] setting up two presentations.
+The participants of meeting will watch that.
+[PERSON3] (PERSON9) are already doing some ASR.
+[PERSON7] is looking into that.
+[PROJECT1] test set right.
+But there are some audio files where it gets converted to the unintelligibile> format.
+(PERSON1) need to figure out which which one is the one which is not getting passes with ASR.
+[PROJECT1] test set, conversion and fresh evaluation.
+(PERSON9) will be able to see if the participants the meeting add some new files.
+Brian said that once they get the transcript of the meeting participants will learn it together.
+[PERSON11] is organizing some event tomorrow and over the weekend.

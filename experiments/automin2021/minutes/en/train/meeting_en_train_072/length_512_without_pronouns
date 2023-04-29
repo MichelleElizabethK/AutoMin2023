@@ -1,0 +1,39 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON14, PERSON16 and PERSON6 discusseded the components that they have to deploy for the VAT wide group, which is in the end of June.
+  There is no option to connect to the mediator in Python.
+  People should use PERSON14 wants to move the C version of Dot.
+  NET from sample to production and continue in C version.
+  They would like to integrate C C library into Python, but they don't have any Python programmers.
+ -PERSON2 wants PERSON6 to create a Python client and Python libraries for them and share them with them.
+ -PERSON14 is stronger with Python than C, but she can't promise anything on that.
+ -PERSON3 wants everyone in Organization 3 to make sure they have access to the cruise control PERSON1 wants to know how to check fingerprint functionality on the admin web.
+ -PERSON16 explains to PERSON14 how to do it.
+ -PERSON14 asks for a commandline example of how to use the search button, but it's not ready for the June session, so PERSON16 will PERSON16 wants to distribute the logs from all workers to everyone, but it's not possible at the moment, because the mediator is installed on a server which is under VPN connection.
+  The sale servis on log is not available, because it's under VPN, and the logs PERSON14 wants to have access to the conference's ASR workers to check the logs online.
+  The idea is not on plan, but it might be useful in the future.
+ -PERSON6 wants to know if he can get access to their server to check their logs online as well.
+  For the June event, there will be 2 ASR workers, 1 English source and 1 English repeater, and a student who will repeat everything the speaker will say.
+  The segmentation workers, punctuation and segmentation for English, German and Czech ASR is performed on a subs PERSON6 explains to PERSON14 and PERSON12 how the sentence segmentation works.
+  The organization will not be able to run the display website for the event, because the ORGANIZATION3 has an important demo.
+ -PERSON14, PERSON11 and PERSON6 are planning a demo at Organizing3.
+  They need to hack it some way.
+ -PERSON16 is available to perform an installation of the punctuation and segmentation worker on their server and to provide it as a test worker on PERSON14 will train a system that does translation into all of Organization 7's languages.
+ -PERSON14, PERSON2, and PERSON6 have MT systems into German, English, Italian, French, Spanish, and Portuguese.
+  They have all directions within at least 5 languages.
+  They will be using PROJECT3 server, em, or maybe a wrapper around PRO Project3 server PERSON4 will link the GitHub page to the MT worker systems.
+ -PERSON11 will prepare a graphical user interface to select the stream sources for, the transcription output.
+ -PERSON8 promised to do video grabbing and streaming, in addition to global subtitles for the main screen.
+  The platform must jump on available session if we restart the EB client.
+  The script to put the browser window to the screen with the presentation should be prepared.
+ -PERSON16 thinks that when it's all webbased, the ASR adaptation based on documents provided by participants will work well.
+  The event is on on the last weekend of June, 28th until the 30th of June.
+  There is a meeting of maybe 15 members of ORGAN PERSON14, PERSON12, PERSON7, PERSON8 and PERSON4 will get data related to the domain that will be discussededed at the workshop from TAUS.
+  They will use it for finetuning and for the MT test sets.
+ -PERSON16, 7 and 14 will call again next Friday at 10 AM.
+
+
+Minuted by: Team ABC

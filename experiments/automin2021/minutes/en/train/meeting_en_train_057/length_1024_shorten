@@ -1,0 +1,63 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON2 is recording sound of first meeting of team.
+  purpose of meeting is to get to know, explain to others what can expect from.
+ -PERSON8 is in linguist project.
+  Her task to work with automatic , transcripts, anno, correct them.
+  Her supervisor supervises annotators work on data.
+ -PERSON9 is new member of project , he joined 11 days ago.
+ -PERSON9 has doctorate in machine translation.
+  is working on deep neural network for summarization task.
+ -PERSON2 is supervising basic research project.
+ -PERSON2, PERSON8 discussing research on structure of network.
+ -PERSON9 focus on basic questions, analysis of what network is, less on shared task.
+ -PERSON2, PERSON9 meeting.
+ -Person2 is trying to explain to Person9 embeddings, representations created, relate to.
+ -PERSON9, PERSON2 coauthors of paper on sentiment analysis task.
+  There new metric , presented.
+  quality of embeddings.
+  method of evaluation is either abstractive extractive.
+  For humans is one scale , PERSON9 is working on project will measure whether people prefer to create abstractive style extractive style for summaries.
+  There problems with differentiating between minutes of different annotators, sentences not in sequence.
+  There is software problem with PERSON7 is preparing submission to shared task.
+  She is interested in scholarly document processing, is working on analysing quality of peer review in scholarly scenario.
+  Her role would to look after task in aspects , like writing proposal , fixing PERSON2, PERSON6 going to organise workshop on spoken meeting meeting summarization, have shared task as part of it.
+ -PERSON2, PERSON7 will put proposal for workshop on 5th of October.
+ -PERSON6 will introduce, introduce background is relevant for meeting summarization.
+ -PERSON6 is going to present GitHub repo will help them to reuse code, data.
+ -PERSON5 is creating user interface for annotators.
+  last person on call is PERSON4.
+ -PERSON2 , PERSON5 , PERSON6 , PERSON9, Turkan PERSON7 going to present annotation interface.
+ -PERSON5 explains to PERSON8, PERSON9 meeting is organised.
+ -PERSON2 , PERSON5 , PERSON8, PERSON9 creating Python interface to link minutes, transcripts with transcripts.
+  going to test it on annotators, publish it in PROJECT4 repository.
+ -PERSON2 wants to share screen with PERSON6, PERSON9.
+ -Person6 asks for permission to do.
+ -Person9 does not know to do it.
+ -Person2 has departmental email address linked to Gmail account , he ca not join meeting.
+ -PERSON6 explains in detail four stages of automatic minuting task.
+ -PERSON6, PERSON2 working on project to create publishable corpus can used by corporate community.
+ -PERSON6, P8 working on project to develop software tool for summarizing transcript of meeting.
+ -PERSON8 wants to know much of work is actually implemented.
+  work package is in GitHub repo , basic prototype is not available yet.
+  first experiments with PERSON4 produced bad results , have to go back to two steps text segment PERSON2 asks PERSON6 to prepare slides for user, advisory board meeting next Wednesday.
+ -PERSON2 wants to see outputs of experiments.
+ -PERSON2, PERSON6 discuss implementation, experiments of project.
+ -PERSON2 is not satisfied with results of task five point three.
+ -PERSON8 wants to compare outputs of ORGANIZATION7 corpus with manual summaries.
+  results not grammatically correct , semantically correct.
+  Rouge scores low, also quality differences significant.
+  According to PERSON2 , PERSON6 explains to PERSON9 different evaluation possibilities for task.
+ -Person9 wants to know if use automatic metric manual one.
+ -PERSON8 is going to present status of data sets.
+ -PERSON2 wants PERSON8 , PERSON9 , PERSON6, PERSON10 to prepare documentation for PROJECT4.
+ -PERSON2 also wants PERSON6 to retrain pipeline on Sumecek.
+ -PERSON2, PERSON7 going to have joint corpora workshop on machine translation in early September.
+  want to work on similarity , measures, shortcutting of approach.
+ -PERSON2 , PERSON7 , PERSON8 , PERSON9, PERSON4 going to meet 2 PM LOCATION1 to discuss daily meeting slots for remote colleagues.
+
+
+Minuted by: Team ABC

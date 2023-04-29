@@ -1,0 +1,34 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON10, PERSON5, PERSON3, PERSON4, PERSON6
+
+
+SUMMARY-
+ -PERSON4 is getting her visa this Friday.
+  She has an appointment at the embassy.
+ -PERSON3, PERSON5, PERSON6, PERSON4, PERSON10 and PERSON6 will share the data for the share task.
+  The data set is small for the full training, but it is acceptable for fine tuning and evaluation.
+ -PERSON6 needs a general share task for summarization, but there is no gold standard for this task.
+ -PERSON10 and PERSON3 decide to use ORGANIZATION1 data from 2006 to 2011.
+ -PERSON10 and PERSON3 are going through minutes from a meeting on 6th of October 2011.
+  The minutes are a summary of the session and the transcript is 1000 words long.
+ -PERSON3, PERSON10 and PERSON6 are trying to work out the details of the organization's project.
+  They agree on 3 test sets: ORGANIZATION1, PROJECT1, and the second test set is their corpus, the third is their training data.
+ -PERSON10, PERSON6 and PERSON3 worked on summarizing the transcripts.
+ -PERSON10 thinks it's better to repackage the data and provide it as the training data.
+ -PERSON3 doesn't understand how the summarization works.
+ -PERSON3, PERSON5, PERSON10 and PERSON6 discusseded how much data they should get from the meetings.
+  They need to prepare it for the participants to make it easy.
+ -PERSON10 wants to create a summarization corpus of the ORGANIZATION1 sessions summaries corpus.
+ -PERSON5 doesn't want to invest annotation money on this.
+ -PERSON3 wants to take the whole of the summary corpus and pack it with the existing minutes and publish it as PERSON10, PERSON6, PERSON8 and PERSON3 are doing a share task.
+  They need someone who is familiar with Wget to download and prepare the corpus.
+ -PERSON3 and PERSON10 discusseded the format of the transcript and the minutes.
+ -PERSON3 will contact a colleague of PROJECT3, who works remotely for ORGANIZATION5, in order to preserve the data.
+ -PERSON3, PERSON10 and PERSON6 will prepare the data.
+ -PERSON1 has a lot of work to do.
+ -PERSON3, PERSON5, PERSON10 and PERSON6 are going through the data.
+  They need to organize it according to the dates and names of the sessions and then complement it with the minutes.
+ -PERSON3, PERSON5 and PERSON6 are going through the material they need for the machine translation work.
+
+
+Minuted by: Team ABC

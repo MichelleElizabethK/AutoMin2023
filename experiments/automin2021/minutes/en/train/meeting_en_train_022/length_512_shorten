@@ -1,0 +1,57 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON2 has shared annotation user doc with rest of group.
+  She has also put it into agenda.
+ -PERSON4 apologized to PERSON4 for not writing back for meet.
+ -PERSON6, PERSON3 in meeting.
+  want to divide work among , less synchronization is necessary.
+  have extra funding, want to hire human annotators for manual evaluation of meetings.
+  software is in good shape , distribution of files is not.
+ -Person1 will busy until end of September.
+ -Person6 wants to get acquainted with tool PERSON1 developing, is still developing.
+ -Person PERSON2 has seen instructions to install annotation interface.
+ -PERSON6, PERSON2 going to use it in coming 2 weeks.
+  idea is annotators will align , items from different meeting minutes, based on alignment , will PERSON1 tool is designed, planned for alignment between transcript, minutes.
+ -PERSON3 , PERSON6, PERSON2 discussing to improve quality of automatic minuting system.
+ -PERSON6 , PERSON3, PERSON8 arguing evaluation of summaries.
+ -PERSON3 has already done segmentation part of summary.
+ -PERSON6 thinks need to do evaluation level of individual items in summary, aggregate them to see overall it worked for particular meeting.
+ -PERSON3 tracking in class data , it is messy.
+ -PERSON6 wants to talk to PERSON2, verify if segmentation makes sense for shared task.
+ -PERSON3, PERSON6 discuss pros, cons of shared tasks, evaluation methods used in PROJECT1.
+ -PERSON6, PERSON3 agree blind evaluation is better automatic.
+ -PERSON6 , PERSON2 , PERSON3, PERSON8 going to run test with chunks of meetings, chunks of minutes.
+  If it works well , will do revision of minutes splits autumn.
+ -PERSON8 voice quality is much better thanks to PERSON6 help.
+  will discuss alignment approach next week.
+ -PERSON6, PERSON2 discuss initial page , initial papers.
+ -Person6 proposes to skip first stage of annotation, assume individual lines relevant units.
+ -Person2 suggests to make variance of minutes.
+ -PERSON6, PERSON2 discuss evaluation of summaries, quality of manual minutes.
+ -PERSON2 , PERSON6 , PERSON8, PERSON1 agree alignment tool by PERSON1 is exactly what want , every candidate minute would simply aligned.
+  transcript is good it is solid.
+  summary is common to candidates, number of units PERSON5 , PERSON2 , PERSON3, PERSON6 going to do manual evaluation of transcript, summary.
+  need to finalize dataset by December.
+  will try to make summary smaller by segmenting it into 5 sentences.
+ -PERSON3 get in touch with PERSON2, split dataset.
+ -PERSON4 will help with segmentation of meetings.
+ -PERSON6 , PERSON2 , PERSON3, PERSON8 concerned presentation of data.
+ -PERSON3 will try to split meetings PERSON2 would provide.
+ -PERSON8 will check if splits make sense.
+ -PERSON6, PERSON3 suggest people create data create shorter samples , 2 pages summaries , 10 page transcripts, 2 page summaries.
+ -PERSON3 suggests splitting transcript into 3 4 parts , 2 pages , summary in way.
+ -PERSON6 wants to try tool by PERSON1.
+ -PERSON3 will exploring idea of dividing it, , eh , proceed with alignment, PERSON6 wants PERSON8 , PERSON2, PERSON3 to come with procedure aggregates scores, comes with measures to check coverage.
+ -PERSON2 wants to divide Czech data, ask annotators to do it quickly Czech.
+ -PERSON6 , PERSON8 , PERSON3, PERSON4 want to share past experiments can easily share data imports , evaluation measures.
+ -PERSON3 has started workbench already year ago, he has used numbers he has reported to slides.
+ -PERSON6 , PERSON4 , PERSON8, PERSON3 going to prepare paper.
+  deadline for Organization 1 has extended to early October.
+  experiments technically done , need to rerun , comparable, on dataset.
+  manual annotation reusable, stand of, reusable it can recalculated later.
+
+
+Minuted by: Team ABC

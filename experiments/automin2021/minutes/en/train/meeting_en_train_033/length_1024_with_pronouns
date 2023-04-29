@@ -1,0 +1,41 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON9, PERSON13, PERSON16, PERSON4, PERSON11 and PERSON17 are having a test run tomorrow in the afternoon.
+  They need a separate mediator for different workers and different sessions.
+ -PERSON17 wants to set up a second instance machine.
+  He needs a quick meeting as a ORGANIZATION2 and then they will select ports and share them with everyone.
+  The details of the mediator will be available here in this document.
+  People need to prepare all the computers PERSON9, PERSON10, PERSON16, PERSON8 and PERSON9 are on a conference call.
+  They discusseded the preparations for the Organization 11 congress.
+  They need to gather the audio and record the audio as a test case.
+  They also need to record the interaction between the AS PERSON9 will make sure that the document ORGANIZATION8 document is up to date with all the requests.
+  The incremental ASR wasn't working as it was described by Organization 5.
+  The timestamps were missing from the logs and the updates.
+  The text client worked fine PERSON8 has a problem with the real time mode of the text client.
+ -PERSON14 recommends her to use the real-time mode, but it doesn't solve the problem.
+ -PERSON8 wants to record a video of the presentation layer.
+  There is not enough space in the subtitle window to display a paragraph, so they need to split the text into two lines of text.
+  There was a two-day experiment on the second day of the last event.
+  One of the implementations was too fast and the other one was too slow.
+ -PERSON16 worked on a speaker adaptation ASR for the congress in May next year.
+  The interpreter doesn't read from standard input.
+  The server doesn't shut down properly.
+ -PERSON14, PERSON8 and PERSON3 are trying to work out what to do with the timestamps.
+  They and PERSON8 are having problems with the text client.
+  The text client accepts audio as an input, but it doesn't attach timing information to it.
+  The timestamps are lost when it sends a text.
+  The timing information is passed through the pipeline.
+ -PERSON8 doesn't understand why he got a weird ASR output.
+ -PERSON17, PERSON8 and PERSON14 are arguing about the implementation of the pipeline.
+  They are trying to figure out why some of the timestamps are removed from the log file.
+ -PERSON14 and PERSON17 worked on a presentation.
+  They need to address the issue between the and text clients.
+ -PERSON17 can't access the intermediate logs at the moment because they do not have the correct timestamps.
+  They want immediate access to intermediate logs.
+  They want to check if the ASR workers are the outputs.
+
+
+Minuted by: Team ABC

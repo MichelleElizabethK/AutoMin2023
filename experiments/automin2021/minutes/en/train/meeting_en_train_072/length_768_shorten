@@ -1,0 +1,29 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON14 , PERSON16, PERSON6 discussing components have to deploy for VAT wide group , is in end of June.
+  need 2 texttotext clients , example of to connect, integrate with service architecture , PERSON6 wants to integrate C C library into Python.
+ -PERSON14 wants to create Python binding for them.
+ -PERSON2 does not have access to Python cruise control.
+ -PERSON16 will probably not ready for June session.
+  searcher will explain full path several workers , one worker.
+  logs from workers run on servers have to provided by Organization 3.
+  mediator is PERSON16 wants to schedule coordinated test among participants in order to check altogether logs, have access to logs together.
+ -PERSON6 wants to given access to server to check logs online.
+  For June event , need to run 2 ASR PERSON6 explains to PERSON14, PERSON15 segmentation works in English to Czech MT.
+ -PERSON12 is not sure if will able to train subsentencelevel systems in time.
+ -PERSON6 , PERSON14, PERSON16 planning demo Organization 3.
+  want to keep as much of capacities as possible , need to integrate PROJECT3 e MT server to ORGANIZATION8 platform.
+ -PERSON14 does not have system does translation into of ORGANIZATION7 languages.
+ -Person12 has system for English to French , German to Italian , Spanish , Portuguese.
+ -Person6 has systems into German , English , Italian , French , Spanish, Portuguese , PERSON4 will link GitHub page to MT worker systems.
+ -PERSON11 will prepare graphical user interface for presentation platform.
+ -PERSON16 , PERSON5 , PERSON14, PERSON6 working on presentation for event on last weekend of June , 28th until 30th of June.
+  presentation streamed using HLS protocol.
+  need to prepare Web application, commandline PERSON14 , PERSON12, PERSON7 going to get data related to domain will discusseded workshop from TAUS.
+  will use data for MT test sets.
+
+
+Minuted by: Team ABC

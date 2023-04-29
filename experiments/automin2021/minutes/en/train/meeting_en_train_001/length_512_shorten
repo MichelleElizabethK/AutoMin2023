@@ -1,0 +1,34 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON13 is busy with IW SLT , writeup , interviewing people to replace moving forward, preparing demo for Project Officer.
+ -PERSON6 work on Czech ASR , input in PROJECT3 deliverable of for punctuator PERSON13 will update German, English transcripts for English videos.
+ -PERSON7 has split video between English, Czech , English part reliable , Czech part has done simply by using ends.
+  There is serious mismatch between files PERSON13 wants PERSON6 to check quality of audio files for German, English PROJECT1.
+  She also wants to know timing of testing sessions.
+ -PERSON13 wants to know if have substitute site for of systems for Thursday Project3 call.
+ -PERSON6 has already created backup of systems.
+ -PERSON13 suggests Organization 2 to run PROJECT1 models , Organization 1 to run Project2 models, Organization PERSON13, PERSON19 have working on evaluation of PROJECT1, ASR submissions for IWSLT last week.
+  have problem with calculating bleu score.
+ -PERSON13 , PERSON18, PERSON19 arguing use of space tokeniser, enverse segmenter in IWSLT.
+ -PERSON13 does not have source code for enverse segmenter.
+ -PERSON18 informs him is paper with code for it , is source code.
+ -Person13 needs to implement it in first level of work.
+ -Person19 advises him to PERSON13 wants PERSON19 to write new assignment on to handle tokenisation in SLTF.
+ -PERSON13 , PERSON18 , PERSON6, PERSON13 going to meet internal deadline on 8th.
+ -PERSON18 has found tool can measure speech rate by cutting syllables , one can detect gender of speaker, characteristics , PERSON13 , PERSON6 , PERSON18, PERSON5 have to prepare 15-minute presentation for IWSLT by June 17th.
+ -PERSON13 wants to demo task in IWSLT.
+  wants to record 2 minutes of 3-minute video from Czech into English, languages, 1 minute of one of Antrecorp videos.
+ -PERSON13 will send PERSON19 file with ASR quality.
+ -PERSON10 has playing with PROJECT2 server.
+ -PERSON13 would like to have set-up does not rely on mediator.
+  She would like features of PROJECT2 server , TCP server , log files to have word level time stamps for real time recording.
+ -PERSON3 collected Georgian , Icelandic , Serbian , Croatian , Danish, Norwegian text data, sent them to PERSON1 for validation.
+ -PERSON3 has asked PERSON16 if has annotators.
+ -PERSON3 has already shared list of annotators with Organization 5.
+  Organization 5 wants to merge files for validations, create new tester directory.
+
+
+Minuted by: Team ABC

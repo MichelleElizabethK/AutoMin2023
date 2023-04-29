@@ -1,0 +1,74 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON7 and PERSON9 have been connected for the last few minutes.
+  There is a power outage in the server room.
+  It will take all day today and tomorrow to fix it.
+  There are no ASR workers, so PERSON10 is in communication with them right now.
+  In the worst case scenario, they will give a demo with only Czech ASR and PERSON7, PERSON14, PERSON15 and PERSON8 want to postpone the demo.
+  They need to have a backup plan for one or two sides going out of power.
+  The construction will continue for another year.
+ -PERSON7 and PERSON9 are experiencing serious network failures due to the construction of a new building for their department.
+  There is also a risk of a power outage 2 weeks from now.
+  It is not possible for Organization 6 to get a second server room and they cannot duplicate their server infrastructure PERSON4 spent a week trying to start the segmentor, but it failed during installation.
+  Organization 4 has a start alone machine dedicated only for segmentor.
+ -PERSON4 sent a zip file with a docr image to Organization 4, but Organization 4 doesn't have it.
+ -PERSON14 PERSON14 wants to run a test with PERSON4 the Czechs demo.
+  People connecting to the demo will have to wait for 5 seconds for the logo to be displayed and then they have to refresh and refresh the page on the publication platform.
+ -PERSON8 needs to edit a single static image to make a video.
+  It takes 50 minutes to run the video.
+  There is no way to share the video and code it right so PERSON4's servers have to run it.
+  The operating system they tested the image on was Ubuntu 18 There is a firewall in front of the virtual machine.
+ -PERSON4 will connect to PERSON3 and help him with fixing with MT wrapper.
+ -PERSON14 is sending PERSON9 and PERSON4 3 machines with static addresses from which they will be mostly connecting.
+  The current problem with MT wrapper is MT cash.
+ -PERSON13 has been training models for each of the 7 source languages the ASR source languages.
+  The models have a single model for all the 7 inputs and 43 targets, each of which has a single source language and translate into roughly 40 target languages.
+ -PERSON7 and PERSON13 are waiting for the segmentor.
+  The older models are still available as workers, but they're not running.
+  They don't have any GPUs at the moment, so they can't test them live.
+  They can't translate files with the older models just for PERSON7, PERSON13, PERSON14 and PERSON9 are trying to access a virtual machine that has been deployed in the PROJECT2 production infrastructure.
+  It allows SSH access to everyone with the same password.
+  The German model was running PERSON3 fixed the pipeline.
+  The second test she did was using the old model and the third one using the new model.
+  The ASR segmentation workers are not accessible at the moment.
+  The electrician will call PERSON10 at 1 to repair the PERSON9 worked on getting the segmentor running on the virtual machine that PERSON14 provided.
+ -PERSON4 is updating the ORGANIZATION7 document on how to set up the thing.
+  They want to share his screen with other people, because he has a problem with his ORGANIZATION9 client.
+  The preprocessing script expects the original MP4 video from Youtube, but it takes 5 seconds of the logo before that.
+ -PERSON4, PERSON8 and PERSON7 worked on a video.
+  The video started on auto in autoplay for PERSON4.
+  Some browsers play the video upfront, others play it upfront and some browsers don't.
+  There is a 5-second delay at the beginning PERSON7, PERSON8, PERSON9 and PERSON4 lost each other.
+  There was a network disruption and the whole Organization 1 network stopped working.
+  When the demo is not active, the playlist will have a loop showing only the static image of the logo and instruction which are saying " PERSON7, PERSON4, PERSON9 and PERSON14 are trying to connect to the server rooms in LOCATION1, but they don't have the entry points to them.
+  Project 2 is now sponzored by ORGANIZATION5 AWS.
+  The network administrators are reconfig On Tuesday night when they were running the 10 machines or 20 machines in the lab, whenever they connected a new machine, all they needed to do was to open a web page on the PROJECT2 platform, click play and click like live, which is clicking the last bit of the PERSON14, PERSON8 and PERSON4 worked on a video.
+  The video is in the same folder as the script, but the script is running from the wrong folder.
+  The file is a temporary video, so it won't be PERSON8 has a copy of the file.
+ -PERSON4 will download it and run the old set up.
+  The video stopped playing 10 seconds before the subtitles.
+ -PERSON14, PERSON4 and PERSON7 are complaining about the quality of the ASR.
+ -PERSON7, PERSON4 and PERSON9 worked on Project 2.
+  They are trying to make videos in 48000 audio for PERSON4.
+ -PERSON4 can now play like stream the video, but they need to figure out how to send it at the same time to the PROJECT2 platform.
+ -PERSON7 will come over to PERSON4 to help.
+  The FFM peg command that PERSON7 uses to create the times the short snippets of the of the video doesn't keep the locks.
+  The raw audio file sent to EB client is a valid PCM file.
+  The audio features are the only ones the ORGANIZATION4 architecture is There is a problem with Linux buffering on the pipe.
+  The quality of the video is too high, so it's not possible to fix it.
+  There is a delay due to the quality of the video.
+  When EB client starts, there's the end shake phase with mediator and this probably is introducing the delay.
+  The EB client should be started all the time and it should be listening to the sound output of the machine.
+ -PERSON7 tried to play it with A play minus F S 16 underscore LE and it was playing very slowly.
+  There was a mismatch in the in the sampling rate.
+  The file with STD out is the correct file.
+ -PERSON14 will help PERSON4 with the set up of the segmentation worker on the virtual machine.
+  The build for the docr container succeeded.
+ -PERSON9 will send them an email with the status of the electricity and the segmentation worker.
+  They needs to paste the FF the FF play command somewhere on the ORGANIZATION7 doc.
+
+
+Minuted by: Team ABC

@@ -1,0 +1,52 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON9 is PhD student in ORGANIZATION3.
+  She is going to clear labels for pipeline.
+ -PERSON5 , PERSON9 , PERSON7 , PERSON3, PERSON8 want to test different versions of ASR worker also of machine translation worker.
+ -PERSON9, PERSON8 discussing to label workers in way it is obvious when somebody changes worker to different version can test it.
+  discuss to name workers , name fingerprints of workers, put version in name PERSON9, PERSON8 have two conflicting goals : workers not have to know what exact version of previous pipeline is run, empty workers not need to change input fingerprints.
+  not possible to have goals time.
+  API PERSON8 wants to extend cloud library.
+  There is way to specify full path in communication protocol.
+  Changing workers is manual process , of doctorisation.
+ -PERSON8 , PERSON9, PERSON5 have to run test set over possible ASR workers , segmentation workers, empty workers on later tester.
+  There is way to specify version of workers , need to run tests PERSON3 , PERSON8 , PERSON9, PERSON5 discussing changes to mediator, workers.
+  mediator is supposed to automatic, provide control over workers , it is not possible to do in short period of time.
+  ORGANIZATION5 mediator has not used for long time.
+  There is restriction on making new public IP addresses.
+ -People can run as many mediators as need , have to make sure workers want to test connected to PERSON3 , PERSON8, PERSON9 want to create pipeline will use output of one ASR worker from one mediator, one empty worker from another mediator.
+  want to test it with two workers from different mediators.
+  need to make PERSON8, PERSON9 working on solution to solve problem of working with multiple versions of workers in service architecture.
+ -PERSON9 , PERSON5, PERSON8 going to meet in couple of days to discuss issue of multiple output fingerprints.
+ -PERSON9 suggests to start client, explicitly request of intermediate fingerprints , including last field , is for information, versioning.
+ -PERSON8, PERSON9 trying to set system allows them to request multiple fingerprints from client.
+  problem is English to German workers running.
+  solution is to change translation workers.
+ -PERSON8 wants to investigate to extend ehm ensloud communication protocol in order to specify full path.
+ -PERSON4 , PERSON8, PERSON9 agree it is okay, useful for others to have multiple workers have version of model.
+ -PERSON4 would like to see Organization 3 worker for English in mediator soon , on first of December is metaphorum, on third is another meeting of ORGANIZATION1 preparation group.
+ -PERSON9 suggests to PERSON4 also request as output intermediary fingerprints.
+  intermediary is one is not input output.
+  If fingerprint matching on service is strict , sound file will processed with one ASR, translated to French PERSON9, PERSON7 discussing possible failures of examle for examp.
+ -PERSON8 shares with PERSON4 fingerprint text file created together with , is useful to have look.
+ -PERSON5, PERSON6 need to bookmark it.
+ -PERSON9 wants to investigate to separate different versions of workers.
+ -PERSON4 , PERSON8, ORGANIZATION7 want to keep record of versions of workers.
+  also want to have deterministic behaviour for evaluation purposes.
+ -PERSON8, PERSON4 want to know description, service name of PROJECT2 test set.
+  want to label outputs with service name.
+  There is way to do it.
+  client knows session ID of service does not know PERSON9 wants to know is difference between using description, version in fingerprint, noting version of fingerprint.
+ -PERSON4 explains two PROJECT1 NMT systems.
+  One of machines from cluster has different GPU card, PERSON9 , PERSON4, PERSON7 arguing implementation of protocol.
+ -PERSON9 wants PERSON4 , PERSON5, PERSON4 to make sure test is done, know answer.
+ -Person9 wants every partner to label workers with date of department.
+ -PERSON8 , PERSON5, PERSON9 going to schedule test together next week.
+ -PERSON8, PERSON9 working on new client bug procedure in Java , it does not share pipeline with clients.
+  mediator does not use instance of ASR for te ASR output, machine translation , test ca not PERSON8 , PERSON5 , PERSON3, PERSON9 going to make hands on session, simulate use case in order to design intermediate solution.
+
+
+Minuted by: Team ABC

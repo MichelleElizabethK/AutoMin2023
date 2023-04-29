@@ -1,0 +1,36 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON9 officially started working with team.
+  will help with Organization 5, Project4 implementation.
+  integration for nbest list navigation has done.
+  user interface team have implemented it by end of last month maybe two months ago.
+ -PERSON7 , PERSON8 , PERSON11, PERSON4 discussing implementation of browser translator on next call.
+  discuss to integrate it into PROJECT7.
+ -PERSON4 , PERSON11 , PERSON8, PERSON7 going to do analysis for PROJECT8 paper as for PROJECT11 paper , with slightly different data.
+ -PERSON4 , PERSON8, PERSON11 going to ask Estonians to assess translation, evaluate it for Czech.
+  need to ask partners for help as well.
+ -PERSON11 , PERSON7 , PERSON4, PERSON8 want to postpone paper.
+  need to filter translations want to assessed.
+  There is lot of data to annotate.
+  When using monolingual data , quality of system is better PERSON4 is training system from English to Czech.
+ -PARA is synthetic version of CzEng.
+  main motivation is to have Czech to English system , is good for outbound set.
+ -PERSON4 is working alone on data augmentation branch of experiment.
+ -PERSON7 needs to get PROJECT4, running for, students of.
+ -Person6, Person8 training new EnglishCzech module.
+ -Person7 wants to talk to them to select constraints.
+ -PERSON6 , PERSON7, PERSON8 working on project.
+  need to set set of constraints to compare different approaches.
+  set of references has to fixed for scorce to comparable.
+  positive constraints telling PERSON6 is working on multireferential data set.
+  data set with 50 references per sentence can used to measure diversity of data.
+ -PERSON7 wants to know LOCATION1 is in COVID pandemic.
+  There 600 people dying every day.
+ -People still around, masks around , cases decreasing.
+  There is population of two billion.
+
+
+Minuted by: Team ABC

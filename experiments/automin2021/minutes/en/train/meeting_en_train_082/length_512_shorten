@@ -1,0 +1,64 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+
+  chinese person has not joined yet.
+ -PERSON8, PERSON7 have thinking evaluation, latency.
+  talked different ways of incremental SLT models.
+  also talked ORGANIZATION5 paper.
+ -PERSON1 has implemented device beam search, mass key , others working on multilingual MT.
+  first author of paper is called Airy Pedragon.
+  paper is confusing in terms of evaluation , several different variables, several different output variables.
+ -PERSON8, PERSON7 discussing evaluation tool PERSON4 is developing.
+ -PERSON7, PERSON8 discuss differences between interactive machine translation, SLT im.
+ -PERSON8, PERSON7 working on system to record audio files.
+  system is not fully automated yet.
+  takes time to get correct timestamps.
+  When people stop talking , it is important to have delay between words.
+ -PERSON7 explains to PERSON8, PERSON4 to improve ASR system.
+ -PERSON7, PERSON8 trying to gather data for SLTF.
+  want to have measure for systems, for human interpreters.
+  Organization 7 has recordings of interpreters for years , do not take transcription of them.
+ -PERSON4 sent email data set to Organization 7 on Monday morning.
+  Organization 7 has source , translation, transcript on it , sound is not.
+  need to do forced alignment to get sound.
+  possible to get it PERSON4 sent PERSON7, PERSON8 files with transcripts of interpreters.
+  need to talk to PERSON5 to make sure have correct transcripts.
+ -PERSON7, PERSON8 working on transcripts of speeches.
+  need to align interpreter sound with intre with , create transcript of interpreters.
+  data set will have it for purposes of audible self evaluation will As soon as corrected transcript is finished , PERSON7 will send it to translation agencies to translate it sentence by sentence.
+ -PERSON7 explains to PERSON4 to improve quality of machine translation.
+ -PERSON4 is problems with microphone.
+ -PERSON7, PERSON8 working on paper latency.
+ -PERSON8 suggests user interface can faked in order to make it look like something is happening may happening.
+ -PERSON7, PERSON8 discuss differences between real time, delay-based presentations, affect deaf people.
+ -PERSON7, PERSON8 discussing implementation of ORGANIZATION5 paper.
+  agree organization finalize SLTF, test it on data.
+ -PERSON7 explains to PERSON8 task is set.
+  task is based on sound in source language , is English.
+  user is given audio with timestamps, MT output.
+  expected to produce target language text.
+  PERSON7, PERSON4 will proceed on with data set preparation.
+ -PERSON7 wants to collect various SLT systems run on audios , when have correct transcript, reference translation, ideally , also have reference interpretation.
+ -PERSON8 does not have ASR systems running.
+  deadline is 17th of March.
+ -PERSON7, PERSON8 working on project.
+  trying to improve stability of search by adding prefixes to data.
+ -PERSON8 explains to PERSON7 BIOS beam search works.
+  retranslation of log with small penalty to probability , to score provided by translation system , penalizes if it moves far away from previous prefix.
+  system PERSON7 asks PERSON3 to send inputs, send audio.
+ -PERSON7 wants to train big system on training data as smaller one.
+  There is problem with ORGANIZATION8 internet.
+ -Person4 restarted computer, can see email.
+ -Person8 will add notes last question into Organization5 document.
+ -PERSON4 , PERSON8, PERSON3 problems with website.
+  IT guys tests, website went of connection.
+ -PERSON4 is not in Czech Republic yet.
+ -Person8 will write notes to ORGANIZATION5 PERSON3 sent file to PERSON4.
+  There is problem with audio.
+ -Person4 will send information segmentation later.
+
+
+Minuted by: Team ABC

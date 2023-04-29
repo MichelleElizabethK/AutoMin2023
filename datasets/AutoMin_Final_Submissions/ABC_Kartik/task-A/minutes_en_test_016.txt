@@ -1,0 +1,40 @@
+DATE : 2021-07-16
+ATTENDEES : PERSON20, PERSON3, PERSON7, PERSON17, PERSON4, PERSON11, PERSON12, PERSON1, PERSON6, PERSON8, PERSON18
+
+
+SUMMARY-
+ -PERSON12, PERSON3, PERSON18 and PERSON21 are on a conference call.
+  The purpose of the call is for everybody to say what they are working on and what they have in mind for the upcoming weeks, and for PERSON12 to collect credits.
+ -PERSON20 has a problem understanding what is being said.
+ -PERSON13 gives a summary of what people have been working on this week.
+  There is the university open day next Wednesday.
+  There will be a dry run of the workshop on the 12th.
+ -PERSON3 has been working on transcribing the YouTube videos and preparing the transcript for the Monday seminar for a week.
+  Now he needs to focus more on sentence and boundary detection on both English and Czech segmenter.
+ -PERSON2 successfully managed to run the ORGANIZATION1 models and he is developing.
+ -PERSON3 is using the models for the paraphrasing.
+ -PERSON12 is downloading all the plenary session from your parliament since July 2018 and 1.
+  7 terabytes of audios, videos interpreting PERSON20's main goal until the Feb 6th deadline is to experiment with multiple translation.
+  If it works, it will be used in the surge.
+ -PERSON14 needs to have the pipelines ready.
+ -PERSON7 is working on the PROJECT1 thing.
+  He will be ready to help the ORGANIZATION4 Congress.
+  He is working on the framework or for example test set for evaluation of simultaneous translation.
+ -PERSON10 is preparing a tool for the SLT shared task.
+ -PERSON14 is in India until the end of January and is arriving in early February.
+ -PERSON12 wants regular evaluation of their pipelines.
+ -PERSON15 is in the same time zone.
+  There are 42 languages, 42 European languages available for monolingual languages.
+  German, French, Spanish, PERSON13 and PERSON15 need to synchronize on the thing tools to convert PDFs, especially file formats that are hard to process.
+ -PERSON8's job is to have an overview of all the data, they use for the ORGANIZATION4 Congress.
+ -PERSON5's work is mainly working on the IWSLT test set, or test set and that's spoken language translation from English into two languages, PERSON17 has done the forced alignment.
+  He's working on onlinezation of his ASR.
+ -PERSON12 is working on English to Czech languages translation.
+ -PERSON12 asks PERSON14 to process PERSON16's dry run of the talk in Czech to English in preparation for Wednesday.
+ -PERSON12, PERSON3, PERSON19 and PERSON4 are working on a project.
+  They are going to use the source audio of PERSON16's talk from January 29th to train the segmenter.
+  The tool should be ready next week.
+ -PERSON3, PERSON6, PERSON12 and PERSON4 will meet on Thursday and have the session on Wednesday next week.
+
+
+Minuted by: Team ABC

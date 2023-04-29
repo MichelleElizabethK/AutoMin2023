@@ -1,0 +1,16 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON23, PERSON16, PERSON11, PERSON21, PERSON12, PERSON10, PERSON9, PERSON15, PERSON5, PERSON20, PERSON2, PERSON19, PERSON6, PERSON3
+
+
+SUMMARY-
+ -PERSON8 and PERSON10 are on a conference call.
+  They discussed the development schedule for the project.
+ -PERSON8 and PERSON6 discusseded the presentation platform's development schedule.
+  They discusseded how to present updates and how to manage the partial translations and partial output.
+ -PERSON8 wants to start as many workers as possible in LOCATION1 as a fall back solution for the ASR the ASRs of English and other things.
+  ORGANIZATION3 will prepare an image and ORIZATION4 will try to get that running.
+ -PERSON4 didn't attend the yesterday meeting, but he added a bug in the ASR worker that sometimes the work can handle several sessions, but then it doesn't return any output.
+  The production client is different from the simple one only by changing the default parameters and comment send document PERSON10, PERSON9, PERSON4, PERSON8, PERSON6 and PERSON7 will attend the workshop next Friday.
+
+
+Minuted by: Team ABC

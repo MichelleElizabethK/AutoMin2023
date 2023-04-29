@@ -1,0 +1,79 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON17 will share with Organization 7 agenda.
+  Organization 7 needs to provide Organization 2 with technical description of technical set, graphical map.
+  Organization 2 is already preparations for May , 2020.
+  Organization 4, Organization 3 need to confirm will provide PERSON17 is preparing workshop for May 2020.
+  want to prepare detailed schedule of workshop till end of week.
+  need to do official call for tendors, soon get detail better.
+ -PERSON3 will come for Fair in PERSON17 wants to know technical differences between ORGANIZATION3 platform as he saw it when he in Organization 3, ORIZATION4 platform , will used for of events of PROJECT1 project.
+ -PERSON15 confirms EPI as one used in PROJECT2 project.
+  will connect machine translation with sample connector, will also work on ASR, Kaldi models.
+  want to have system running in, operational for March PERSON17 wants to set physical set of ASR, recording of participants ' speech, have access to recording can do transcription.
+ -PERSON15 thinks it would difficult to get full system running in LOCATION1.
+ -PERSON15, PERSON17 trying to set full test for March event.
+  need to connect hard running Organizedation4 to ORGANIZATION4 mediator, set everything around it.
+ -PERSON17, PERSON8 will connect website to mediator ORGANIZATION4, will test whether current version of mediator is compatible with connectors as Person8 said.
+  Organization 3 will connect tools including web presentation to mediator, let Organization PERSON17 will hand presentation to PERSON15 for details platform want to share with us.
+ -PERSON15 is senior software developer in ORGANIZATION4.
+  client sends data to service architecture.
+  Workers register to service architecture with one multiple services able to handle.
+  Each worker accepts one incoming request per connection.
+  According to PERSON15 , fingerprints used to specify exact language, general media.
+  Audio , image , text, unsegtext supported type streams.
+  mediator needs to find one of several workers can convert audio containing OTHER1 OTHER3 speech into OTHER3 unse PERSON17 wants to know operation of batch audio file processing.
+ -PERSON15 explains operation is for batch processing, for online processing.
+ -PERSON17 wants to know practical limits of batc batch processing.
+ -PERSON15 explains to PERSON15 client, worker establish initial handshake.
+  According to documentation , client can request multiple different input streams for one stream.
+  worker needs to register to mediator providing information serverm providing.
+  A worker can offer one service time per connection.
+  M cloud create is as function will After M cloud create , it connects to mediator is running on specific host, port in example mediator dot ORGANIZATION4 dot IT.
+  When connection is established , client can announce output stream.
+  If client In order to process new media stream, service request , connect needs to established , is client flow.
+  In case of error , ehm error callback is used.
+  If clientes request input stream , resection of packet is done PERSON15 explains program flow of worker.
+  API provides GetAttr, SetAttr for convenience functions.
+  API also provides ehm for preparing packets for sending ehm preparem packet to send based on data type.
+  Time stamps in packet header, PERSON15, PERSON17 going implementation of ASR.
+  machine translation service implementation is put in to data callback.
+  prepares data structure, adds it to processing queue.
+  In Github repo , have seen worker.
+  worker waits for incoming data.
+  sends data to workers.
+ -PERSON15 explains to PERSON17 handshake works.
+ -PERSON17 needs to prepare description of cables, on for ORGANIZATION2 events will held by end of week.
+  She needs to do it in three days from.
+  She also needs OTHER3 ASR, OTHER3 OTHER4 PERSON17 is concerned quality of audio recording is required for fair.
+ -PERSON15 informs it is not on schedule.
+ -PERSON17 needs to talk to PERSON14 to find if have capacity to prepare recording properly.
+  At fair , people will present countries in 90 seconds in OTHER3 by nonnative speaker.
+  will record speeches, send them to backstage to have voices recorded.
+  Then will write transcript, use standard ASR measures to measure quality of transcript PERSON17 wants to record data in ORGANIZATION6 platform as soon as possible.
+  recording capacity of organiser is scheduled for March , almost coincides with fairm recording capacity.
+ -PERSON17, PERSON18 want to start recording meetings.
+  have different streams for participant.
+  need to know sequence as it recorded by participants, global time stamps.
+ -PERSON18 wants to record continuous by recording over whole meeting.
+  If someone is not speaking , have data to write in file , need script of file carries time stamps.
+  If go platform , mixing of channels service architecture platform does not manage audio channels.
+  in charge to worker, client to manage audio streams.
+  mediator is mediator, in charge tom manage interaction between client, workers.
+ -PERSON11 explains to PERSON17 set of ORGANIZATION6 platform works.
+ -PERSON11 , PERSON17, PERSON18 discussing design of platform.
+  platform supports one session per channel.
+  There time stamps required to synchronize different sessions as well as to record them.
+  Organization 6 will discuss issue with PERSON15.
+ -PERSON15 will upload slides in ORGANIZATION4 platform sample co sample connector repo.
+ -PERSON15 wants to develop machine translation system can translate from one language into six languages time.
+  wants to know to connect system to platform, to test it.
+ -PERSON17 wants to know default mode for client.
+  Organization 7 will probably use online mode , whereas Organization 6 will probably use batch mode.
+  Organization 15 shows Organization 17 to prepare client , to work in real time, to emulate real time streaming PERSON15, PERSON17 discuss ASR, machine translation system.
+ -PERSON15 will try to record session.
+
+
+Minuted by: Team ABC

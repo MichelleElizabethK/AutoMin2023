@@ -1,0 +1,43 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON1 wants to discuss evaluation, preparation for evaluation with PERSON10.
+ -PERSON10 has logged in from phone, is on agenda.
+  going to have something to end of October.
+ -PERSON1 , PERSON10, PERSON6 going to prepare manual evaluation of call.
+  will also use manual evaluation strategy suggested by PERSON5.
+ -PERSON1 , PERSON10 , PERSON5 , PERSON4, probably PERSON10 will meet next week to try shared task task imitation.
+ -PERSON1 , PERSON4 , PERSON5, PERSON10 going to discuss shared task.
+ -PERSON4 , PERSON10 , PERSON1 , PERSON5, PERSON4 have shared task.
+  have to prepare data for task A , B, C of tasks data ongoing.
+  need to put data in GitHub, in format is acceptable to server.
+ -PERSON4, PERSON1 going to meet tomorrow to discuss amount of data have, much need to target for task.
+ -PERSON1 , PERSON4 , PERSON5 , PERSON10, PERSON4 need to agree on amount of instances to train machine learning.
+  need to decide to divide instances.
+ -PERSON1 wants to change way organizes meetings to make them structured.
+ -PERSON4 , PERSON8 , PERSON1, PERSON10 do not understand purpose of ORGANIZATION2 data text.
+ -Person1 has lot of annotators , he can ask them to prepare.
+ -PERSON1, PERSON4 will fast discuss external things to tomorrow.
+  need to take ASRs, annotator data as part of shared task.
+  also need to ensure quality of data.
+ -PERSON4, PERSON1 will make dry shared task dry run next week.
+  will also come to evaluationm.
+  organization of data for shared tasks is as follows : have annotated transcript, minutes annotative by annotators A, B PERSON1 , PERSON4, PERSON8 agree not to include original minutes of meeting in shared task data.
+  agree to release trial data after one month, validation data after days for experiment.
+ -PERSON1 will copy definitions of what mean by of them.
+ -PERSON4, PERSON1 will discuss evaluation next Thursday.
+  will try to apply evaluation next week for chosen meeting.
+ -PERSON1 does not have technical data output from PERSON3 tool , can do analysis.
+  automatic evaluation is better, automatic , it is lexicon is semantic , try with semantic matrix.
+ -PERSON4, PERSON6 PERSON1 , PERSON4, PERSON9 want to prepare shared task proposal.
+  want to include Czech data into shared task.
+  need to make sure system runs from group.
+ -PERSON1 has 20 people working on project , 2 of them working on Czech.
+  rate work is different depending on season.
+ -Person5 proposes gathering European rather meeting Parliament rather gathering trasncripts.
+ -PERSON1 , PERSON5, PERSON4 complaining quality of organization, length of meetings.
+
+
+Minuted by: Team ABC

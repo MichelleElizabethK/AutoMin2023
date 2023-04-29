@@ -1,0 +1,25 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON5 is working on karaoke, has doubts regulation applies to.
+ -PERSON3 explains to forced aligner works.
+ -PERSON3, PERSON5 karaoke.
+  want to do quick visual inspection of word , word aligned , word time stamped transcripts for IWSLT test set anonymisation.
+ -PERSON3 explains to PERSON5 to produce web VTT renderer.
+ -PERSON3, PERSON5 need script to convert output of forced aligner into karaoke , into VTT, growing sentences into web VTT.
+ -PERSON3 explains to PERSON5 to get original sound transcript transcribed from OST to OSTT.
+  OST files contain one sentence per line, have time stamps.
+  There issues with forced aligner.
+ -PERSON3, PERSON PERSON3 explains to PERSON5 forced aligner does not accept lower case letters , punctuation, upper case letters.
+  accepts apostrophes, lower case numbers , not numbers.
+  spelled in numbers.
+ -PERSON5 needs to prepare log directories for ORGANIZATION1 system for mock conference.
+  She also needs to do ASR, generate MNTs for of 6 channels separately.
+ -PERSON3 informs Person 5 Pexip room will booked for 2 minutes, it will possibly close.
+ -Person 5 does not have to come in person.
+ -Person 3 will in office in afternoon from 3 , 4ish till 7.
+
+
+Minuted by: Team ABC

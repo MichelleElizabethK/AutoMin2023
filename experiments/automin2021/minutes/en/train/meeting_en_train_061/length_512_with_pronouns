@@ -1,0 +1,60 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON6, PERSON3, PERSON5 and PERSON7 worked on a presentation.
+  The presentation is about a shared task in minuting, in automatic summarization and prepare the data for it, but the exact definition of what the task should be what is the inputs and outputs.
+ -PERSON7 wants to know if there is a system for generating automatic minutes for the meetings.
+  There is, but there is no system for summarizing the minutes.
+  One of the annotators is a machine translation model trained on large data sets.
+ -PERSON6 wants to show the horrible outputs of the summarization training data to PERSON7 and PERSON5.
+  The current training data is mainly from available data sets and the domain is very different.
+  The results are very poor and the ultimate goal is to design an automatic minuting system.
+  The ultimate goal is to create an automatic system which will automatically summarize meetings.
+  However, at the moment they do not have a good starting point and do not know what should be done with the word.
+  One option is to start with summaries and generate fake meetings and train the model on PERSON7 wrote the mail.
+ -PERSON5 will develop a shared task and PERSON6 will develop deep neural network for generating the summaries.
+ -PERSON6 explains to PERSON7 that if they want to adopt the abstractive style, then they need to train sequences to sequences deep network, and then see that the network finds data similar to what they have in the minutes.
+  If they choose the more extractive approach, they need PERSON3 and PERSON6 discussed the differences between the minutes of annotators A and B.
+  They discussed the need to break down the task into smaller units.
+ -PERSON6, PERSON6 and PERSON7 have the original transcript, the ASR transcript and the corrected transcript.
+  They need to write down a number for each of the A and B summaries.
+  They also need to come up with a method for scoring.
+  The assignment is fluid and there is no strict assignment.
+  The annotators are given the transcript, first they listen to the sound and revise the text, and then they create the minutes.
+  The second round of annotators reads the transcripts and creates the minutes the A and B.
+ -PERSON3, PERSON5 and PERSON7 discussed the differences between annotator one and annotator two's minutes.
+  They discussed how different the minutes can look like.
+  They also discussed how to personalize the summaries.
+ -PERSON6 wants to specify the task of automatic meeting summarization.
+  The task that annotators are given now is pretty hard.
+ -PERSON6, PERSON7 and PERSON5 discusseded the minuting word package.
+  They discussed the constraints of the task and how to fulfil the assignment.
+  One extreme way to do it is to create a summary for everyone.
+ -PERSON6 doesn't know how to write a good summary.
+  He doesn't want to constrain the minds of his students.
+ -PERSON3 thinks it's better if they define the assignment for themselves after they have seen a few meetings themselves.
+ -PERSON5 asks professor PERSON6 for a timeline for the share task and when they want to do it.
+  The project ends with the end of 2021.
+  The call for proposal conference would start in September and the submition would be October or November PERSON6, PERSON5 and PERSON3 want to prepare a presentation on text summarization for a workshop at PROJECT3.
+ -PERSON4 attended a workshop in Luxembourg last year on this topic.
+ -PERSON6 and PERSON7 are planning an internal workshop on available summarization models for Tuesday the 11th of August.
+ -PERSON5 can't come as he will be working from the 1st of August, so he can't join.
+  They and PERSON7 will meet on 11th of August.
+  The assignment is to create a summary of ehm of a meeting and take notes on the techniques that they use.
+ -PERSON6 will send the invite for the call or workshop on the 11th of August.
+ -PERSON3 will take notes from the call and make a summary of the meeting.
+  They and PERSON7 will make a decision before the call for the sharetask.
+ -PERSON3, PERSON7 and PERSON5 are trying to figure out how to download 600 megabytes of data from the Internet.
+  They need a measure to distinguish the minutes from the minutes of different meetings.
+ -PERSON5 and PERSON3 will switch to the ORGANIZATION2 Meet.
+ -PERSON3 will send them the link to the concrete data that they have.
+  They will send the texts, the audio of the meeting and the summ summaries to PERSON5 and PERSON7.
+  They will share with them the guidelines for annotating the texts.
+ -PERSON5 will use email instead of email.
+ -PERSON7 will send a request to Organization 1 PERSON7 is talking about the PROJECT2 ORGANIZATION1 where where where the PRO Project2 personals are.
+ -PERSON3 wants to know if they can automatically find a measure to distinguish the minutes from the different minutes meetings.
+
+
+Minuted by: Team ABC

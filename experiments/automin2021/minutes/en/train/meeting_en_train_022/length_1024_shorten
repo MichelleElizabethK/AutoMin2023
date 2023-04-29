@@ -1,0 +1,37 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON2 has shared annotation user doc with rest of team.
+  She has also put it into agenda.
+  She wants to divide work among , less synchronization is necessary.
+  have extra funding to spent end of year.
+ -PERSON2 is developing Python-based tool will used for annotation of documents.
+  tool is in good shape , distribution of files is not yet finished.
+ -Person1 will busy until end of September.
+ -Person8 will responsible for implementation PERSON6, PERSON3 agree human evaluation is credible automatic evaluation.
+ -PERSON3 , PERSON6, PERSON8 arguing length of meetings, evaluation of summaries.
+ -PERSON3 segmentation of data is taking.
+  Someone needs to validate whether segmentation makes sense.
+  There two ways of looking shared tasks.
+  One is friendly competition, is evaluation measure for purposes of shared task.
+ -PERSON6 , PERSON3 , PERSON2, PERSON8 going to do blind evaluation of data.
+  designing evaluation measure on go , time as designing systems do task.
+ -PERSON6 , PERSON2, PERSON8 discussing method of evaluation for machine translation.
+ -PERSON2 is not satisfied with quality of manual minutes.
+ -PERSON6, PERSON8 agree manual evaluation based on transcript, summary.
+  need to finalize dataset by December.
+ -PERSON3 script breaks longer minutes , longer transcript into shorter ones.
+ -PERSON6 script is generalizing much.
+  better to split data, check if it is good quality.
+ -PERSON2 , PERSON3 , PERSON8, PERSON6 discussing to organize data.
+  agree people create data create shorter samples , 2 pages summaries , 10 page transcripts, 2 page summaries, split them into 3 4 parts.
+ -PERSON6 , PERSON1 , PERSON2 , PERSON3 , PERSON4, PERSON8 going to split evaluation of experiments into two parts : alignment, evaluation measure.
+ -PERSON3 has started workbench already year ago, he has used data from it PERSON4 has paper.
+ -PERSON4 , PERSON4, PERSON2 have link over document.
+  deadline has extended to early October.
+  experiments technically done , need to rerun.
+
+
+Minuted by: Team ABC

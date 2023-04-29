@@ -1,0 +1,46 @@
+DATE : 2021-07-23
+ATTENDEES : PERSON12, PERSON14, PERSON10, PERSON9, PERSON13
+
+
+SUMMARY-
+ -PERSON3 had a call with Organization1 this morning, but it didn't work.
+  He can't share the information in the ORGANIZATION2 doc.
+  The goal is to synchronize PERSON3 will ask PERSON4 to give a brief summary of what he has been working on for the past months.
+  The consent to process the data within the team is not complete yet.
+  The ORGANIZATION3 conference is less than a month away.
+  It will serve as a test event for people involved in the PROJECT1 project.
+  If the conference is cancelled, they will use the next year's conference of Organizing Committee 3 as a demo event for the PRO.
+ -PERSON4 is working on collecting monolingual data that can be used for the rainbow models.
+  He received an e-mail from PERSON11.
+  Organizing2 released data and a model for mining parallel data in one hundred languages.
+  On some of the testing data sets from PROJECT2, the models are not much better PERSON3 wants PERSON11 and PERSON4 to get in touch and finish the Organization5corpus that was started last year.
+ -PERSON6 is responsible for the development of the PROJECT3.
+ -PERSON14 couldn't attend the call, so he wrote his report there.
+ -PERSON3 wants to stress test the tool PROJECT4 to make sure it works for all the workers in the PROJECT1 pipeline.
+ -PERSON3 wants everyone who is evaluating any systems to do it on PROJECT4 on the PROJECT1 test set.
+ -PERSON6 is in the Czech Republic and is working on his things.
+  Next week he will come to ORGANIZATION10 and help PERSON3 and PERSON9 with the evaluation of the systems.
+ -PERSON3, PERSON5, PERSON9, PERSON14, PERSON8, PERSON7 and PERSON14 are discussing the censorship pipeline.
+ -PERSON9 will take over what PERSON5 did and PERSON5 has limited capacity.
+ -PERSON8 has worked on machine translation for his master thesis.
+  His task was to generate synthetic multisource train set.
+  He has done PERSON8 wants to have access to the system and the cluster.
+  The paperwork is still in the process.
+  It is hard to receive more than one GPU there.
+ -Person9 wants to do back translation on Czech German news to have a higher quality in PERSON2 and PERSON7 are working on data augmentation for PROJECT5 systems.
+ -PERSON2 is working on the chopped data set already.
+ -PERSON9 would like to help her with the onlinezation of her model.
+ -PERSON3 wants to train on the same data and keep training.
+  He wants PERSON2, PERSON7 and PERSON8 to do the same training.
+ -PERSON9 is going to write an e-mail to people interested in starting a project.
+ -Peter andar is staying for the rest of the call.
+ -PERSON2 is working on ORGANIZATION13 Common Voice.
+  He wants to improve the robustness of the PROJECT5.
+ -PERSON2 is working on the same task as the ORGANIZATION14 challenge.
+  The task is to train PROJECT7 in English.
+ -PERSON2 is training a robust English PROJECT5.
+  Next week he will be in Prague and he will start to work more hard on training the system.
+ -PERSON2 and PERSON7 would if they can use the data from the ORGANIZATION14 challenge to evaluate the PROJECT5.
+ 
+
+Minuted by: Team ABC

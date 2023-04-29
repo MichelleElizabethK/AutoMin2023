@@ -1,0 +1,7 @@
+Attendees: PERSON1, PERSON4, PERSON6, PERSON7, PERSON9, PERSON10, PERSON11
+
+ * The plan is will be [ORGANIZATION2] welcome, will be Mary Sorrow, and in-between will be (Python Sorrow) that's excepts sentences for translation from the [ORGANIZATION2] worker.
+ * The limitation with this approach is that we can handle only like one single timestamp at the beginning and would be the end of the segment.
+ * It will be a replacing the content of the textfield with the new messages.
+ * [PERSON7]: I think that we'll arrive at the solution where the timestamp of the beginning would be the critical information.
+ * [PERSON7]: I think the starting timestamp would be the critical point.

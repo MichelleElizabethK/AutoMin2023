@@ -1,0 +1,30 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON9 is a PhD student doing her master's in Organizing3.
+ -PERSON10 is on vacation, so she can't join the meeting.
+ -PERSON4 will join a bit later, because he's on a data meeting.
+ -PERSON8 and PERSON9 discusseded how to label the workers in a way that it's obvious when someone changes the worker to a different version and how to test different versions of ASR in different pipelines.
+ -PERSON5, PERSON8 and PERSON9 will run a series of tests on ASR workers and empty workers on the later tester.
+  They will do an investigation in the enclou library.
+ -PERSON4 has mentioned that they should start working on that as soon as possible.
+ -PERSON9, PERSON3 and PERSON8 want to make a feature request to the mediator at the beginning of the next year.
+  They need to specify the description fields on the workers and their versions.
+  They also need to work on how to identify different versions of the workers PERSON9, PERSON8, PERSON5 and PERSON4 will meet in a couple of days to discussed how to solve the issue of multiple fingerprints.
+ -PERSON9, PERSON4 and PERSON8 discussed how to manage the pipe on the client side.
+ -PERSON9 suggests to the client that they should investigate the version that might work without modifying any backands.
+ -PERSON4 wants to make two versions of ASR for different versions of them.
+  They can request multiple inputs to the client.
+  If the fingerprint matching is strict, the sound will be processed with one ASR and translated to French.
+  If it's not strict and the client's request is satisfied, the input will also be pricedessed with another ASR.
+ -PERSON9 is trying to work out how to separate the different versions of workers and how to keep a record of what exact versions of the workers were used.
+ -PERSON4 and PERSON9 are looking for a programatically-run evaluation of the inputs in PROJECT2 test set.
+  They want to label the outputs with a service name.
+  There is no way to do that at the moment, because service are interchangeable and from the client side PERSON4, PERSON9 and PERSON5 discusseded the implementation of the Neural Version 2 protocol.
+  They will schedule a test together next week.
+ -PERSON9, PERSON5, PERSON3 and PERSON8 will make a hands on session and make a simulation together to simulate the use case in order to design an intermediate solution.
+
+
+Minuted by: Team ABC

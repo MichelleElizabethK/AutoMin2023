@@ -1,0 +1,74 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON7, PERSON9 have connected for last minutes.
+  There is power outage in server room.
+  will take day today, tomorrow to fix it.
+  There ASR workers , PERSON10 is in communication with them right.
+  In worst case scenario , will give demo with Czech ASR, PERSON7 , PERSON14 , PERSON15, PERSON8 want to postpone demo.
+  need to have backup plan for one two sides going of power.
+  construction will continue for another year.
+ -PERSON7, PERSON9 experiencing serious network failures due to construction of new building for department.
+  There is also risk of power outage 2 weeks from.
+  is not possible for Organization 6 to get second server room, can not duplicate server infrastructure PERSON4 spent week trying to start segmentor , it failed installation.
+  Organization 4 has start alone machine dedicated for segmentor.
+ -PERSON4 sent zip file with docr image to Organization 4 , Organization 4 does not have it.
+ -PERSON14 PERSON14 wants to run test with PERSON4 Czechs demo.
+ -People connecting to demo will have to wait for 5 seconds for logo to displayed, have to refresh, refresh page on publication platform.
+ -PERSON8 needs to edit single static image to make video.
+  takes 50 minutes to run video.
+  There is way to share video, code it right PERSON4 servers have to run it.
+  operating system tested image on Ubuntu 18 There is firewall in front of virtual machine.
+ -PERSON4 will connect to PERSON3, help him with fixing with MT wrapper.
+ -PERSON14 is sending PERSON9, PERSON4 3 machines with static addresses from will mostly connecting.
+  current problem with MT wrapper is MT cash.
+ -PERSON13 has training models for of 7 source languages ASR source languages.
+  models have single model for 7 inputs, 43 targets , of has single source language, translate into roughly 40 target languages.
+ -PERSON7, PERSON13 waiting for segmentor.
+  older models still available as workers , 're not running.
+  do not have GPUs moment , ca not test them live.
+  ca not translate files with older models for PERSON7 , PERSON13 , PERSON14, PERSON9 trying to access virtual machine has deployed in PROJECT2 production infrastructure.
+  allows SSH access to everyone with password.
+  German model running PERSON3 fixed pipeline.
+  second test using old model, third one using new model.
+  ASR segmentation workers not accessible moment.
+  electrician will call PERSON10 1 to repair PERSON9 is working on getting segmentor running on virtual machine PERSON14 provided.
+ -PERSON4 is updating ORGANIZATION7 document on to set thing.
+ -PERSON4 wants to share screen with people , he has problem with ORGANIZATION9 client.
+  preprocessing script expects original MP4 video from Youtube , it takes 5 seconds of logo.
+ -PERSON4 , PERSON8, PERSON7 working on video.
+  video started on auto in autoplay for PERSON4.
+  Some browsers play video upfront , others play it upfront, browsers do not.
+  There is 5-second delay beginning PERSON7 , PERSON8 , PERSON9, PERSON4 lost.
+  There network disruption, whole Organization 1 network stopped working.
+  When demo is not active , playlist will have loop showing static image of logo, instruction saying `` PERSON7 , PERSON4 , PERSON9, PERSON14 trying to connect to server rooms in LOCATION1 , do not have entry points to them.
+ -Project 2 is sponzored by ORGANIZATION5 AWS.
+  network administrators reconfig Tuesday night when running 10 machines 20 machines in lab , whenever connected new machine , needed to do to open web page on PROJECT2 platform , click play, click like live , is clicking last bit of PERSON14 , PERSON8, PERSON4 working on video.
+  video is in folder as script , script is running from wrong folder.
+  file is temporary video , it wo not PERSON8 has copy of file.
+ -PERSON4 is going to download it, run old set.
+  video stopped playing 10 seconds subtitles.
+ -PERSON14 , PERSON4, PERSON7 complaining quality of ASR.
+ -PERSON7 , PERSON4, PERSON9 working on Project 2.
+  trying to make videos in 48000 audio for PERSON4.
+ -PERSON4 can play like stream video , need to figure to send it time to PROJECT2 platform.
+ -PERSON7 will come over to PERSON4 to help.
+  FFM peg command PERSON7 uses to create times short snippets of of video does not keep locks.
+  raw audio file sent to EB client is valid PCM file.
+  audio features ones ORGANIZATION4 architecture is There is problem with Linux buffering on pipe.
+  quality of video is high , it is not possible to fix it.
+  There is delay due to quality of video.
+  When EB client starts , end shake phase with mediator, probably is introducing delay.
+  EB client started time, it listening to sound output of machine.
+ -PERSON7 tried to play it with A play minus F S 16 underscore LE, it playing slowly.
+  There mismatch in in sampling rate.
+  file with STD is correct file.
+ -PERSON14 will help PERSON4 with set of segmentation worker on virtual machine.
+  build for docr container succeeded.
+ -PERSON9 will send them email with status of electricity, segmentation worker.
+ -PERSON14 needs to paste FF FF play command somewhere on ORGANIZATION7 doc.
+
+
+Minuted by: Team ABC

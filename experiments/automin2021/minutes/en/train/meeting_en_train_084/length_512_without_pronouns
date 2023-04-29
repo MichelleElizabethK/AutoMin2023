@@ -1,0 +1,79 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON17 will share with Organization 7 the agenda.
+  Organization 7 needs to provide Organization 2 with a technical description of the technical set up and a graphical map.
+  Organization 2 is already doing the preparations for the May, 2020.
+  Organization 4 and Organization 3 need to confirm that they will provide PERSON17 is preparing a workshop for May 2020.
+  They want to prepare a detailed schedule of the workshop till the end of this week.
+  They need to do the official call for tendors and the soon that they get the detail the better.
+ -PERSON3 will come for the Fair in PERSON17 wants to know the technical differences between the ORGANIZATION3 platform as he saw it when he was in Organization 3 and the ORIZATION4 platform, which will be used for most of the events of the PROJECT1 project.
+ -PERSON15 confirms that the EPI are the same as the one used in the PROJECT2 project.
+  They will connect the machine translation with the sample connector and will also work on the ASR and Kaldi models.
+  They want to have the system running in and operational for March PERSON17 wants to set up the physical set up of the ASR and the recording of the participants' speech and have access to the recording so that they can do the transcription.
+ -PERSON15 thinks it would be difficult to get the full system running in LOCATION1.
+ -PERSON15 and PERSON17 are trying to set up a full test for the March event.
+  They need to connect the hard running at Organizedation4 to the ORGANIZATION4 mediator and set up everything around it.
+ -PERSON17 and PERSON8 will connect their website to the mediator ORGANIZATION4 and they will test whether the current version of mediator is compatible with the connectors as PERSON8 said.
+  Organization 3 will connect the tools including the web presentation to this mediator and let Organization PERSON17 will hand out the presentation to PERSON15 for all the details about the platform they they want to share with us.
+ -PERSON15 is senior software developer in ORGANIZATION4.
+  The client sends data to the service architecture.
+  Workers register to this service architecture with one or multiple services that they are able to handle.
+  Each worker accepts one incoming request per connection.
+  According to PERSON15, fingerprints are used to specify the exact language and the general media.
+  Audio, image, text and unsegtext are supported type streams.
+  The mediator needs to find one or of several workers that can convert audio containing OTHER1 OTHER3 speech into OTHER3 unse PERSON17 wants to know more about the operation of the batch audio file processing.
+ -PERSON15 explains that the operation is for the batch processing and for the online processing.
+ -PERSON17 wants to know the practical limits of the batc batch processing.
+ -PERSON15 explains to PERSON15 how the client and the worker establish the initial handshake.
+  According to the documentation, client can request multiple different input streams for one stream.
+  The worker needs to register to the mediator providing the information about the serverm providing.
+  A worker can only offer one service at the same time per connection.
+  M cloud create is the as function you will After M cloud create, it connects to the mediator that is running on a specific host and port in our example mediator dot ORGANIZATION4 dot IT.
+  When the connection is established, the client can announce the output stream.
+  If the client In order to process a new media stream and service request, and your connect needs to be established, and this is the client flow.
+  In case of error, the ehm error callback is used.
+  If the clientes request the an input stream, the resection of packet is done PERSON15 explains the program flow of a worker.
+  The API provides GetAttr and SetAttr for convenience functions.
+  The API also provides ehm for preparing packets for sending ehm which preparem the packet to be send based on the data type.
+  Time stamps are both in the packet header and PERSON15 and PERSON17 are going through the implementation of the ASR.
+  The machine translation service implementation is put in to the data callback.
+  It prepares the data structure and adds it to the processing queue.
+  In the Github repo, we have seen the worker.
+  The worker waits for the incoming data.
+  It sends the data to the other workers.
+ -PERSON15 explains to PERSON17 how the handshake works.
+ -PERSON17 needs to prepare the description of the cables and so on for the ORGANIZATION2 events that will be held by the end of the week.
+  She needs to do it in three days from now.
+  She also needs the OTHER3 ASR and OTHER3 OTHER4 PERSON17 is concerned about the quality of the audio recording that is required for the fair.
+ -PERSON15 informs her that it's not on the schedule.
+ -PERSON17 needs to talk to PERSON14 to find out if they have the capacity to prepare the recording properly.
+  At the fair, people will present their countries in 90 seconds in OTHER3 by nonnative speaker.
+  They will record their speeches and send them to the backstage to have their voices recorded.
+  Then they will write down the transcript and use standard ASR measures to measure the quality of the transcript PERSON17 wants to record data in the ORGANIZATION6 platform as soon as possible.
+  The recording capacity of the organiser is scheduled for March, which almost coincides with the fairm recording capacity.
+ -PERSON17 and PERSON18 want to start recording the meetings.
+  They have different streams for each participant.
+  They need to know the sequence as it was recorded by the participants and the global time stamps.
+ -PERSON18 wants to record a continuous by the recording over the whole meeting.
+  If someone is not speaking, they have no data to write down in the file, so they need an script of file which carries time stamps.
+  If they go through the platform, the mixing of the channels The service architecture platform doesn't manage audio channels.
+  It's in charge to the worker and the client to manage audio streams.
+  The mediator is only the mediator and then in charge tom manage the interaction between client and workers.
+ -PERSON11 explains to PERSON17 how the set up of the ORGANIZATION6 platform works.
+ -PERSON11, PERSON17 and PERSON18 discusseded the design of the platform.
+  The platform supports only one session per channel.
+  There are time stamps required to synchronize all the different sessions as well as to record them.
+  Organization 6 will discussed this issue with PERSON15.
+ -PERSON15 will upload the slides in the ORGANIZATION4 platform sample co sample connector repo.
+ -PERSON15 wants to develop a machine translation system that can translate from one language into six languages at the same time.
+  He wants to know how to connect the system to the platform and how to test it.
+ -PERSON17 wants to know the default mode for the client.
+  Organization 7 will probably use the online mode, whereas Organization 6 will probably only use the batch mode.
+  Organization 15 shows Organization 17 how to prepare the client, how to work in real time and how to emulate real time streaming PERSON15 and PERSON17 discussed the ASR and machine translation system.
+ -PERSON15 will try to record the session.
+
+
+Minuted by: Team ABC

@@ -1,0 +1,11 @@
+notebook
+transformers
+torch
+datasets
+nltk
+rouge_score
+py7zr
+evaluate
+scikit-learn
+sentencepiece
+

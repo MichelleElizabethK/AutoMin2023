@@ -1,0 +1,33 @@
+DATE : 2021-07-16
+ATTENDEES : PERSON7, PERSON4, PERSON11, PERSON10, PERSON6
+
+
+SUMMARY-
+ -PERSON7, PERSON10, PERSON5 and PERSON11 are on the call.
+  They are going to discuss the development schedule for the project.
+ -PERSON11 will prepare a basic Python-based translation system for a request.
+  He will send the request to the PROJECT2 server and post it back to the requester.
+ -PERSON10 had a problem with the internet connection.
+ -PERSON7's guess is that the worker should work well with timestamps and hide them from Python and PROJECT2.
+ -PERSON7 thought the agreement on Monday was different.
+  The presentation platform will update the text incoming messages, but the incoming messages must be exactly what they want to be displayed.
+ -PERSON7 and PERSON10 need to discuss whether the scrolling the history of previous texts fields is supported or not.
+ -PERSON10 and PERSON7 are discussing the development schedule for the presentation platform.
+  There is no prototype available at the moment.
+  The first one should be ready on the 15th of June.
+  ORGANIZATION3 calls with live subtitling are too far in the implementation for the organiser to connect to the ORNIZATION2 platform.
+  The whole chat window is flooded with messages.
+ -PERSON7 would like to switch to the ORGANIZATION3 platform.
+  Organization 1 will prepare an image, Organization 4 will try to get it running.
+  The presentation will be tested with ORGANIZATION3 after the call.
+ -PERSON7 wants PERSON1 to create a script that will replicate the bug.
+ -PERSON6 asks PERSON7 and PERSON10 to write a script to solve a problem with offline ASR.
+ -PERSON7 confirms that the text text client is the same as in the sample.
+ -PERSON6 will resend the email to PERSON10 and PERSON1 and PERSON8.
+ -PERSON1 is responsible for MT clients on her side.
+ -PERSON10 will not be able to help Person7 and Person10 today.
+ -Person10 will reboot and try to lodge the ORGANIZATION3.
+  If it doesn't work, he will contact Person7 next Friday.
+
+
+Minuted by: Team ABC

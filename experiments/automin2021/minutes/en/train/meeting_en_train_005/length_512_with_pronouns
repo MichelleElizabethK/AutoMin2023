@@ -1,0 +1,36 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON7 is running the demo for the project officer.
+ -PERSON8 and PERSON14 couldn't make it today, so they will add their bits to the documencht soon.
+ -PERSON4 is the main person looking after this from our side, but she has very little knowledge about it PERSON4 has recorded audio and the directories have been updated with the logs and automatic transripts.
+  There was a Czech at the first meeting.
+  He uploaded the subtitles and they were quite good.
+ -PERSON7 wants to start the testing on PROJECT1 test set.
+ -PERSON6 has processed the submissions to SLT.
+  They suggests overshooting recall to improve the responsiveness of the translations.
+ -PERSON3 worked on the back end ASR and hopes to have it finished by the end of the week.
+ -PERSON4 is worried about the MT wrapper as it has too many parameters.
+  There is a convenient function in the set up scripts that they should use.
+ -PERSON7, PERSON4, PERSON9 and PERSON3 worked on the diagnosis of issues.
+  They have seen strange slow downs of various things and they don't have a quick way of figuring out what is wrong.
+  They need to have multiple operators diagnosing what what's wrong.
+ -PERSON7 wants PERSON3 to be available to watch the test sessions for the demo.
+  They need to do 3 big tests and crash tests every day until the demo is here.
+  In one of the test runs, they need to deliberately kill a device.
+  The deadline for inter speech submission is on 8 May.
+  There is a Kudo based mock conference next week.
+  The path to the Kudo files from the previous one is in the directory 2020 04.
+ -PERSON3 needs to upload the files to the directory and confirm to professor PERSON1 and professor PERSON2 that they can use the data set before next week, so that they have a good reason to ask her for one more recording.
+  She will send the credentials the day before the 12 PERSON1 needs to retrain his acustic model that translates phonemes into graphemes.
+  He will write a report on spoken languages translation for Project1.
+  The negative results from the experiment should go into the deliverable.
+ -PERSON4 wants to know how to use the MT wrapper with the MTs.
+  The documentation is in issue number 3.
+ -PERSON3 will help PERSON4 and PERSON7 prepare the set up scripts for some event.
+  They will share all text sets and source with PERSON3 within one or two days.
+
+
+Minuted by: Team ABC

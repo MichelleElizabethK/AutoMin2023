@@ -1,0 +1,30 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON4, PERSON9, PERSON11 and PERSON15 are on a conference call.
+  There is a surge activity planned to distribute bonuses among you.
+  There will be some issues because the university is afraid of corona virus.
+  The project 6 will be PERSON15 has worked on the IW SLT submissions and the lectures.
+ -PERSON10 and PERSON1 have done the ASR evaluation and they have so far evaluated only 1 system, the ORGANIZATION6 submission by PERSON7.
+ -PERSON15, PERSON10 and PERSON11 worked on a project.
+  They will create a new section in the IW SLT test set problems.
+  They, PERSON11 and PERSON16 will retrain the current text segmentor using retrained embeddings and then train it with short segments.
+  They have collected monolingual data for training and test sets for 43 languages.
+  The training data should not go to the GitHub repository.
+  The data for the European languages is available in his ORGANIZATION3 system.
+  For the test sets, the people should choose from the parallel data that the people can find.
+ -PERSON15 wants to give props to the person who has been waiting for the input files for over a month.
+  They and PERSON11 will translate monolingual data from Serbian and Slovenian into English and back into English for training of the models.
+ -PERSON9 has updated the ASR model so it's a much more lightweight and the loading time should be much faster.
+ -PERSON11 will forward the information to PERSON9.
+  There is a meeting tomorrow at 4.
+  They worked on the PRO PERSON4 provided an online model of her online model, but it was rather naive.
+  She wants to train the transformer model that comes after the acoustic model.
+ -PERSON3 is on vacation, so he's not here today.
+  He has done experiments on window based translation.
+ -PERSON11 asks PERSON15 to guide her to the path from the Czech Republic into Project 7.
+
+
+Minuted by: Team ABC

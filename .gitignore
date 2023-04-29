@@ -3,3 +3,4 @@ events.*
 .DS_Store
 .vscode/
 outputs/
+**/.ipynb_checkpoints

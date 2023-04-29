@@ -1,0 +1,48 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON17 , PERSON16 , PERSON13 , PERSON1 , PERSON9 , PERSON5 , PERSON20 , PERSON23 on conference call.
+  have to write system papers in 4 3 days.
+ -PERSON16 explains to PERSON17 ASR works.
+ -PERSON16 wants to make sure tables complete deadline.
+ -PERSON16 dropped Antrecorp as ASR it is unstable.
+  ORGANIZATION3 ASR system by PERSON10 trained on ORANIZATION5 corpus , it not affected by choice.
+  LOCATION1 city is run by several organizations , one of them is new development.
+  have weekly meetings, agreed to have meetings recorded.
+ -Person17 will send them ZOOM link with link to view, not subtitles.
+ -Person PERSON17 wants to know status of edible SLT test set.
+ -PERSON14 is working on it , ASR files not ready to evaluated yet.
+  Some of files correct, not.
+  If is technical difference between them , it means it has to revised.
+  If it is word level annotated file , it is better to use EAF file , it has time stamps.
+ -PERSON14 will correct EAF files based on sound.
+ -PERSON17 prefers to correct them based on OSTT files.
+ -PERSON14 will prepare complete list of mismatches, send it to PERSON17, PERSON18.
+ -PERSON3 will link to table is of files.
+ -PERSON17 wants to see overall status of queues, number of annotators waiting.
+  wants to give them work.
+ -PERSON13, PERSON9 need to start using PROJECT1 test set.
+  also wants cruise control to start running , PERSON17 network connection is bad.
+  working on edible SLT segmentation, punctuation.
+  There technical issues with R programming language.
+  R language is extremely old, it not change in last 6 years.
+ -PERSON16 has done technical work for system description papers.
+  system papers due April 24th.
+ -PERSON5 will write separate paper on thesis.
+  She submitted ASRSLT to Czech, SLT to German.
+  quality of translation horrible.
+ -PERSON9 created new rainbow worker for German, PERSON15 new worker for language.
+  translation model used by PERSON16 is different from one in PROJECT2 ORGANIZATION1.
+ -PERSON9 evaluated blascors of systems, passed them to PERSON9 in spreadsheet, PERSON16 copy.
+ -PERSON17 saw table in morning from PERSON16.
+  first sheet is machine translation system , second column is ASR , PERSON17 will run online submissions on parts of test set, send results to PERSON1 , PERSON14, also PERSON20.
+ -PERSON17 wants to know system is better for ASR, one for MT.
+  ORGANIZATION2, models similar , Google scored slightly better.
+  PERSON10 system scored better in terms of ASR , Microsoft somewhere in middle.
+  PERSON3 has to resend link from PERSON4 for, languages.
+ -PERSON17 wants to check outputs PERSON18 sent.
+
+
+Minuted by: Team ABC

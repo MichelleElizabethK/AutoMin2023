@@ -1,0 +1,39 @@
+DATE : 2021-07-16
+ATTENDEES : O, M, MU, T, A
+
+
+SUMMARY-
+ -M, T, and PERSON7 are going to meet today.
+ -M wants to discuss the TDID for keyboard extractor.
+  The one from Organization 9 is not good, but the one from ORGANIZATION6 is.
+ -M explains to T and A how the results came for the task came about.
+  It is because a meeting data, it gives you the most, the maximum probability words.
+  The summarizer can't preprocess the data, so it gives sentences which are not relevant to the task.
+ -M The deadline for submission of papers is January 15, but the deadline for the sick dial is February 15th.
+  The deadline for big dial special session is just like interspeech.
+ -O would prefer interspeech but T would prefer sick dial as it will be a part of the program.
+  The papers that would be submitted in sick dial shared task would be reviewed by the program committee of sick dial.
+  They do not guarantee that whoever their participants will be able to present.
+  The deadline for the shared task paper is critical as it is around the time as the submission deadline for The conference was in September, the paper registration was in July, and the paper submission was in May.
+ -O and T would like to have at least four months buffer time before the next conference.
+ -T and O agree that the sick dial thing is probably like what an honest thing that is already established to attract more participants, and that the application proposals already have to be submitted.
+ -O would prefer the later timing, because the participants need to have 3 months of sitting to prepare the submission.
+  The deadline for papers for special session papers is in March.
+  If they get accepted, they should try and and try to do interspeech at a live event.
+ -O has done empty marathons and he knows the people involved.
+ -T, O and the program committee want to create separate proceedings for sick dial and PROJECT11.
+ -T is a bit worried about the interspeech issue.
+  The interspeech live event will not get into the proceedings as the PROJECT11.
+ -T and O have to prepare the proposal for both interspeech and sick dial.
+ -T and O need to apply for the membership.
+  They need to do it soon, because the proposal is already active.
+  They have to send it by February to to them.
+ -O, T and O are discussing the cost of attending the interspeech conference.
+  They decide to go for the institutional member package, which costs 240 euros for one year.
+  If one has the membership for, they will have some discount at the interspeech conference.
+ -T is going to ask PERSON96, the former head of ORGANIZATION2, if there is a reduced fee for interspeech.
+  He is not sure if if one has a income membership, they will get reduced three restrictions.
+ -O will write in the dock at the very top.
+
+
+Minuted by: Team ABC

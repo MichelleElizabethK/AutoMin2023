@@ -1,0 +1,39 @@
+[ORGANIZATION2] [PERSON3] [P]ERSON9 [MLT1] [PONT3] [ORG] [PSON9] [PION9] [MEST] [ORGINIZATION2]
+Yes (PERSON9), but - - -
+[PERSON10] was using the rainbow model for paraphrasing.
+And for this (PERSON1) have actually found - The monol monolingual data th that the participants meeting can use for this rainbow models.
+(PERSON9) have - [ORGANIZATION4], [PERSON9] have - This is a data set of participants of meeting where there are actually some videos, and transcripts from there.
+(PERSON9) only obtained to scrape a small data set like one hundred thousand sentences which could like be used for testing.
+[PERSON11] is in touch with [PONT9] and [PION11] has sent him a mail.
+(PERSON9) have to get in touch with him.
+[ORGANIZATION6] They released a data and a model.
+(PERSON9) have also released the training models.
+They are actually not much better than (PERSON1) - Even not better than the best Edinburgh model.
+[ORGANIZATION5]corpus - [PERSON9] would like to highlight the high level thing, and really continue and finish the project.
+[PERSON11] last year already, and the participants the meeting never got to finish that.
+[PROJECT1] test set: [PERSON1], [PORGANIZATION1], [PRODEVICE3], [CONTENT] and [PROSPECT3].
+[PERSON12] is moving towards system integration.
+[PROJECT4] test set (PERSON9] think the current version of - First all [PERSON14] wanted to attend the call but he had problem with [ORGANIZATION7].
+And the participants the of the meeting created one index new index, if (PERSON1) see [ORGANIZATION2] doc.
+Peter Polak: [PROJECT1] test set, [ORGANIZATION8] repository, [PERSON5] test set and [PROject4] evaluation tool - It can use any other inputs and references but it is also directly capable downloading what files (PERSON1) want to evaluate on.
+(PERSON1) said: It works independently without any
+It s the same way - [ORGANIZATION9] also works like independently or (PERSON1) can ask it to provide -
+Could (PERSON1) please check - Because [PERSON1] arrived and [I]m in Czech and [MERSON1] s things.
+(PERSON1) prefer next week is very -
+And about the paper also as (PERSON9) remember [PERSON1] put some fears there and [I m waiting for [R] feedback.
+(PERSON1) would really like to keep these calls short.
+At the moment (PERSON9) don' t know what [PERSON9] should work on and who, - With whom (MERSON9) should maybe - Work with
+And the most urgent thing to do is getting evaluation of the all the systems, of all the components from the mediator, all connected workers running through ELITR test set.
+(PERSON9) r school duties and that implies to everybody of course.
+[PERSON14] is waiting for an answer from (PERSON9) about the censorship pipeline.
+But the censorship component is something which participants of the meeting want to have as a one part of the pipeline after the [PROJECT5].
+[PERSON9] can hear (PERSON9).
+has worked on multi-target machine translation for his master thesis.
+[ORGANIZATION10] cluster access.
+(PERSON1) have asked - [PERSON4] for model, and he sent them the - The place where it is.
+[PROJECT6] [PERSON1] and [PASTER1] think the participants meeting need to do i itterative back translation on Czec German news to have some higher quality in German-Czech news corpus.
+And also participants of [PERSON1] can take a look in the - And (PERSON1) can also send [ORGANIZATION6, if that would help.
+For the common part (PERSON2) would just like to highlight the one more thing.
+Well, (PERSON1) is working on the chopped data set as already - Already told [PERSON1].
+Because that is something which the participants of the meeting would - If (PERSON1) r model evaluates well using [PROJECT4] on [ProJECT1] test set the participants would like to have that integrated.
+The end-to-end model or CTC participants the meeting want to use the extended one, the cascaded model from (PERSON1)'s thesis the [ORGANIZATION11], translates phonemes and then followed by transform.

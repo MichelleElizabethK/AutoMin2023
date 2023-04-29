@@ -1,0 +1,55 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON23, PERSON16, PERSON11, PERSON21, PERSON12, PERSON10, PERSON9, PERSON15, PERSON5, PERSON20, PERSON2, PERSON19, PERSON6, PERSON3
+
+
+SUMMARY-
+
+  The Czech Republic government has lifted the rules.
+  People can go out even if they don't need to.
+  People in LOCATION1 are allowed to meet up to 10 people.
+  People living in Trento and Bolzano are able to meet their families starting PERSON11 will postpone one of their regular meetings in September.
+  There will be two more meetings in May and one in June.
+  There are six deliverables due in June, one of them technical.
+  Organized 1 is not providing ASR system, so it will be good PERSON16 will do the summarization of the review.
+ -PERSON8, PERSON1, PERSON11, PERSON13 and PERSON3 will be the reviewers.
+ -PERSON11 is writing a project management guide for a new project.
+  There is no description of the deliverable and there is no czech management guide.
+  Organization 1 is in the best position to write it as they have coordinated a number of projects.
+  Organization 2 is not keen on reading PERSON1 will write something and someone will review it.
+  The internal reviews should be ready by mid June at the latest, so that they have two weeks to finish that.
+  QT21 doesn't have the project management guides.
+  They have this period reports and data management plans, but PERSON8 and PERSON9 will discussed the delivery of the PROJECT1 test sets.
+  They need to be populated and described by August.
+ -PERSON8 explains to PERSON1 and PERSON2 the layout of the WMT 20 PROJECT1 test set.
+  It's a collection of documents and depending on the availablity of the document, some of the languages are available, others are not.
+  The set of documents PERSON8 explains to PERSON1 what a proper test set should be and how it should be organized.
+  They and PERSON1 want to limit the public use of the test sets to 3 at most 3 file lists for the general public.
+ -PERSON8 explains the evaluation of spoken language translation to PERSON1, PERSON15 and PERSON13.
+ -PERSON15 has to send the lock file with the source code.
+  People can misinterpret the time stamps and the forced alignment that they are running.
+  They asks Organization 1 to review the PROJECT1 test set and contribute to it in any way.
+  Organization 1 agrees to do both the translation and curating of the data.
+ -PERSON1 and PERSON9 made some progress in getting translations out of the auditing websites.
+  The project was started when the EU still existed.
+ -PERSON6 is finishing the overview of the audible SLT test set.
+  If PERSON12 doesn't start really, then PERSON6 will take over.
+ -PERSON5 has just answered and they have provided some feedback.
+  The users are afraid of the retranslation approach of Organization 7.
+  Organization 7 has been working on it for the past years, but the users prefer a delay.
+  Organisation 7 wants to do a user study at the end of the project.
+ -PERSON1, PERSON9 and PERSON15 are arguing about the pros and cons of retranslating data.
+ -PERSON1 thinks it's a bad idea to retranslate.
+ -PERSON15 thinks it will be better as they train models in direct translators.
+  They are not interested in endtoend ASR.
+  They are interested in low-latency ASR and PERSON8 in the new generation of ASR models.
+ -PERSON8 is trying to run GPT tool to predict the tail of the sentence, but it doesn't work at all.
+  The date for the demo should be 14th May 17th the sooner the better, but there is no way to touch up the topics before the demo.
+ -PERSON13, PERSON8 and PERSON4 will set up the Doodle, send it to in both partners.
+ -PERSON1 is not worried about how to present the results to the project officer.
+ -PERSON1, PERSON8 and PERSON4 didn't understand the source language during the French watching session.
+  The sentence segmentation is a problem with the machine translation.
+  They will test the set up via English into all the languages.
+ -PERSON8 and PERSON15 will send an e-mail to the PERSON5 about the date of the demo towards the end of the week from the 11th.
+
+
+Minuted by: Team ABC

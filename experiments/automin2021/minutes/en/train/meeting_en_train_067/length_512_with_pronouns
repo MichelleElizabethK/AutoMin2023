@@ -1,0 +1,52 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+
+  There was a call last week about the integration and the new NMTAPI.
+  There will be a deliverable in December.
+  There were questions from PERSON12 about the navigation and the list produced by the empty system.
+  They agree to provide a separate PERSON1 set up the annotation of the purpose translations.
+  The current findings are that quality estimation worsens user confidence and also worsens the translation quality.
+ -PERSON14 and PERSON9 are writing the paper for the NASEL.
+  The quality estimation module used in previous experiments is not the best one.
+  Czech systems are as they expected, the student one is faster and the users are more confident.
+ -PERSON9, PERSON14 and PERSON2 discusseded the results of the analysis.
+  The users are more confident if they get the response faster, because it is faster.
+ -PERSON2 doesn't understand the second graph.
+ -PERSON9 explains to her that the fastest system allows for twice as many actions.
+  They and PERSON9 discussed the pros and cons of having a fast system and a slow one.
+ -PERSON1 and PERSON2 are showing a graph with back translated data.
+  The data is monolingual back translated from Chinese to English.
+  The pretraining is performed on the mix of eh, the back transla or the Monolingual Back translated data and the parallel back of PERSON1 and PERSON2 explain to each other why the performance of the system improved after fine tuning.
+  They and PERSON2 discusseded the pros and cons of using monolingual data for training.
+  There is a difference between the red and blue curve in the case of fully monolingual data for synthetic data.
+  If you have less than 50% of monolinguistic data, the blue curve is better, but if you have more than 50%, the red one is better.
+ -PERSON1 wants to fine tune the models on the currently best pretrained models.
+  He will talk to PERSON7 as well.
+ -PERSON2 suggests using all the data at once and using some text to mark the source, instead of fine tuning.
+  They thinks it's a good idea to start with the training on a back translation and continue with the fine tuning on on the open data.
+ -PERSON1 wants to finish the monolingual part of the research as soon as possible, and then continue with the multingual part.
+  They was translating from English to Czech and got the worst Bleu scores.
+ -PERSON11 wants to run the constraints the lemmatized constraints.
+ -PERSON6 wants to check how the behavior of the s stem changes when the constraints are provided as as lemmas.
+ -PERSON2 wants to generate all possible word forms from the constraints and give the system a set PERSON6 and PERSON2 discussed some ideas about how to improve the computer program.
+  They and PERSON11 are trying to solve a problem with the LMT system.
+  They want to know if using the lemmas as a hard constraint might help them improve the system.
+ -PERSON11 is travelling to the Czech Republic tonight.
+  She will take the plane to the first city tomorrow and then the second one on Wednesday.
+ -PERSON13 asked her to book a flight ticket to Czech Republic so they can discussed it later this week.
+  The flight is usually cheapest on the New PERSON2, PERSON6, PERSON11 and PERSON10 will meet on Friday at one one p.
+  They will discussed what to do next for the list discussededion.
+ -PERSON10 and PERSON11 worked on a system based on negative constraints.
+ -PERSON6, PERSON4, PERSON2, PERSON13 and PERSON1 will discussed on Friday whether or not to give ORGANIZATION5 vouchers or pay Czech people with money.
+ -PERSON1 and PERSON2 don't know who is in charge of the project.
+  They don't have the inputs for the people.
+  They will send them email addresses and she will distribute the work to towards them.
+  The contract still needs to be negotiated.
+  It would be bad if PERSON2 doesn't like the idea of sending the vouchers to PERSON4 and PERSON13.
+ -PERSON1 thinks it would be faster to send them to PERSON13 because she has more information about financial matters.
+
+
+Minuted by: Team ABC

@@ -1,0 +1,43 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON1 wants to discussed evaluation and preparation for evaluation with PERSON10.
+ -PERSON10 has logged in from the phone and is there on the agenda.
+  They will have something to the end of October.
+ -PERSON1, PERSON10 and PERSON6 will prepare a manual evaluation of the call.
+  They will also use the manual evaluation strategy suggested by PERSON5.
+ -PERSON1, PERSON10, PERSON5, PERSON4 and probably PERSON10 will meet next week to try out a shared task task imitation.
+ -PERSON1, PERSON4, PERSON5 and PERSON10 will discussed the shared task.
+ -PERSON4, PERSON10, PERSON1, PERSON5 and PERSON4 have a shared task.
+  They have to prepare data for task A, B and C of which tasks data ongoing.
+  They need to put the data in GitHub and in some format that is acceptable to the server.
+ -PERSON4 and PERSON1 will meet tomorrow to discussed the amount of data they have and how much they need to target for each task.
+ -PERSON1, PERSON4, PERSON5, PERSON10 and PERSON4 need to agree on the amount of instances to train the machine learning.
+  They need to decide how to divide the instances.
+ -PERSON1 wants to change the way she organizes her meetings to make them more structured.
+ -PERSON4, PERSON8, PERSON1 and PERSON10 don't understand the purpose of ORGANIZATION2 data text.
+ -PERSON1 has a lot of annotators, he can ask them to prepare.
+ -PERSON1 and PERSON4 will fast discussed the external things to tomorrow.
+  They need to take ASRs and annotator data as part of the shared task.
+  They also need to ensure the quality of data.
+ -PERSON4 and PERSON1 will make a dry shared task dry run next week.
+  They will also come to an evaluationm.
+  The organization of the data for the shared tasks is as follows: they have the manually annotated transcript and the minutes annotative by annotators A and B PERSON1, PERSON4 and PERSON8 agree not to include the original minutes of the meeting in the shared task data.
+  They agree to release the trial data after one month and the validation data after some days for the experiment.
+ -PERSON1 will copy the definitions of what they mean by this each of them.
+ -PERSON4 and PERSON1 will discussed the manually evaluation next Thursday.
+  They will try to apply the evaluation next week for a chosen meeting.
+ -PERSON1 doesn't have the technical data output from PERSON3's tool, so that she can do an analysis.
+  The automatic evaluation is better than we and automatic, but it is lexicon is no semantic, so they should try with some semantic matrix.
+ -PERSON4 and PERSON6 PERSON1, PERSON4 and PERSON9 want to prepare a shared task proposal.
+  They want to include Czech data into the shared task.
+  They need to make sure the system runs from their group.
+ -PERSON1 has about 20 people working on the project, but only 2 of them worked on Czech.
+  The rate at which they work is different depending on the season.
+ -PERSON5 proposes gathering European or rather meeting Parliament rather than gathering trasncripts.
+ -PERSON1, PERSON5 and PERSON4 are complaining about the quality of the organization and the length of the meetings.
+
+
+Minuted by: Team ABC

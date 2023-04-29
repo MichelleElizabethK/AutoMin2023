@@ -1,0 +1,126 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON2 is recording sound of first meeting of workshop.
+ -PERSON2 thanks PERSON9 for putting together agenda.
+ -Person8 will read what I wrote role, comment on it.
+  Her task to work with , automatic , transcripts, anno, correct them.
+ -PERSON8 collected minutes , original minutes for min , for meetings, asked annotators to generate them according to instructions, according to different instructions could find.
+ -PERSON9 supervises annotators working on data.
+ -PERSON8 has changed representation time ago.
+  She long discussion with PERSON9 goals.
+  She has doctorate in machine translation.
+  She is working on automatic metric.
+ -PERSON9 is building deep , deep neural network for purpose.
+  runs for years PROJECT4, aims good publications.
+ -PERSON9 would like to on grant formally.
+  There problems with Cosine similarity measure.
+  easy to calculate cosine similarity when have two vectors , it is not reasonable, interesting relation with similarity want.
+ -PERSON9 focused on basic research , basic questions, analysis of what network is.
+  She focus less on shared task, on technical, implementation work.
+ -PERSON8, PERSON2 writing research paper.
+  want to know if it is late to start writing paper , even if it is survey.
+ -PERSON9 thinks it is better to switch cameras.
+ -PERSON2, PERSON9 experiment.
+  want results by end of week.
+ -PERSON2, PERSON9 have paper on automatic matrix.
+  discuss quality of embeddings on sentiment analysis task.
+ -PERSON9 wants to know if separate scales for extractive, abstractive aspects of model.
+ -PERSON2 , PERSON9, PERSON8 discuss difference between abstractive, extractive methods for summarizing information.
+  decide to come with measure, automatic measure tells them whether given summary is abstractive extractive.
+ -PERSON9, PERSON2 meeting.
+ -Person6 ca not join meeting , he trying to connect to meeting on links, it does not work.
+ -Person2 will give him another machine, different headphones to solve problem.
+ -PERSON7 from Indian institute of technology will join team from September onwards.
+  His research far has involved documents processing.
+  will working on IWSLT task.
+  is also preparing submission to shared task.
+ -PERSON2, PERSON6 discuss evaluation of task, metric.
+  discuss automatic, manual scoring of submissions.
+  decide to create methods of evaluation.
+ -PERSON2, PERSON7 going to organise workshop on spoken meeting meeting summarization, have shared task as part of it.
+ -PERSON6, PERSON2 do not agree lot of data is needed for shared task.
+  think it is important to have clearly defined way of evaluating is best.
+ -PERSON2 wants someone to review DUC conferences.
+ -PERSON7 is in touch with person wrote task.
+ -PERSON2, PERSON7 will put proposal for workshop on 5th of October.
+  Before first presentation , need to finish round of introductions.
+ -PERSON6 has experience in extractive, abstracting pross.
+  has also worked with scrapping websites, creating another data sets.
+  His recent work has involved generation , title summarization, also prediction of lengths of different publications.
+  workbench is collection of code , data, tools he going to use.
+  is not fancy it will save time for people have not gone it yet.
+ -PERSON5 will show interface PERSON2, PERSON4 discuss importance of annotation interface.
+ -PERSON5 is creating user interface for annotators.
+  last person on call is PERSON4.
+ -PERSON4 missed first email, he not ready for meeting , he could not prepare something to present, nothing.
+  results far mainly negative , would like to reach something positive from work.
+  If PERSON4 will have time PERSON2 , PERSON8 , PERSON6 , PERSON9, Turkan PERSON7 key people contribute to exact definition of shared task, evaluation metric for task.
+ -PERSON5 will present user interface for annotation interface.
+  There many versions of There three sub folders on disc : annotations , minutes, transcripts.
+  An annotator can edit minutes add , add new minutes.
+  dialog adds connected with first minute, highlighted with code colour.
+  transcripts plain text with optional speaker.
+  player synchron PERSON5 explains to PERSON8, PERSON9 program works.
+ -PERSON9 has turned on interface.
+  main purpose of interface is to link minutes with transcripts.
+ -Person5 is creating interface, he is almost end of creating it.
+ -Person8 will share code with rest of PERSON8, PERSON5 creating user interface.
+  want to test it on annotators make annotations.
+  planning to publish code in PROJECT4 repository.
+ -PERSON6 wants to share screen with people , needs permission first.
+ -PERSON2 ca not join meeting with departmental email address , it is not linked to Gmail account.
+  have to produce protocol , summary minutes of entire transcript.
+  also have to prepare automatic minuting task.
+ -PERSON6 explains in detail four stages of task.
+  According to PERSON6 , main objective is to have minutes of entire transcript, filled agenda with minutes sentences matched to agenda topics.
+  data scarcity problem solved by ORGANIZATION7, PROJECT1 corpora , processed in 2005, According to PERSON2 , ideal case would to launch shared task with data set PROJECT1, ORGANIZATION7.
+  problem with two data sets format in XML.
+  code to convert XML content into text content is in GitHub first stage of minuting pipeline is segmentation.
+  task resembles sentence compression task.
+  objective is to improve text quality.
+  task is to preserve grammatical correctness of of clusters, to generate decisions from decisions phrases sentences.
+  extractive approach is easier, convenient abstractive PERSON6 wants to produce software tool will read transcript, produce demonstrator based on it.
+ -PERSON6 has presentation with different steps for dialog summarizations, scheme.
+ -PERSON6 has data , code, code in GitHub , do not have working basic prototype.
+  have to improve quality of text segmentation, dialog summarization.
+ -PERSON8 wants to know much of task is actually implemented.
+ -PERSON6 explains automatic evaluation is partial, needs to followed by human evaluation.
+ -PERSON2, PERSON6 going to present slides for user, advisory board meeting next Wednesday.
+ -Person2 wants to see outputs of experiments.
+ -PERSON2 , PERSON6 , PERSON8, PERSON9 discussing details of manual evaluation measure for agenda completion.
+ -PERSON2 explains to PERSON6 output of task five point three is already something annotators.
+ -PERSON6 will put together reference minutes from ORGANIZATION7, PROJECT1, put them in alignment together.
+ -PERSON8 wants to compare outputs of PERSON7, PERSON9 on ORGANIZATION7 corpus with manual summaries have.
+  results not grammatically correct , semantically correct.
+  Rouge scores low, also quality differences PERSON6 , PERSON8 , PERSON7, PERSON9 going to meet in September to discuss methods of manual evaluation of summaries.
+ -PERSON6 explains to PERSON9 different methods for semantic evaluation.
+  discuss differences between them, Rouge metric , is word-based metric based on Cosine similarity.
+ -PERSON6 performed basic steps like tokenization with Stanford, Coroner LP.
+  used unsupervised clustering methods for text segmentation.
+  For task five three , he used transformer based models.
+ -PERSON6 used heavy models based on Burt heavy architectures.
+ -PERSON2 wants to ask PERSON8 to present status of data sets.
+ -PERSON8 explains to PERSON2, PERSON6 data need for evaluation.
+ -PERSON9 thinks data set have is better quality data sets have.
+ -PERSON10 get capacity for PROJECT4 within next two months.
+ -PERSON6 provide them with sample outputs, scores.
+ -PERSON2 wants PERSON6 to retrain pipeline on Sumecek in order to improve results of experiments.
+ -PERSON2, PERSON6 going for joint corpora workshop.
+  going to work on similarity , measures, extractiveness of data.
+ -PERSON2 , PERSON7, PERSON9 going to D.
+  Ed Howe, another colleague will.
+ -PERSON9 will consider sequence to sequence models as option.
+ -PERSON2, PERSON9 successful first meeting.
+  want to meet in early September.
+  There is official review of PROJECT4 project on 8th of September.
+  need to prepare slides , twenty minutes per work package.
+  will have joint meeting PERSON8 wants to leave meeting , has to take care of children.
+ -Person9 wants to join daily meeting of LOCATION1 team 2 PM.
+ -Person4 would like to join them as well.
+ -PERSON2 will email automatic transcript for from plugin to PERSON7, PERSON8.
+
+
+Minuted by: Team ABC

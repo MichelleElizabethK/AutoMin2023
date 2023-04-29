@@ -1,0 +1,64 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON23, PERSON16, PERSON11, PERSON21, PERSON12, PERSON10, PERSON9, PERSON15, PERSON5, PERSON20, PERSON2, PERSON19, PERSON6, PERSON3
+
+
+SUMMARY-
+ -PERSON4 will join a little bit later.
+  They need to go through the topics in the PROJECT2 document, document and do any debugging to see what PERSON5 wants to see the full workload from all imputors and all target languages in the presentation platform.
+  She would like to switch the subtitles during someone's talk.
+ -PERSON9's presentation platform is not yet updated.
+  A working copy will be deployed next week.
+ -PERSON9 will be at South Premises on Wednesday evening or earlier.
+ -PERSON5 invites PERSON9, PERSON4 and PERSON12 to come at Tuesday lunchtime.
+  They will do the testing in the first booth and provide feedback to the interpreters with the immediate feedback.
+ -PERSON5 wants to connect more formal laptops to the Internet.
+  The idea is to have notebooks also in the interpreters' booths.
+  The language labels would be displayed in the main page of presentation platform.
+ -PERSON9, PERSON5 and PERSON12 discusseded the design of the presentation platform.
+  They want to collect feedback from the participants.
+ -PERSON5 and PERSON9 will prepare a form modified as as they like.
+  They will finalise the content of the form on Wednesday and give it to the participants on Thursday.
+  They would like to record a video from it, but they are waiting for confirmation from Organizing3.
+ -PERSON5 and PERSON9 are trying to figure out how a person can record inside the building and not record any of the participants.
+  Organization 3 needs to approve that he can enter the building, which is ehm which they probably allow without any problems.
+ -PERSON5 has a camera PERSON5 wants to record the setting and what they do there.
+  Organizing3 has to confirm that they are fine with that.
+  There was a requirement for the confidentiality or no disclosure of interpreters.
+  People will have to sign a nondisclosure PERSON5 confirms to the Organization3 that they have signed a non agreement and they will not do any bad thing.
+  There were concerns from the participants that the talk they will be talking about will leak too soon.
+  Some of the sessions should be like ehm close and some should be PERSON5, PERSON3, PERSON20 and PERSON11 are having problems with the subtitles.
+  They need to keep connected to the call and do the debugging at various places.
+  They have only two English segmenters so they can run at most two languages at once.
+ -PERSON3, PERSON11, PERSON5, PERSON6, PERSON9 and PERSON13 are having problems with their presentation platform.
+ -PERSON9, PERSON13, PERSON5 and PERSON21 are having problems with the paper.
+  They are trying to figure out why the English and Romanian subtitles are stuck.
+ -PERSON5, PERSON3 and PERSON9 are on a conference call.
+  Two ASR workers from English are available, but one of them doesn't work.
+ -PERSON5 is trying to reach people on Skype, but it doesn't work.
+ -PERSON17 is out of office at the moment.
+ -PERSON3 and PERSON9 use the same EB client.
+  There is only one English segmenter and two German ones.
+ -PERSON9 is trying to reach people in the office, but none of them is answering.
+  The translation system from ORGANIZATION1 is unable to work properly.
+ -PERSON22 will run the workers right now.
+ -PERSON10 will have a look at it.
+ -PERSON5 wants to make sure that they are on the same page regarding the private call and the regularer.
+ -PERSON10 didn't receive the doodle any more so she didn't know about it.
+ -PERSON5 is also joining the other call.
+ -PERSON3 is still there, but there is some traffic hitting translation servers.
+  There is a problem with managing user's data for the GDPR.
+ -PERSON9 explains to PERSON2 that there is a problem with storying a used data.
+  They will work on it as soon as possible.
+  There is no need to store any data in this version of the presentation platform.
+  One password for the whole call will be sufficient.
+  There PERSON2 launched two instances of ebclient.
+  The first one doesn't output anything.
+  The second one is connected and it's outputting the text.
+ -PERSON9 will arrive on Wednesday in the evening.
+ -PERSON2 will prepare a test case and upload it to the crise control repo.
+  They need to check the source language in the presentation platform.
+ -PERSON2 will finish the script and send it to the control repo.
+ -PERSON9 and PERSON3 will come back in the afternoon.
+
+
+Minuted by: Team ABC

@@ -74,6 +74,7 @@
 ## Computing
 ### Running jupyter notebook on UFAL servers
 - https://nero-docs.stanford.edu/jupyter-slurm.html
+- https://stackoverflow.com/questions/35545402/how-to-run-an-ipynb-jupyter-notebook-from-terminal
 
 ## TODO
 1. Try some HuggingFace summarization pretrained models and finetune it on the minuting dataset

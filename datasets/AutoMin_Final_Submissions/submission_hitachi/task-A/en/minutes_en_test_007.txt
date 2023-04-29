@@ -1,0 +1,73 @@
+Summary:
+
+* There is no way to switch off the recording of the call as it is being recorded. 
+  - Disc: There is no option to turn off the webcams in Alfa view. 
+  - Fact: If the person is not happy with that, they will have to choose a different platform. 
+* PERSON14 wants to hear from everyone what they are working on and what's the status of the presentation platform by PERSON6 and colleagues. He wants to see a raw example of the structure and working of the platform next week, but it stopped working. 
+* PERSON14 wants to know if there is a text only version that can emit the subtitles to standard output as a fallback for other ways of presenting text messages. 
+  - Disc: It could be useful for connecting to other unexpected ways to present text messages, such as terminal window. 
+* PERSON14 wants to invite people to play with video mixers at his workshop. 
+  - Disc: There will be probably a real video mixer available for the three days or two days of the workshop. 
+  - Fact: The workshop will take place at LOCATION1 and the place was tested last Friday. 
+* PERSON9 wants to present subtitles without the presentation platform in order to <unintelligible>. 
+  - Disc: PERSON15 proposes another option for the main stage presentation problem. Having a text client would be useful also for Debugging. 
+  - Disc: PERSON9 has already provided numerous sample ways of examples how to run various clients. 
+* PERSON13 wants to create a text-only pipeline to test the translation pipeline. PERSON10 suggests text to text clients for this type of testing. 
+  - Disc: PERSON14 agrees to create text-to-text clients and text worker clients for the testing. 
+* There is a bug in the KT translation platform. The fixings will require fixing the ASR, the segmentation and the MT from us at the same time. 
+  - Disc: Only one person is still working on the problem, so it will be an interesting challenge for PERSON12. 
+* PERSON10 needs the segmentation for training MT. PERSON14 wants to focus on fixing the batch processing mode. 
+* PERSON9 wants to send audio files to PERSON1 and he will do the ASR offline to get the transcriptions. 
+* The online segmentation mode will be changed at ORGANIZATION5. 
+* PERSON5 will send the audio files to PERSON1 and he will do the ASR offline. 
+  - Disc: He will check the segmentation. For offline ASR, there will be no worker. The text only client will be used for the testing. The command will be to test the integration. 
+* PERSON5 connected online ASR and machine translation system trained independently on the current state of the art. The integration could be beneficial or negatively affected. PERSON13 and PERSON14 don't know what the impact of the integration would be. 
+* PERSON13 wants to compare online and offline ASR samples. 
+  - Disc: The easiest way to do that is to get some samples from the actual translator. 
+  - Fact: The translator will send him some samples every day from the translator. He will send a sample of ten sentences or a small sample of online ASR. 
+* It's difficult to get the partial sentences of online ASR. 
+  - Disc: The main concern is not the quality of the translation, but the mismatch of the segmentations. 
+    -- Fact: There are 19 different lectures that are being used online. 
+  - Disc: The quality is not affected by the number of transcripts. 
+* Updating and redoing the segmentation worker is the next priority for PERSON12, PERSON14, PERSON10 and PERSON1. PERSON12 will send the TED files with translations to ORGANIZATION5. 
+  - Disc: ORGANIZATION5 will send them to PERSON1, who will process them. 
+    -- Disc: PERSON5 will test the PROJECT2 worker. 
+* PERSON12 is having problems with the chat. 
+  - Fact: The ASR workers are not available. The text to text client for CTM to TXT did not work. The production client does not work in batch mode. The problem has been solved by going offline mode and focusing on the batch operation later. 
+* The segmentation worker shares a lot of the code with MT worker and will probably have the same problem as the text client for the MT worker. 
+  - Fact: The CTM is the word level output of ASR. 
+    -- Fact: The segmentation workers in ORGANIZATION5 don't work with the CTM client right now. 
+  - Disc: The ASR workers are not reliable enough to fix the problem. ORGANIZATION5 will try to fix it. 
+* The ASR worker has started producing some text in the chat window. The ASR workers are registered as non-ideal even when they have finished their jobs and send done messages to the mediator. The only common thing that the worker sees is the sound client, the audio client and the different set ups. 
+  - Disc: The bug is still triggered. 
+  - Disc: PERSON5 wants more hands on debugging session so that PERSON9 will join it. 
+* PERSON12 is looking at the ASR output in chat. 
+  - Disc: It doesn't insert any tags other than words. 
+* The segmentation worker should remove these tags. 
+  -- Disc: There is also the platform mediator which performs some kind of processing. 
+  - Disc: The presentation platform doesn't handle unsegmented text as it comes out of the segmentor. 
+* PERSON12 and PERSON14 are trying to figure out how the segmentation worker works. 
+* They need to reverse engineer the system to find out what tricks are used in the SLT ORGANIZATION5 and the published scripts in the system. 
+* PERSON14, PERSON5, PERSON1, PERSON10, PERSON13 and PERSON6 will meet next week to discuss the bug in the segmentation worker. 
+* They need to fix the problem with the batch mode until PROJECT3. They also need to decide online which of the streams in concatenation with the ASR and the MT is the best set up. 
+* PERSON9 and PERSON14 need to switch the source of English to make sure subtitles in Romanian are based on the machine translation all the target languages at once. They need to do it one by one, but that would be like six times the choice. 
+  - Disc: The presentation platform is just a presentation layer. 
+* PERSON9 and PERSON14 discuss the fallback solution to the problem of finding the best match matching path. The solution is to have a combinatory explosion of all the possible match matching paths. 
+  - Disc: The presentation platform would keep checking for the various sources and it would pick the highest scoring one. 
+    -- Disc: If the output from one of the re-speaking cabins or the floor is bad, the machine translation will not be connected to that and the presentation platform will automatically jump to the other provided translation. 
+* PERSON6 proposes that all audio inputs are translated into all target languages at all times and that they matter of which one is shown to the to the audience is just thing in the presentation platform. 
+  - Disc: PERSON12 and PERSON14 disagree on the issue. 
+* PERSON9 would like the presentation platform to have access to all the Spanish. For June the preview of the subtitle will not be available, but the selection of the stream should be available. PERSON14 would like to manually select stream number 44 to show. 
+* PERSON9 explains to PERSON14 how the presentation platform works. The final user will be the client of the subtitle solution. 
+  - Fact: The client will connect to a particular stream of publishing subtitles for the one who's configuring the system. The normal user is selecting which language he wants to see and the monitor of the platform is choosing for all the followers of Spanish which source should they get. 
+* PERSON9's integration has asked him to report PERSON14 as 4000 people connect on the same WiFi network. 
+* The current user is expected to be at June. The integration needs to decide how to deliver the subtitles to the participants. 
+  - Fact: They have a year to find a better solution. 
+    -- Disc: They will talk again next Friday. 
+
+------ Note ------
+*: A topic or important point of the discussion.
+Fact: An objective statement.
+Disc: A subjective discussion such as an opinion and claim.
+-: An item related to the topic or point.
+--: A supplemental or supporting statement for its previous sentence.

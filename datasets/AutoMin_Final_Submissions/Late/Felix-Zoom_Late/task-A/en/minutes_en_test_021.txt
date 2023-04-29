@@ -1,0 +1,1 @@
+[PERSON1] talks to [PERSON2] about the group's meeting with [ORGANIZATION1] and the group's plans for the next meeting.

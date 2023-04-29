@@ -1,0 +1,102 @@
+the transcripts for the german subti- subti- user study are al- almost done.
+one uh one transcriber of germany is working on it.
+she wants to do it alone until december the tenth.
+(person4) mhm.
+(person5) mhm.
+(person6) mhm.
+(person7) mhm.
+(person8) mhm.
+(person9) mhm.
+(person9) mhm.
+(.
+cnn's john sutter has asked uh machine translation to do shortening.
+sutter has added the transcripts for the first 30 parts.
+but for some folders, for some reason, the audio format is wrong.
+sutter has also asked uh machine translation to do offline subtitling..
+uh- are the subtitles which are created for the hearing impaired so uh there is like natural shortening in the data.
+and uh we would uh uh w- like put this into the architecture.
+(person5) mhm.
+(person5) yeah, uh.
+it could be quite easy to implement the shortening in this in this model as well..
+the only other possible candidate would be [person12] from uh, the [project5] project.
+so i don't want to uh uh like uh defocus him too much.
+i think that [person6] should uh just like, click, uhm other_yawn> click on to s- s- s- some buttons.
+and get the uh, uh vocabulary..
+i'm a bit afraid that the (mayborl) probably won't be prepared till tomorrow.
+i'll be working on the monday similar model as well.
+(person6) mhm.
+(person1) without domain adaptation, it would be useful test..
+mhm has been working on uh adaptation uh for the two domains.
+mhm will test uh time for two concurrent sessions.
+mhm will use (arc) plus black uh bird..
+some videos are not getting some audios or videos are not really connected properly into a 16 (cave) format.
+so uh i am a uh facing some issues with some audio.
+and i have to do that manually if that doesn't happen..
+cnn's john sutter talks to cnn's mike sutter about evaluating asr.
+sutter says the problem is uh known, common.
+sutter says he's unsure if he'll be able to do it all the time..
+i'm running on the uh in the problems of conversion of the of the file formats.
+i'm also simplifying everything so that, uh, we won't have to rely on someone else.
+i will send you the numbers as soon as you have any numbers.
+please send them to me..
+cnn's john sutter talks with cnn's john sutter on monday.
+sutter is working on a test for multiple uh dictionaries in the asr system.
+uh, uh, which of the asr systems should be used and which of the vocabulary should be used..
+the uh international phonetic alphabet is uh uh uh that uh (cmu) knows.
+uh in this way, he sent me the phonemes, and i added them in my dictionary.
+the model that i develop with my manual uh pronunciations is slightly better than these models..
+if the person uh s- says this also with zet 20 times in the uh in the talk, then you will have the very ends in pronunciation.
+uh, please stay on this call and figure out jointly how to use that dictionary.
+one thing that will be still needed is the language model substitute.
+but all these words uh should be like the known words..
+i'm training uh german asr that may be used for uh for uh time stamping.
+i'm not sure uh how uh good it will be because i'm training it on (liberty speech) the uh uh actual training set uh contains only around 300 hours..
+i think it would be good if you too would like split it among yourselves.
+we will do first test of this tomorrow at one uh prague time.
+we can still move monday to tuesday, but tuesday is already the ([project2]) day..
+uh, the uh on monday s- and we need at least two numbers to compare.
+get one number the baselines now and the uh on monday s- and uh on monday s- uh, uh on monday s- and i'll take care of it again.
+(person3) right now, one is from [organization1].
+one what we use for our monday seminars.
+that's new..
+the (rainbow empty models) had better scores than the (summer) set of workers.
+(rainbow workers) had better scores than the (summer) set of workers.
+(person6) unintelligible> (person6]..
+for some folders, the output is like totally terrible.
+it may be caused by the speaker.
+maybe he doesn't speak clearly.
+if you want to inspect it, then l- listen to the to the source audio.
+and you will see w- when it is right..
+i'm not sure how to uh how to convert them properly, because (f f m p g) just returns the error for those files.
+for most of the folders that i that i transcribe later.
+there is this problem that basically the length is incorrect.
+i think that the uh best thing right now would be basically to throw away everything.
+and to and to run everything in parallel..
+in some of the files there is, you don't just hear the interpreter.
+but you also hear the person saying something in english in the background.
+(person4) yeah.
+(person5) everywhere.
+that's the thing, everywhere.
+(person4) yeah.
+(person5) so if it does work now, then okay.
+(person4) or you- (person5) okay, i will just try how it works and i will see..
+the first one is the word and the next is the pronunciation of the word.
+(person6) there are curly brackets uh around first and the last for me with (w b) in there.
+(person6) uh.
+first one is also available on there.
+and there is a uh i (under) which can be unintelligible> easily unintelligible>..
+i'm afraid that when i will be processing this list of graphemes to phonemes to graphemes so probably there will be some issues regarding the such phonemes.
+i can uh take a look at the.
+(person6) mhm.
+(person2) i found some dictionary.
+(person6) mhm.
+(person6) there was an- another as well, but (by a tree).
+don't remember which one was it exactly.
+(save).
+send another one.
+cnn's john sutter is trying to figure out which phonemes are near and which are far apart.
+sutter is trying to figure out which phonemes are near and which are far apart.
+sutter is trying to figure out which phonemes are near and which are far apart.
+sutter is trying to figure out which phonemes are near and which are far apart..
+if you can convert these (ipas) to the alphabet phonemes, that would be great.
+(person6) yes, yeah, the (cmus)..

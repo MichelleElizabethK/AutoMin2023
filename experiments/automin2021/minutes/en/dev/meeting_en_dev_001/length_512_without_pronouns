@@ -1,0 +1,58 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON10, PERSON5, PERSON3, PERSON4, PERSON6
+
+
+SUMMARY-
+ -PERSON4 is getting her visa this Friday.
+  She has an appointment on visa embassy.
+  She's gathering all the documents now.
+  She will send a link to PERSON3 to look at the ORGANIZATION1 sessions.
+ -PERSON10 would prefer to have the ORGANIZATION2 and PROJECT1 data instead of the information from the Organizing1 talk.
+ -PERSON3, PERSON5, PERSON6, PERSON4, and PERSON10 discusseded how much data they need for the share task.
+  They need to prepare for today's meeting.
+  The data set for the training is too small for the full training.
+  The participants will get half of the test set and the other half will be used for the development set.
+ -PERSON6 and PERSON10 have a task to summarize 19000 hours of data.
+  There was no speed summarization share task for a long time.
+  There is no gold standard for this task.
+ -PERSON10, PERSON3 and PERSON3 will use ORGANIZATION1 data from 2006 to 2011.
+ -PERSON10 doesn't want to invest much work into the data set again.
+ -PERSON3 is showing PERSON10 a summary of minutes from a meeting on 6th of October 2011.
+ -PERSON3 wants to know if it would be a good idea to have the minutes of previous sitting as a separate track.
+ -PERSON3 asked one of his annotators to do the alignment.
+  The IDs of the ORGANIZATION1 corpus cannot be used to search for minutes.
+  In some minutes some minutes were left with hyperlinks.
+ -PERSON6 and PERSON10 discussed the structure of the project.
+  They agree on 3 test sets, ORGANIZATION2 and PROJECT1, and 3 tracks.
+ -PERSON10, PERSON1, PERSON3 and PERSON6 discusseded what they should provide as the training data for organization 2, project 1 and organization 10.
+ -PERSON3 is sharing screen with PERSON10 how to find the minutes from the ORGANIZATION1 corpus.
+  There was only one such session in the last 5 years.
+ -PERSON3 and PERSON10 are looking for someone who can download and reconstruct the structure based on matching of strings.
+ -PERSON5, PERSON3, PERSON10 and PERSON6 are on the call.
+  They need to decide if they should take all the data from Organization 1 and provide it as the training data.
+  If they do it, they should divide it into 3 parts like short meetings and long meetings PERSON5 and PERSON10 want to include ORGANIZATION1 in the share task.
+  The first step is finding and downloading the pairs of transcript and the minutes for all the sessions that are there.
+  The minutes are not variable, so they are not useful for the participants.
+ -PERSON5's proposal is to have some people create a summary of the work or some of the best transcript that they find.
+ -PERSON10's idea is to aggregate the subset to the existing data and increase the diversity of the data.
+ -PERSON3 wants to take the whole ORGANIZ PERSON10, PERSON5, PERSON6 and PERSON3 will prepare the ORGANIZATION1 transcripts and minutes corpus as a test set for their shared task.
+ -PERSON6 will try to find a Wget expert who can download and prepare the corpus.
+ -PERSON10 will ask him for a session where he will walk her through the way he downloaded the speech part of the transcripts and the summaries.
+  They don't have the uniformal format of the data PERSON3 and PERSON10 discussed the presentation by the remote colleague of ORGANIZATION5 who is developing PROJECT3.
+  They agree that the presentation should be in one format.
+ -PERSON3 is looking for a way to preserve the original data.
+  He needs to contact his colleague, who works remotely for ORGANIZATION5, who has been working on a web browser for big corpora for 10 years.
+ -PERSON3, PERSON10 and PERSON1 discusseded the format of the transcript.
+  They will ask PERSON1 to prepare the data.
+ -PERSON10 suggests that PERSON6 downloads the data, and PERSON6 will start the processing the conversion and then PERSON6 would finish that.
+ -PERSON3 wants to start from ORGANIZATION1 and reorganise the files there.
+ -PERSON6 wants PERSON5 to put the whole corpus to the server and organize it according to the dates and names of the sessions.
+ -PERSON6, PERSON10, PERSON3, PERSON5 and PERSON6 are organizing the data.
+ -PERSON6 will continue annotating the data with her annotators.
+ -PERSON3 will share the link to the sticker data from the from the Organization's web.
+ -PERSON3 and PERSON5 are in the doctorate.
+  The source for the machine translation work was released as part of the parl corpora for machine translation.
+ -PERSON3, PERSON6 and PERSON1 will see each other tomorrow.
+
+
+Minuted by: Team ABC

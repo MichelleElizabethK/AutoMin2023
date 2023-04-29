@@ -1,0 +1,45 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON9 has officially started working with the team.
+  He will help with Organization 5 and Project 4 implementation.
+  The project 7 integration was supposed to be done by the end of last month or two months ago, but it wasn't.
+  The user interface team should have implemented it.
+ -PERSON4, PERSON8 and PERSON7 are happy with the implementation of the back translation.
+ -PERSON11 is not sure how to implement the nbest list navigation into PROJECT7.
+  He will ask about it on the next call.
+ -PERSON8 and PERSON11 want to create a single module that can have all the functionality of PROJECT7 in a single place.
+  They want to increase the number of segments from 2B to 2C.
+ -PERSON11, PERSON8 and PERSON4 want to know when the next conference is and who will work on the analysis of the data.
+ -PERSON4, PERSON11 and PERSON8 will write two papers with slightly different data.
+  They have to ask Estonians and Czechians to assess the translation or evaluate the results.
+ -PERSON4, PERSON7, PERSON8 and PERSON11 want to postpone the paper.
+ -PERSON7, PERSON11, PERSON8 and PERSON4 will try to meet the deadline for Organizing 7.
+  If they miss it, then the next one would be the January PROJECT8.
+  There is ten times more data to annotate and it's not easy.
+ -PERSON4 explains to PERSON8 the difference between back translated data and monolingual data.
+ -PERSON4 worked on a system that translates English into Czech.
+  The results are similar between the pretraining phase and the fine tuning phase.
+ -PERSON4 worked alone on the augmentation branch of the experiment.
+  It diverged from the main motivation of the project PROJECT9.
+ -PERSON7 wants to get PROJECT4 again up and running for himself and his students.
+ -PERSON4 is manually compiling PROJECT4 for TLL 1 and 8 and different one for other TLLs.
+ -PERSON8 and PERSON6 are training a new EnglishCzech module.
+  They have a blue score of 27.
+  They will train for a couple of data sets PERSON6, PERSON7 and PERSON8 are trying to figure out how to compare the different approaches.
+ -PERSON6 suggests using TFIDF for all the variants and then using the three left references as the source of the constraints.
+ -PERSON7 and PERSON8 are considering a system that restricts the system and pushes it to produce an output similar to the other references.
+  They need to select a small set of the options and evaluate them manually in an annotation exercise.
+  One of them has 50 references per sentence.
+  The other one has four thousand three hundred references for each sentence.
+ -PERSON6 is thinking about how to measure how many constraints work.
+ -PERSON7 is wondering if PERSON9 is happy, because it's his third day in practice.
+  In the COVID pandemic, restrictions are getting harsher.
+ -PERSON6 is worried about the number of people dying.
+  There are too many deaths compared to the population of LOCATION1.
+  People don't seem to be worried.
+
+
+Minuted by: Team ABC

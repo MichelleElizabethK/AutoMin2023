@@ -1,0 +1,54 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON6 is trying to make a presentation at the user session meeting, but the Wifi connection is unstable.
+  Some of the participants are official members of the user and advisory board of the project.
+  The presentation is an extension of a demo that was shown at the end of June.
+ -PERSON1, from the ORGANIZATION8, will present the data collection work package.
+  The work package provides training and test data that other work packages can use for building their systems and for doing research.
+ -PERSON1 wants other groups to contribute their data to the PROJECT2 repository.
+  They are collecting data from their own meetings as well as other EU projects.
+  They want to develop a sequent to sequent ASR system.
+ -PERSON6 from ORGANIZATION8 presents the results of the project on spoken language translation.
+  There are some problems with the ASR and MT and how to improve them.
+ -PERSON7 explains to the audience how to improve online SLT.
+ -PERSON5 presents work package 4 multilingual machine translation to PERSON6.
+  They are presenting a work package on machine translation.
+  The main focus is on multi target machine translation and multi source translation.
+  Next slide is about recent work from their colleagues from ORGANIZATION8.
+ -PERSON11 explains to PERSON6 how the task of summarizing the minute from the transcripts was done.
+  The results were poor and need to be improved in the future.
+ -PERSON3 is employed in ORGANIZATION9 an Italian company of automatic speech recognition resolutions.
+  The PROJECT2 project mainly focuses on two different use cases: face to face conferencing and remote meetings.
+  The project started in January 2019 and they have done many events since then.
+  The last presentation is on the work package which has been added on request by the Organizing Committee.
+  The goal is to set up procedures for recording and handling the data and that's mainly for the minuting use case.
+  The participants have to agree that their contribution to the project can be The aim is to make the meeting recordings as anonymous as possible, so that no GDPR sensitive information will appear in them.
+  The deidentification pipeline would involve a voice, anonymization and replacing all personal data with placeholders, but it's not possible in practice.
+  The project is The presentation of the ORGANIZATION9 platform is taking place.
+ -PERSON6 is two minutes ahead of time.
+ -PERSON3 was briefly presenting the integration work package.
+  The project organiser explains how to set up the presentation platform PROJECT2 and how to play the videos.
+  They explains to the users how to set up the user interface.
+ -PERSON6 and PERSON13 are watching a Czech speech in Organization 7 on a web browser.
+  There is a lag in the delivery of the video to the screen.
+  The error rate is about twelve points.
+  People can choose between 8 language presentation or 4 language presentation.
+  They can also choose In the previous views, there was no full level of translation for the ASR language.
+  In the new views, the translations are shown in the subtitle window.
+  The videos are only shown through screen sharing.
+ -PERSON13 is watching a video of the PROJECT2 test set.
+ -PERSON6 is showing the results of the project.
+  He has provided translations of non native English into German and Czech.
+  He is trying to avoid using Paracrawl to search for parallel data.
+  He wants to preserve the biases of the source.
+ -PERSON6 wants to train speech-to-speech transformers.
+  The project will last for one more year and a half.
+  The slides are now in the ORGANIZATION4 document.
+ -PERSON9 will ask the speech crew if they have any information about the collection and deidentification tools they use for speech recognition tasks.
+ -PERSON13 and PERSON6 are about to say goodbye.
+
+
+Minuted by: Team ABC
