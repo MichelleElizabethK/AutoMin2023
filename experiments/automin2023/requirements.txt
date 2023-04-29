@@ -1,2 +1,3 @@
 sacremoses==0.0.53
 notebook==6.5.4
+lxml==4.9.2
