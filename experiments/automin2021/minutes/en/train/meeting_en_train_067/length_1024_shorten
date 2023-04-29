@@ -1,0 +1,31 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON6 , PERSON12 , PERSON9, PERSON14 working on project.
+  need to provide separate model for PROJECT1, paraphrasing, back translation to outbound translation interface.
+  also need to implement new NMTAPI.
+ -PERSON9, PERSON14 writing paper for NASEL.
+ -PERSON9 is surprised by results of analysis.
+ -PERSON2 , PERSON9, PERSON14 discussing data augmentation experiment.
+  discuss differences between fast, slow system.
+ -PERSON1, PERSON2 showing graphs showing pretraining, fine tuning of system.
+ -PERSON1, PERSON2 discuss differences between monolingual data, synthetic data used to train system.
+ -PERSON1 would like to fine-tune models on currently pretrained models.
+ -PERSON2, PERSON7 think using data, using text to mark source instead of fine-tuning.
+  Czech monolingual worst Bleu scores.
+  test set English sentences translating into Czech.
+ -PERSON2 , PERSON6, PERSON11 working on translation problem.
+  system is deterministic with regards to current input , it does not produce possible lemmas for word.
+ -PERSON2 suggests to run lemmatization PERSON13 asked PERSON11 to book flight ticket to Czech Republic.
+  flight is usually cheapest on New Year Eve , it can cheaper on days.
+ -PERSON11, PERSON2 will meet on Friday 11.
+  LOCATION1 in PERSON10 is working on implementation of trees.
+ -PERSON2 , PERSON1 , PERSON4 , PERSON13, PERSON6 discussing to pay Czech people with vouchers.
+ -PERSON2, PERSON1 negotiating payment for annotations.
+  going to use people do annotations for participants as have contract with institution.
+  If price is high , will end negotiations.
+
+
+Minuted by: Team ABC

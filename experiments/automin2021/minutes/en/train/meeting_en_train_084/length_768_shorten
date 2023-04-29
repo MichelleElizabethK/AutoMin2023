@@ -1,0 +1,45 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON17 will share with Organization 7 agenda.
+  Organization 7 needs to provide Organization 2 with technical description of technical set, graphical map.
+  Organization 3 needs to confirm Organization 4, Organization 3 will provide details.
+  Organization 2 wants to include description into PERSON17 wants to know technical differences between ORGANIZATION3 platform as he saw it when he in Organization 3, ORIZATION4 platform , will used for of events of PROJECT1 project.
+ -PERSON17, PERSON15 going to prepare machine translation, Kaldi ASR for March.
+  also going to train assistant will have fo will have for fair.
+  need to set physical set for ASR, backup PERSON15 is rereading four topics.
+  There two reasons getting full replica running in LOCATION1 would difficult : licensing, technical issues.
+  second reason is software is build in pieces, it is not easy to , to get it running There will test of mediator.
+  Organizer3 will connect tools including web presentation to mediator, let Organizer1 know can test it.
+  mediator is heart of live system will used in March PERSON15 is senior software developer in ORGANIZATION4.
+ -PERSON15 explains to PERSON17 Organization 4 service architecture works.
+ -PERSON17 wants to know operation of batch audio file processing, practical limits of platform.
+ -PERSON15 explains to mediator process works.
+ -PERSON15 explains typical client implementation in documentation.
+ -PERSON15 explains to PERSON15 sending queue works.
+ -PERSON15 explains to PERSON17 to implement ASR.
+ -PERSON15 explains to implement machine translation service implementation in right callback.
+ -PERSON15 explains to PERSON17 handshake works.
+  documentation is complete, examples in repo.
+  Organizing3 will connect tolls to meditators by end of week.
+  deadlines for ORGANIZATION2 events for PERSON17 , organiser of fair , asks Organization 3 , Organization 4 , Organization 5 , Organization 6, Organization 7 to prepare audio recording for fair, recording from ORGANIZATION6 platform.
+  need to start recording by end of March.
+  At fair will presentations by nonnative speakers.
+ -People will have to present countries in 90 seconds.
+  recording will done by ORGANIZATION4 recording worker.
+  organization needs recording in order to start using recording capacity PERSON17 not involved in negotiations with ORGANIZATION4.
+  Organization 6 has audio set audio service.
+  will easy for Organization 6 to make March milestone , could start calls within Organization 6 platform.
+  Organized 6 PERSON17 , PERSON14, PERSON18 going to discuss with Organization 4 to handle separate channels.
+  mediator is oncem, in charge of managing interaction between client, workers.
+  workers can manage one connection per time.
+  mediator would have many OTHER3 ASR workers produce sound packets to , , to , mediator.
+ -PERSON15 will upload slides to ORGANIZATION4 platform sample co sample connector repo.
+ -PERSON15, PERSON17 want to develop machine translation system can translate from one language into six languages time.
+  system is meant to able to scale to to many worker, interaction project , it is not supported in moment.
+ -PERSON15, PERSON17 going instructions on to work in real time, to simulate live streaming from audio file.
+
+
+Minuted by: Team ABC

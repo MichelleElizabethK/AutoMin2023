@@ -1,0 +1,37 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON9 is a PhD student doing her master's in Organizedation3.
+  She was adding her profile in the ORGANIZATION4 database, but she doesn't want to be listed as a master student on the organisation's website.
+  She thinks fingerprinting, the workers and PERSON9, PERSON3, PERSON7 and PERSON8 discusseded how to test different versions of the ASR worker or also of the machine translation worker.
+  They and PERSON8 are trying to solve the issue of versioning in the ASR system.
+  They have two conflicting goals: all of the workers should not have to know what exact version of the previous pipeline is being run, and they should be able to request specific versions PERSON8, PERSON9 and PERSON5 explain to the group how to improve the accuracy of transcription and translation.
+  They have to run a test set over all the possible ASR workers, segmentation workers and empty workers.
+  They need to change the fingerprints of all the workers PERSON3, PERSON5, PERSON8 and PERSON9 are arguing about the design of the mediator.
+  The mediator is supposed to be more automatic and provide more control to the workers, but it's not possible to do that in a short period of time.
+  There is a PERSON8 and PERSON3 discusseded how to improve the service architecture.
+ -PERSON8 and PERSON9 will meet in a couple of days to discussed possible solutions to the problem of working with multiple versions of workers.
+ -PERSON9 suggests to start the client and explicitly request all of the intermediate fingerprints, including the last field, which is for the information and the versioning.
+  The client can only request one output fingerprint, but can influence the client to request multiple fingerprints.
+  They want to know if there are any English to German workers running.
+  There are some English to French workers, but they are enEU, so it's not easy to control.
+ -PERSON4, PERSON8 and PERSON9 agree that it's okay and useful for others to have multiple workers which have the same version of the model.
+ -PERSON4 would like to see the ORGANIZATION3 worker for English in the mediator very soon, because on the first of December there is a dryrun and on the third there is another meeting of the Organization's preparation group.
+ -PERSON9 can request multiple inputs to the client.
+  If the fingerprint matching on the service is strict, the sound will be processed with one ASR and translated to French.
+  If it's not strict, then the client will receive two ASRs and another ASR.
+  It's PERSON9, PERSON4, PERSON5 and PERSON6 want to know how to control ASR workers.
+ -PERSON8 shares with them the fingerprint text file they created a long time ago.
+ -PERSON9 suggests changing all the fingerprints right now, but changing it once is not a big deal PERSON8 and PERSON4 are asking questions about the integration of the system.
+  They want to know which model is there and which version of the model gets propagated to the version of worker.
+  They also need to know the name of the service, but the client doesn't know PERSON9 and PERSON4 discussed the differences between using the description and noting the version in the fingerprint and using the fingerprint with the description.
+  They want PERSON4 and PERSON5 to make sure that this test is done and that the use case works.
+  They will evaluate individual components as well as the full paths.
+ -PERSON8 and PERSON9 worked on a new ASR for English.
+  Organized 7 uses the same instance of the ASR, both for te ASR output and machine translation.
+  Organization 7 has access to the Swisscode of the mobile technology PERSON9, PERSON5, PERSON3 and PERSON8 will make a hands on session and make a simulation together to simulate the use case in order to design the possible intermediate solution.
+
+
+Minuted by: Team ABC

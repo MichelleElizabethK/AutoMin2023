@@ -1,0 +1,27 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON14 wants to take part in two events: the conference on March 3 and the student firmsware on March 24.
+  They need to record the sessions themselves.
+  They should also record another video what they are doing.
+ -PERSON10 was helping PERSON11 that in ASR was slower than running in ORGANIZATION3 when on the on the machine where the worker training is.
+ -PERSON9 is training MNT model for to prefix and I bring to start validation evaluation sets so on spoken data.
+ -PERSON11 This week PERSON11 has done the evaluation of the PERSON4 talk.
+  He also evaluated the LOCATION1 ASR and the ASR of ORGANIZATION2.
+  He wants to use the approach of sentence embeddings, that he has been working on PERSON8 has a problem with machine translation.
+  The data that she got from open subtitles is OTHER1 centric.
+  She will train the model on sentences from other corpora as well.
+ -PERSON14 wants to know why the data set is the same as the one used in sides.
+  He was the first to send data from Opus, so he should be the one to get the OTHER1 centric data set.
+ -PERSON8 will train a deep fault model on PROJECT4 and connect it to the mediator to test it on the cluster.
+ -PERSON14 wants to use the monolingual data that was opened last week, but PERSON8 doesn't have the model.
+  The model is trained on subtitles and not on other data.
+  The training will take at least a week.
+  If the model doesn't work, they will use PERSON14 will not be here next week, so there will be another delay.
+ -PERSON7 will try to make sure that the meeting takes place.
+ -PERSON8, PERSON5 and PERSON6 are on vacation.
+
+
+Minuted by: Team ABC

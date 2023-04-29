@@ -1,0 +1,22 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON23, PERSON16, PERSON11, PERSON21, PERSON12, PERSON10, PERSON9, PERSON15, PERSON5, PERSON20, PERSON2, PERSON19, PERSON6, PERSON3
+
+
+SUMMARY-
+ -PERSON8 and PERSON10 are on a conference call.
+  They discussed the development schedule for the project.
+ -PERSON8 wants to know more about the handling of timestamps and how to present partial translations and partial output.
+ -PERSON6, PERSON8 and PERSON11 discusseded the presentation platform.
+  There is no prototype available at the moment.
+  The first prototype should be ready at the 15th of June.
+ -PERSON8 wants to switch to the ORGANIZATION2 platform.
+ -PERSON11 wants to run the clones of alpha workers to run in LOCATION1.
+ -PERSON10 wants to stop running limit number workers.
+  There is a problem with offline ASR.
+  One of the workers can handle several sessions, but then it stops working and doesn't return any output.
+ -PERSON8, PERSON5, PERSON6 and PERSON4 will create a script to solve the problem.
+ -PERSON4, PERSON6, PERSON8, PERSON11 and PERSON9 are responsible for MT clients.
+  The production client is different from the simple one only by a by I change only the default parameters and comment send documentations and I removed to Windows version.
+
+
+Minuted by: Team ABC

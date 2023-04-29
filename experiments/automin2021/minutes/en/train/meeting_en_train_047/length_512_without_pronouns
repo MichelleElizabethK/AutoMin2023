@@ -1,0 +1,43 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+
+  The first item on the list is to mention that they have successfully delivered the delivery rules that they were expected to deliver.
+  The second item is to make sure everyone is aware of the DU collecting where they have presented their work.
+  The third item is PERSON14 has been at the fair of student firms and thanks to ORIZATION2 and to ORGANIZATION1 for coming in person, the result of which is the little publicity, the little news item or block short block that they have on their PROJECT6 website and PERSON14 wants to contribute to the work package on the spoken language translation that ORGANIZATION8 is overseeing.
+  There will be a workshop in June.
+  There is a paper accepted to tackle it.
+ -PERSON14 wants to know the status of the recording in ORGANIZATION9 platform.
+  The recording has been completed, but the audio is not reliable or reliably picked up by the system.
+ -PERSON9 worked on a system that works in principle, but it's not reliable.
+  The developer is on vacation, so he didn't have time to explain the issues with the system to PERSON9 and PERSON10.
+ -PERSON9 explains to PERSON14 and PERSON21 the limitations of having more than two workers processing the same audio stream.
+ -PERSON14 thinks it's OK for the testing to have just the two workers.
+  They need more for the project purposes and for the session to be running.
+ -PERSON10 explains to PERSON14 that as part of the simple connector the is also the audio recorder client The audio recorder worker.
+  The recording is more important for the milestone, the recording than the ASR.
+ -PERSON14 wants to know the upcoming deliverables and milestones.
+  They need to be written by the end of May to give time for the internal review.
+ -PERSON19 wants them to mention the PROJECT6 testsuits for this WMT and the Antrecorp speech test corpus with the high PERSON14 will set up a template to collect data resources for training an ASR system.
+  Organization8 has upcoming milestones, one of them is the first spoken language translation prototype by ORGANIZATION8.
+ -PERSON14 and PERSON21 are talking about their work on first language spoken language translation prototype.
+  They worked on a multilingual multitarget training system.
+ -PERSON14, PERSON21 and PERSON1 are organizing a workshop at the end of June.
+  They want to have as many target languages as they can, up to 43 for testing purposes, and with the help of interpreting students, one or two interpreters and one respeaker.
+ -PERSON14 and PERSON21 will discussed technical details with Organization 1 during the rest of April and May and the beginning of June.
+  Organization1 platform is not ready for multitarget language.
+  They will create rainbow packets that will contain all the target languages or more, and the selector clients PERSON14 wants Organization 8 to commit short batch scripts as test scripts to the repository for the presentation platform.
+  Organization 8 also needs to be involved in the development of the subtitles.
+  Organization 14 wants to aim for 3 ASR and up to 43 target languages for the workshop.
+ -PERSON14 wants everyone to carefully read the comments collected by the ORGANIZATION7 congress.
+ -PERSON19 reminds everyone to collect their time sheets.
+  The timesheets will be ready before the 18-month deadline.
+  People will be paid per the project in January or February.
+  People have to record the amount of time spent on work package and also the task.
+ -PERSON10, PERSON19, PERSON21 and PERSON2 are on a conference call.
+  They discussed the recording system, the timesheet template and some data that is missing.
+
+
+Minuted by: Team ABC

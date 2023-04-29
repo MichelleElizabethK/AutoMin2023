@@ -1,0 +1,101 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON6 is trying to connect to meeting , Wifi is unstable.
+ -Person6 will showing slides, scrolling them for everybody.
+ -People can ask questions end of session.
+  presentation today is extension of demo ran for project project officer end of June.
+  Some of them official members of user, advisory board of project.
+ -PERSON6 is going to present individual work packages of project.
+  If someone does not like it , will cut from recording.
+ -Person8 will talk work package one , is data collection.
+  According to PERSON1 , is in-house parallel corpus for domain of order.
+  collected data from website , ORGANIZATION7, Organization 2.
+  used it for training of MT systems will see later.
+  According to PERSON1 , project is collecting monolingual data covering 24 languages.
+  have extracted 280000 sentence pairs per language pair.
+  working on non Englishness of data.
+ -PERSON1, PERSON6 collecting data from meetings as well as from EU projects.
+  working on corpus of speeches transcripts translations, interpretations from ORGANIZATION11 plenary sessions from 2008 to 11.
+ -PERSON8 from ASR work package presents two online setups sequent to sequent models to perform low latency streaming for spoken language translation text.
+ -PERSON14 presents standard switch port home call test set to PERSON6, PERSON7 from ORGANIZATION8.
+  working on spoken language translation.
+  ASR works online as it has property it produces incrementally on them , can alter.
+  There problems with property.
+  ASR output is changing , segmentation is changing.
+  There is delay between ASR, translation.
+  According to PERSON7 , two ways of measuring three dimensions.
+  simplest method is retranslating output from ASR to MT.
+ -PROJECT3 is bad , use PROJECT1 in production.
+  Next slide shows to improve real translation approach.
+  According to PERSON7 , have introduced twist on set K dynamically , try to predict what might come next.
+  have done research into end to end SLT, also on unsegmented input, hot warehouse.
+  According to PERSON7 , PROJECT3 seems to bad for users.
+  She wants to focus on second half of project on improving it.
+ -PERSON6 , student, colleague of PERSON5 , is giving presentation on multilingual machine translation.
+ -PERSON5, PERSON6 present work package on machine translation.
+  main focus is on multi source translation, flexible multilingual machine translation for versatility.
+ -PERSON11 explains to PERSON6 to summarize summary of meetings.
+ -PERSON11 explains overview of task of minuting module.
+  task of summarizing transcripts is similar to sentence compression.
+  Combination of to popular data sets in minuting research is important task.
+ -PERSON11 is showing preliminary scores from project.
+  current prototype reaches to 16 % in , 4 % in, 14 %.
+  quality of candidate is deceptive , reference in candidate sample is remote controlled television.
+  project needs to improve to improve PERSON3 is employed in ORGANIZATION9 Italian company of automatic speech recognition resolutions.
+  PROJECT2 project focuses on two different use cases : face to face conferencing, remote meetings.
+  project started in January 2019, first dry run event took place 3 months later Last year Organizing8 managed to organize two events in LOCATION2.
+  presentation platform restyle , would like to take into account user needs to maximize video player slide content, possibly achieve mobile friendly design.
+  A lot of planned events have cancelled due to COVID situation last presentation is on work package has added on request by Organizing Committee.
+  goal is to set procedures for recording, handling data for minuting use case.
+  collecting consents from human participants , specifying procedure for collecting cons participants of PROJECT2 project have to agree contribution to meeting can used for purpose.
+  participants also have to give consent to release of personal data.
+  aim is to have meeting recordings as anonymous as possible.
+  ideal deidentification pipeline would involve voice , anonymization, replacing personal data with placeholders.
+  current plan is to ignore voice, keep voice recordings as.
+ -Person6 would like to standardize procedures for data collection, release data set.
+  would like people in teams deal with issues to get in touch with them.
+ -PERSON3 briefly presenting ORGANIZATION9 platform.
+ -PERSON3 is presenting integration work package.
+  According to COVID , far fewer events since March planned.
+  In demo will see , is one machine running FFM pack video streaming, one machine sending sound to standard pipeline have ready.
+  There is delay between delivery presentation is subtitled.
+  optimal screen size is one.
+  project organiser tells people to start video, to play it automatically.
+  There is problem with autoplay in Chrome.
+  In Chrome have to do manual clicking.
+  In user interface PERSON6 is setting , will three videos three minutes long , one of them German short speech with revised subtitles.
+  There will video of three minutes of German lecture , Czech speech in domain of Organization8.
+ -PERSON6, PERSON13 showing video with German lecture.
+ -PERSON6 asks PERSON13 to start system.
+ -Person13 starts system, video starts to play.
+ -Person6 follows Czech, English, German translations.
+  There lag in delivery of video to Person6 screen.
+  There errors in translations.
+ -PERSON6 explains user interface for PROJECT2 demo.
+ -PERSON6 explains color coding of sentences in ASR language on right hand side of screen.
+ -PERSON6 wants user to choose view user has ability to read black text, focus on last words, translations.
+ -PERSON13 will start last video demo , PERSON6 can stream video.
+ -PERSON13 can switch on subtitling of call.
+ -PERSON6 recommends watching German version of lecture.
+  last demo of video lectures.
+  quality of translation into German seems better from interpreter.
+  There is still one demo it will go on discussedion.
+ -Person2 wants to know PROJECT2 does available on GitHub test sets.
+  PROJECT2 test set is collected mainly, it is targeted towards domain is auditing.
+  Some of test set comes from Antrecorp student firmfare, high school students presenting mock companies, recorded 90 second speeches.
+  Other parts come from PERSON6 system is underrepresented in training data sets, tend to translate recognize questions as statements.
+ -PERSON6 excluded speech output from project proposal.
+  thinks speech output will not relevant until text output is stable.
+ -PERSON6, PERSON9 talking speech-to-speech systems, research project.
+ -PERSON6 is happy to use recordings of meetings, provide summarization with with people.
+  also happy to create minutes for meetings afterwards.
+  There two main calls.
+  want comments on current handling of data meetings PERSON9 explains to PERSON6, PERSON4 deidentification tools.
+ -PERSON6 , PERSON9, PERSON12 on call.
+ -PERSON13 will send link can see translation into Hindi.
+
+
+Minuted by: Team ABC

@@ -1,0 +1,49 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON9 and PERSON7 are waiting for PERSON14.
+  There is a problem with the server room.
+  The power is not up and it will take all day today and tomorrow to fix it.
+ -PERSON7, PERSON14 and PERSON9 will ask for a postponement of the demo.
+  They need to send the email by 2 PM today.
+  There has been a new building completed for the department's school of informatics.
+  There is a risk of a power outage 2 weeks from now.
+  Organized 6 can't expand the server room and it's not possible to get a second server room.
+  Organization 14 can make a web server PERSON7, PERSON4, PERSON9 and PERSON14 discusseded how to set up a docr on a server.
+  They will test with PERSON4 the Czechs demo.
+ -PERSON7, PERSON8, PERSON4 and PERSON14 will prepare a virtual machine.
+ -PERSON9 is sending 3 machines with static addresses from which will be mostly connecting.
+ -PERSON4 is fixing a problem with MT wrapper.
+ -PERSON13 has been training models for each of the 7 source languages the ASR source languages.
+  The models are ready to deploy but they are not running on GPUs.
+  The English and German models are deployed as workers on setting the Czech one up.
+ -PERSON13 has sent the translations of using there was using the older models.
+  There are no GPUs at the moment, so they cannot translate the files with the older model just for comparison.
+  There is a risk that someone will mess up the fingerprints and they will be translating from the wrong PERSON7, the German model was running during the last test.
+  The new model was better, but there was less work.
+  The ASR segmentation workers are not accessible at the moment, so the demo was tested on the ideal conditions.
+  The demo should be ready in a week PERSON9 worked on getting the segmentor running on the virtual machine that PERSON14 provided.
+ -PERSON4 is updating the ORGANIZATION7 document on how to set up the thing.
+ -PERSON4, PERSON8 and PERSON9 are looking for the preprocessing script for FFM peg.
+  It's in the same directory as the other set up set ups.
+  The set up is always have a playlist available.
+  There's a 5-second delay at the beginning PERSON7, PERSON4, PERSON8 and PERSON14 are trying to prepare a presentation for tomorrow, but the whole Organization1 network was disrupted and they don't have a second server room of side.
+  The network administrators worked on reconfiguring the network.
+  On Tuesday night when they were running the PROJECT2 platform, whenever they connected a new machine, all they did was to open a web page on the platform, click play and click like live, which is clicking the last bit of the slider of the video and that joined the live PERSON4, PERSON8 and PERSON14 are trying to upload a video for PERSON4.
+  They are having problems with the ASR server.
+ -PERSON4, PERSON7 and PERSON14 discusseded technical issues with the presentation platform.
+  They agree that the split screen is good for the participants but bad for the audience.
+  The videos are uploaded, they are in the home of PD admin.
+  They need to figure out how to add the output from FFM peg to the PROJECT2 platform.
+  The next test session is scheduled for this afternoon.
+ -PERSON7 will PERSON7, PERSON14 and PERSON8 are trying to solve a problem with FFM peg.
+  They need to avoid buffering of the standard output.
+ -PERSON8, PERSON14 and PERSON7 discussed the issue of the delay caused by the quality of the video.
+ -PERSON4 and PERSON7 are having problems with the demo.
+  The build for the docr container succeeded.
+ -PERSON9 is uploading the train model to see if he can run it.
+
+
+Minuted by: Team ABC

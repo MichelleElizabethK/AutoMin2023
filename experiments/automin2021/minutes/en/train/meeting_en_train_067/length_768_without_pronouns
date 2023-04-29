@@ -1,0 +1,36 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON6 is on a call right now.
+  There was a call last week about the integration and the new NMTAPI.
+  There will be a deliverable in December.
+  There were some questions from person 12 about the navigation and the list produced by the empty system.
+ -PERSON1 set PERSON9 and PERSON14 are writing a paper for NASEL.
+  The quality estimation in the Czech MT system worsens.
+  Czech MT systems are as they expected, but the strongest one has the highest confidence.
+ -PERSON9, PERSON14, PERSON6 and PERSON2 discusseded the differences between the performance of the Czech two and the Czech three systems.
+ -PERSON2 and PERSON9 discusseded the data augmentation experiment.
+  The fastest system produced twice as many actions as the slow one, but the translations were worse.
+ -PERSON1 and PERSON2 are showing a graph showing the pretraining and fine tuning of monolingual back translated data.
+ -PERSON1 and PERSON2 discussed the difference between the red and blue lines and the monolingual data used in the training and the performance of the system.
+ -PERSON1 and PERSON2 discussed the differences between the red and blue curve and the monolingual data for synthetic data.
+ -PERSON1 wants to fine-tune the models and train another fine-tuning.
+ -PERSON1 and PERSON2 discussed how to improve the accuracy of their research.
+ -PERSON1, PERSON2, and PERSON11 worked on a project.
+  They want to check how the behavior of the s stem changes when the constraints are provided as lemmas.
+ -PERSON6 and PERSON2 discussed how to improve the LMT system.
+ -PERSON11 will send the Bleu score for Organization 2 today and they will discussed it later this week.
+ -PERSON13 asked her to book a flight ticket to Czech Republic.
+ -PERSON2 and PERSON6 will meet on Friday at 11 a.
+  at LOCATION1 to discussed the results of the list discussededion.
+  They will also discussed what to do next for the flective languages.
+  The implementation of the data is going well.
+ -PERSON10 worked on the implementation of the constraint translation.
+ -PERSON6, PERSON1, PERSON2, PERSON3, PERSON4, and PERSON13 will discussed it on Friday.
+ -PERSON2 and PERSON1 discusseded how to divide the money from PROJECT2's budget and how to pay the people involved in the project.
+ -PERSON2 and PERSON6 don't want to go for the vouchers.
+
+
+Minuted by: Team ABC

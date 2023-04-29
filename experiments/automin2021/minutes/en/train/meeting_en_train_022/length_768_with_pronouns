@@ -1,0 +1,43 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON2 has shared annotation user doc with the others.
+  She has put link to it into the agenda now.
+  She is not the holder of the documents.
+  She wants to divide the work among herself and others, so that less synchronization is necessary.
+ -PERSON6 and PERSON2 are looking for human annotators for the manual evaluation of meetings.
+  They will use Github for storing the files that annotators will download and distribute.
+ -PERSON2 will supervise the annotation work until the end of September.
+  They and PERSON6 will install the annotation interface in the coming 2 weeks.
+  The idea is that annotators will manually align, the items from the different meeting minutes and then based on this alignment, there will be an automatic calculation which will indicate how much of the summary PERSON1's tool is designed and planned for the alignment between the transcript and the minutes.
+  The tool is modified and used for people to align summary to summary.
+  This is the first stage of annotations.
+  People will check the candidate summary produced by a PERSON6, PERSON2 and PERSON3 are arguing about the evaluation of short and long summaries.
+ -PERSON3 has already done the segmentation of the data.
+ -PERSON6 and PERSON2 need to do the same.
+  They need to develop a fine grade manual evaluation method that works on the individual segments.
+  They have to preserve the length of the meetings and their summaries, which could PERSON6 and PERSON3 worked on a shared task.
+  They are developing an evaluation measure for the purposes of the task.
+  In PROJECT1 there was a friendly competition, but the winner was never celebrated.
+  In the shared task, everyone tries to do the same thing and PERSON3, PERSON2, PERSON8 and PERSON6 will test the hypothesis that they could run the evaluation measure with chunks of meetings and corresponding chunks of minutes.
+  If it works well, they will revise the minutes splits during the autumn.
+ -PERSON6, PERSON3 and PERSON8 will do a test with PERSON3's approach.
+  They will discussed the results next week.
+ -PERSON2, PERSON6 and PERSON8 discussed the evaluation of summaries based on the comparison of the reference minutes with the original transcript.
+ -PERSON6, PERSON1, PERSON5 and PERSON2 will do a manual evaluation based on the transcript and the summary.
+  They need to finalize their dataset by December.
+ -PERSON3's script breaks longer minutes, longer transcript into shorter ones, but the level of detail is preserved.
+ -PERSON4 will help split the dataset manually.
+ -PERSON6, PERSON3, PERSON2 and PERSON8 discussed how to divide the data.
+ -PERSON2, PERSON6 and PERSON3 worked on a project.
+  They have to split the transcript into 3 or 4 parts, 2 pages each, and then the summary follows the transcript.
+  They need to create a dataset of the short transcript snippets and the corresponding summaries PERSON2, PERSON3, PERSON4, PERSON8 and PERSON6 want to divide on some of the Czech data.
+  They want to share the data imports, the evaluation measures.
+ -PERSON3 started a workbench a year ago and he has a set of scripts that he's building PERSON6, PERSON4, PERSON8 and PERSON3 will prepare a paper.
+  The experiments were technically done, but they need to be rerun now.
+  The manual score based on the alignment best technique is already automated, but it can be reusable.
+
+
+Minuted by: Team ABC

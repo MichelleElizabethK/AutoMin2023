@@ -1,0 +1,43 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON10, PERSON5, PERSON3, PERSON4, PERSON6
+
+
+SUMMARY-
+ -PERSON4 is getting her visa this Friday.
+  She has an appointment on visa embassy.
+  She's gathering all the documents now.
+ -PERSON10, PERSON5, PERSON6, and PERSON3 will do their own minuting for the ORGANIZATION2 meeting.
+  They need to prepare around 100 hours of data for the share task.
+ -PERSON3, PERSON6 and PERSON10 discusseded the data set for the training.
+  The data set is too small for the full training, but it is acceptable for some form of fine tuning, or, the like the development set.
+  The participants should be allowed to keep half of PERSON10, PERSON3 and their team will use ORGANIZATION1 data from 2006 to 2011.
+ -PERSON10 wants to know how to prepare a web page with the minutes of the previous sitting and how to access them.
+  The minutes are available on the web.
+  They, PERSON3 and PERSON6 discusseded how to prepare a sample of this report and send it to the organiser.
+ -PERSON6 and PERSON10 discussed the organization's project guidelines.
+  They discussed the structure of the project.
+  They agree that the project should have 3 tracks: ORGANIZATION1, ORIG2 and PROJECT1.
+  There should be a test set with 3 underlying data sets PERSON10 explains to PERSON3 how to repackage it.
+ -PERSON10, PERSON3, PERSON5 and PERSON6 are on a conference call.
+  They need someone who can download the data from the open acces and provide it as the training data.
+ -PERSON5 and PERSON10 want to include ORGANIZATION1 in the share task.
+  They need to redo what has been done by the open academic corpora and prepare a data set for the participants to make it easy.
+  The data set should include the transcripts and summaries PERSON3, PERSON5 and PERSON10 worked on a project.
+  They need to prepare a summarization corpus for their shared task.
+  They decide to take the whole ORGANIZATION1 minutes corpus and pack it with existing minutes and publish it as a separate project.
+ -PERSON10 is happy to sign again yet, but needs to find the person who is familiar with Wget to download and prepare the corpus.
+ -PERSON3 asks PERSON10 for a template for the hard data.
+  They sends him a link to a presentation by a colleague of ORGANIZATION5.
+  They and PERSON10 discussed the format of the corpora and the speaker diarization details.
+  They agree to use the XML format that they already have and to prepare the data in the same way.
+ -PERSON3, PERSON10 and PERSON6 will work on organizing the ORGANIZATION1 corpus.
+ -PERSON1 uploads data in English, but he has uploaded fast, but only in English for the moment.
+ -PERSON3, PERSON10, PERSON5, PERSON6, and PERSON10 are going through the data.
+  They need to organize it according to the dates and the names of the sessions.
+  They decide that PERSON6 will work with the data and annotate it.
+ -PERSON5 has sent a link to the source for the machine translation work.
+ -PERSON6 got it, but there is a limit in the downscale.
+  The source was released in 2011 as part of the parl corpora for machine translation.
+
+
+Minuted by: Team ABC

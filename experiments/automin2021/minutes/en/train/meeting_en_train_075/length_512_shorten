@@ -1,0 +1,41 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON16, PERSON15 going to start talking.
+ -PERSON22 has deadline in six days working on thesis.
+  She consults with PERSON21 might do domain adaptation for demo of PROJECT3 project like Per , PerTalk domain adaptation PERSON12 is using data from PERSON12 for thesis.
+ -PERSON16 is preparing for demo meeting on Friday.
+ -PERSON16 to make backup copy of everything is de deployed.
+  Organization 2 could not connect to machines , servers room.
+  Organization 3 spare copy of segmenter system , it not fully functional.
+ -PERSON4 , PERSON3 , PERSON7, PERSON9 going to share results of evaluation of two systems for demo.
+ -PERSON9 is fixing Czech segmenter delay for submission of core project.
+  Friday PERSON9 collected data from writing of subtitling, has not done anything with it yet.
+  hand , PERSON4 , PERSON5 , PERSON15 working on evaluation of spoken language translation.
+ -PERSON4 wants to try modifications of Rainbow model to improve performance on ugly ASR outputs.
+  also wants to make subtitles easier to follow by shortening them.
+ -PERSON7 will focus on shortening of translation, stability of model.
+ -PERSON9 will write it on document.
+ -PERSON4 , PERSON2 , PERSON3 , PERSON19, PERSON16 trying to arrange demo on Wednesday , do not know if it will happen on Friday.
+  need to prepare dry run session for demo, invite of to help them with PERSON4 asks PERSON10, PERSON6 to prepare baseline workers, also domain adapted including language model.
+ -PERSON16 sends short three-minute transcript of demo to PERSON4.
+ -PERSON4 will correct 3-minute-long short video.
+ -PERSON11 will split videos into four files : English, Czech for first one , full in English , full in Czech.
+ -PERSON21 is cutting videos have separate English track, PERSON4 asks PERSON16, PERSON10 to prepare transcripts for non-adapted workers.
+  deadline for is for Friday next Friday.
+  will measure scores as well for when PERSON6 injects Czech language model later.
+ -PERSON22 will get in touch with PERSON12 to get domain data from him.
+  will put videos, data to one talk level adaptation sub drive.
+ -PERSON16 , PERSON4 , PERSON19 , PERSON21, PERSON22 going to meet on Thursday morning.
+  need to organise demo , vid video, data sources talk level adaptation in specific directory.
+  data from PERSON12 used to create adapted PERSON22, PERSON4 want to train ORGANIZATION4 system based on one provided by PERSON21.
+  want to put it into back of heads as improvement for English , ASR system.
+  need to prepare set of test sessions PERSON16 , PERSON4, PERSON22 going to prepare demo document for PROJECT3 system.
+  need to make copies of models will used in demo.
+  workers have to signed with unique signature.
+  also need to have PERSON7 wants to know worker actually used.
+
+
+Minuted by: Team ABC

@@ -1,0 +1,25 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON5 worked on the karaoke and has some doubts about the regulation that now applies to her.
+ -PERSON3 explains to her how the forced aligner works.
+  They and PERSON5 are doing a karaoke.
+  They want to do a quick visual inspection of the word, word aligned, or word time stamped transcripts for the IWSLT test set anonymisation.
+  They explains to PERSON5 how to produce a web VTT renderer.
+ -PERSON3 and PERSON5 need a script to convert the output of the forced aligner into the karaoke, into the VTT and the growing sentences into the web VTT.
+  They explains to PERSON5 how to get the original sound transcript transcribed from OST to OSTT.
+  The OST files contain only one sentence per line and have no time stamps.
+  There are some issues with the forced aligner.
+ -PERSON3 and PERSON PERSON3 explains to PERSON5 that the forced aligner doesn't accept lower case letters, no punctuation and no upper case letters.
+  It accepts apostrophes and lower case numbers, but not numbers.
+  It should be spelled out in numbers.
+ -PERSON5 needs to prepare the log directories for the ORGANIZATION1 system for the mock conference.
+  She also needs to do the ASR and generate the MNTs for each of the 6 channels separately.
+ -PERSON3 informs PERSON 5 that the Pexip room will be booked for 2 minutes more only and then it will possibly close.
+ -PERSON 5 doesn't have to come there in person.
+ -PERSON 3 will be in the office in the afternoon from about 3, 4ish till about 7.
+
+
+Minuted by: Team ABC

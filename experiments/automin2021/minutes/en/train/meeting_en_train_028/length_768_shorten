@@ -1,0 +1,49 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON9, PERSON7 waiting for PERSON14.
+  There is problem with server room.
+  power is not, it will take day today, tomorrow to fix it.
+ -PERSON7 , PERSON14, PERSON9 going to ask for postponement of demo.
+  need to send email by 2 PM today.
+  There has new building completed for department school of informatics.
+  There is risk of power outage 2 weeks from.
+  Organized 6 ca not expand server room, it is not possible to get second server room.
+  Organization 14 can make web server PERSON7 , PERSON4 , PERSON9, PERSON14 discussing to set docr on server.
+  going to test with PERSON4 Czechs demo.
+ -PERSON7 , PERSON8 , PERSON4, PERSON14 going to prepare virtual machine.
+ -PERSON9 is sending 3 machines with static addresses from will mostly connecting.
+ -PERSON4 is fixing problem with MT wrapper.
+ -PERSON13 has training models for of 7 source languages ASR source languages.
+  models ready to deploy not running on GPUs.
+  English, German models deployed as workers on setting Czech one.
+ -PERSON13 has sent translations of using using older models.
+  There GPUs moment , can not translate files with older model for comparison.
+  There is risk someone will mess fingerprints, will translating from wrong PERSON7 , German model running last test.
+  new model better , less work.
+  ASR segmentation workers not accessible moment , demo tested on ideal conditions.
+  demo ready in week PERSON9 is working on getting segmentor running on virtual machine PERSON14 provided.
+ -PERSON4 is updating ORGANIZATION7 document on to set thing.
+ -PERSON4 , PERSON8, PERSON9 looking for preprocessing script for FFM peg.
+  in directory as set set ups.
+  set is always have playlist available.
+  There 5-second delay beginning PERSON7 , PERSON4 , PERSON8, PERSON14 trying to prepare presentation for tomorrow , whole Organization1 network disrupted, do not have second server room of side.
+  network administrators working on reconfiguring network.
+  Tuesday night when running PROJECT2 platform , whenever connected new machine , to open web page on platform , click play, click like live , is clicking last bit of slider of video, joined live PERSON4 , PERSON8, PERSON14 trying to upload video for PERSON4.
+  problems with ASR server.
+ -PERSON4 , PERSON7, PERSON14 discussing technical issues with presentation platform.
+  agree split screen is good for participants bad for audience.
+  videos uploaded , in home of PD admin.
+  need to figure to add output from FFM peg to PROJECT2 platform.
+  next test session is scheduled for afternoon.
+ -PERSON7 will PERSON7 , PERSON14, PERSON8 trying to solve problem with FFM peg.
+  need to avoid buffering of standard output.
+ -PERSON8 , PERSON14, PERSON7 discuss issue of delay caused by quality of video.
+ -PERSON4, PERSON7 problems with demo.
+  build for docr container succeeded.
+ -PERSON9 is uploading train model to see if he can run it.
+
+
+Minuted by: Team ABC

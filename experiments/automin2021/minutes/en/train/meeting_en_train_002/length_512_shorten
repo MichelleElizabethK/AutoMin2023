@@ -1,0 +1,46 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON9 has officially started working with team.
+  will help with Organization 5, Project 4 implementation.
+  project 7 integration supposed to done by end of last month two months ago , it not.
+  user interface team have implemented it.
+ -PERSON4 , PERSON8, PERSON7 happy with implementation of back translation.
+ -PERSON11 is not sure to implement nbest list navigation into PROJECT7.
+  will ask it on next call.
+ -PERSON8, PERSON11 want to create single module can have functionality of PROJECT7 in single place.
+  want to increase number of segments from 2B to 2C.
+ -PERSON11 , PERSON8, PERSON4 want to know when next conference is, is going to work on analysis of data.
+ -PERSON4 , PERSON11, PERSON8 going to write two papers with slightly different data.
+  have to ask Estonians, Czechians to assess translation evaluate results.
+ -PERSON4 , PERSON7 , PERSON8, PERSON11 want to postpone paper.
+ -PERSON7 , PERSON11 , PERSON8, PERSON4 going to try to meet deadline for Organizing 7.
+  If miss it , next one would January PROJECT8.
+  There is ten times data to annotate, it is not easy.
+ -PERSON4 explains to PERSON8 difference between back translated data, monolingual data.
+ -PERSON4 is working on system translates English into Czech.
+  results similar between pretraining phase, fine tuning phase.
+ -PERSON4 is working alone on augmentation branch of experiment.
+  diverged from main motivation of project PROJECT9.
+ -PERSON7 wants to get PROJECT4, running for, students.
+ -PERSON4 is compiling PROJECT4 for TLL 1, 8, different one for TLLs.
+ -PERSON8, PERSON6 training new EnglishCzech module.
+  have blue score of 27.
+  going to train for couple of data sets PERSON6 , PERSON7, PERSON8 trying to figure to compare different approaches.
+ -PERSON6 suggests using TFIDF for variants, using three left references as source of constraints.
+ -PERSON7, PERSON8 considering system restricts system, pushes it to produce output similar to references.
+  need to select small set of options, evaluate them in annotation exercise.
+  One of them has 50 references per sentence.
+  one has four thousand three hundred references for sentence.
+ -PERSON6 is thinking to measure many constraints work.
+ -PERSON7 is wondering if PERSON9 is happy , it is third day in practice.
+  In COVID pandemic , restrictions getting harsher.
+ -PERSON6 is worried number of people dying.
+  There many deaths compared to population of LOCATION1.
+ -People do not seem to worried.
+ -Person6 is working on getting visa.
+
+
+Minuted by: Team ABC

@@ -1,0 +1,33 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON12 is supervising the creation of the PROJECT1 test set and the edible SLT test set.
+ -PERSON12, PERSON11 and PERSON3 will talk about the tools that are necessary for the evaluation of the project.
+ -PERSON12 wants to set up a visualizer to validate the source channels for a live sessions.
+  She also wants to release a set up to clean up the cruise control set up.
+  She wants to help her students, Suni and Suni's English ASR and her Czech AS There are many bugs in the segmenter.
+  One of them is a configuration bug.
+  The other one is a communication issue.
+  There is an issue with the ASR with more number of source.
+ -PERSON12 needs to change his or her daily routine and get used to checking the list of issues and ticking them off in the issue tracker.
+  He doesn't know what to do when he has an error in the pipeline.
+ -PERSON11 has prepared 21 languages test set and uploaded 6 languages on the GitHub.
+ -PERSON13 is supervising him and PERSON13 should be in close touch with PERSON11.
+ -PERSON12 wants to streamline the work of the ASR system for edible SLT share task.
+  The ASR workers are not much better than before.
+ -PERSON4 is starting to train his implementation in English.
+ -PERSON8 is also trying to train another Project6 based ASR.
+ -PERSON6 will reformat the MT wrapper and online text events.
+ -PERSON8 is training the PROJECT6 co ORGANIZATION4 common voice English ASR.
+ -PERSON8, PERSON12 and PERSON14 discussed how to train a language model on similar text as the MT model.
+ -PERSON3 suggests integrating the segmentor with the Czech ASR.
+ -PERSON12, PERSON14, and PERSON6 discusseded the implementation of the cruise control system.
+  The system is integrated, but there are some parts that are not.
+  There are scripts which run the worker on the coster.
+  There is a need to increase the set of PERSON11 and PERSON10 need to gather monolingual data, in all the 42 languages, and translate it to English with the models by PERSON10.
+  They need to put it on the ORGANIZATION6 disc.
+
+
+Minuted by: Team ABC

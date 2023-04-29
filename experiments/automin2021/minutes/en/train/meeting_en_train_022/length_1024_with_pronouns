@@ -1,0 +1,37 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON2 has shared the annotation user doc with the rest of the team.
+  She has also put it into the agenda.
+  She wants to divide the work among themselves, so that less synchronization is necessary.
+  They have extra funding to be spent before the end of the year.
+ -PERSON2 is developing a Python-based tool that will be used for the annotation of documents.
+  The tool is in a good shape, but the distribution of files is not yet finished.
+ -PERSON1 will be busy until the end of September.
+ -PERSON8 will be responsible for the implementation PERSON6 and PERSON3 agree that human evaluation is more credible than automatic evaluation.
+ -PERSON3, PERSON6 and PERSON8 are arguing about the length of the meetings and the evaluation of the summaries.
+  Their segmentation of the data is taking off.
+  Someone needs to validate whether the segmentation makes sense.
+  There are two ways of looking at shared tasks.
+  One is the friendly competition and the other is the evaluation measure for the purposes of the shared task.
+ -PERSON6, PERSON3, PERSON2 and PERSON8 will do a blind evaluation of the data.
+  They are designing the evaluation measure on the go, at the same time as designing the systems that do the task.
+ -PERSON6, PERSON2 and PERSON8 discusseded a method of evaluation for machine translation.
+ -PERSON2 is not satisfied with the quality of the manual minutes.
+ -PERSON6 and PERSON8 agree that the manual evaluation should be based on the transcript and the summary.
+  They need to finalize their dataset by December.
+ -PERSON3's script breaks longer minutes, longer transcript into shorter ones.
+  Their script is generalizing too much.
+  It's better to split up the data manually and check if it's good quality.
+ -PERSON2, PERSON3, PERSON8 and PERSON6 discusseded how to organize the data.
+  They agree that people who create the data should create shorter samples, 2 pages summaries, 10 page transcripts and 2 page summaries and split them into 3 or 4 parts.
+ -PERSON6, PERSON1, PERSON2, PERSON3, PERSON4 and PERSON8 will split the evaluation of their experiments into two parts: the alignment and the evaluation measure.
+ -PERSON3 has started a workbench already a year ago and he has used the data from it PERSON4 has a paper.
+ -PERSON4, PERSON4 and PERSON2 have the same link over document.
+  The deadline has been extended to early October.
+  The experiments were technically done, but they need to be rerun now.
+
+
+Minuted by: Team ABC

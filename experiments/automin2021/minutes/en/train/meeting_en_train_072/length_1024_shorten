@@ -1,0 +1,25 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON14 , PERSON16 , PERSON6 working on project for VAT wide group , is in end of June.
+  need 2 texttotext clients , repository with sample clients , C sample code , tests.
+  There is PERSON14 wants PERSON2, PERSON3 to create Python client, Python libraries for them.
+ -PERSON6 does not have access to Python repository on GitHub.
+ -PERSON16 suggests commandline example to use search button.
+  mediator is installed on server is VPN connection.
+  logs from workers run on servers ca not accessed , distributed, logs have to provided by ORGANIZATION3.
+  ASR workers specific firewall rules.
+ -PERSON6 explains to PERSON14, PERSON15 what segmentation workers do, work.
+ -PERSON12 is not sure if will able to train subsentencelevel systems in time.
+ -PERSON6 is busy preparing for demo ORGANIZATION3.
+ -PERSON14, PERSON7 working on integration of PROJECT3 e MT PRO Project3 server to ORIZATION8 platform.
+  have systems do translation into German , English PERSON11 will link GitHub page to , em , MT worker systems.
+ -PERSON14 will prepare graphical user interface to connect sources into MT mediators , to choose stream sources for , transcription output.
+ -PERSON14 , PERSON16, PERSON6 going to prepare Web application, commandline application to show subtitles as going on.
+  event is on last weekend of June , 28th until 30th of June.
+  There is meeting of maybe 15 PERSON7 is bit worried might not able to make decision early.
+
+
+Minuted by: Team ABC

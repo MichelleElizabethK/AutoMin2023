@@ -1,0 +1,17 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON5 worked on the karaoke and has some questions about the procedure.
+ -PERSON3 explains to him how the procedure works.
+  They and PERSON5 discussed how to prepare web-based subtitles for video streaming.
+ -PERSON3, PERSON5 and PERSON1 need to convert the output of the forced aligner into the growing sentences of the karaoke, into the VTT.
+ -PERSON5 explains to PERSON3 that the original sound transcript transcribed from the forced aligner is not the same as the OST files which are manually revised files containing only one sentence per line and have time stamps.
+  The OSTT files contain the audio playing in the background PERSON5 wants to know which version of the ORGANIZATION1 system was in use for the mock conference.
+  The forced aligner accepts lower case letters, no punctuation and no upper case letters.
+  The numbers are not acceptable in the aligner, so they need to be PERSON3 will be in the office in the afternoon from 3, 4ish till about 7 or 8.
+  Pexip room will be booked for 2 minutes more only and then it will possibly close.
+
+
+Minuted by: Team ABC

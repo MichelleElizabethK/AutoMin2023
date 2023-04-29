@@ -1,0 +1,41 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON9 , PERSON13 , PERSON16 , PERSON4 , PERSON11, PERSON17 test run tomorrow in afternoon.
+  need separate mediator for different workers, different sessions.
+ -PERSON17 wants to set second instance machine.
+  needs quick meeting as ORGANIZATION2, will select ports, share them with everyone.
+  details of mediator will available in document.
+ -People need to prepare computers PERSON9 , PERSON10 , PERSON16 , PERSON8, PERSON9 on conference call.
+  discussing preparations for Organization 11 congress.
+  need to gather audio, record audio as test case.
+  also need to record interaction between AS PERSON9 will make sure document ORGANIZATION8 document is to date with requests.
+  incremental ASR not working as it described by Organization 5.
+  timestamps missing from logs, updates.
+  text client worked fine PERSON8 has problem with real time mode of text client.
+ -PERSON14 recommends to use real-time mode , it does not solve problem.
+ -PERSON8 wants to record video of presentation layer.
+  There is not enough space in subtitle window to display paragraph , need to split text into two lines of text.
+  There two-day experiment on second day of last event.
+  One of implementations fast, one slow.
+ -PERSON16 is working on speaker adaptation ASR for congress in May next year.
+  interpreter does not read from standard input.
+  server does not shut properly.
+ -PERSON14 , PERSON8, PERSON3 trying to work what to do with timestamps.
+ -PERSON14, PERSON8 problems with text client.
+  text client accepts audio as input , it does not attach timing information to it.
+  timestamps lost when it sends text.
+  timing information is passed pipeline.
+ -PERSON8 does not understand he got weird ASR output.
+ -PERSON17 , PERSON8, PERSON14 arguing implementation of pipeline.
+  trying to figure of timestamps removed from log file.
+ -PERSON14, PERSON17 working on presentation.
+  need to address issue between, text clients.
+ -PERSON17 ca not access intermediate logs moment do not have correct timestamps.
+ -Person14 wants immediate access to intermediate logs.
+ -Person17 wants to check if ASR workers outputs.
+
+
+Minuted by: Team ABC

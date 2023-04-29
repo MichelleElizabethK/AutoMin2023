@@ -1,0 +1,73 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+
+  In the ORGANIZATION7 document, a dominant has drawn a picture, which highlights everything that they need for the mediator.
+  They expect audio input, either English speech or Czech speech.
+  The mediator will produce English words and send them to ASR, who will concaten PERSON21, the first one will be the one showing the subtitles.
+  The students coming to the presentation will be presenting 90 seconds each, some quick presentation of their country.
+  They need to record the voices into separate files and save the automatic transcripts as obtained by the causeway ASR PERSON17 wants to know if workers can be connected to the same pipeline all the time.
+  If so, how do they save the data? PERSON21 wants to have two workers for recording, one that will keep the log of the speech, recording and one that would save the individual presentations.
+  The second worker must not interrupt the session, and it has to be connected all the time, so that it saves separate files.
+  The session is being recorded for the purposes of minuting making a data set for PROJECT1.
+  There is a slack space for Project1, but PERSON8 doesn't use it.
+ -PERSON17 wants to know more about the running of the register services.
+  The registered services are all the running workers.
+  There are two sessions of the same worker, the German ASR and the English speakers.
+ -PERSON17 will present the physical layout of the presentation.
+ -PERSON21 is responsible for the video mixing of subtitles and presentations and recording of everything for later use.
+ -PERSON21 will borrow a robot from the school of informatic under the condition that it will actively perform in the presentation.
+  The wiring for the main stage needs to be negotiated and discusseded with the organizers of the fair.
+ -PERSON21 is looking for the headset mics.
+  Organization 2 will negotiate their connection with PERSON7.
+ -PERSON21, PERSON17 and PERSON15 will meet with PERSON7.
+  They need someone to provide them with the presentations that they need subtitles to mix into.
+  They expect them to have either VGA or HDMI as an input.
+  They also expect a video mixing notebook to be PERSON21 and PERSON17 are preparing a speech for a competition.
+  They need to bring a separate laptop, two notebooks, wired connection.
+  They also need to check the internet configuration, the IP address, the DHCP address, and the overall bandwidth.
+ -PERSON21 and PERSON14 confirm they need a reliable wired connection for the audio.
+  They need to talk to the technical people in advance to double check the IP config, and the firewall.
+  They will go to the place where the fair trade will take place on the 19 after 2 PERSON1, PERSON7, PERSON21 and PERSON11 are preparing a fair trade competition.
+  The competition starts on Wednesday in the afternoon.
+  On the 19th in the morning, the company will install the main wires.
+  The second stage is where the clearest voice will be happening.
+ -PERSON21 doesn't think it will be possible to have two separate channels for the two speakers at the same time.
+ -PERSON2 should check with PERSON7 to learn if they can have more than one channel.
+ -PERSON21 will check with PERSON7 how to connect their headsets to the same mixing device so that it gets both amplified for the participants the sitting in the auditorium as well as for the notebook to send it to.
+ -PERSON17, PERSON2, PERSON21, PERSON5 and PERSON1 will meet on Wednesday from 9 AM to 12 PM to prepare the offline demo and test if everything is running.
+ -PERSON5, PERSON1, PERSON21 and PERSON7 will the offline show from Wednesday to Friday.
+  On Thursday there will be a competition during the whole day, and on Friday there is a half day only half day.
+  There is a transcription space where participants will transcribe PERSON21 is looking for a video recording device.
+  Epiphan is no longer available, because they have moved to more expensive devices.
+  AverMedia is a recording device for gamers, but it's mainly game capturing.
+ -PERSON21 is looking for a new external video grabber for Epiphan.
+  The old one is broken and expensive.
+ -PERSON21 will order a new TDS system.
+  They need to set up the software first.
+  They have a colleague who could help them with this.
+  The colleague of PERSON21 has worked with Nao and to one of the occasions it stopped working.
+  The recording will be done by a worker and the saving will be rather a worker from the point of view of the mediator.
+  The ASR will work into stages, first emitting words and then consuming them into sentences and emmiting them as sentences.
+  The last four items are text PERSON21 has to train models for Czech for the second part, the segmenter for MT.
+  Czech will be spoken only rarely at the presentation venue, so they mainly need English.
+ -PERSON21 will talk to PERSON14 later on about the technical details of the call.
+  There is a dress code for the participants.
+ -PERSON3 is not able to ping the mediator to ORGANIZATION4.
+ -PERSON21 will ask his colleague PERSON6 to present the current status of the machine translation.
+ -PERSON3, PERSON5 and PERSON21 will test the system.
+ -PERSON5 will send them the sample command line to test it.
+ -PERSON21 wants to start workers for Italian, French and Spanish as a dry run for the for the ORGANIZATION3 setups.
+ -PERSON21 wants to know how to present additional subtitles to the participants.
+  Organization 1 does not have a webpage for ORGANIZATION4.
+  Organization 2 has a webpage, but it is not compatible with the current platform.
+  Organization 4 has a PERSON21, PERSON17 and PERSON8 are going through a very complicated list of questions.
+  They want to know if they will be able to present the translation something collect.
+  They need to have the machine translation system tested this week and fix the bugs next week.
+ -PERSON21, PERSON14, PERSON3 and PERSON17 will order the Epiphan from the eshop Organization8.
+ -PERSON21 and PERSON21 will see each other in two weeks from now.
+
+
+Minuted by: Team ABC

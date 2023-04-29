@@ -1,0 +1,48 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON17, PERSON16, PERSON13, PERSON1, PERSON9, PERSON5, PERSON20, and PERSON23 are on a conference call.
+  They have to write system papers in 4 or 3 days.
+ -PERSON16 explains to PERSON17 how the ASR works.
+  They want to make sure the tables are complete before the deadline.
+  They dropped Antrecorp as an ASR because it's unstable.
+  The ORGANIZATION3 ASR system by PERSON10 was trained on ORANIZATION5 corpus, so it was not affected by the choice.
+  The LOCATION1 city is run by several organizations, one of them is about the new development.
+  They have weekly meetings and they agreed to have their meetings recorded.
+ -PERSON17 will send them a ZOOM link with the link to the only the view and not the subtitles.
+ -PERSON PERSON17 wants to know the status of the edible SLT test set.
+ -PERSON14 worked on it, but the ASR files are not ready to be evaluated yet.
+  Some of the files are correct and some are not.
+  If there is a technical difference between them, it means that it has to be manually revised.
+  If it's a word level annotated file, it's better to use the EAF file, because it has the time stamps.
+ -PERSON14 will correct the EAF files based on the sound.
+ -PERSON17 prefers to correct them based on OSTT files.
+  They will prepare a complete list of mismatches and send it to PERSON17 and PERSON18.
+ -PERSON3 will link to the table where there is each of the files.
+  They want to see the overall status of the queues and the number of annotators waiting.
+  He wants to give them some work.
+ -PERSON13 and PERSON9 need to start using the PROJECT1 test set.
+  He also wants the cruise control to start running manually, so that PERSON17's network connection is very bad.
+  He's working on the edible SLT segmentation and punctuation.
+  There are technical issues with the R programming language.
+  The R language is extremely old and it didn't change in the last 6 years.
+ -PERSON16 has done all the technical work for the system description papers.
+  The system papers are due April 24th.
+ -PERSON5 will write a separate paper on her thesis.
+  She submitted ASRSLT to Czech and SLT to German.
+  The quality of the translation was horrible.
+ -PERSON9 created a new rainbow worker for German and PERSON15 a new worker for that language.
+  The translation model used by PERSON16 is different from the one in PROJECT2 or ORGANIZATION1.
+  They evaluated blascors of all the systems and passed them to PERSON9 in his spreadsheet and PERSON16 did the copy.
+ -PERSON17 saw the table in the morning from PERSON16.
+  The first sheet is the machine translation system, the second column is the ASR, the PERSON17 will run the online submissions on all parts of the test set and send the results to PERSON1, PERSON14 and also PERSON20.
+  They want to know which system is better for ASR and which one for MT.
+  The ORGANIZATION2 and models are very similar, but Google scored slightly better.
+  The PERSON10 system scored better in terms of ASR, but Microsoft somewhere in the middle.
+  The PERSON3 has to resend the link from PERSON4 for and other languages.
+ -PERSON17 wants to check the outputs that PERSON18 sent.
+
+
+Minuted by: Team ABC

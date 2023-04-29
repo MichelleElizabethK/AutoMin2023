@@ -1,0 +1,25 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON14, PERSON16, and PERSON6 worked on a project for VAT wide group, which is in the end of June.
+  They need 2 texttotext clients, a repository with sample clients, the C sample code, and the tests.
+  There is no PERSON14 wants PERSON2 and PERSON3 to create a Python client and Python libraries for them.
+ -PERSON6 doesn't have access to the Python repository on GitHub.
+ -PERSON16 suggests a commandline example how to use the search button.
+  The mediator is installed on the server which is under VPN connection.
+  The logs from workers which run on some servers can't be accessed, because they are distributed and the logs have to be provided by ORGANIZATION3.
+  The ASR workers are under a specific firewall rules.
+ -PERSON6 explains to PERSON14 and PERSON15 what the segmentation workers do and how they work.
+ -PERSON12 is not sure if they will be able to train subsentencelevel systems in time.
+ -PERSON6 is busy preparing for the demo at ORGANIZATION3.
+ -PERSON14 and PERSON7 worked on an integration of PROJECT3 e MT or PRO Project3 server to the ORIZATION8 platform.
+  They have systems that do translation into German, English PERSON11 will link the GitHub page to their, em, MT worker systems.
+ -PERSON14 will prepare a graphical user interface to connect the sources into MT or mediators, or to choose the stream sources for, the transcription output.
+ -PERSON14, PERSON16 and PERSON6 will prepare a Web application and a commandline application to show subtitles as they are going on.
+  The event is on the last weekend of June, 28th until the 30th of June.
+  There is a meeting of maybe 15 PERSON7 is a bit worried that they might not be able to make a decision too early.
+
+
+Minuted by: Team ABC

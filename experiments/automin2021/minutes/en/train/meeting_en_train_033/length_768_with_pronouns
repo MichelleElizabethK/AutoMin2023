@@ -1,0 +1,47 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON9, PERSON13, PERSON5, PERSON16, PERSON4, PERSON11 and PERSON4 are having a meeting on Wednesday afternoon.
+  Thursday is national holiday in Germany and Friday off, so Thursday is the only day of the week that people can work.
+  The test run will PERSON17 wants to set up a separate mediator for the LOCATION1 session.
+ -PERSON9, PERSON11, PERSON3 and PERSON14 agree to do it.
+  The details of the mediator will be available in the ORGANIZATION8 Document.
+ -PERSON9 asks PERSON11 to highlight the languages that can be supported in the subtitling platform.
+  There is a problem with the streaming of slides to the presentation platform of ORGANIZATION2.
+ -PERSON2 and PERSON19 put together the scripts for this in LOCATION2 during PERSON9 and PERSON16 will record the audio from the PROJECT1 session in order to have a clean collection of things that are repeatedly usable and can be a basis of a test set.
+  They will let everybody know when the document is up to date with all the The incremental ASR wasn't working as described by ORGANIZATION5.
+  The timestamps were missing, so there was no way for us to tell the difference between stable text and unstable text.
+  The text client works fine but the text client doesn't match the text exactly.
+  The PERSON8 and PERSON14 haven't had a dry run since then, so they don't know how to how to debug this.
+  There is a real time mode, but it didn't work in the dry run.
+ -PERSON4, PERSON8, PERSON2 and PERSON16 are trying to figure out how to record the audio of the new meeting.
+  They need to monitor all sound channels and record the presentation layer.
+ -PERSON16 and PERSON17 worked on a system to improve ASR models.
+  They need a test case to find one.
+ -PERSON17 explains to PERSON16 and PERSON2 the differences between the old and the new implementation of the text editor.
+  They, PERSON9, PERSON16 and PERSON14 are talking about the implementation of the interpreter's interpreter.
+  The interpreter interpreters have too many problems with catching interpreting and they don't have time to follow ASR.
+  The session should be closed properly so the client can PERSON16 and PERSON17 worked on Czech ASR.
+  The server doesn't notice that the socket is closed, because it's on a long timeout.
+  The interpreter interpreters don't want to see the whole, whole output, only some specific times.
+  There is a way PERSON8 is looking at the logs and the offsets are empty.
+  Timestamps are necessary components to know when you see two sections of the text with the same timestamp but they are not always populated in the packages.
+ -PERSON16, PERSON8 and PERSON14 worked on a project.
+  As a consortium they want to create a reasonable big non native English speech output.
+  The text client accepts audio as an input, but the timestamps from the ASR are lost when the text client PERSON8 doesn't understand why the empty worker can't access the timing information from the audio client to text client.
+ -PERSON14 explains it's due to the chopper.
+ -PERSON8 and PERSON14 don't understand why they can't get the time offset from the audio.
+  They and PERSON8 are arguing about the implementation of the Project 1 live demo.
+  They are trying to figure out why some timestamps are removed from the log file and replaced with bogus ones.
+  There was a strange pattern in the start and stop time of the logs.
+  It could be related to multiple clients.
+  The EB client only runs the ASR and then feeds the audio information into the text client.
+  If it doesn't work, the pipeline doesn't produce useful results.
+  The PERSON14 and PERSON17 worked on a presentation platform.
+  The presentation platform needs to be implemented as part of the presentation platform because it cannot be run of the separate script somewhere.
+  They need to address the issue between the and text on, their in their all their segment worked.
+
+
+Minuted by: Team ABC

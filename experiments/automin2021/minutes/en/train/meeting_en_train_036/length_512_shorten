@@ -1,0 +1,31 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+
+  has questions regulation applies to him.
+ -Person3 explains to him what forced aligner does, it works.
+ -PERSON3 explains to PERSON5 system works.
+ -PERSON3, PERSON5 looking for way to improve quality of transcripts.
+  promising approach is web based subtitles.
+ -PERSON3 has not read IMSC1 specification yet.
+ -Person5 has already chunked, segmented audios, needs to concatenate audio segments.
+ -PERSON3, PERSON5 need to shift time stamps to get audio to properly captured inside karaoke files.
+ -PERSON5 needs to create script to convert growing sentences of PERSON1 into web VTT for life view of of files.
+ -PERSON5 is confused difference between original sound transcript, OSTT.
+  will use PERSON1 sript to show difference.
+ -PERSON3 , PERSON2, PERSON5 discussing problem with ASR.
+  ASR has added feature allows it to process full words , it does not always work properly.
+ -PERSON3, PERSON5 talked alphabets in forced alignments.
+  Czech model accepts lower case letters , punctuation, upper case letters.
+  English model accepts apostrophes, numbers , need to do trick with numbers to spell PERSON5 needs to prepare log directories for mock conference.
+  audio recordings have 6 channels , PERSON3 needs to separate them, do ASR.
+ -PERSON5 needs to prepare logdirs for of channels separately.
+  start time as channels.
+  need to check of English versions is better.
+  interpreter needs to get English MT from French ASR, Czech MT from PERSON3 will in office in afternoon from 3 , 4ish till 7 8.
+ -Person5 does not have to come to office.
+
+
+Minuted by: Team ABC

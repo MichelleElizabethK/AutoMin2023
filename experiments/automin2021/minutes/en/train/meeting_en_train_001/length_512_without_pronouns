@@ -1,0 +1,34 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON13 is busy with the IW SLT, writeup, interviewing people to replace those who are moving forward and preparing the demo for Project Officer.
+ -PERSON6 did some work on Czech ASR, the input in the PROJECT3 deliverable of for the punctuator PERSON13 will update the German and English transcripts for the English videos.
+ -PERSON7 has split the video between English and Czech, so the English part should be more reliable, but the Czech part has been done simply by using the other ends.
+  There is some serious mismatch between the files PERSON13 wants PERSON6 to check the quality of the audio files for German and English PROJECT1.
+  She also wants to know the timing of the testing sessions.
+ -PERSON13 wants to know if they have a substitute site for each of their systems for Thursday's Project3 call.
+ -PERSON6 has already created a backup of all the systems.
+ -PERSON13 suggests Organization 2 to run PROJECT1 models, Organization 1 to run Project2 models and Organization PERSON13 and PERSON19 have been working on evaluation of the PROJECT1 and ASR submissions for the IWSLT last week.
+  They have a problem with calculating the bleu score.
+ -PERSON13, PERSON18 and PERSON19 are arguing about the use of space tokeniser and enverse segmenter in the IWSLT.
+ -PERSON13 doesn't have the source code for the enverse segmenter.
+ -PERSON18 informs him that there is a paper with the code for it, but there is no source code.
+ -PERSON13 needs to implement it in the first level of his work.
+ -PERSON19 advises him to PERSON13 wants PERSON19 to write down the new assignment on how to handle tokenisation in SLTF.
+ -PERSON13, PERSON18, PERSON6 and PERSON13 will meet the internal deadline on the 8th.
+ -PERSON18 has found a tool that can measure out the speech rate by cutting the syllables, one that can detect the gender of speaker and some other characteristics, and PERSON13, PERSON6, PERSON18 and PERSON5 have to prepare a 15-minute presentation for IWSLT by June the 17th.
+ -PERSON13 wants to demo the task that was in IWSLT.
+  He wants to record 2 minutes of the 3-minute video from the Czech into English and other languages and 1 minute of one of the Antrecorp videos.
+ -PERSON13 will send PERSON19 a file with the ASR quality.
+ -PERSON10 has been playing with the PROJECT2 server.
+ -PERSON13 would like to have a set-up which does not rely on mediator.
+  She would like the features of the PROJECT2 server, the TCP server, and the log files to have the word level time stamps for the real time recording.
+ -PERSON3 collected Georgian, Icelandic, Serbian, Croatian, Danish and Norwegian text data and sent them to PERSON1 for the validation.
+ -PERSON3 has asked PERSON16 if she has any other annotators.
+ -PERSON3 has already shared the list of annotators with Organization 5.
+  Organization 5 wants to merge all the files for validations and create a new tester directory.
+
+
+Minuted by: Team ABC

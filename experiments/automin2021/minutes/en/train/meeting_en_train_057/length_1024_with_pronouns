@@ -1,0 +1,63 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON2 is recording the sound of the first meeting of the team.
+  The purpose of the meeting is to get to know each other and explain to all others what they can expect from each other.
+ -PERSON8 is in the linguist's project.
+  Her task was to work with automatic, transcripts and anno and correct them.
+  Her supervisor supervises the annotators who work on the data.
+ -PERSON9 is a new member of the project, he joined 11 days ago.
+  They have a doctorate in machine translation.
+  He worked on a deep neural network for summarization task.
+ -PERSON2 is supervising a basic research project.
+  They and PERSON8 discusseded a research on the structure of the network.
+ -PERSON9 should focus more on the basic questions and analysis of what the network is doing and less on the shared task.
+  They and PERSON9 are having a meeting.
+ -PERSON2 is trying to explain to PERSON9 how embeddings and representations are created and how they relate to each other.
+  They and PERSON2 were coauthors of a paper on sentiment analysis task.
+  There was a new metric, which was presented.
+  It was about the quality of embeddings.
+  The method of evaluation is either abstractive or extractive.
+  For humans there is only one scale, PERSON9 worked on a project that will measure whether people prefer to create abstractive style or extractive style for their summaries.
+  There are problems with differentiating between the minutes of different annotators and the sentences are not in the same sequence.
+  There is a software problem with PERSON7 is preparing her own submission to the shared task.
+  She is interested in scholarly document processing and she worked on analysing the quality of peer review in the scholarly scenario.
+  Her role would be to look after the task in all aspects, like writing a proposal, fixing a PERSON2 and PERSON6 will organise their own workshop on spoken meeting meeting summarization and have a shared task as part of it.
+ -PERSON2 and PERSON7 will put up their own proposal for workshop on the 5th of October.
+ -PERSON6 will introduce himself and introduce the background that is relevant for meeting summarization.
+  They will present a GitHub repo that will help them to reuse the code and the data.
+ -PERSON5 is creating the user interface for the annotators.
+  The last person on the call is PERSON4.
+ -PERSON2, PERSON5, PERSON6, PERSON9 and Turkan PERSON7 will present the annotation interface.
+  They explains to PERSON8 and PERSON9 how the meeting is organised.
+ -PERSON2, PERSON5, PERSON8 and PERSON9 are creating a Python interface to link minutes and transcripts with the transcripts.
+  They will test it on annotators and then publish it in the PROJECT4 repository.
+ -PERSON2 wants to share his screen with PERSON6 and PERSON9.
+ -PERSON6 asks for permission to do that.
+ -PERSON9 doesn't know how to do it.
+  They have his departmental email address linked to his Gmail account, so he can't join the meeting.
+  They explains in detail the four stages of the automatic minuting task.
+ -PERSON6 and PERSON2 worked on a project to create a publishable corpus that can be used by corporate community.
+  They and P8 worked on a project to develop a software tool for summarizing the transcript of a meeting.
+ -PERSON8 wants to know how much of the work is actually implemented.
+  The work package is in GitHub repo, but the basic prototype is not available yet.
+  The first experiments with PERSON4 produced bad results, so they have to go back to the two steps that are the text segment PERSON2 asks PERSON6 to prepare slides for the user and advisory board meeting next Wednesday.
+ -PERSON2 wants to see the outputs of the experiments.
+  They and PERSON6 discussed the implementation and experiments of their project.
+  They are not satisfied with the results of task five point three.
+ -PERSON8 wants to compare the outputs of the ORGANIZATION7 corpus with the manual summaries.
+  The results are not grammatically correct, but they are semantically correct.
+  The Rouge scores are low and also the quality differences are significant.
+  According to PERSON2, the PERSON6 explains to PERSON9 the different evaluation possibilities for this task.
+ -PERSON9 wants to know if they should use an automatic metric or a manual one.
+ -PERSON8 will present the status of the data sets.
+ -PERSON2 wants PERSON8, PERSON9, PERSON6 and PERSON10 to prepare the documentation for PROJECT4.
+  They also wants PERSON6 to retrain the pipeline on Sumecek.
+  They and PERSON7 will have a joint corpora workshop on machine translation in early September.
+  They want to work on the similarity, measures and the shortcutting of the approach.
+ -PERSON2, PERSON7, PERSON8, PERSON9 and PERSON4 will meet at 2 PM LOCATION1 to discussed the daily meeting slots for remote colleagues.
+
+
+Minuted by: Team ABC

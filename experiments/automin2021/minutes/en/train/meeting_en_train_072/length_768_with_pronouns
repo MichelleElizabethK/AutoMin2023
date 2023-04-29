@@ -1,0 +1,29 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON14, PERSON16 and PERSON6 discusseded the components that they have to deploy for the VAT wide group, which is in the end of June.
+  They need 2 texttotext clients, an example of how to connect and integrate with the service architecture, and PERSON6 wants to integrate C C library into Python.
+  They want to create a Python binding for them.
+ -PERSON2 doesn't have access to the Python cruise control.
+ -PERSON16 will probably not be ready for the June session.
+  The searcher will explain the full path through several workers, o or only one worker.
+  The logs from workers run on other servers have to be provided by Organization 3.
+  The mediator is PERSON16 wants to schedule a coordinated test among all the participants in order to check altogether logs and and have access to all the logs together.
+ -PERSON6 wants to be given access to their server to check the logs online.
+  For the June event, they need to run 2 ASR PERSON6 explains to PERSON14 and PERSON15 how the segmentation works in English to Czech MT.
+ -PERSON12 is not sure if they will be able to train subsentencelevel systems in time.
+ -PERSON6, PERSON14 and PERSON16 are planning a demo at Organization 3.
+  They want to keep as much of the capacities as possible, but they need to integrate the PROJECT3 e MT server to the ORGANIZATION8 platform.
+ -PERSON14 doesn't have a system that does translation into all of the ORGANIZATION7 languages.
+ -PERSON12 has a system for English to French, German to Italian, Spanish, and Portuguese.
+ -PERSON6 has systems into German, English, Italian, French, Spanish and Portuguese, PERSON4 will link the GitHub page to the MT worker systems.
+ -PERSON11 will prepare a graphical user interface for the presentation platform.
+ -PERSON16, PERSON5, PERSON14 and PERSON6 worked on a presentation for the event on the last weekend of June, 28th until the 30th of June.
+  The presentation should be streamed using HLS protocol.
+  They need to prepare a Web application and a commandline PERSON14, PERSON12 and PERSON7 will get data related to the domain that will be discussededed at the workshop from TAUS.
+  They will use the data for the MT test sets.
+
+
+Minuted by: Team ABC

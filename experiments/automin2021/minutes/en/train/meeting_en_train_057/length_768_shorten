@@ -1,0 +1,94 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON2 is recording sound of first meeting of team.
+  purpose of meeting is to get to know, explain to others what can expect from.
+  Her task to work with , automatic , transcripts, anno, correct them.
+  She supervises annotators work on data.
+  has doctorate in machine translation.
+  is working on automatic metric.
+ -PERSON2 supervises research, innovation action called PROJECT4.
+  overall level of performance is insufficient for application , task is clearly defined.
+  There is another source of funding , is basic research, it runs for years , two years PROJECT PERSON2, PERSON8 working on project.
+  need to create measure reflects properties of vector spaces, analysis of what network is.
+  is technical, implementation work.
+ -PERSON9 focus on basic research questions, PERSON9 , PERSON2, PERSON7 experiments on Organization 3 Meet.
+  results will available by end of week.
+ -PERSON2 , PERSON9, PERSON6 have paper on automatic matrix.
+  discuss to construct embeddings for of varying lengths of units.
+ -PERSON2, PERSON9 discussing difference between abstractive, extractive methods of summarizing information.
+ -PERSON9 is working on project will measure whether people prefer to create abstractive style extractive style for summaries.
+  There problems with models can talk in semantic sense , like Botch, universal encoder , not in meaningful way.
+ -PERSON7 from Indian institute of technology will joining team from September onwards.
+  Her research far has involved documents processing.
+  She is also preparing submission to shared task.
+ -PERSON2, PERSON6 in meeting.
+  workshop confirmed proposals in live.
+  going to organise workshop on summarization, have shared task.
+ -PERSON2, PERSON7 discussing shared task in nonnative , speech recognition for nonnative English.
+  shared task is limited to 160 hours of training , is ten times less what people would like to have in English settings.
+ -PERSON2 wants to PERSON2, PERSON7 will put proposal for workshop on 5th of October.
+ -PERSON6 will introduce, introduce background is relevant for meeting summarization.
+ -PERSON2 wants to know Python workbench PERSON6 worked on.
+ -PERSON5 is creating user interface for annotators.
+ -PERSON4 is working on speech processing task.
+ -PERSON2 , is in charge of project , asks PERSON5 to present annotation interface , PERSON6 to present slides, PERSON8 to present data sets.
+  last person on call is not officially employed on project.
+  internship in LOCATION1 PERSON5 has working on new user interface for transcript, minutes of meeting.
+  There several panels important for annotators.
+  can choose transcript, minutes to work with, dialog adds to annotate them with minute.
+ -PERSON5 explains to PERSON8, PERSON9 interface works.
+  main purpose of interface is to link minutes with transcripts.
+ -PERSON5 is creating interface to link minutes, transcripts with minutes, transcripts.
+  will useful for annotators.
+  interface is not versioned yet , it will published in PROJECT4 repository.
+ -PERSON2 , PERSON3 , PERSON4 , PERSON5 , PERSON6 , PERSON7 , PERSON8, PERSON9 in meeting.
+ -Person6 wants to share screen with rest of group , he needs permission to do it.
+  meeting set by PERSON6 presents slides from PROJECT4 proposal.
+  presentation explains full pipeline of project.
+  participants will talk in different languages, voices will automatically translated into English.
+  system will probably use techniques like centred boundaries identification, tema remove PERSON6 explains in detail four stages of meeting preparation.
+ -PERSON6 is working on project to create publishable corpus can used by corporate community.
+  data set working on is ORGANIZATION7, PROJECT1 corpora , processed in 2005, popular in literature.
+  PERSON6 is working on project.
+  first step is to identify speaker.
+  next step is segment summarization.
+  final stage is final deliverable.
+ -PERSON6, PERSON8 working on project.
+  want to produce software tool will read transcript, produce summary, active agenda in real time.
+ -PERSON6 has data , code, code in GitHub repo , do not have working basic prototype.
+  have to improve quality of text segmentation, dialog summarization.
+  first experiments run with PERSON4 produced bad results.
+ -PERSON2 would like to see full outputs of work package, results of experiments.
+  would also like to know of components worked on meetings.
+  slides basic, will extended in future.
+ -PERSON6 explains to PERSON2 basic prototype of evaluator system.
+  evaluators will check on available summaries, generated one.
+  will have to to evaluate scale match.
+  summary of whole meeting PERSON2 wants to know current status of implementation, experiments.
+ -PERSON6 is happy with segmentation , not satisfied with results of task five point three.
+  will try to put together reference minutes from ORGANIZATION7, PROJECT1, PERSON8 wants to compare outputs of ORGANIZATION7 corpus with manual summaries.
+  results not grammatically correct , semantically correct.
+  Rouge scores low, also quality differences significant.
+  manual summarizations not correct PERSON9 wants to compare two minutes from semantically using automatic metric.
+ -Person6 suggests using Rouge Gather like One Recall.
+ -Person2 suggests survey of methods of manual evalution of summaries.
+ -PERSON9 wants to know if used Stanford NLP library for text segmentation.
+ -PERSON6 used transformer based models for task five three.
+ -PERSON8, PERSON9 working on data set.
+  have one hundred, thirty-four hours of English, Czech transcripts , sixty four of meetings transcribed , twenty-five of them double transcribed, twenty-four of them double minuted.
+  PERSON2 wants PERSON10 to get capacity for PROJECT4 within two months from.
+  She also wants PERSON8 , PERSON9, PERSON6 to help with paperwork.
+  She wants them to retrain pipeline on Sume Sumek, try it on PERSON2, Ed Howe going to joint corpora workshop.
+  will work on similarity , abstractiveness, extractiveness of data.
+ -PERSON2, PERSON9 successful first meeting.
+  will meet in early September.
+  will official review of PROJECT4 project on 8th of September.
+  need to prepare slides for twenty minutes per work package.
+ -PERSON8 needs to go to take care of children for half hour.
+  agreement with remote colleagues is will meet every day particular slot in day , is one person from LOCATION1 team.
+
+
+Minuted by: Team ABC

@@ -1,0 +1,43 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON10, PERSON5, PERSON3, PERSON4, PERSON6
+
+
+SUMMARY-
+ -PERSON4 is getting visa Friday.
+  She has appointment on visa embassy.
+  She gathering documents.
+ -PERSON10 , PERSON5 , PERSON6 , PERSON3 going to do minuting for ORGANIZATION2 meeting.
+  need to prepare around 100 hours of data for share task.
+ -PERSON3 , PERSON6, PERSON10 discussing data set for training.
+  data set is small for full training , it is acceptable for form of fine tuning , , like development set.
+  participants allowed to keep half of PERSON10 , PERSON3, team going to use ORGANIZATION1 data from 2006 to 2011.
+ -PERSON10 wants to know to prepare web page with minutes of previous sitting, to access them.
+  minutes available on web.
+ -PERSON10 , PERSON3, PERSON6 discussing to prepare sample of report, send it to organiser.
+ -PERSON6, PERSON10 discuss organization project guidelines.
+  discuss structure of project.
+  agree project have 3 tracks : ORGANIZATION1 , ORIG2, PROJECT1.
+  There test set with 3 underlying data sets PERSON10 explains to PERSON3 to repackage it.
+ -PERSON10 , PERSON3 , PERSON5, PERSON6 on conference call.
+  need someone can download data from open acces, provide it as training data.
+ -PERSON5, PERSON10 want to include ORGANIZATION1 in share task.
+  need to redo what has done by open academic corpora, prepare data set for participants to make it easy.
+  data set include transcripts, summaries PERSON3 , PERSON5, PERSON10 working on project.
+  need to prepare summarization corpus for shared task.
+  decide to take whole ORGANIZATION1 minutes corpus, pack it with existing minutes, publish it as separate project.
+ -PERSON10 is happy to sign yet , needs to find person is familiar with Wget to download, prepare corpus.
+ -PERSON3 asks PERSON10 for template for hard data.
+ -PERSON10 sends him link to presentation by colleague of ORGANIZATION5.
+ -PERSON3, PERSON10 discuss format of corpora, speaker diarization details.
+  agree to use XML format already have, to prepare data in way.
+ -PERSON3 , PERSON10, PERSON6 going to work on organizing ORGANIZATION1 corpus.
+ -PERSON1 uploads data in English , he has uploaded fast , in English for moment.
+ -PERSON3 , PERSON10 , PERSON5 , PERSON6 , PERSON10 going data.
+  need to organize it according to dates, names of sessions.
+  decide PERSON6 will work with data, annotate it.
+ -PERSON5 has sent link to source for machine translation work.
+ -PERSON6 got it , is limit in downscale.
+  source released in 2011 as part of parl corpora for machine translation.
+
+
+Minuted by: Team ABC

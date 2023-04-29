@@ -1,0 +1,64 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+
+  The chinese person hasn't joined yet.
+ -PERSON8 and PERSON7 have been thinking about evaluation and latency.
+  They talked about different ways of doing incremental SLT models.
+  They also talked about the ORGANIZATION5 paper.
+ -PERSON1 has implemented device beam search and the mass key, the others worked on a multilingual MT.
+  The first author of the paper is called Airy Pedragon.
+  The paper is confusing in terms of its evaluation, there are several different variables and several different output variables.
+ -PERSON8 and PERSON7 discusseded the evaluation tool that PERSON4 is developing.
+ -PERSON7 and PERSON8 discussed the differences between interactive machine translation and SLT im.
+ -PERSON8 and PERSON7 worked on a system to record audio files.
+  The system is not fully automated yet.
+  It takes some time to get the correct timestamps.
+  When people stop talking, it is important to have some delay between words.
+ -PERSON7 explains to PERSON8 and PERSON4 how to improve the ASR system.
+ -PERSON7 and PERSON8 are trying to gather data for the SLTF.
+  They want to have the same measure for their systems and for human interpreters.
+  Organization 7 has recordings of the interpreters for some years, but they don't take transcription of them.
+ -PERSON4 sent an email about the data set to Organization 7 on Monday morning.
+  Organization 7 has the source, the translation and the transcript on it, but the sound is not there.
+  They need to do the forced alignment to get the sound.
+  It should be possible to get it PERSON4 sent PERSON7 and PERSON8 files with transcripts of interpreters.
+  They need to talk to PERSON5 again to make sure they have the correct transcripts.
+ -PERSON7 and PERSON8 worked on the transcripts of the speeches.
+  They need to align the interpreter's sound with the intre with, and then create the transcript of the interpreters.
+  The only data set where they will have it for the purposes of audible self evaluation will As soon as the corrected transcript is finished, PERSON7 will send it to translation agencies to translate it sentence by sentence.
+ -PERSON7 explains to PERSON4 how to improve the quality of a machine translation.
+ -PERSON4 is having problems with the microphone.
+ -PERSON7 and PERSON8 worked on a paper about latency.
+ -PERSON8 suggests that the user interface can be faked in order to make it look like something is happening or may be happening.
+ -PERSON7 and PERSON8 discussed the differences between real time and delay-based presentations and how they affect deaf people.
+ -PERSON7 and PERSON8 discusseded the implementation of the ORGANIZATION5 paper.
+  They agree that the organization should finalize SLTF and test it on the data.
+ -PERSON7 explains to PERSON8 how the task is set up.
+  The task is based on the sound in the source language, which is English.
+  The user is given the audio with the timestamps and the MT output.
+  They are expected to produce target language text.
+  They PERSON7 and PERSON4 will proceed on their own with the data set preparation.
+ -PERSON7 wants to collect various SLT systems run on audios, when they have the correct transcript and the reference translation and ideally, where they also have the reference interpretation.
+ -PERSON8 doesn't have any ASR systems running.
+  The deadline is the 17th of March.
+ -PERSON7 and PERSON8 worked on a project.
+  They are trying to improve the stability of the search by adding prefixes to the data.
+ -PERSON8 explains to PERSON7 how the BIOS beam search works.
+  It's a retranslation of a log with a small penalty to the probability, to the score provided by the translation system, which penalizes if it moves too far away from the previous prefix.
+  The system PERSON7 asks PERSON3 to send all the inputs and send the audio.
+ -PERSON7 wants to train a big system on the same training data as the smaller one.
+  There is a problem with ORGANIZATION8 internet.
+ -PERSON4 restarted the computer and can now see the email.
+ -PERSON8 will add notes about the last question into the Organization5 document.
+ -PERSON4, PERSON8 and PERSON3 are having problems with their website.
+  IT guys are doing some tests and the website went out of connection.
+ -PERSON4 is not in the Czech Republic yet.
+ -PERSON8 will write some notes to the ORGANIZATION5 PERSON3 sent a file to PERSON4.
+  There is a problem with the audio.
+ -PERSON4 will send more information about the segmentation later.
+
+
+Minuted by: Team ABC

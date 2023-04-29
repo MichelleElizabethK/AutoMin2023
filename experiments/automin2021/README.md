@@ -1,0 +1,1 @@
+Test AutoMin2021 TeamABC approach

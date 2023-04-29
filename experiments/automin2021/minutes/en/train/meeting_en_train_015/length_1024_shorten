@@ -1,0 +1,30 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON9 is PhD student master in Organizing3.
+ -PERSON10 is on vacation , ca not join meeting.
+ -PERSON4 will join bit later , he on data meeting.
+ -PERSON8, PERSON9 discussing to label workers in way it is obvious when someone changes worker to different version, to test different versions of ASR in different pipelines.
+ -PERSON5 , PERSON8, PERSON9 going to run series of tests on ASR workers, empty workers on later tester.
+ -PERSON8 is going to do investigation in enclou library.
+ -PERSON4 has mentioned start working on as soon as possible.
+ -PERSON9 , PERSON3, PERSON8 want to make feature request to mediator beginning of next year.
+  need to specify description fields on workers, versions.
+  also need to work on to identify different versions of workers PERSON9 , PERSON8 , PERSON5, PERSON4 will meet in couple of days to discuss to solve issue of multiple fingerprints.
+ -PERSON9 , PERSON4, PERSON8 discuss to manage pipe on client side.
+ -PERSON9 suggests to client investigate version might work without modifying backands.
+ -PERSON4 wants to make two versions of ASR for different versions of them.
+ -PERSON9 can request multiple inputs to client.
+  If fingerprint matching is strict , sound will processed with one ASR, translated to French.
+  If it is not strict, client request is satisfied , input will also pricedessed with another ASR.
+ -PERSON9 is trying to work to separate different versions of workers, to keep record of what exact versions of workers used.
+ -PERSON4, PERSON9 looking for programatically-run evaluation of inputs in PROJECT2 test set.
+  want to label outputs with service name.
+  There is way to do moment , service interchangeable, from client side PERSON4 , PERSON9, PERSON5 discussing implementation of Neural Version 2 protocol.
+  will schedule test together next week.
+ -PERSON9 , PERSON5 , PERSON3, PERSON8 will make hands on session, make simulation together to simulate use case in order to design intermediate solution.
+
+
+Minuted by: Team ABC

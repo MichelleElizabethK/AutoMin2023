@@ -1,0 +1,92 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON2 is recording the sound of the first meeting of the team.
+  The purpose of the meeting is to get to know each other and explain to all others what they can expect from each other.
+  Her task was to work with, automatic, transcripts and anno and correct them.
+  She supervises the annotators who work on the data.
+  He has a doctorate in machine translation.
+ -PERSON2 supervises a research and innovation action called PROJECT4.
+  The overall level of performance is insufficient for the application, but the task is clearly defined.
+  There is another source of funding, which is basic research and it runs for more years, two more years than PROJECT PERSON2 and PERSON8 worked on a project.
+  They need to create a measure that reflects the properties of the vector spaces and the analysis of what the network is doing.
+  It is a technical and implementation work.
+ -PERSON9 should focus more on the basic research questions and PERSON9, PERSON2 and PERSON7 are doing experiments on Organization 3 Meet.
+  The results will be available by the end of this week.
+ -PERSON2, PERSON9 and PERSON6 have a paper on automatic matrix.
+  They discussed how to construct embeddings for each of the varying lengths of units.
+ -PERSON2 and PERSON9 discusseded the difference between abstractive and extractive methods of summarizing information.
+ -PERSON9 worked on a project that will measure whether people prefer to create abstractive style or extractive style for their summaries.
+  There are problems with models that can talk in a semantic sense, like Botch and the universal encoder, but not in a meaningful way.
+ -PERSON7 from the Indian institute of technology will be joining the team from September onwards.
+  Her research so far has involved the documents processing.
+  She is also preparing her own submission to the shared task.
+ -PERSON2 and PERSON6 are in a meeting.
+  The workshop confirmed the proposals in live.
+  They will organise their own workshop on summarization and have a shared task.
+  They and PERSON7 discusseded the shared task in a nonnative, speech recognition for nonnative English.
+  The shared task is limited to 160 hours of training, which is ten times less than what people would like to have in English only settings.
+ -PERSON2 wants to PERSON2 and PERSON7 will put up their own proposal for workshop on the 5th of October.
+ -PERSON6 will introduce himself and introduce the background that is relevant for meeting summarization.
+  They want to know more about the Python workbench that PERSON6 worked on.
+ -PERSON5 is creating the user interface for the annotators.
+ -PERSON4 worked on a speech processing task.
+ -PERSON2, who is in charge of the project, asks PERSON5 to present the annotation interface, PERSON6 to present slides and then PERSON8 to present data sets.
+  The last person on the call is not officially employed on the project.
+  He did an internship in LOCATION1 PERSON5 has been working on a new user interface for the transcript and minutes of the meeting.
+  There are several panels that are important for the annotators.
+  They can choose which transcript and which minutes to work with and which dialog adds to annotate them with the minute.
+ -PERSON5 explains to PERSON8 and PERSON9 how the interface works.
+  The main purpose of the interface is to link the minutes with the transcripts.
+  They are creating an interface to link minutes and transcripts with the minutes and the transcripts.
+  It will be useful for the annotators.
+  The interface is not versioned yet, but it will be published in the PROJECT4 repository.
+ -PERSON2, PERSON3, PERSON4, PERSON5, PERSON6, PERSON7, PERSON8 and PERSON9 are in a meeting.
+ -PERSON6 wants to share his screen with the rest of the group, but he needs permission to do it.
+  The meeting was set up by PERSON6 presents the slides from the PROJECT4 proposal.
+  The presentation explains the full pipeline of the project.
+  The participants will talk in different languages and their voices will be automatically translated into English.
+  The system will probably use techniques like centred boundaries identification and other tema that remove PERSON6 explains in detail the four stages of a meeting preparation.
+ -PERSON6 worked on a project to create a publishable corpus that can be used by the corporate community.
+  The data set they worked on is an ORGANIZATION7 and PROJECT1 corpora, both processed in 2005 and the most popular in the literature.
+  The first step is to identify the speaker.
+  The next step is the segment summarization.
+  The final stage is the final deliverable.
+ -PERSON6 and PERSON8 worked on a project.
+  They want to produce a software tool that will read the transcript and produce the summary and active agenda in real time.
+  They have all the data, the code and the code in GitHub repo, but they don't have the working basic prototype.
+  They have to improve the quality of the text segmentation and the dialog summarization.
+  The first experiments that they run with PERSON4 produced bad results.
+ -PERSON2 would like to see the full outputs of the work package and the results of the experiments.
+  They would also like to know how each of the components worked on the meetings.
+  The slides are basic and will be extended in the future.
+ -PERSON6 explains to PERSON2 the basic prototype of the evaluator's system.
+  The evaluators will check on the available the summaries and the generated one.
+  They will have to to evaluate the scale at which they match each other.
+  The summary of the whole meeting PERSON2 wants to know the current status of the implementation and experiments.
+ -PERSON6 is happy with the segmentation, but not satisfied with the results of task five point three.
+  He will try to put together the reference minutes from ORGANIZATION7 and PROJECT1 and PERSON8 wants to compare the outputs of the ORGANIZATION7 corpus with the manual summaries.
+  The results are not grammatically correct, but they are semantically correct.
+  The Rouge scores are low and also the quality differences are significant.
+  The manual summarizations are not correct PERSON9 wants to compare two minutes from semantically using an automatic metric.
+ -PERSON6 suggests using Rouge or Gather like at One or Recall.
+ -PERSON2 suggests a survey of methods of manual evalution of summaries.
+ -PERSON9 wants to know if they used Stanford NLP library for text segmentation.
+  They used transformer based models for task five three.
+ -PERSON8 and PERSON9 worked on the data set.
+  They have about one hundred and thirty-four hours of English and Czech transcripts, sixty four of their meetings transcribed, twenty-five of them double transcribed and twenty-four of them are double minuted.
+  They PERSON2 wants PERSON10 to get some capacity for PROJECT4 within two months from now.
+  She also wants PERSON8, PERSON9 and PERSON6 to help her with the paperwork.
+  She wants them to retrain their pipeline on Sume Sumek and try it on the PERSON2 and Ed Howe will a joint corpora workshop.
+  They will work on the similarity, abstractiveness and extractiveness of the data.
+ -PERSON2 and PERSON9 had a successful first meeting.
+  They will meet again in early September.
+  It will be the official review of the PROJECT4 project on the 8th of September.
+  They need to prepare slides for twenty minutes per work package.
+ -PERSON8 needs to go out to take care of her children for half an hour.
+  The agreement with all remote colleagues is that they will meet every day at some particular slot in the day, where there is one person from the LOCATION1 team.
+
+
+Minuted by: Team ABC

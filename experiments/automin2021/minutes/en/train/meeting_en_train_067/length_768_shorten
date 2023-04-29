@@ -1,0 +1,36 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON6 is on call right.
+  There call last week integration, new NMTAPI.
+  There will deliverable in December.
+  There questions from person 12 navigation, list produced by empty system.
+ -Person1 set PERSON9, PERSON14 writing paper for NASEL.
+  quality estimation in Czech MT system worsens.
+  Czech MT systems as expected , strongest one has highest confidence.
+ -PERSON9 , PERSON14 , PERSON6, PERSON2 discussing differences between performance of Czech two, Czech three systems.
+ -PERSON2, PERSON9 discussing data augmentation experiment.
+  fastest system produced twice as many actions as slow one , translations worse.
+ -PERSON1, PERSON2 showing graph showing pretraining, fine tuning of monolingual back translated data.
+ -PERSON1, PERSON2 discuss difference between red, blue lines, monolingual data used in training, performance of system.
+ -PERSON1, PERSON2 discuss differences between red, blue curve, monolingual data for synthetic data.
+ -PERSON1 wants to fine-tune models, train another fine-tuning.
+ -PERSON1, PERSON2 discuss to improve accuracy of research.
+ -PERSON1 , PERSON2 , PERSON11 working on project.
+  want to check behavior of stem changes when constraints provided as lemmas.
+ -PERSON6, PERSON2 discuss to improve LMT system.
+ -PERSON11 will send Bleu score for Organization 2 today, will discuss it later week.
+ -PERSON13 asked to book flight ticket to Czech Republic.
+ -PERSON2, PERSON6 will meet on Friday 11.
+  LOCATION1 to discuss results of list discussedion.
+  will also discuss what to do next for flective languages.
+  implementation of data is going well.
+ -PERSON10 is working on implementation of constraint translation.
+ -PERSON6 , PERSON1 , PERSON2 , PERSON3 , PERSON4 , PERSON13 going to discuss it on Friday.
+ -PERSON2, PERSON1 discussing to divide money from PROJECT2 budget, to pay people involved in project.
+ -PERSON2, PERSON6 do not want to go for vouchers.
+
+
+Minuted by: Team ABC

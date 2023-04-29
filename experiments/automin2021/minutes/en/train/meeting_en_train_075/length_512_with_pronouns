@@ -1,0 +1,40 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON22 has a deadline in six days so she's working on her thesis.
+  She consults with PERSON21 that they might do the domain adaptation for the demo of the PROJECT3 project like Per, PerTalk domain adaptation PERSON12 is using data from PERSON12 for her thesis.
+ -PERSON16 is preparing for the demo meeting on Friday.
+  They had to make a backup copy of everything that is de deployed.
+  Organization 2 couldn't connect to the machines, because their servers room was down.
+  Organization 3 had a spare copy of their segmenter system, but it was not fully functional.
+ -PERSON4, PERSON3, PERSON7 and PERSON9 will share the results of the evaluation of the two systems for the demo.
+ -PERSON9 is fixing the Czech segmenter delay for the submission of the core project.
+  On Friday PERSON9 collected data from the writing of subtitling and she hasn't done anything with it yet.
+  On the other hand, PERSON4, PERSON5, and PERSON15 worked on the evaluation of spoken language translation.
+ -PERSON4 wants to try some modifications of the Rainbow model to improve performance on the ugly ASR outputs.
+  He also wants to make the subtitles easier to follow by shortening them.
+ -PERSON7 will focus on the shortening of the translation and the stability of the model.
+ -PERSON9 will write it down on the document.
+ -PERSON4, PERSON2, PERSON3, PERSON19 and PERSON16 are trying to arrange a demo on Wednesday, but they don't know if it will happen on Friday.
+  They need to prepare a dry run session for the demo and invite a few of you to help them with PERSON4 asks PERSON10 and PERSON6 to prepare the baseline workers and also the domain adapted including the language model.
+ -PERSON16 sends the short three-minute transcript of the demo to PERSON4.
+ -PERSON4 will correct the 3-minute-long short video.
+ -PERSON11 will split the videos into four files: English and Czech for the first one, full only in English, and full in Czech.
+ -PERSON21 is cutting the videos so that they have a separate English track and PERSON4 asks PERSON16 and PERSON10 to prepare the transcripts for the non-adapted workers.
+  The deadline for this is for this Friday or next Friday.
+  They will measure the scores as well for when PERSON6 injects the Czech language model later.
+ -PERSON22 will get in touch with PERSON12 to get the domain data from him.
+  He will put all the videos and data to one talk level adaptation sub drive.
+ -PERSON16, PERSON4, PERSON19, PERSON21 and PERSON22 will meet on Thursday morning.
+  They need to organise the demo, vid video and the data sources talk level adaptation in a specific directory.
+  The data from PERSON12 should be used to create the adapted PERSON22 and PERSON4 want to train their own ORGANIZATION4 system based on the one provided by PERSON21.
+  They want to put it into the back of their heads as an improvement for the English, ASR system.
+  They need to prepare a set of test sessions PERSON16, PERSON4 and PERSON22 will prepare a demo document for PROJECT3 system.
+  They need to make copies of the models that will be used in the demo.
+  The workers have to be signed with a unique signature.
+  They also need to have the PERSON7 wants to know which worker was actually used.
+
+
+Minuted by: Team ABC

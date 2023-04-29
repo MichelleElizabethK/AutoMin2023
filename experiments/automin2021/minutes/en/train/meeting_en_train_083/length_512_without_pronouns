@@ -1,0 +1,48 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+
+  The connection to ean seems to work today.
+ -PERSON12, PERSON14, PERSON3 and PERSON8 can hear each other.
+ -PERSON14 is signing in to Gmail, but it's not required to.
+  They will meet every Tuesday for 30 PERSON12 is supervising the creation of the PROJECT1 test set and the edible SLT test set.
+  The set of tools that they have at hand is nicely growing.
+ -PERSON3 worked on setting up client audio visualization.
+ -PERSON12 wants to set up a visualizer to validate the source channels for a live sessions.
+  He also wants to release a set up to clean up the cruise control set up.
+ -PERSON3 and PERSON12 are dissatisfied with the quality of the segmenter they worked on.
+  They want someone to supervise their students.
+ -PERSON3 added a bug few months ago, but he forgot to run the ASR to prevent it again.
+  There is a configuration bug in the system.
+  The issue tracker in GitHub should be used for cruise control.
+ -PERSON12 is unable to change his or her daily routine of checking the list of issues and ticking the them off in the issue tracker.
+  There is an error in the log file.
+  The error can be any worker anywhere.
+  There is a log file for the dry run workshop.
+  The path to the workshop is on PERSON16's machine.
+ -PERSON12 has uploaded 6 languages on the GitHub.
+ -PERSON13 has uploaded several languages and provided transcription of workshop.
+ -PERSON12 wants to check the status of annotators.
+ -PERSON12 and PERSON11 set up a process for each of the annotators to follow.
+ -PERSON6 evaluated the new ASR workers for edible SLT.
+ -PERSON12 is frustrated with the ASR that they have from ORGANIZATION1.
+ -PERSON4 is starting to train his implementation in English and PERSON8 is also trying to train another PROJECT6 based ASR.
+  Both of them will only have transcripts, without time stamps.
+ -PERSON6 will reformat the MT wrapper and online text events.
+  After that, he will implement the scripts for Flicker and delay evaluations.
+ -PERSON8 is training the PROJECT6 co ORGANIZATION4 common voice English ASR.
+ -PERSON8 wants to train a language model on the same text as the MT model, but it would be helpful if the language model would be trained on the similar text as well.
+  There is a feature from PROJECT6 that can help with segmentation.
+  It predicts the silence after each word, and if the duration is longer than some threshold than it's a good indication that there is end of sentence.
+  It would be good to integrate the segmentor with the Czech PERSON14's scores are slightly lower than PERSON6's for the IWSLT test set.
+  There is one model for all these languages.
+  Some of the tools are running, but others are not.
+  There are scripts which run the worker on the coster.
+  For the PRO PERSON12 wants to integrate PROJECT5 model to mediator so that they can provide all the target languages, all the 42 languages with the subtitles.
+  They need to increase the set of cover languages, so that any Monday seminar or a Czech Organization Organization call could have subtitles in Kazakh PERSON11 will create a directory of back translated text or monotext with back translation for PERSON11 and PERSON10.
+  The audio was terrible and I ASR'd it.
+
+
+Minuted by: Team ABC

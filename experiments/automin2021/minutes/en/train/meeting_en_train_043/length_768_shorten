@@ -1,0 +1,29 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON3 , PERSON4 , PERSON14 , PERSON16, PERSON9 in dormitory.
+ -PERSON6 is working on adaptation of ORGANIZATION8 common voice ASR.
+ -PERSON9 has processed ASR for last Antrecorp.
+ -PERSON3 can provide 3 word error rate for three different ASR systems.
+ -PERSON16 , PERSON9 , PERSON6, PERSON14 need to prepare raw ASR outputs will not segmented.
+  need to run segmentor, translation.
+  have baseline trained by PERSON6 last week , it is bad.
+ -PERSON16 is organizing, pushing people to do what promised to do what he would like them to do.
+ -PERSON16 , PERSON6, PERSON14 working on project.
+  critical test need to to go, otherwise would not reliable enough for for final user.
+  need to synchronize workers , prepare locks for dry run, PERSON16 is working on Czech segmentor.
+ -PERSON12 has cleaned tested data on for 21 ORGANIZATION2 languages European website.
+ -PERSON15 tested data in desk set, test set , put results in Organization 9 sheet.
+ -Person12 has uploaded test PERSON12 prepare data for mono data, prepare test set for rest of languages except for ORGANIZATION2 language.
+ -PERSON12 contact of validators, send them TSV files for them to review.
+ -PERSON12 is trying to improve performance of multilingual system.
+ -PERSON16 wants demo to as multilingual as possible.
+ -PERSON4 is using TPUs as fallback for TPU.
+ -PERSON16 , PERSON4 , PERSON14 , PERSON15, PERSON6 going to meet in evening to check performance of project.
+  main submission is to done by PERSON6 , is responsible for main submission.
+ -PERSON16 , PERSON14 , PERSON17, PERSON4 writing paper, will submit it tonight.
+
+
+Minuted by: Team ABC

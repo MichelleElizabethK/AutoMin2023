@@ -1,0 +1,36 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON7 is running demo for project officer.
+ -PERSON8, PERSON14 could not make it today , will add bits to documencht soon.
+ -PERSON4 is main person looking after from side , has little knowledge it PERSON4 has recorded audio, directories have updated with logs, automatic transripts.
+  There Czech first meeting.
+  uploaded subtitles, quite good.
+ -PERSON7 wants to start testing on PROJECT1 test set.
+ -PERSON6 has processed submissions to SLT.
+ -PERSON7 suggests overshooting recall to improve responsiveness of translations.
+ -PERSON3 is working on back end ASR, hopes to have it finished by end of week.
+ -PERSON4 is worried MT wrapper as it has many parameters.
+  There is convenient function in set scripts use.
+ -PERSON7 , PERSON4 , PERSON9, PERSON3 working on diagnosis of issues.
+  have seen strange slow downs of various things, do not have quick way of figuring what is wrong.
+  need to have multiple operators diagnosing what what wrong.
+ -PERSON7 wants PERSON3 to available to watch test sessions for demo.
+  need to do 3 big tests, crash tests every day until demo is.
+  In one of test runs , need to deliberately kill device.
+  deadline for inter speech submission is on 8 May.
+  There is Kudo based mock conference next week.
+  path to Kudo files from previous one is in directory 2020 04.
+ -PERSON3 needs to upload files to directory, confirm to professor PERSON1, professor PERSON2 can use data set next week , have good reason to ask for one recording.
+  She will send credentials day 12 PERSON1 needs to retrain acustic model translates phonemes into graphemes.
+  will write report on spoken languages translation for Project1.
+  negative results from experiment go into deliverable.
+ -PERSON4 wants to know to use MT wrapper with MTs.
+  documentation is in issue number 3.
+ -PERSON3 will help PERSON4, PERSON7 prepare set scripts for event.
+ -PERSON4 will share text sets, source with PERSON3 within one two days.
+
+
+Minuted by: Team ABC

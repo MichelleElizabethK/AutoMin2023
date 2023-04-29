@@ -1,0 +1,100 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON6 is trying to connect to the meeting, but the Wifi is unstable.
+  They will be showing slides and scrolling them for everybody.
+  People can ask questions at the end of the session.
+  The presentation today is an extension of a demo which we ran for the project project officer at the end of June.
+  Some of them are official members of the user and advisory board of the project.
+ -PERSON6 will present the individual work packages of the project.
+  If someone doesn't like it, they will be cut out from the recording.
+ -PERSON8 will talk about the work package one, which is about data collection.
+  According to PERSON1, there is no in-house parallel corpus for the domain of order.
+  They collected data from the website, ORGANIZATION7 and Organization 2.
+  They used it for training some of the MT systems that you will see later.
+  According to PERSON1, the project is collecting monolingual data covering 24 languages.
+  They have extracted 280000 sentence pairs per language pair.
+  They worked on the non Englishness of the data.
+ -PERSON1 and PERSON6 are collecting data from their own meetings as well as from other EU projects.
+  They worked on the corpus of speeches transcripts translations and interpretations from the ORGANIZATION11 plenary sessions from 2008 to 11.
+ -PERSON8 from the ASR work package presents two online setups sequent to sequent models to perform low latency streaming for the spoken language translation text.
+ -PERSON14 presents the standard switch port home call test set to PERSON6 and PERSON7 from ORGANIZATION8.
+  The ASR works online as it has this property where it produces the incrementally on them, and can alter.
+  There are some problems with this property.
+  The ASR output is changing, and the segmentation is changing.
+  There is a delay between the ASR and the translation.
+  According to PERSON7, there are two ways of measuring these three dimensions.
+  The simplest method is retranslating the output from ASR to MT.
+  PROJECT3 is bad, so they use PROJECT1 in production.
+  Next slide shows how to improve the real translation approach.
+  According to PERSON7, they have introduced a twist on that where they set K dynamically, and they try to predict what might come next.
+  They have done research into end to end SLT and also on unsegmented input and hot warehouse.
+  According to PERSON7, PROJECT3 seems to be bad for users.
+  She wants to focus on the second half of the project on improving it.
+ -PERSON6, a student and colleague of PERSON5, is giving a presentation on multilingual machine translation.
+ -PERSON5 and PERSON6 present a work package on machine translation.
+  The main focus is on multi source translation and flexible multilingual machine translation for versatility.
+ -PERSON11 explains to PERSON6 how to summarize the summary of meetings.
+  They explains the overview of the task of the minuting module.
+  The task of summarizing the transcripts is similar to sentence compression.
+  Combination of to popular data sets in the minuting research is the most important task.
+ -PERSON11 is showing the preliminary scores from the project.
+  The current prototype reaches up to 16% in, 4% in and 14%.
+  The quality of the candidate is deceptive, because the reference in the candidate sample is remote only controlled television.
+  The project needs to improve to improve the PERSON3 is employed in ORGANIZATION9 an Italian company of automatic speech recognition resolutions.
+  The PROJECT2 project focuses on two different use cases: face to face conferencing and remote meetings.
+  The project started in January 2019 and the first dry run event took place 3 months later Last year Organizing8 managed to organize two events in LOCATION2.
+  The presentation platform restyle, they would like to take into account user needs to maximize video player slide content and possibly achieve mobile friendly design.
+  A lot of planned events have been cancelled due to COVID situation The last presentation is on the work package which has been added on request by the Organizing Committee.
+  The goal is to set up procedures for recording and handling the data for the minuting use case.
+  It's collecting consents from human participants, and then specifying the procedure for collecting cons The participants of the PROJECT2 project have to agree that their contribution to that meeting can be used for the purpose.
+  The participants also have to give their consent to the release of their personal data.
+  The aim is to have the meeting recordings as anonymous as possible.
+  The ideal deidentification pipeline would involve a voice, anonymization and replacing all personal data with placeholders.
+  The current plan is to ignore the voice and keep the voice recordings as they are.
+ -PERSON6 would like to standardize procedures for data collection and release the data set.
+  They would like people in their teams who deal with the same issues to get in touch with them.
+ -PERSON3 was briefly presenting the ORGANIZATION9 platform.
+  They are presenting the integration work package.
+  According to COVID, there were far fewer events since March than planned.
+  In the demo that you will see now, there is one machine running FFM pack video streaming and one machine sending the sound to the standard a pipeline that we have ready.
+  There is a delay between the delivery The presentation is being subtitled.
+  The optimal screen size is this this one.
+  The project organiser tells people how to start the video and how to play it automatically.
+  There is a problem with autoplay in Chrome.
+  In Chrome you have to do the manual clicking.
+  In the user interface that PERSON6 is setting up now, there will be three videos under three minutes long, one of them German short speech with manually revised subtitles.
+  There will be a video of a three minutes of German lecture, a and then a Czech speech in the domain of a Organization8.
+ -PERSON6 and PERSON13 are showing a video with a German lecture.
+  They asks PERSON13 to start the system.
+ -PERSON13 starts the system and the video starts to play.
+  They follows Czech and English and German translations.
+  There was a lag in the delivery of the video to PERSON6's screen.
+  There were some errors in the translations.
+ -PERSON6 explains the user interface for the PROJECT2 demo.
+  They explains the color coding of sentences in the ASR language on the right hand side of the screen.
+  They want the user to choose the view where the user has the ability to read only the black text and focus only on the last words and their translations.
+ -PERSON13 will start the last video demo again, so PERSON6 can stream the video.
+  They can now switch on the subtitling of the call.
+ -PERSON6 recommends watching the German version of the lecture.
+  The last demo was of video lectures.
+  The quality of translation into German seems better from the interpreter.
+  There is still one more demo but it will go on through during the discussededion.
+ -PERSON2 wants to know how PROJECT2 does the available on GitHub test sets.
+  The PROJECT2 test set is being collected mainly manually and it's targeted towards the domain that is auditing.
+  Some of the test set comes from the Antrecorp student firmfare and the high school students presenting mock companies and we recorded their 90 second speeches.
+  Other parts come from PERSON6's system is underrepresented in the training data sets and they tend to translate or recognize questions as statements.
+ -PERSON6 excluded speech output from the project proposal.
+  He thinks speech output will not be relevant until the text output is stable.
+  They and PERSON9 are talking about speech-to-speech systems and their research project.
+  They are happy to use the recordings of the meetings and provide the summarization themselves with their with their people.
+  They are also happy to create the minutes for these meetings afterwards.
+  There are two main calls that they had.
+  They want comments on the current handling of the data meetings PERSON9 explains to PERSON6 and PERSON4 some deidentification tools.
+ -PERSON6, PERSON9 and PERSON12 are on the call.
+ -PERSON13 will send a link so that they can see the translation into Hindi.
+
+
+Minuted by: Team ABC

@@ -1,0 +1,44 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+
+  There is a power outage in the server room.
+  It will take all day today and tomorrow to fix it.
+ -PERSON7, PERSON9, PERSON14 and PERSON10 discusseded the preparations for the congress.
+  They need to have a backup plan for one or two sides going out of power.
+  There is a risk that the congress could be postponed 2 weeks from now due to a power outage.
+ -PERSON4 sent a zip file for the segmentor but it failed during installation.
+ -PERSON9 couldn't send a docr image even if he wanted to.
+ -PERSON4 has a copy of a script that would solve the problem.
+ -PERSON14 will ask permission to run a new control machine PERSON7, PERSON8, PERSON4, PERSON9 and PERSON14 are preparing the slides for the demo session.
+  They will use Ubuntu 18 0 4 as the operating system.
+  The slides are already in the document.
+ -PERSON14 is sending PERSON7, PERSON9 and PERSON4 3 machines with static addresses from which they will be mostly connecting.
+  There is a problem with MT wrapper.
+ -PERSON13 is training models for each of the 7 source languages the ASR source languages.
+ -PERSON4 is waiting for PERSON7 wants to run some tests on the new models, but they are not ready to be tested live yet.
+  There is a risk that someone will mess up the fingerprints and they will be translated from the wrong language.
+  There are no GPUs available at the moment, but there are PERSON3 fixed the pipeline.
+ -PERSON9 worked on getting the segmentor running on the virtual machine that PERSON14 provided.
+ -PERSON4 is updating the ORGANIZATION7 document on how to set up the project.
+ -PERSON4 wants to share his screen with PERSON8 and PERSON14.
+  They have a problem with the preprocessing script.
+ -PERSON14, PERSON8, PERSON9, PERSON7, PERSON4 and PERSON5 are trying to set up a presentation.
+  They are having problems with the network.
+  The network administrators are reconfiguring the network to fix it.
+ -PERSON7, PERSON14 and PERSON8 will prepare the first video in order to show the PROJECT2 logo and instruction telling people to refresh their pages.
+ -PERSON4 will upload the video for PERSON4 and upload it in ORGANIZATION7 PERSON7 and PERSON4 are having problems with the ASR server and the split screen.
+ -PERSON8 is making videos in 48000 audio for PERSON4.
+ -PERSON7 will be busy with his kids and won't be back until after 15.
+  There is a delay in the set up of the EB client.
+  It's due to the quality of the video.
+ -PERSON7 explains to PERSON4 and PERSON14 how to stream FFM peg to EB client.
+ -PERSON9 should let them know about the electrician.
+ -PERSON14 is trying to reach PERSON4 on the virtual machine.
+  The build for the docr container succeeded.
+ -PERSON9 is uploading the train model to see if he can run it.
+
+
+Minuted by: Team ABC

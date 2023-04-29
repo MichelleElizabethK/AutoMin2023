@@ -1,0 +1,52 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+
+  There call last week integration, new NMTAPI.
+  There will deliverable in December.
+  There questions from PERSON12 navigation, list produced by empty system.
+  agree to provide separate PERSON1 set annotation of purpose translations.
+  current findings quality estimation worsens user confidence, also worsens translation quality.
+ -PERSON14, PERSON9 writing paper for NASEL.
+  quality estimation module used in previous experiments is not best one.
+  Czech systems as expected , student one is faster, users confident.
+ -PERSON9 , PERSON14, PERSON2 discussing results of analysis.
+  users confident if get response faster , it is faster.
+ -PERSON2 does not understand second graph.
+ -PERSON9 explains to fastest system allows for twice as many actions.
+ -PERSON2, PERSON9 discuss pros, cons of fast system, slow one.
+ -PERSON1, PERSON2 showing graph with back translated data.
+  data is monolingual back translated from Chinese to English.
+  pretraining is performed on mix of eh , back transla Monolingual Back translated data, parallel back of PERSON1, PERSON2 explain to performance of system improved after fine tuning.
+ -PERSON1, PERSON2 discussing pros, cons of using monolingual data for training.
+  There is difference between red, blue curve in case of fully monolingual data for synthetic data.
+  If have less 50 % of monolinguistic data , blue curve is better , if have 50 % , red one is better.
+ -PERSON1 wants to fine tune models on currently best pretrained models.
+  will talk to PERSON7 as well.
+ -PERSON2 suggests using data, using text to mark source , instead of fine tuning.
+ -PERSON1 thinks it is good idea to start with training on back translation, continue with fine tuning on on open data.
+ -PERSON1 wants to finish monolingual part of research as soon as possible , continue with multingual part.
+ -PERSON2 translating from English to Czech, got worst Bleu scores.
+ -PERSON11 wants to run constraints lemmatized constraints.
+ -Person6 wants to check behavior of stem changes when constraints provided as as lemmas.
+ -Person2 wants to generate possible word forms from constraints, give system set PERSON6, PERSON2 discuss ideas to improve computer program.
+ -PERSON6, PERSON11 trying to solve problem with LMT system.
+  want to know if using lemmas as hard constraint might help them improve system.
+ -PERSON11 is travelling to Czech Republic tonight.
+  She will take plane to first city tomorrow, second one on Wednesday.
+ -PERSON13 asked to book flight ticket to Czech Republic can discuss it later week.
+  flight is usually cheapest on New PERSON2 , PERSON6 , PERSON11, PERSON10 going to meet on Friday one one p.
+  will discuss what to do next for list discussedion.
+ -PERSON10, PERSON11 working on system based on negative constraints.
+ -PERSON6 , PERSON4 , PERSON2 , PERSON13, PERSON1 going to discuss on Friday whether not to give ORGANIZATION5 vouchers pay Czech people with money.
+ -PERSON1, PERSON2 do not know is in charge of project.
+  do not have inputs for people.
+  will send them email addresses, will distribute work to towards them.
+  contract still needs to negotiated.
+  would bad if PERSON2 does not like idea of sending vouchers to PERSON4, PERSON13.
+ -Person1 thinks it would faster to send them to PERSON13 has information financial matters.
+
+
+Minuted by: Team ABC

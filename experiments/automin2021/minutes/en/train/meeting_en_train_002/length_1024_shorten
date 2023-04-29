@@ -1,0 +1,27 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON9 has officially started working with them.
+  will do mainly Organization 5 implementation, Project4 specific implementations, he will probably help with nbest list navigation.
+  user interface team have implemented PROJECT7 integration by end of last month maybe two months ago PERSON8 , PERSON11, PERSON4 working on presentation for conference on 21st of November.
+  want to have single module can have functionality of PROJECT7 , need twice number of segments.
+ -PERSON4 , PERSON11 , PERSON7, PERSON8 going to do additional analysis for PROJECT8 paper.
+  also going to ask Estonians to assess translation evaluate it.
+ -PERSON11 , PERSON8, PERSON4 going to train system in CzEng.
+  need Organization 7 , do not need Organization 8.
+  system is back translated from English to Czech.
+  When using monolingual data , quality of system PERSON4 is working on experiment to improve performance of machine translation system.
+  main motivation is to have Czech sentences back translated to English.
+ -PERSON4 , PERSON7 , PERSON8 , PERSON11, PERSON6 working on project.
+  going to train for couple of experiments.
+ -PERSON7 , PERSON6, PERSON8 discussing to compare different approaches.
+  set of references has to fixed for scorce to comparable.
+  positive constraints telling system word needs to outputed.
+  negative constraints PERSON6, PERSON7 working on project.
+  want to measure diversity of data set with 50 references per sentence.
+  also want to know many constraints need to add to reach reference want.
+
+
+Minuted by: Team ABC

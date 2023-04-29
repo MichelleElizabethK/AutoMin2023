@@ -1,0 +1,47 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+
+  Chinese person has not joined yet.
+  meeting is incremental SLT models, evaluation, latency.
+ -PERSON7 , Wolfang Mecharized, Airy Pedragon authors of paper.
+ -Person1 has implemented device beam search, mass key.
+ -Person8 has bias beam search working on Nemesis.
+ -PERSON7, PERSON8 discuss differences between way approach ASR, SLT.
+ -PERSON7, PERSON3 working on system to record audio files.
+  system is not fully automated yet.
+  takes time to start it, issue AT command to run it with delay rounded time, have to subtract starting time PERSON7 is explaining to PERSON4, PERSON8 system works.
+  trying to gather data , is input speech , correct transcript of , interpretation , transcript of original thing, also text based translation.
+ -PERSON4 sent email to Organization 7 on Monday morning.
+  Organization 7 has data set with number of six directories, transcript of original speech, translation of interpreter voice.
+  Organized 7 is happy to do forced alignment of transcript , PERSON7, PERSON4 trying to make sure understand what PERSON4 is saying , connection is bad.
+  have to align interpreter sound with intre with , create transcript of interpreters PERSON7 explains to PERSON4 to prepare translation.
+ -PERSON7, PERSON8 trying to work system works.
+ -PERSON4 will write paper on it.
+ -PERSON7, PERSON8 discuss user interface, it can manipulated to make it look like something is happening may happening.
+  Organization 3 wants to keep older system as real time as possible to avoid caching.
+ -PERSON7 would like to leave presentation as separate topic.
+ -PERSON2, PERSON4 want to finalize SLTF, test it on data.
+  In task , one of users is given audio, expected to produce target language text.
+  do not have to do Giza alignment.
+  task is based on order alignments by Giza.
+  If participants participate , will PERSON7 , PERSON4, PERSON8 working on data set preparation.
+  need to collect various SLT systems run on audios , when have correct transcript, reference translation, ideally , also have reference interpretation, can compare PERSON8 is working on spoken language translation project.
+  deadline is 17th of March , is early.
+  There is lot of experimentation with microphones.
+ -People not good with microphones.
+  ASR is followed by punctuation insertion, followed by sentence events PERSON8 explains to PERSON7 BIOS beam search works.
+  retranslation of log file, adds small penalty to score provided by translation system.
+  system works well for English to German , not well for languages.
+ -PERSON7 have addable selfie depth set ready already , has not put it together yet.
+ -PERSON3 will provide it with reference translations into German, Czech, source sound.
+ -PERSON8 will train big system on training PERSON8 , PERSON3 , PERSON7 , PERSON4 on conference call.
+  There is problem with internet connection of Organized Company 8.
+ -PERSON3 will write notes to ORGANIZATION5 doc.
+ -PERSON4 will write to what he meant to say in doc, explain later.
+ -Person3 sends file with audio, system to transcribe audio.
+
+
+Minuted by: Team ABC

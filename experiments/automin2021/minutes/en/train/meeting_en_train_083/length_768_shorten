@@ -1,0 +1,33 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON12 is supervising creation of PROJECT1 test set, edible SLT test set.
+ -PERSON12 , PERSON11, PERSON3 going to talk tools necessary for evaluation of project.
+ -PERSON12 wants to set visualizer to validate source channels for live sessions.
+  She also wants to release set to clean cruise control set.
+  She wants to help students , Suni, Suni English ASR, Czech AS There many bugs in segmenter.
+  One of them is configuration bug.
+  one is communication issue.
+  There is issue with ASR with number of source.
+ -PERSON12 needs to change daily routine, get used to checking list of issues, ticking them in issue tracker.
+  does not know what to do when he has error in pipeline.
+ -PERSON11 has prepared 21 languages test set, uploaded 6 languages on GitHub.
+ -PERSON13 is supervising him, PERSON13 in close touch with PERSON11.
+ -PERSON12 wants to streamline work of ASR system for edible SLT share task.
+  ASR workers not much better.
+ -Person4 is starting to train implementation in English.
+ -Person8 is also trying to train another Project6 based ASR.
+ -PERSON6 is going to reformat MT wrapper, online text events.
+ -PERSON8 is training PROJECT6 co ORGANIZATION4 common voice English ASR.
+ -PERSON8 , PERSON12, PERSON14 discuss to train language model on similar text as MT model.
+ -PERSON3 suggests integrating segmentor with Czech ASR.
+ -PERSON12 , PERSON14 , PERSON6 discussing implementation of cruise control system.
+  system is integrated , parts not.
+  There scripts run worker on coster.
+  There is need to increase set of PERSON11, PERSON10 need to gather monolingual data , in 42 languages , translate it to English with models by PERSON10.
+  need to put it on ORGANIZATION6 disc.
+
+
+Minuted by: Team ABC

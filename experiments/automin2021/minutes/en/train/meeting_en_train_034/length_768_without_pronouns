@@ -1,0 +1,50 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON4 is waiting for PERSON3, who will join them in about fifteen minutes.
+ -PERSON5 will start with technical questions regarding the architecture of the audio service.
+  The pexip link works, but the compression is sometimes too aggressive, so it distorts the image of the screen PERSON4 and PERSON5 discusseded how to improve the quality of the video from the presentation machine to the overhead projector and from the projector to the presentation notebook.
+ -PERSON4 and PERSON5 are having a meeting about the presentation.
+  The presentation is in Full HD, but the quality is not very good.
+  They need to duplicate the video signal so that it goes to the overhead projector uninterrupted and at the same time to Epifun without interfering with PERSON4 and PERSON5 worked on a video player for the slides portable.
+  It should be ready by the end of June.
+ -PERSON4 is interested in using direct screen grabbing instead of Epifun to stream the slides.
+ -PERSON4 and PERSON5 will present a presentation on the city of Rome using a single system single machine and a single machine.
+  There is a library for Linux that can write subtitles directly on the screen.
+  They need to develop a client that reads the subtitles and presents them on PERSON9 will present the details of the ORGANIZATION4 document.
+  The hardware setup is that there are some selfpresentation computer that goes to video mixer, and the video mixers Epifun.
+  There is a video grabber, a video mixing notebook and a PDF PERSON4, PERSON9 and PERSON5 will meet one day to discussed the presentation platform for handheld devices.
+  The presentation platform has a full screen no waste mode, so it can be used in people's webbrowsers and on the PROJECT2 video mixing notebook.
+  The participants should be able to choose the language and one or more than one subtitle is displayed.
+  There should be a symbolic name of the session, so that there is no need to restart the session and the underlying service is reconnected automatically.
+ -PERSON5 explains to PERSON4 how to manage the presentation platform and how to take subtitles from different streams.
+ -PERSON4 would like to set up a multilingual stream selection worker.
+  It would be a simple user interface, that will work on the chosen sub set off ASR screens as they are rolling, and a human operator would be monitoring each of them separately under each of the monitors screens PERSON4 and PERSON5 discussed how they would like their presentation platform to work.
+ -PERSON4 explains to PERSON5 that there are multiple threads that can be connected simultaneously.
+ -PERSON4 thinks it's more important to review the subtitles in their final language before they are published than the input to the machine translation system.
+ -PERSON4 and PERSON5 discussed the presentation mode and fallback solution for ORGANIZATION2 SL.
+ -PERSON4 and PERSON5 are worried about the quality of the conference system.
+ -PERSON4 suggests revising the presentation platform for ORGANIZATION2 for the upcoming years of the project.
+ -PERSON4 and PERSON5 worked on a presentation platform for organiser 2.
+  They will test the platform with audio and video from file and subtitles that are pretranslated.
+ -PERSON4 wants to stream the subtitles on VLC.
+ -PERSON5 thinks it could be done with VLC, but he doesn't know if it works that way.
+ -PERSON4 would like the text field to be replaced with the data format for subtitles.
+ -PERSON4 would like to have two or possibly even three windows next to each other.
+  The ASR should tell them what is final at that point and the presentation platform should move to the new text field.
+ -PERSON5 will talk about it with the development team.
+  At the March fair, the lecture translator worked reasonably well, but there was a lag between the full sentence and the translation into Czech and German.
+ -PERSON4 and PERSON5 are concerned about the readability of subtitles.
+  They discussed on Friday how to prepare better translation.
+ -PERSON4, PERSON3 and PERSON5 discusseded the ASR.
+  They are concerned about the offline mode.
+  They agree that the conference should be online only.
+  They also agree that 1000 concurrent users is an upper bound for the congress.
+ -PERSON4 explains to PERSON3 and PERSON5 that the booth was prepared for offline setup, but it was impossible to get some network to the presentation booth, so Organizing Committee7 had to rely on internet connection.
+  According to the specification for WiFi, it should be able to deliver the video.
+  However, when the UPC the cable cable Tv company brought internet, everybody bought one WiFi router and from that point on the Internet for everybody got worse.
+
+
+Minuted by: Team ABC

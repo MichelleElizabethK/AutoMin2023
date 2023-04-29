@@ -1,0 +1,29 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON16 wants to start the conversation, but there is some noise coming from a PERSON15's microphone.
+ -PERSON22 is busy with her thesis and has a deadline in six days.
+  She consults with PERSON21 about the domain adaptation for the demo of the PROJECT3 project PERSON4, PERSON16, PERSON5 and PERSON19 are talking about a bug in a script.
+ -PERSON16 lost some of the directories that were important and he had to spend a whole day trying to get them back.
+  Organization 2's servers room was down PERSON4, PERSON3, PERSON5, PERSON7 and PERSON9 discusseded the evaluation of spoken language translation.
+ -PERSON4 wants to learn how to do a fine brained error analysis in order to improve performance on the ASR outputs.
+  He also wants to try some modifications of the Rainbow model and shortening the subtitles to make them easier to follow.
+ -PERSON4 wants to focus on the shortening and the stability of the model.
+  There is still the demo on Wednesday.
+ -PERSON19 wants to prepare a full dry run session for the demo.
+ -PERSON9 will write it down to the document.
+ -PERSON4 asks PERSON10 and PERSON16 to prepare baseline workers and also the domain adapted workers for English.
+ -PERSON16 can do that on the English Model.
+ -PERSON6 asks PERSON4 to prepare the baseline workers for Czech.
+ -PERSON4 will correct the three-minute-long YouTube video that was interleaved.
+ -PERSON21 is now cutting the videos so that they have separate English and Czech tracks.
+ -PERSON11 will split the videos into four files: English and only Czech for the first one, English and PERSON16 will send the data from PERSON12 to create the adapted models for the demo.
+ -PERSON16 will send the ORGANIZATION4 worker to PERSON9 and PERSON22 on Thursday morning.
+ -PERSON4, PERSON7 and PERSON6 do not have any English workers in Kaldi.
+ -PERSON4 proposes to train their own organization's system in K PERSON4, PERSON22 and PERSON16 will check if the new models should go into the electro systems directory for the demo.
+  They need to know which workers are adapted and which ones are not.
+
+
+Minuted by: Team ABC

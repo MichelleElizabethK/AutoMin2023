@@ -1,0 +1,71 @@
+DATE : 2023-04-26
+ATTENDEES : PERSON13, PERSON10, PERSON18, PERSON3, PERSON19, PERSON6
+
+
+SUMMARY-
+ -PERSON6 will be showing slides and scrolling them for everybody at the user session meeting.
+  The presentation is an extension of a demo which they ran for their project project officer at the end of June.
+ -PERSON6 is trying to convince people to come to the meeting of the user and advisory board of the project.
+  If they don't like the presentation, they will be cut out of the recording.
+ -PERSON1 worked on a machine translation project in the domain of order.
+  They collect data from the website, ORGANIZATION7 and Organizedation2.
+  They have a large multilingual parallel corpus that is suitable for training the system.
+  They are also working on the project PERSON1 has been collecting and annotating data from her own meetings as well as from other EU projects.
+  She has about 92 hours worth of audio recordings in English and 50 hours in Czech.
+  She worked on a corpus of speeches transcripts translations and interpretations from the ORGANIZATION PERSON8 presents two sequent to sequent models.
+  They were run on telephone with 2000 hours of training data and this is on the text.
+  One of them had some problems with low latencies.
+  The work package is on spoken language translation.
+ -PERSON7 worked on an online spoken translation project.
+  He explains how to improve the performance of the system.
+ -PERSON7 explains to PERSON6 and PERSON14 how the system works.
+  They discussed end to end SLT and how to improve the coupling between ASR and MT.
+ -PERSON14 explains to PERSON6 and PERSON5 how to deal with new things under the present tense.
+ -PERSON5 presents a work package on machine translation.
+  The main focus is on multi target machine translation and multi source translation.
+  Next slide is about recent work from their colleagues from ORGANIZATION8.
+ -PERSON11 explains the overview of the minuting module.
+  The module is based on the dialogue transcript and the MT agenda.
+  The task is to summarize the minute, the entire minute of the meeting, the dialogues with the including remarks, the agenda with the topics and the conclusion PERSON11 and PERSON6 worked on a speech recognition project.
+  The project mainly focuses on two different use cases: Face to face conferencing and the workshop style discussededions and remote meetings.
+  The PROJECT2 project started in January 2019 and has already done many events since then.
+  Organizing9 developed the presentation layer integrated with the ORGANIZATION9 service architecture.
+  Organization12 developed the online text flow of application.
+  Organization8 managed two dry run events in LOCATION2 The last presentation is on the work package which has been added on request by the Organizing Committee.
+  The goal is to set up procedures for recording and handling the data for the minuting use case.
+  It's collecting consents from human participants, and then specifying the procedure for collecting cons The participants of the PROJECT2 project have to agree that their contribution to that meeting can be used for the purpose.
+  The participants also have to give their consent to the release of their personal data.
+  The aim is to make the meeting recordings as anonymous as possible, so that no GDPR sensitive information will appear in them.
+  The deidentification pipeline would involve a voice, anonymization and replacing all personal data with placeholders, but it's not possible in practice.
+  The project is The presentation of the ORGANIZATION9 platform is taking place.
+ -PERSON6 is two minutes ahead of time.
+ -PERSON3 was briefly presenting the integration work package.
+  According to the PROJECT2 presentation platform, when the subtitles are being produced, they are connected to the main streaming machine from the main source.
+  The optimal screen size is this this one.
+  If the font size does not fit well on your screen, then you need to reduce the font PERSON6 explains how to watch a video in Chrome.
+  The user interface is full screen and shows three videos: German short speech, English Romania and a German and Czech subtitles, and a video of a three minutes of German lecture.
+ -PERSON6 and PERSON13 are showing the demos.
+  The first video is a German lecture in the domain of ORGANIZATION7.
+  The word error rate is about twelve points.
+ -PERSON6 explains the user interface for the PROJECT2 demo.
+ -PERSON6 and PERSON13 are showing a presentation in English and Czech.
+  The presentation is meant for live events, where the sound is coming from another stream.
+ -PERSON13 can switch on the subtitling of the call it'self.
+ -PERSON6 wants to show the last video demo.
+  It was the last the broadcasted lecture.
+  The word error rate here was 32 points.
+  The translation into German was about thirteen points.
+ -PERSON13 is impressed with the work of PROJECT2.
+  He doesn't speak or understand any other languages other than English.
+  He asks questions about the collection of test sets and how they are organized.
+ -PERSON6 worked on a project to develop a speech recognition system.
+  The project proposal excluded speech output from the data set.
+ -PERSON6 and PERSON9 are talking about speech to speech translation.
+  They will talk about it for one more year and a half.
+ -PERSON6 is happy to use the recordings of the meetings and provide the summarization themselves with their with their people.
+  They are also happy to create the minutes for these meetings afterwards.
+  There are two main issues concerning the collection and handling of the data: the GDPR and speech recognition PERSON9 and PERSON6 discussed some issues related to speech translation.
+  The project is being reviewed in two weeks.
+
+
+Minuted by: Team ABC
