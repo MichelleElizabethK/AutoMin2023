@@ -2,31 +2,31 @@ DATE : 2023-05-01
 ATTENDEES : PERSON1, PERSON10, PERSON11, PERSON2, PERSON4, PERSON6, PERSON7, PERSON8
 
 
-SUMMARY-For the satelite event it's February 28, but before that they have to submit the proposal any time.
-It is independent of interspeech to program committee and it is a mini conference.
-It will get indexed in Cosmopile PERSON2 has read a lot of papers in pvl.
-If they accept them both to Sigdail and this inter PERSON1, PERSON3 and PERSON2 are organizing a workshop.
-People will meet tomorrow to discuss what additional works they need to do for the satellite event.
-People have to choose the speakers and promote their workshop on their webpage PERSON1, PERSON2 and PERSON3 are planning a shared task at a spoken language technology workshop.
-PERSON2, PERSON3 and PERSON1 are going to do double work tomorrow.
-People should follow the same criteria as all other papers and the same timelines.
-Project PROJECT1 from Elsevier is going to host the proceedings of some conferences or workshops.
-PERSON2 and PERSON3 are organizing a machine translation conference on January 15th.
-PERSON2 is waiting for the person who was supposed to join the group, but he didn't.
-PERSON1, PERSON2, PERSON3 and PERSON4 are interested in the publication of their research in a journal called "Noise PROJECT2".
-PERSON1 will be back in two minutes.
-PERSON1, PERSON3 and PERSON4 are going to a workshop.
-PERSON1 is at the office today.
-PERSON2 and PERSON3 are planning to do a project on Muslim machine translation and linguistics morphologies in Texas.
-They have to study some satellite events that they got accepted to last year and reorient this thing.
-They also have to do management and presentation to the program committee and make a website for their shared task.
-The next proposal for 2022 is made in March, which would be too late for them PERSON3 explains to PERSON1 and PERSON2 how the workshop works.
-The proposal for this year's workshop was made in September, which is too early for them.
-They are going to use Sigdial to do it.
-They are going to present the conference proceedings from El Severe.
-The deadline for submitting the full papers of participants is February 28.
-They want to have up to five or six participants.
-They have to take institutional membership to submit the proposal.
-of open access journals.
+SUMMARY-- For the satelite event it's February 28, but before that they have to submit the proposal any time.
+- It is independent of interspeech to program committee and it is a mini conference.
+- It will get indexed in Cosmopile PERSON2 has read a lot of papers in pvl.
+- If they accept them both to Sigdail and this inter PERSON1, PERSON3 and PERSON2 are organizing a workshop.
+- People will meet tomorrow to discuss what additional works they need to do for the satellite event.
+- People have to choose the speakers and promote their workshop on their webpage PERSON1, PERSON2 and PERSON3 are planning a shared task at a spoken language technology workshop.
+- PERSON2, PERSON3 and PERSON1 are going to do double work tomorrow.
+- People should follow the same criteria as all other papers and the same timelines.
+- Project PROJECT1 from Elsevier is going to host the proceedings of some conferences or workshops.
+- PERSON2 and PERSON3 are organizing a machine translation conference on January 15th.
+- PERSON2 is waiting for the person who was supposed to join the group, but he didn't.
+- PERSON1, PERSON2, PERSON3 and PERSON4 are interested in the publication of their research in a journal called "Noise PROJECT2".
+- PERSON1 will be back in two minutes.
+- PERSON1, PERSON3 and PERSON4 are going to a workshop.
+- PERSON1 is at the office today.
+- PERSON2 and PERSON3 are planning to do a project on Muslim machine translation and linguistics morphologies in Texas.
+- They have to study some satellite events that they got accepted to last year and reorient this thing.
+- They also have to do management and presentation to the program committee and make a website for their shared task.
+- The next proposal for 2022 is made in March, which would be too late for them PERSON3 explains to PERSON1 and PERSON2 how the workshop works.
+- The proposal for this year's workshop was made in September, which is too early for them.
+- They are going to use Sigdial to do it.
+- They are going to present the conference proceedings from El Severe.
+- The deadline for submitting the full papers of participants is February 28.
+- They want to have up to five or six participants.
+- They have to take institutional membership to submit the proposal.
+- of open access journals.
 
 Minuted by: Team Synapse

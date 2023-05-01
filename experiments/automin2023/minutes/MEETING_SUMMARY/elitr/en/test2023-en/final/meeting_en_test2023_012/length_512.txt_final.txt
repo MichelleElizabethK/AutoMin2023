@@ -2,53 +2,53 @@ DATE : 2023-05-01
 ATTENDEES : PERSON1, PERSON10, PERSON11, PERSON2, PERSON4, PERSON6, PERSON7, PERSON8
 
 
-SUMMARY-Anonymise, with the help of annotators, and then show for the second consent.
-Felix wrote to the team about the problems with summarizing the data from the organisational meetings.
-He should contact them and invite them for the shared task.
-If one has the membership for ORGANIZATION7, they will get a discount at the conference.
-Institutional membership costs two hundred fourty euros, whereas full membership costs one hundred and fifty euros.
-If they don't get into it, they will apply for SIGDial.
-If someone doesn't PERSON3 and PERSON7 discuss the Interspeech and PBML procedures.
-Most of the codes for the evaluation and for the automatic summarization of the methods mentioned in the paper are already there in one paper implemented.
-Mike will join them in about twenty minutes.
-Organizing Committee 7 members have to prepare the website and call for papers on the website.
-Organization 7 has only one membership.
-PERSON7 also has implemented it and he will send the summaries in the PERSON4 will write to PERSON10 to make sure he has access to all the data that they have transcribed.
-PERSON7 suggests to put the project at the top of the list.
-PERSON3 asks PERSON4 to make a timeline for the data preparation and share it with PERSON7 and PERSON10.
-PERSON6 asks about the outputs of the key words that PERSON PERSON6 will run the code he received from PERSON8 on their data to check if it works.
-PERSON6 implemented a system from the ORGANIZATION3 paper and sent it to the paper's authors to double check if it works.
-PERSON4 would never take part in an MT marathon.
-PERSON5 asks for the best set up of web page.
-PERSON3, PERSON7 and others want to prepare for the Interspeech satellite event.
-PERSON3 asks PERSON6 to contact the PhD student who has a lot of papers into meeting summarization.
-Person7 thinks inviting the program committee is more important.
-PERSON3 is opening the document by PERSON6 the progress report.
-PERSON3, PERSON7 and PERSON4 are planning a special session for SIGDial.
-PERSON7 and PERSON3 discuss organization registration procedures.
-PERSON3 and PERSON4 are going to be in a meeting.
-PERSON3 has done 5 MT marathons and knows the people involved.
-PERSON3, PERSON6 and PERSON7 are working on a project.
-Person6, Person3 and Person7 discuss how to improve the results.
-PERSON3 was at the canteen when the e-mail was sent, so she missed the deadline for summarizing the meeting data.
-PERSON4 asks for preferred type of membership.
-She will have to move to the court.
-Some files will not make it to the release.
-The conference was in September, the paper submission was in May, the next one is in July, PERSON3, PERSON4 and PERSON7 are worried about the timing of SIGDial and Interspeech special sessions.
-They are discussing the evaluation of two meetings and the minutes of one of them.
-They have to split the meetings into three parts: the training part, the development part and the final test part.
-The papers that would be submitted in the shared task would be reviewed by the program committee of SIG PERSON3, PERSON4 and PERSON7 are discussing the organisation of the MT marathons.
-To apply for the ORGANIZATION7 membership, one needs to pay twenty euros.
-The paper submission deadline for the special session is 3 months before the Interspeech special session.
-They need to create a scientific commission to handle the review of the papers.
-The task is difficult and the summarizers give bad results.
-They have the option to create separate proceedings.
-The institutional member package A for Interspeech is two fourty euros for one year.
-The student package is twenty euros.
-The meeting minutes are the gold standard.
-The data has been processed only by you and your people, but now it has to go to the anonymisation.
-They will use it for evaluation.
-The former head of the department, PERSON1, There is reduced fee for Interspeech.
-The deadline for Interspeech is March 15th.
+SUMMARY-- Anonymise, with the help of annotators, and then show for the second consent.
+- Felix wrote to the team about the problems with summarizing the data from the organisational meetings.
+- He should contact them and invite them for the shared task.
+- If one has the membership for ORGANIZATION7, they will get a discount at the conference.
+- Institutional membership costs two hundred fourty euros, whereas full membership costs one hundred and fifty euros.
+- If they don't get into it, they will apply for SIGDial.
+- If someone doesn't PERSON3 and PERSON7 discuss the Interspeech and PBML procedures.
+- Most of the codes for the evaluation and for the automatic summarization of the methods mentioned in the paper are already there in one paper implemented.
+- Mike will join them in about twenty minutes.
+- Organizing Committee 7 members have to prepare the website and call for papers on the website.
+- Organization 7 has only one membership.
+- PERSON7 also has implemented it and he will send the summaries in the PERSON4 will write to PERSON10 to make sure he has access to all the data that they have transcribed.
+- PERSON7 suggests to put the project at the top of the list.
+- PERSON3 asks PERSON4 to make a timeline for the data preparation and share it with PERSON7 and PERSON10.
+- PERSON6 asks about the outputs of the key words that PERSON PERSON6 will run the code he received from PERSON8 on their data to check if it works.
+- PERSON6 implemented a system from the ORGANIZATION3 paper and sent it to the paper's authors to double check if it works.
+- PERSON4 would never take part in an MT marathon.
+- PERSON5 asks for the best set up of web page.
+- PERSON3, PERSON7 and others want to prepare for the Interspeech satellite event.
+- PERSON3 asks PERSON6 to contact the PhD student who has a lot of papers into meeting summarization.
+- Person7 thinks inviting the program committee is more important.
+- PERSON3 is opening the document by PERSON6 the progress report.
+- PERSON3, PERSON7 and PERSON4 are planning a special session for SIGDial.
+- PERSON7 and PERSON3 discuss organization registration procedures.
+- PERSON3 and PERSON4 are going to be in a meeting.
+- PERSON3 has done 5 MT marathons and knows the people involved.
+- PERSON3, PERSON6 and PERSON7 are working on a project.
+- Person6, Person3 and Person7 discuss how to improve the results.
+- PERSON3 was at the canteen when the e-mail was sent, so she missed the deadline for summarizing the meeting data.
+- PERSON4 asks for preferred type of membership.
+- She will have to move to the court.
+- Some files will not make it to the release.
+- The conference was in September, the paper submission was in May, the next one is in July, PERSON3, PERSON4 and PERSON7 are worried about the timing of SIGDial and Interspeech special sessions.
+- They are discussing the evaluation of two meetings and the minutes of one of them.
+- They have to split the meetings into three parts: the training part, the development part and the final test part.
+- The papers that would be submitted in the shared task would be reviewed by the program committee of SIG PERSON3, PERSON4 and PERSON7 are discussing the organisation of the MT marathons.
+- To apply for the ORGANIZATION7 membership, one needs to pay twenty euros.
+- The paper submission deadline for the special session is 3 months before the Interspeech special session.
+- They need to create a scientific commission to handle the review of the papers.
+- The task is difficult and the summarizers give bad results.
+- They have the option to create separate proceedings.
+- The institutional member package A for Interspeech is two fourty euros for one year.
+- The student package is twenty euros.
+- The meeting minutes are the gold standard.
+- The data has been processed only by you and your people, but now it has to go to the anonymisation.
+- They will use it for evaluation.
+- The former head of the department, PERSON1, There is reduced fee for Interspeech.
+- The deadline for Interspeech is March 15th.
 
 Minuted by: Team Synapse

@@ -2,57 +2,57 @@ DATE : 2023-05-01
 ATTENDEES : PERSON1, PERSON10, PERSON11, PERSON2, PERSON4, PERSON6, PERSON7, PERSON8
 
 
-SUMMARY-As a fallback solution they should have the PROJECT2 model running as a worker on their PERSON8 is going to look into getting PROJECT2 up and running.
-He can also use PROJECT10.
-He will create new sentences by words that were spoken in other sentences and he will do this across different speakers.
-He promised to give it by Thursday.
-He should apply for PhD before the end of the year.
-It was tested on logs, so now it's time to test it on live pipelines.
-On Monday we will hear the Italian English, and yesterday we had a chance to hear PERSON14 is working on a technical solution for the multi accent English.
-Organization97 takes a lot of data.
-PERSON16, PERSON5, PERSON16 and PERSON8 need to set up a call with PERSON5 to discuss how to make the configuration cleaner.
-PERSON17 wants them to provide the first specification of requirements for pipeline set ups so that it is much less error-prone and modular.
-PERSON17 will try to make it, because he will have already called at half past three.
-PERSON8 will call PERSON4 later today to explain how to do it.
-PERSON15 sent them scripts with absolute paths on their systems and they need to replace them with their paths correctly to solve the problem.
-PERSON6 and PERSON17 agree that we don't have the human capacity to scrape Organization 6's proposal to scrape ORGANIZATION5 and even automatic search.
-PERSON19 is starting to run the experiments that PERSON11 told him about.
-PERSON9 has already started preparing for the upcoming Monday seminar, which will be given by an Italian guy, the author of PROJECT6.
-PERSON8 confirms that the domain-adapted models capture the words better than the non-delineated ones.
-PERSON17 wants to know if the toolkit is working properly.
-PERSON14's friend might be able to help.
-PERSON8 will have a call with PERSON9 later today.
-PERSON12 would like to have a call with PERSON19 and PERSON11 tomorrow at 2.
-PERSON15's rainbow worker was better in speed, but scores were better for PERSON15's worker.
-PERSON17 wants to combine the document level and the multi-lingual aspects of the research.
-PERSON6, PERSON16, PERSON17 and PERSON8 are discussing the performance of their machine learning model.
-PERSON9 has already tried it once.
-PERSON17, PERSON8 and PERSON6 discuss the implementation of a speech recognition system (ASR) in their company.
-PERSON8 will have a call with PERSON2 and PERSON17 next week on Monday or Tuesday.
-PERSON16 is working on the project, while PERSON8 is in hospital.
-PERSON17, PERSON19 and PERSON11 will have a separate call tomorrow at 2 PM or 3 PM to talk about experiments with multi-source text in ORGANIZATION8.
-PERSON8 will get in touch with PERSON9 about integrating some of the tasks that PERSON9 has developed and integrating tools that PERSON5 and PERSON8 should use.
-PERSON17 is looking for someone who can work on the non-native accent thing.
-PERSON PERSON8's visa is approved and she'll probably be in Prague in January.
-PERSON14, PERSON8 and PERSON17 discuss how to train a neural network to do sentiment analysis.
-PERSON11 needs to finish the executive summary and comment on PERSON3's paper.
-PERSON17 will send a link to the ORGANIZATION4 calendar.
-PERSON6 needs to save 50 gigabytes of data on Troja.
-PERSON16 had copied the code from PERSON15, but when he tried he failed because of some errors.
-PERSON8, PERSON9 and PERSON14 will work on domain adaptation for the PROJECT5 toolkit.
-PERSON6 is working on shortening and extending models and running out of storage quota on Mala Strana.
-PERSON17, PERSON14 and PERSON6 discuss the implementation of a fully neural ASR.
-PERSON11 is waiting for the input from ORGANIZATION3.
-PERSON16 explained him how to solve the issue.
-PERSON6 has some bachelor students at ORGANIZATION6 who might be interested, but they are not czech citizens.
-PERSON2 will manage the recording of the results of the ASR evaluation.
-They need to make sure they have the right people available for important sessions.
-The integration will probably take place on the Tuesday PERSON17 has started to integrate profanity filtering, but it's not integrated yet.
-The system needs users and diverse users, the more different users the better, because it will be robust to the different conditions of the users.
-The purpose of the experiments is to complete the GPU test and to know which version of PROJECT2 works.
-The model was trained using tensor to tensor, which makes it slow.
-The profanity filtering and especially the spasm detection and removal should be employed twice, first after the ASR and second after the MT.
-When working with PROJECT2, PERSON16 had several path conflicts.
-Yesterday, the pipeline had to be started by PERSON9 and PERSON5, but they failed, so PERSON5 got errors in the pipeline because he was trying to run a worker which was not running in the mediator.
+SUMMARY-- As a fallback solution they should have the PROJECT2 model running as a worker on their PERSON8 is going to look into getting PROJECT2 up and running.
+- He can also use PROJECT10.
+- He will create new sentences by words that were spoken in other sentences and he will do this across different speakers.
+- He promised to give it by Thursday.
+- He should apply for PhD before the end of the year.
+- It was tested on logs, so now it's time to test it on live pipelines.
+- On Monday we will hear the Italian English, and yesterday we had a chance to hear PERSON14 is working on a technical solution for the multi accent English.
+- Organization97 takes a lot of data.
+- PERSON16, PERSON5, PERSON16 and PERSON8 need to set up a call with PERSON5 to discuss how to make the configuration cleaner.
+- PERSON17 wants them to provide the first specification of requirements for pipeline set ups so that it is much less error-prone and modular.
+- PERSON17 will try to make it, because he will have already called at half past three.
+- PERSON8 will call PERSON4 later today to explain how to do it.
+- PERSON15 sent them scripts with absolute paths on their systems and they need to replace them with their paths correctly to solve the problem.
+- PERSON6 and PERSON17 agree that we don't have the human capacity to scrape Organization 6's proposal to scrape ORGANIZATION5 and even automatic search.
+- PERSON19 is starting to run the experiments that PERSON11 told him about.
+- PERSON9 has already started preparing for the upcoming Monday seminar, which will be given by an Italian guy, the author of PROJECT6.
+- PERSON8 confirms that the domain-adapted models capture the words better than the non-delineated ones.
+- PERSON17 wants to know if the toolkit is working properly.
+- PERSON14's friend might be able to help.
+- PERSON8 will have a call with PERSON9 later today.
+- PERSON12 would like to have a call with PERSON19 and PERSON11 tomorrow at 2.
+- PERSON15's rainbow worker was better in speed, but scores were better for PERSON15's worker.
+- PERSON17 wants to combine the document level and the multi-lingual aspects of the research.
+- PERSON6, PERSON16, PERSON17 and PERSON8 are discussing the performance of their machine learning model.
+- PERSON9 has already tried it once.
+- PERSON17, PERSON8 and PERSON6 discuss the implementation of a speech recognition system (ASR) in their company.
+- PERSON8 will have a call with PERSON2 and PERSON17 next week on Monday or Tuesday.
+- PERSON16 is working on the project, while PERSON8 is in hospital.
+- PERSON17, PERSON19 and PERSON11 will have a separate call tomorrow at 2 PM or 3 PM to talk about experiments with multi-source text in ORGANIZATION8.
+- PERSON8 will get in touch with PERSON9 about integrating some of the tasks that PERSON9 has developed and integrating tools that PERSON5 and PERSON8 should use.
+- PERSON17 is looking for someone who can work on the non-native accent thing.
+- PERSON PERSON8's visa is approved and she'll probably be in Prague in January.
+- PERSON14, PERSON8 and PERSON17 discuss how to train a neural network to do sentiment analysis.
+- PERSON11 needs to finish the executive summary and comment on PERSON3's paper.
+- PERSON17 will send a link to the ORGANIZATION4 calendar.
+- PERSON6 needs to save 50 gigabytes of data on Troja.
+- PERSON16 had copied the code from PERSON15, but when he tried he failed because of some errors.
+- PERSON8, PERSON9 and PERSON14 will work on domain adaptation for the PROJECT5 toolkit.
+- PERSON6 is working on shortening and extending models and running out of storage quota on Mala Strana.
+- PERSON17, PERSON14 and PERSON6 discuss the implementation of a fully neural ASR.
+- PERSON11 is waiting for the input from ORGANIZATION3.
+- PERSON16 explained him how to solve the issue.
+- PERSON6 has some bachelor students at ORGANIZATION6 who might be interested, but they are not czech citizens.
+- PERSON2 will manage the recording of the results of the ASR evaluation.
+- They need to make sure they have the right people available for important sessions.
+- The integration will probably take place on the Tuesday PERSON17 has started to integrate profanity filtering, but it's not integrated yet.
+- The system needs users and diverse users, the more different users the better, because it will be robust to the different conditions of the users.
+- The purpose of the experiments is to complete the GPU test and to know which version of PROJECT2 works.
+- The model was trained using tensor to tensor, which makes it slow.
+- The profanity filtering and especially the spasm detection and removal should be employed twice, first after the ASR and second after the MT.
+- When working with PROJECT2, PERSON16 had several path conflicts.
+- Yesterday, the pipeline had to be started by PERSON9 and PERSON5, but they failed, so PERSON5 got errors in the pipeline because he was trying to run a worker which was not running in the mediator.
 
 Minuted by: Team Synapse

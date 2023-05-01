@@ -2,41 +2,41 @@ DATE : 2023-05-01
 ATTENDEES : PERSON1, PERSON10, PERSON11, PERSON2, PERSON4, PERSON6, PERSON7, PERSON8
 
 
-SUMMARY-According to PERSON2, PROJECT5 2021 will be similar to this one, except that they will go public and make the system available to all their target languages.
-He wants to nominate someone responsible for making recordings of these important sessions.
-It will include at least four people, possibly more, and they will start regular weekly calls.
-Organizing3 does not want to deploy too many workers PERSON2 will talk to PERSON17 and they will evaluate the Improved ASR systems.
-One of them will be on January 25th.
-PERSON2 wants to make sure that they have the actual systems for the sessions prepared.
-PERSON2 will make sure to submit the delbls before the end of the year, on the New Year's Eve at the latest.
-PERSON2, PERSON4 and PERSON15 agree that they need to be dockerized in order to run their projects in the cloud.
-PERSON5 has received an almost complete version with sections for ASR, MT, NSL PERSON2 and PERSON9 want to know about the status of PROJECT2.
-Person1 and Person2 want to record the speeches of non-native speakers who use English and use it as a test set for their project.
-PERSON12 is reporting some minor bugs with the ASR system PERSON2 wants to know if they can run some tests on evaluation.
-PERSON2 and PERSON9 are in the last call before Christmas.
-PERSON3 is the person who should put it there.
-PERSON18, PERSON2 and PERSON4 discuss how to improve the quality of their online translation experiments.
-PERSON2 will ask PERSON7 to do a Doodle poll about simultaneous SLT and how it could be made better.
-PERSON2, PERSON4, PERSON5, PERSON18, and PERSON9 will have a technical call in mid January to discuss dockerizing MT models for PROJECT2.
-PERSON2 will set up a doodle poll to create a cross-team within the project.
-PERSON2 and PERSON4 are waiting for Dominik to prepare a large corpus of speech interpretation data.
-PERSON2 will get in touch with PERSON9 and PERSON16 to update them about the ASR.
-PERSON2, PERSON15 and PERSON18 are working on improving the machine translation system.
-The next important session to get ready for the ORGANIZATION5 part 1 is going to take place in mid-April, not in May as originally planned.
-They need to practice also these preparations.
-They agreed that they're going to do English to five models 9 times to cover the 43 target languages.
-There will be two test sessions: one for small participants and one for bigger ones.
-The new transformer models that they are running tend to need reviews so that PERSON2 and PERSON4 discuss the implementation of dockerized systems for PROJECT2 project.
-They also agree that the online text flow should be also dockerized.
-The report of multilingual machine translations is almost complete and ready for review.
-There will be many smaller events next year.
-They want to discuss the models they need to improve.
-There'll be another PROJECT2 call in January.
-They agree to make weekly phone calls between themselves and PERSON12 on the abridging and the collaboration of their data.
-They want to compare their models with the minimal translation units from the interpreters in PERSON12's corpus to be able to improve their systems.
-They are also working on improve spoke language translation prototype.
-The trade fair of the students companies will be held in March.
-The participants need to be ready and attend to the point.
-The survivors of Holocaust will have The PROJECT5 2020 event is taking place in December.
+SUMMARY-- According to PERSON2, PROJECT5 2021 will be similar to this one, except that they will go public and make the system available to all their target languages.
+- He wants to nominate someone responsible for making recordings of these important sessions.
+- It will include at least four people, possibly more, and they will start regular weekly calls.
+- Organizing3 does not want to deploy too many workers PERSON2 will talk to PERSON17 and they will evaluate the Improved ASR systems.
+- One of them will be on January 25th.
+- PERSON2 wants to make sure that they have the actual systems for the sessions prepared.
+- PERSON2 will make sure to submit the delbls before the end of the year, on the New Year's Eve at the latest.
+- PERSON2, PERSON4 and PERSON15 agree that they need to be dockerized in order to run their projects in the cloud.
+- PERSON5 has received an almost complete version with sections for ASR, MT, NSL PERSON2 and PERSON9 want to know about the status of PROJECT2.
+- Person1 and Person2 want to record the speeches of non-native speakers who use English and use it as a test set for their project.
+- PERSON12 is reporting some minor bugs with the ASR system PERSON2 wants to know if they can run some tests on evaluation.
+- PERSON2 and PERSON9 are in the last call before Christmas.
+- PERSON3 is the person who should put it there.
+- PERSON18, PERSON2 and PERSON4 discuss how to improve the quality of their online translation experiments.
+- PERSON2 will ask PERSON7 to do a Doodle poll about simultaneous SLT and how it could be made better.
+- PERSON2, PERSON4, PERSON5, PERSON18, and PERSON9 will have a technical call in mid January to discuss dockerizing MT models for PROJECT2.
+- PERSON2 will set up a doodle poll to create a cross-team within the project.
+- PERSON2 and PERSON4 are waiting for Dominik to prepare a large corpus of speech interpretation data.
+- PERSON2 will get in touch with PERSON9 and PERSON16 to update them about the ASR.
+- PERSON2, PERSON15 and PERSON18 are working on improving the machine translation system.
+- The next important session to get ready for the ORGANIZATION5 part 1 is going to take place in mid-April, not in May as originally planned.
+- They need to practice also these preparations.
+- They agreed that they're going to do English to five models 9 times to cover the 43 target languages.
+- There will be two test sessions: one for small participants and one for bigger ones.
+- The new transformer models that they are running tend to need reviews so that PERSON2 and PERSON4 discuss the implementation of dockerized systems for PROJECT2 project.
+- They also agree that the online text flow should be also dockerized.
+- The report of multilingual machine translations is almost complete and ready for review.
+- There will be many smaller events next year.
+- They want to discuss the models they need to improve.
+- There'll be another PROJECT2 call in January.
+- They agree to make weekly phone calls between themselves and PERSON12 on the abridging and the collaboration of their data.
+- They want to compare their models with the minimal translation units from the interpreters in PERSON12's corpus to be able to improve their systems.
+- They are also working on improve spoke language translation prototype.
+- The trade fair of the students companies will be held in March.
+- The participants need to be ready and attend to the point.
+- The survivors of Holocaust will have The PROJECT5 2020 event is taking place in December.
 
 Minuted by: Team Synapse

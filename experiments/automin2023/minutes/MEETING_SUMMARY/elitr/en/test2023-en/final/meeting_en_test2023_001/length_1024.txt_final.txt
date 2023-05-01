@@ -2,30 +2,30 @@ DATE : 2023-05-01
 ATTENDEES : PERSON1, PERSON10, PERSON11, PERSON2, PERSON4, PERSON6, PERSON7, PERSON8
 
 
-SUMMARY-He's trying to convert them to the correct format, but it doesn't support the format.
-He also wants to change the IPA to the alphabet phonem
-PERSON4 is not taking part in the call with PERSON1 as well.
-PERSON4 explains to PERSON2 how to create a custom word list and how to use it.
-PERSON4 wants to have a call with PERSON2 tomorrow, but it will be difficult as he is off for Friday prayer on Friday for 10 to 12 and has a test run with PERSON8 that they were discussing.
-PERSON1 is going to be busy tomorrow and over the weekend, so today is the last chance for PERSON6 to get it running before the weekend.
-PERSON6 would like to implement natural shortening in the model as well.
-PERSON2 is finishing training of a German ASR that may be used for time stamping.
-PERSON6 and PERSON4 are preparing the setups for PROJECT2 and PROJECT4 is working on the Monday seminar model.
-PERSON2 will train a language model for the German ASR tomorrow.
-PERSON8 will ask PERSON10 if he can help.
-PERSON10, PERSON4 and PERSON11 will synchronise and send the numbers to PERSON8.
-PERSON6 is leaving the call.
-PERSON1 will send an email to PERSON2.
-PERSON11 is interested in doing offline subtitling for the upcoming sessions.
-PERSON1 compares the quality of the ASR workers and their latency and flicker.
-PERSON6, PERSON8, PERSON11, PERSON2, PERSON1 and PERSON12 are on a conference call.
-PERSON6 advises to update the pipelines on Friday.
-Some videos are not properly converted into a 16 c format and some audio files are not working properly.
-The decision on which model to use will be made on Monday.
-The language model may need both the Transcripts and the Language Model.
-There is only one ASR worker PERSON11 is having problems with transcribing files.
-They are discussing some technical issues with the system.
-They ask each other for help.
-There are some serious errors in the ASR output.
+SUMMARY-- He's trying to convert them to the correct format, but it doesn't support the format.
+- He also wants to change the IPA to the alphabet phonem
+- PERSON4 is not taking part in the call with PERSON1 as well.
+- PERSON4 explains to PERSON2 how to create a custom word list and how to use it.
+- PERSON4 wants to have a call with PERSON2 tomorrow, but it will be difficult as he is off for Friday prayer on Friday for 10 to 12 and has a test run with PERSON8 that they were discussing.
+- PERSON1 is going to be busy tomorrow and over the weekend, so today is the last chance for PERSON6 to get it running before the weekend.
+- PERSON6 would like to implement natural shortening in the model as well.
+- PERSON2 is finishing training of a German ASR that may be used for time stamping.
+- PERSON6 and PERSON4 are preparing the setups for PROJECT2 and PROJECT4 is working on the Monday seminar model.
+- PERSON2 will train a language model for the German ASR tomorrow.
+- PERSON8 will ask PERSON10 if he can help.
+- PERSON10, PERSON4 and PERSON11 will synchronise and send the numbers to PERSON8.
+- PERSON6 is leaving the call.
+- PERSON1 will send an email to PERSON2.
+- PERSON11 is interested in doing offline subtitling for the upcoming sessions.
+- PERSON1 compares the quality of the ASR workers and their latency and flicker.
+- PERSON6, PERSON8, PERSON11, PERSON2, PERSON1 and PERSON12 are on a conference call.
+- PERSON6 advises to update the pipelines on Friday.
+- Some videos are not properly converted into a 16 c format and some audio files are not working properly.
+- The decision on which model to use will be made on Monday.
+- The language model may need both the Transcripts and the Language Model.
+- There is only one ASR worker PERSON11 is having problems with transcribing files.
+- They are discussing some technical issues with the system.
+- They ask each other for help.
+- There are some serious errors in the ASR output.
 
 Minuted by: Team Synapse
