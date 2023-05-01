@@ -1,0 +1,31 @@
+DATE : 2023-05-01
+ATTENDEES : PERSON1, PERSON10, PERSON11, PERSON2, PERSON4, PERSON6, PERSON7, PERSON8
+
+
+SUMMARY-As a fallback solution, PERSON16 had some problems with path conflicts when working with PROJECT2.
+He wants to explain to PERSON4 how to do it so that he can test it on the live pipelines.
+He will have a call with PERSON19 and PERSON11 tomorrow at 2 pm.
+PERSON9 will be leaving the team, so they need to take care of the training of the new person.
+PERSON17 wants to be the first one to arrive in Prague.
+Person12 would like to join the call.
+PERSON19 is starting to run the experiments on the same setup PERSON11 told him about.
+PERSON14, PERSON17, PERSON8, PERSON5, PERSON16 and PERSON17 need to record the experience from the PROJECT1 and S G one sessions.
+PERSON11 and PERSON19 will have a separate call tomorrow afternoon at 3 p.m. PERSON9 will finish the language model checking of ASR outputs.
+PERSON8 is having a call with PERSON9 later today.
+PERSON14 is preparing for the upcoming Monday seminar on the Italian language model for the ASR.
+PERSON6 has some students who might be interested in the task.
+PERSON17 wants to make sure the profanity filtering and especially the spasm detection and removal are integrated.
+PERSON17 is trying to send the ORGANIZATION4 invite.
+PERSON16, PERSON6, PERSON17, PERSON8 and PERSON19 are working on a project.
+PERSON17, PERSON14, PERSON2, PERSON9, PERSON11, PERSON19, PERSON6, and PERSON6 and the rest are here.
+PERSON14's friend will help with filtering profanity and then the positive speak.
+Person17 will let him know.
+PERSON8, PERSON17 and PERSON14 discuss the development of a fully neural ASR and how to improve it.
+There will be a call at two thirty Prague time with PERSON4 to discuss the capability of There are two lessons learned from the last week sessions: the management of important sessions and the setting up of the toolkit.
+There PERSON17 wants to set up a call with PERSON5, PERSON16 and PERSON8 to discuss the configuration of the pipeline set ups.
+They haven't had their call last week.
+They will meet again next week and then in January.
+They need to do the evaluation of all systems, all files in the test set.
+The problem with the model is two-fold: it wasn't properly trained with the fine tunings that PERSON15 used and it's very slow.
+
+Minuted by: Team Synapse

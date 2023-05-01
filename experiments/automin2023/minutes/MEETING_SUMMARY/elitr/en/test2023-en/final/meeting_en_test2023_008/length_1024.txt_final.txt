@@ -1,0 +1,23 @@
+DATE : 2023-05-01
+ATTENDEES : PERSON1, PERSON10, PERSON11, PERSON2, PERSON4, PERSON6, PERSON7, PERSON8
+
+
+SUMMARY-He needs to find the papers in Portuguese.
+He will contact a researcher in Brazil who used to work with the Portuguese language.
+He will try to find some more difficult phonology, some maths terminology for, books for translation of math books into Czech.
+It works even when the translation is different from the reference.
+PERSON4 wants to make more work with the training data they have.
+PERSON6 is looking for the training data for the project.
+PERSON4 will try to look up some other terminal database and some dataset.
+PERSON4 thinks it is, as long as they do the analysis more properly.
+PERSON6 wants to know if the lemmatization is working right.
+PERSON3 wants to train on one domain and train on another.
+PERSON1 and PERSON2 explain to PERSON4 and PERSON5 how to extract data from the WMT 20 testsuite markables by PERSON2.
+Person6 wants to improve the Portugese language model.
+They also explain how to convert the data to English and how to prepare it for evaluation.
+The automatic metrics are not good enough for the current paper.
+There is a corpus of sentence transformations for English, but they do not have any reference data PERSON1 and PERSON2 are working on a project.
+They need to prepare an auditing report for the European Court of Auditors and a sub-lease agreement for a tenant and lessee.
+The model learns to inflect the constraints properly and is not just about translation.
+
+Minuted by: Team Synapse

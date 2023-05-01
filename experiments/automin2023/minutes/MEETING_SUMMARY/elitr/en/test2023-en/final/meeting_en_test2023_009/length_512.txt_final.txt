@@ -1,0 +1,34 @@
+DATE : 2023-05-01
+ATTENDEES : PERSON1, PERSON10, PERSON11, PERSON2, PERSON4, PERSON6, PERSON7, PERSON8
+
+
+SUMMARY-If the result is negative, he and PERSON10 will meet on Friday in person or through Zoom.
+PERSON1, who created the project, put the editable L in comment on the second line of the document so that later on one can always find the link.
+PERSON1 and PERSON3 want to make sure they have dedicated data sets for English and Portugese within their PROJECT2 asset.
+PERSON3 will soon put in all the results and try to figure out some kind of explanation for them.
+Person10 will try to set up a conference call with PERSON12 to discuss the data set.
+PERSON10 wants to make sure in the concatenation settings that there is a special token to distinguish between the source and the context of a sentence and the other sentence.
+PERSON1 is preparing a training model for negative constant along with the input to train an English-Portugese model.
+PERSON10 wants to make sure there is an option to go after summer.
+PERSON8 tried to do it in two different ways.
+PERSON5, who is responsible for organizing the meeting, doesn't know if the link from Organization 1 is working.
+PERSON10 explains to PERSON2 that the se two encoder setting works with the multi-model translation but it doesn't work with the concatenation.
+PERSON3 is PERSON3 is preparing data sets for the PROJECT2 experiments.
+PERSON3 wants to come here before summer or during the holiday.
+PERSON3 will write the results into the paper.
+PERSON8 is in Slovakia, he's moving to Prague tomorrow and going to the PCR test on Wednesday.
+PERSON8's message to the Organizing Committee3 has not received a response.
+PERSON1, PERSON2, PERSON8 and PERSON10 discuss the pros and cons of encoding two copies of the same sentence.
+PERSON5 shared the link into chat.
+The next week he has a Hacathon on universal coreference with PERSON The second encoder does not really encode the context, but it does introduce some noise which helps the robustness of the data set.
+The method works but it's far from getting correct core, correct force from of the consraints.
+They will think about April as suggested by PERSON1.
+They are going to limit the experiments to only a sentence There is a DEMO deadline on Friday the fifteenth of January, and then there is ACL deadline at the end of the month.
+They also want to have a dedicated English to Portugese model.
+Two encoders work the same with the random sentences as with the correct ones.
+There will be an NLP conference on PERSON10, PERSON5, PERSON3 and PERSON1 are planning to write a short paper for the ASL and submit it to the conference.
+There is an EACL deadline on the first of February.
+There's an abstract submission a week before.
+The project will focus on English-Portugese and comprehension linguistics.
+
+Minuted by: Team Synapse

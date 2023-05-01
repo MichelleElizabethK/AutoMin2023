@@ -1,0 +1,17 @@
+DATE : 2023-05-01
+ATTENDEES : PERSON1, PERSON10, PERSON11, PERSON2, PERSON4, PERSON6, PERSON7, PERSON8
+
+
+SUMMARY-For the positive constraints, it's only data manipulation.
+For negative constraints it's filtering out the beams and replacing the beams with different beams.
+PERSON9 is preparing data for the model for negative constraints.
+PERSON4 wants to get the deliverables from the project no later than 21st.
+PERSON2 and PERSON9 are working on a system.
+PERSON7 wants to send them an e-mail with a preview PERSON6, PERSON4, PERSON5 and PROJECT2 are going to spend Christmas together.
+PERSON2 is training systems for the constraint decoding.
+There is a dissemination and quality estimation on one of the PERSON7, PERSON4, PERSON5 and PERSON5 are going to cancel the quality estimation and multi-lingual multi-source translation meetings on the 21st and 28th of December and the next one on the 4th of January.
+There will be no additional work on the 24th, 25th and 26th.
+The analysis of the system PERSON2 is almost finished with changing Marion in a way that it outputs all the attentional incoder decoder attentional weights.
+The training is just about the modification of the decorder.
+
+Minuted by: Team Synapse

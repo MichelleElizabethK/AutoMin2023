@@ -1,0 +1,30 @@
+DATE : 2023-05-01
+ATTENDEES : PERSON1, PERSON10, PERSON11, PERSON2, PERSON4, PERSON6, PERSON7, PERSON8
+
+
+SUMMARY-Anonymise, with the help of annotators, and release the files.
+He will put the evaluation of all three in one doc by the weekend.
+If they get accepted for the Interspeech satellite event, they should start preparing for that.
+If someone doesn't submit their papers in time for the SIGDial submission deadline, they are invited to PBML.
+If they do, they have to send their papers there.
+PERSON3 suggests to contact the authors of the ORGANIZATION3 paper to double check if their implementation delivers the same results as the paper's.
+PERSON3 wants to make a timeline for the data preparation and share it with PERSON10.
+PERSON4 will write to PERSON10 to make sure he has access to all the data that they have transcribed.
+PERSON3, PERSON7 and PERSON4 agree that the deadline for papers for their special session papers should be in March.
+PERSON3 suggests that PERSON1, the former head of the department, should ask ORGANIZATION5, the organiser of Interspeech, if they want to take part in the conference.
+PERSON3 suggests ORGAN PERSON3, PERSON6 and PERSON7 want to learn more about Arion's system.
+Person4 has read the meeting data.
+PERSON3 advises PERSON6 to use VIM to extract information from text files.
+PERSON7 asks for the preferred type of membership.
+Some files will not make it to the release.
+The papers that would be submitted in the shared task would be reviewed by the program committee of SIGDial and they do not guarantee that whoever would be presenting in the session PERSON3, PERSON4 and PERSON7 discuss the preparation and preparation of the paper reviews for MT marathons.
+They need to show the data to the people for the second round of consents.
+They need to run it on their data to see how it performs.
+They have to split the meetings into the training part, the development part and the final PERSON7 will prepare a document on the metrics and summarizing methods he has implemented.
+The results are bad and Felix has written a program based on it.
+The institutional member package costs two hundred fourty euros for one year.
+They have to submit the proposal by February twenty-eight.
+The deadline for paper submission for SIGDial is January 15th, but all the other submission dates are not published yet.
+They also discuss the availability and timeliness of Interspeech and SIGDial.
+
+Minuted by: Team Synapse
