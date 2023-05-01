@@ -1,13 +1,13 @@
 DATE : 2023-05-01
-ATTENDEES : PERSON008
+ATTENDEES : PERSON118, PERSON119, PERSON120, PERSON121, PERSON123, PERSON124, PERSON125, PERSON126, PERSON127, PERSON128, PERSON129, PERSON131
 
 
-SUMMARY-
- -PERSON118 asks the President to delay the vote until tomorrow so that they can study the implications of the recast procedure.
- -PERSON123 wants to know why so many amendments were ruled to be inadmissible.
-  There is a problem with the new procedure for recasting votes.
-  Amendments 88 and 89 are down as inadmissible.
-  Amendments 106, 139, and 88 are now admissible.
+SUMMARY
+- PERSON118 asks the President to delay the vote until tomorrow so that they can study the implications of the recast procedure.
+- PERSON123 wants to know why so many amendments were ruled to be inadmissible.
+- There is a problem with the new procedure for recasting votes.
+- Amendments 88 and 89 are down as inadmissible.
+- Amendments 106, 139, and 88 are now admissible.
 
 
 Minuted by: Team Synapse

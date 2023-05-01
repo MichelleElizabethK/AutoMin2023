@@ -1,10 +1,10 @@
 DATE : 2023-05-01
-ATTENDEES : PERSON008
+ATTENDEES : PERSON096, PERSON097, PERSON098, PERSON099, PERSON101
 
 
-SUMMARY-
- -José Manuel Barroso has been elected President of the European Commission by 718 votes to 382, with 117 abstentions.
-  The President of the European Commission, Jose Manuel Barroso, will propose to the Council and the Commission the nominees for the posts of Commissioners.
+SUMMARY
+- José Manuel Barroso has been elected President of the European Commission by 718 votes to 382, with 117 abstentions.
+- The President of the European Commission, Jose Manuel Barroso, will propose to the Council and the Commission the nominees for the posts of Commissioners.
 
 
 Minuted by: Team Synapse

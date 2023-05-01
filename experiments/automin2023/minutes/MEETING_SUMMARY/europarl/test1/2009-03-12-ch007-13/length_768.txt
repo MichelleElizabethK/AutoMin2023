@@ -1,11 +1,11 @@
 DATE : 2023-05-01
-ATTENDEES : PERSON008
+ATTENDEES : PERSON136
 
 
-SUMMARY-
- -The Zaragoza 2008 International Expo closed on 14 September 2008.
-  It was the first exhibition devoted exclusively to water and sustainable development.
-  European Parliament took part on an equal footing with the Commission.
+SUMMARY
+- The Zaragoza 2008 International Expo closed on 14 September 2008.
+- It was the first exhibition devoted exclusively to water and sustainable development.
+- European Parliament took part on an equal footing with the Commission.
 
 
 Minuted by: Team Synapse

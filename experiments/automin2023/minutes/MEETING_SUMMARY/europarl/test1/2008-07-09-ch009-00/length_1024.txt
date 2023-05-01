@@ -1,11 +1,11 @@
 DATE : 2023-05-01
-ATTENDEES : PERSON008
+ATTENDEES : PERSON253, PERSON254, PERSON255
 
 
-SUMMARY-
- -The European Parliament, the European Commission and the European Space Agency have signed a legal instrument on the Galileo programme.
-  It will provide a European alternative and complement to the EGNOS and Galileo systems.
-  The European Commission, Commissioner and the Slovenian Presidency agreed on community funding of EUR 3.
+SUMMARY
+- The European Parliament, the European Commission and the European Space Agency have signed a legal instrument on the Galileo programme.
+- It will provide a European alternative and complement to the EGNOS and Galileo systems.
+- The European Commission, Commissioner and the Slovenian Presidency agreed on community funding of EUR 3.
 
 
 Minuted by: Team Synapse

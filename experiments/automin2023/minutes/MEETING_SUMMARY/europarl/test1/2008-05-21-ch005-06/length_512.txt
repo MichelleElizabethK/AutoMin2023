@@ -1,9 +1,9 @@
 DATE : 2023-05-01
-ATTENDEES : PERSON008
+ATTENDEES : PERSON141, PERSON142
 
 
-SUMMARY-
- -The vote on the report on rest periods has been postponed to one of the next part-sessions.
+SUMMARY
+- The vote on the report on rest periods has been postponed to one of the next part-sessions.
 
 
 Minuted by: Team Synapse

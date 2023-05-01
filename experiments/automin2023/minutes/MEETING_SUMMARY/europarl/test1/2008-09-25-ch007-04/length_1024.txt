@@ -1,11 +1,11 @@
 DATE : 2023-05-01
-ATTENDEES : PERSON008
+ATTENDEES : PERSON098, PERSON099, PERSON100, PERSON101, PERSON102, PERSON103, PERSON104, PERSON105, PERSON106, PERSON107
 
 
-SUMMARY-
- -PERSON098 wants the amendment to Rule 45(2) of the Rules of Procedure to be reviewed because it interferes with political relationships between political groups.
-  Parliament has taken a decision.
-  It can be amended in the event of majority opinion.
+SUMMARY
+- PERSON098 wants the amendment to Rule 45(2) of the Rules of Procedure to be reviewed because it interferes with political relationships between political groups.
+- Parliament has taken a decision.
+- It can be amended in the event of majority opinion.
 
 
 Minuted by: Team Synapse

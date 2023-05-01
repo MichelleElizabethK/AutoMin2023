@@ -1,10 +1,10 @@
 DATE : 2023-05-01
-ATTENDEES : PERSON008
+ATTENDEES : PERSON094, PERSON096, PERSON097, PERSON098, PERSON099
 
 
-SUMMARY-
- -There was a printing error in the voting list of the PSE Group.
-  Amendment 4 by ALDE Group is compatible with Amendment 2 by Mrs Kauppi.
+SUMMARY
+- There was a printing error in the voting list of the PSE Group.
+- Amendment 4 by ALDE Group is compatible with Amendment 2 by Mrs Kauppi.
 
 
 Minuted by: Team Synapse

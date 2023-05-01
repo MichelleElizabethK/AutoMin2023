@@ -1,38 +1,38 @@
 DATE : 2023-05-01
-ATTENDEES : PERSON1, PERSON10, PERSON11, PERSON2, PERSON4, PERSON6, PERSON7, PERSON8
+ATTENDEES : PERSON1, PERSON2, PERSON7
 
 
-SUMMARY-
- -PERSON2 is training the Czech ASR.
-  He needs help with it as he needs to prepare his paper on EMNLP, which is due in June.
- -PERSON1 will be done with his exams by June 10th, so he can help PERSON2 with the training PERSON1 and PERSON2 discuss how to improve the audio-to-text-over-the-phone communication between clients and servers.
- -PERSON1 and PERSON2 talk about their courses in deep learning and computer science.
-  They both agree that the courses are very demanding.
- -PERSON2 is working on automatic evaluation for compression.
-  He noticed that even the COMET metric is highly correlated with BLEU for his purposes.
-  He's trying to compress and his output is getting longer.
- -PERSON1 doesn't have anything to discuss.
- -PERSON2 speaks English and German.
- -PERSON7 speaks Czech, Slovak, French, and English.
-  Person2 doesn't have any other language.
-  There is a data set on compression for com.
-  There are five levels of compression and there are grammars for each level PERSON2 and PERSON7 discuss the pros and cons of shortening and isometric translation.
- -PERSON7 is working on text compression for machine translation.
-  German has a lot of words to describe the same thing in different ways.
-  It takes more time to reproduce the same information in German than in English.
-  People say more phonemes per second in German.
-  People save more words in German to express the past tense.
-  Shortening is useful for online speech translation, but not so much for movies.
- -PERSON1 will be organizing IWLTS 2023.
- -PERSON2 will be translating.
- -PERSON7 will be helping.
- -PERSON2 and PERSON1 discuss the implementation of speech-to-text translation.
-  They discuss the pros and cons of flicker flickering in such a system.
- -PERSON1 and PERSON2 think that increasing the speed of speech-to-text translation is not a good idea.
- -PERSON7 thinks it's better to use a self-balancing system where the speed is limited and the accuracy of the translation is ensured.
- -PERSON1 and PERSON2 discuss automatic speech translation and the current state of the art.
- -PERSON2 and PERSON1 discuss monotonous speech translation.
-  They also discuss retranslating system and how to improve it.
+SUMMARY
+- PERSON2 is training the Czech ASR.
+- He needs help with it as he needs to prepare his paper on EMNLP, which is due in June.
+- PERSON1 will be done with his exams by June 10th, so he can help PERSON2 with the training PERSON1 and PERSON2 discuss how to improve the audio-to-text-over-the-phone communication between clients and servers.
+- PERSON1 and PERSON2 talk about their courses in deep learning and computer science.
+- They both agree that the courses are very demanding.
+- PERSON2 is working on automatic evaluation for compression.
+- He noticed that even the COMET metric is highly correlated with BLEU for his purposes.
+- He's trying to compress and his output is getting longer.
+- PERSON1 doesn't have anything to discuss.
+- PERSON2 speaks English and German.
+- PERSON7 speaks Czech, Slovak, French, and English.
+- PERSON2 doesn't have any other language.
+- There is a data set on compression for com.
+- There are five levels of compression and there are grammars for each level PERSON2 and PERSON7 discuss the pros and cons of shortening and isometric translation.
+- PERSON7 is working on text compression for machine translation.
+- German has a lot of words to describe the same thing in different ways.
+- It takes more time to reproduce the same information in German than in English.
+- People say more phonemes per second in German.
+- People save more words in German to express the past tense.
+- Shortening is useful for online speech translation, but not so much for movies.
+- PERSON1 will be organizing IWLTS 2023.
+- PERSON2 will be translating.
+- PERSON7 will be helping.
+- PERSON2 and PERSON1 discuss the implementation of speech-to-text translation.
+- They discuss the pros and cons of flicker flickering in such a system.
+- PERSON1 and PERSON2 think that increasing the speed of speech-to-text translation is not a good idea.
+- PERSON7 thinks it's better to use a self-balancing system where the speed is limited and the accuracy of the translation is ensured.
+- PERSON1 and PERSON2 discuss automatic speech translation and the current state of the art.
+- PERSON2 and PERSON1 discuss monotonous speech translation.
+- They also discuss retranslating system and how to improve it.
 
 
 Minuted by: Team Synapse

@@ -1,11 +1,11 @@
 DATE : 2023-05-01
-ATTENDEES : PERSON008
+ATTENDEES : PERSON089, PERSON090
 
 
-SUMMARY-
- -PERSON089 congratulates his fellow members on the victory.
-  He thanks two million European doctors and a million medical students for their work.
-  He also thanks the European Trade Union Confederation and national trade unions.
+SUMMARY
+- PERSON089 congratulates his fellow members on the victory.
+- He thanks two million European doctors and a million medical students for their work.
+- He also thanks the European Trade Union Confederation and national trade unions.
 
 
 Minuted by: Team Synapse

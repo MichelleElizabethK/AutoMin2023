@@ -1,10 +1,10 @@
 DATE : 2023-05-01
-ATTENDEES : PERSON008
+ATTENDEES : PERSON079, PERSON082, PERSON085
 
 
-SUMMARY-
- -The European Parliament voted to enter into negotiations with the European Council on the revision of MFF 2007-2013 for EUR 5 billion in the framework of the proposed European Economic Recovery Plan.
-  It also voted to set a deadline for the Commission to present a revised enrolment procedure for children in European
+SUMMARY
+- The European Parliament voted to enter into negotiations with the European Council on the revision of MFF 2007-2013 for EUR 5 billion in the framework of the proposed European Economic Recovery Plan.
+- It also voted to set a deadline for the Commission to present a revised enrolment procedure for children in European
 
 
 Minuted by: Team Synapse

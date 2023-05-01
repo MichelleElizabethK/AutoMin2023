@@ -1,12 +1,12 @@
 DATE : 2023-05-01
-ATTENDEES : PERSON008
+ATTENDEES : PERSON064, PERSON065, PERSON066, PERSON067, PERSON068, PERSON069, PERSON070, PERSON071
 
 
-SUMMARY-
- -Yesterday, a large number of visitors who had made bookings were prevented from entering the House by the police.
-  People will complain to the police about this situation.
-  People are also opposed to the procedure proposed by the President.
-  At the end of the five-hour debate on the climate and energy package yesterday, the House was given a considered response on behalf of the Presidency and the Commission by Commissioner Dimas and Commissioner Piebalgs.
+SUMMARY
+- Yesterday, a large number of visitors who had made bookings were prevented from entering the House by the police.
+- People will complain to the police about this situation.
+- People are also opposed to the procedure proposed by the President.
+- At the end of the five-hour debate on the climate and energy package yesterday, the House was given a considered response on behalf of the Presidency and the Commission by Commissioner Dimas and Commissioner Piebalgs.
 
 
 Minuted by: Team Synapse

@@ -1,9 +1,9 @@
 DATE : 2023-05-01
-ATTENDEES : PERSON008
+ATTENDEES : PERSON093, PERSON094
 
 
-SUMMARY-
- -The oral amendment did not come to the vote despite Person093's request.
+SUMMARY
+- The oral amendment did not come to the vote despite PERSON093's request.
 
 
 Minuted by: Team Synapse

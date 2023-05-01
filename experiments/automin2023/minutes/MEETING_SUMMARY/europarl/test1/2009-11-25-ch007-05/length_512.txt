@@ -1,10 +1,10 @@
 DATE : 2023-05-01
-ATTENDEES : PERSON008
+ATTENDEES : PERSON096, PERSON097, PERSON098, PERSON100, PERSON101, PERSON102, PERSON103, PERSON104
 
 
-SUMMARY-
- -PERSON096 explains to the President the difference in voting order between Amendments 43 and 54.
-  The President needs to hurry up or there will be a vote in plenary at midnight.
+SUMMARY
+- PERSON096 explains to the President the difference in voting order between Amendments 43 and 54.
+- The President needs to hurry up or there will be a vote in plenary at midnight.
 
 
 Minuted by: Team Synapse

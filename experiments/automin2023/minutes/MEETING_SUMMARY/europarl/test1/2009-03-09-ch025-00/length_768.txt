@@ -1,9 +1,9 @@
 DATE : 2023-05-01
-ATTENDEES : PERSON008
+ATTENDEES : PERSON217, PERSON218, PERSON219, PERSON221
 
 
-SUMMARY-
- -The European Parliament will vote on the implementation of Directive 2006/43/EC on statutory audits of annual accounts and consolidated accounts tomorrow.
+SUMMARY
+- The European Parliament will vote on the implementation of Directive 2006/43/EC on statutory audits of annual accounts and consolidated accounts tomorrow.
 
 
 Minuted by: Team Synapse

@@ -1,9 +1,9 @@
 DATE : 2023-05-01
-ATTENDEES : PERSON008
+ATTENDEES : PERSON134
 
 
-SUMMARY-
- -The introduction of high technology was intended to save time and increase efficiency.
+SUMMARY
+- The introduction of high technology was intended to save time and increase efficiency.
 
 
 Minuted by: Team Synapse

@@ -1,32 +1,32 @@
 DATE : 2023-05-01
-ATTENDEES : PERSON1, PERSON10, PERSON11, PERSON2, PERSON4, PERSON6, PERSON7, PERSON8
+ATTENDEES : PERSON1, PERSON10, PERSON2, PERSON3, PERSON5, PERSON8
 
 
-SUMMARY-
- -PERSON8, PERSON10 and PERSON3 are trying to communicate in Czech.
- -PERSON8's holiday was okay.
- -PERSON3's visa is valid for one hundred eighty days.
- -PERSON1 is joining shortly.
- -PERSON2 worked on other stuff.
- -PERSON8 is in Slovakia.
-  They are waiting for the relevant data for the task.
- -PERSON10 will try to set up a meeting with PERSON12 to discuss the data set.
- -PERSON10, PERSON8 and PERSON2 explain to PERSON5 how to improve the performance of multi-source translation.
- -PERSON1, PERSON2, PERSON8, PERSON10 and PERSON8 discuss the encoding method they use.
-  Person1, Person2, Person8 and Person10 discuss the advantages and disadvantages of this method.
-  There is a DEMO deadline in on Friday the fifteenth of January.
-  There is an ACL deadline at the end of the month.
-  There's an abstract submission a week before.
-  The reviews will be returned in two weeks from now.
-  The conference is on the twelfth of March.
- -PERSON1 wants to collect more data for PROJECT2.
-  He wants to focus on English-Portugese language groupings.
-  He also wants to create dedicated data sets for Portugese language groups within the project.
- -PERSON3 is going to write the results of the project into the paper.
- -PERSON5 has already shared the link for the new paper with PERSON3.
- -PERSON10 will fix the formatic.
-  The link is accessible.
-  There will be a call on Thursday at 4 pm CET.
+SUMMARY
+- PERSON8, PERSON10 and PERSON3 are trying to communicate in Czech.
+- PERSON8's holiday was okay.
+- PERSON3's visa is valid for one hundred eighty days.
+- PERSON1 is joining shortly.
+- PERSON2 worked on other stuff.
+- PERSON8 is in Slovakia.
+- They are waiting for the relevant data for the task.
+- PERSON10 will try to set up a meeting with PERSON12 to discuss the data set.
+- PERSON10, PERSON8 and PERSON2 explain to PERSON5 how to improve the performance of multi-source translation.
+- PERSON1, PERSON2, PERSON8, PERSON10 and PERSON8 discuss the encoding method they use.
+- PERSON1, PERSON2, PERSON8 and PERSON10 discuss the advantages and disadvantages of this method.
+- There is a DEMO deadline in on Friday the fifteenth of January.
+- There is an ACL deadline at the end of the month.
+- There's an abstract submission a week before.
+- The reviews will be returned in two weeks from now.
+- The conference is on the twelfth of March.
+- PERSON1 wants to collect more data for PROJECT2.
+- He wants to focus on English-Portugese language groupings.
+- He also wants to create dedicated data sets for Portugese language groups within the project.
+- PERSON3 is going to write the results of the project into the paper.
+- PERSON5 has already shared the link for the new paper with PERSON3.
+- PERSON10 will fix the formatic.
+- The link is accessible.
+- There will be a call on Thursday at 4 pm CET.
 
 
 Minuted by: Team Synapse

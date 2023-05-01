@@ -1,10 +1,10 @@
 DATE : 2023-05-01
-ATTENDEES : PERSON008
+ATTENDEES : PERSON096, PERSON098, PERSON100
 
 
-SUMMARY-
- -Parliament is about to vote on the Telecoms package.
-  The President should support the rapporteurs and draftsmen through their vote and grant them a clear and decisive mandate for the period of deliberations that will follow.
+SUMMARY
+- Parliament is about to vote on the Telecoms package.
+- The President should support the rapporteurs and draftsmen through their vote and grant them a clear and decisive mandate for the period of deliberations that will follow.
 
 
 Minuted by: Team Synapse

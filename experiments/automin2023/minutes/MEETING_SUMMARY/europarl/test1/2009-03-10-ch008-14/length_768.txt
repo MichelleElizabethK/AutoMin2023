@@ -1,10 +1,10 @@
 DATE : 2023-05-01
-ATTENDEES : PERSON008
+ATTENDEES : PERSON137, PERSON138, PERSON140, PERSON142, PERSON143, PERSON145, PERSON146, PERSON147, PERSON148, PERSON149, PERSON150, PERSON151
 
 
-SUMMARY-
- -PERSON137 asks Parliament to support an oral amendment to paragraph 13.
-  The text should read: 'As well as internal security, particularly the fight against terrorism, immigration, demographic challenges, and fights against terrorism and internal security'.
+SUMMARY
+- PERSON137 asks Parliament to support an oral amendment to paragraph 13.
+- The text should read: 'As well as internal security, particularly the fight against terrorism, immigration, demographic challenges, and fights against terrorism and internal security'.
 
 
 Minuted by: Team Synapse

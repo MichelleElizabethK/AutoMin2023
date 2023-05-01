@@ -1,10 +1,10 @@
 DATE : 2023-05-01
-ATTENDEES : PERSON008
+ATTENDEES : PERSON091, PERSON092
 
 
-SUMMARY-
- -Parliament reached an agreement with the Council and this agreement is supported by five political groups.
-  Parliament must vote today on the compromise text to make sure the two regulations come into force by the end of this legislature.
+SUMMARY
+- Parliament reached an agreement with the Council and this agreement is supported by five political groups.
+- Parliament must vote today on the compromise text to make sure the two regulations come into force by the end of this legislature.
 
 
 Minuted by: Team Synapse

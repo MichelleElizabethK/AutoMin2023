@@ -1,9 +1,9 @@
 DATE : 2023-05-01
-ATTENDEES : PERSON008
+ATTENDEES : PERSON100, PERSON101, PERSON102, PERSON104
 
 
-SUMMARY-
- -PERSON100 asks President Obama to consider Amendment 13 as an addition instead of a replacement of the original text.
+SUMMARY
+- PERSON100 asks President Obama to consider Amendment 13 as an addition instead of a replacement of the original text.
 
 
 Minuted by: Team Synapse

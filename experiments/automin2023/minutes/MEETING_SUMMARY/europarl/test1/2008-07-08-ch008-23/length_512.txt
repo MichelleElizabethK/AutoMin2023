@@ -1,9 +1,9 @@
 DATE : 2023-05-01
-ATTENDEES : PERSON008
+ATTENDEES : PERSON172
 
 
-SUMMARY-
- -Voting is closed in Person172.
+SUMMARY
+- Voting is closed in PERSON172.
 
 
 Minuted by: Team Synapse

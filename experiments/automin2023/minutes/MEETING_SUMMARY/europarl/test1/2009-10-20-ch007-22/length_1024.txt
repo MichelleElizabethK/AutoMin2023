@@ -1,10 +1,10 @@
 DATE : 2023-05-01
-ATTENDEES : PERSON008
+ATTENDEES : PERSON136, PERSON137, PERSON138
 
 
-SUMMARY-
- -The European Parliament will consider the Commission's proposal on the basis of the treaties in force.
-  Once the Treaty of Lisbon enters into force, the Commission will revisit the proposal and involve Parliament more fully.
+SUMMARY
+- The European Parliament will consider the Commission's proposal on the basis of the treaties in force.
+- Once the Treaty of Lisbon enters into force, the Commission will revisit the proposal and involve Parliament more fully.
 
 
 Minuted by: Team Synapse

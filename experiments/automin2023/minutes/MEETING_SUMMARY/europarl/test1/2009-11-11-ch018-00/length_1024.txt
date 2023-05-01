@@ -1,21 +1,21 @@
 DATE : 2023-05-01
-ATTENDEES : PERSON008
+ATTENDEES : PERSON175, PERSON176, PERSON177, PERSON178, PERSON179, PERSON180, PERSON181, PERSON182, PERSON184, PERSON185, PERSON186, PERSON187, PERSON188, PERSON189, PERSON190, PERSON191, PERSON192, PERSON193, PERSON194, PERSON195, PERSON987, PERSON988, PERSON989, PERSON990
 
 
-SUMMARY-
- -Parliament has drafted a resolution on joint programming of research to combat neurodegenerative diseases.
-  The Council Recommendation on measures to combat Alzheimer's disease was adopted on 22 July.
-  The Swedish Presidency wishes to adopt in December the conclusions regarding the measures to combat neurodegenerative diseases, especially Alzheimer's disease, through joint programming of research activities.
-  The Commission's proposal focuses on the research-related aspects.
-  The initiative aims to prevent and eradicate the widespread scourge of Alzheimer The Group of the United European Left - Nordic Green Left has tabled a motion for a resolution on neurodegenerative diseases.
-  The aim is to eliminate duplicated research, bureaucracy and fragmentation in Europe.
- -PERSON184: In her constituency of Northern Ireland, there are 16000 people suffering from dementia.
-  She believes that a coordinated approach to tackling disease can bring forward new evidence, new medical breakthroughs and, in time, improve treatment and cure.
-  She welcomes the initiatives and actions undertaken at PERSON188: Madam President, the European Union should take up the fight against Alzheimer's disease as a priority issue.
- -PERSON990 supports the Commission's proposal for a pilot project for research in the area of neurodegenerative diseases.
-  There are more than seven million people suffering from Alzheimer's disease in Europe and the number is expected to double in the next decade.
-  The Commission adopted the Council's recommendation to engage in joint programming of research into neurodegenerative diseases.
-  Europe needs a more extensive action programme on dementia.
+SUMMARY
+- Parliament has drafted a resolution on joint programming of research to combat neurodegenerative diseases.
+- The Council Recommendation on measures to combat Alzheimer's disease was adopted on 22 July.
+- The Swedish Presidency wishes to adopt in December the conclusions regarding the measures to combat neurodegenerative diseases, especially Alzheimer's disease, through joint programming of research activities.
+- The Commission's proposal focuses on the research-related aspects.
+- The initiative aims to prevent and eradicate the widespread scourge of Alzheimer The Group of the United European Left - Nordic Green Left has tabled a motion for a resolution on neurodegenerative diseases.
+- The aim is to eliminate duplicated research, bureaucracy and fragmentation in Europe.
+- PERSON184: In her constituency of Northern Ireland, there are 16000 people suffering from dementia.
+- She believes that a coordinated approach to tackling disease can bring forward new evidence, new medical breakthroughs and, in time, improve treatment and cure.
+- She welcomes the initiatives and actions undertaken at PERSON188: Madam President, the European Union should take up the fight against Alzheimer's disease as a priority issue.
+- PERSON990 supports the Commission's proposal for a pilot project for research in the area of neurodegenerative diseases.
+- There are more than seven million people suffering from Alzheimer's disease in Europe and the number is expected to double in the next decade.
+- The Commission adopted the Council's recommendation to engage in joint programming of research into neurodegenerative diseases.
+- Europe needs a more extensive action programme on dementia.
 
 
 Minuted by: Team Synapse

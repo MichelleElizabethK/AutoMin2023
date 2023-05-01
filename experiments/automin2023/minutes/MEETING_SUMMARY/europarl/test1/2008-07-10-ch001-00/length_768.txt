@@ -1,11 +1,11 @@
 DATE : 2023-05-01
-ATTENDEES : PERSON008
+ATTENDEES : PERSON005, PERSON006, PERSON007, PERSON008
 
 
-SUMMARY-
- -The French Presidency asked the European Parliament to control photography during President Sarkozy's speech.
-  The route to the Parliament entrance is blocked by riot police.
-  Some of the members might have problems getting in.
+SUMMARY
+- The French Presidency asked the European Parliament to control photography during President Sarkozy's speech.
+- The route to the Parliament entrance is blocked by riot police.
+- Some of the members might have problems getting in.
 
 
 Minuted by: Team Synapse

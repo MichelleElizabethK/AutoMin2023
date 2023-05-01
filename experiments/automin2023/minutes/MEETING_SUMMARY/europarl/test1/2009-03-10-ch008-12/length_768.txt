@@ -1,11 +1,11 @@
 DATE : 2023-05-01
-ATTENDEES : PERSON008
+ATTENDEES : PERSON118, PERSON119, PERSON120, PERSON121, PERSON123, PERSON124, PERSON125, PERSON126, PERSON127, PERSON128, PERSON129, PERSON131
 
 
-SUMMARY-
- -PERSON118 asks President to delay the vote on the Krahmer report today and the Cashman report until tomorrow so that they can study the implications of the recast procedure.
-  The President postponed the vote on the amendments.
-  Some of the amendments were ruled inadmissible, others were declared admissible.
+SUMMARY
+- PERSON118 asks President to delay the vote on the Krahmer report today and the Cashman report until tomorrow so that they can study the implications of the recast procedure.
+- The President postponed the vote on the amendments.
+- Some of the amendments were ruled inadmissible, others were declared admissible.
 
 
 Minuted by: Team Synapse

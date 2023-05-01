@@ -1,13 +1,13 @@
 DATE : 2023-05-01
-ATTENDEES : PERSON008
+ATTENDEES : PERSON155, PERSON156, PERSON157, PERSON158, PERSON159, PERSON160, PERSON162, PERSON163, PERSON165, PERSON167, PERSON169
 
 
-SUMMARY-
- -There is a problem with the electronic vote-counting procedure in the European Parliament.
-  People can't see the results of the vote.
-  They want the President to give them precise results.
-  People want a split vote on Amendment 51.
-  The European Parliament voted in favour of the report.
+SUMMARY
+- There is a problem with the electronic vote-counting procedure in the European Parliament.
+- People can't see the results of the vote.
+- They want the President to give them precise results.
+- People want a split vote on Amendment 51.
+- The European Parliament voted in favour of the report.
 
 
 Minuted by: Team Synapse

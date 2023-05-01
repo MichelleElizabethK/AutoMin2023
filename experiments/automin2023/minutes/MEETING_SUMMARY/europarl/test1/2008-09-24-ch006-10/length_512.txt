@@ -1,16 +1,16 @@
 DATE : 2023-05-01
-ATTENDEES : PERSON008
+ATTENDEES : PERSON096, PERSON098, PERSON100
 
 
-SUMMARY-
- -Parliament is about to vote on the Telecoms package.
-  The rapporteurs worked hard to reach a compromise.
-  They hope the Commission and Council will respond positively to Parliament's amended version of the package.
-  Amendment 132, which weakened copyright, was withdrawn.
-  The President is going to vote on Amendment 138.
-  The President has tabled an oral amendment to the first part of the amendment.
-  He has the backing of the signatories, including the Chairman of the Committee on Industry, Research and Energy, Mrs Niebler, and others.
-  The
+SUMMARY
+- Parliament is about to vote on the Telecoms package.
+- The rapporteurs worked hard to reach a compromise.
+- They hope the Commission and Council will respond positively to Parliament's amended version of the package.
+- Amendment 132, which weakened copyright, was withdrawn.
+- The President is going to vote on Amendment 138.
+- The President has tabled an oral amendment to the first part of the amendment.
+- He has the backing of the signatories, including the Chairman of the Committee on Industry, Research and Energy, Mrs Niebler, and others.
+- The
 
 
 Minuted by: Team Synapse

@@ -1,11 +1,11 @@
 DATE : 2023-05-01
-ATTENDEES : PERSON008
+ATTENDEES : PERSON137
 
 
-SUMMARY-
- -The European Parliament approved the agreement on the Solvency II file.
-  The European Commission will support the agreement if it is endorsed by the Council.
-  Much work remains to be done.
+SUMMARY
+- The European Parliament approved the agreement on the Solvency II file.
+- The European Commission will support the agreement if it is endorsed by the Council.
+- Much work remains to be done.
 
 
 Minuted by: Team Synapse

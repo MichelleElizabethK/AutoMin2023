@@ -1,11 +1,11 @@
 DATE : 2023-05-01
-ATTENDEES : PERSON008
+ATTENDEES : PERSON009, PERSON010, PERSON012, PERSON013
 
 
-SUMMARY-
- -The European Parliament's Committee on Fisheries has unanimously approved the request for application of the urgent procedure related to bluefin tuna in the Eastern Atlantic and Mediterranean.
-  Wednesday 11 March is the European Day for the Victims of Terrorism.
-  It was originally proposed for 11 September 2004, but Parliament voted for it The President will make a statement tomorrow at the opening of the plenary.
+SUMMARY
+- The European Parliament's Committee on Fisheries has unanimously approved the request for application of the urgent procedure related to bluefin tuna in the Eastern Atlantic and Mediterranean.
+- Wednesday 11 March is the European Day for the Victims of Terrorism.
+- It was originally proposed for 11 September 2004, but Parliament voted for it The President will make a statement tomorrow at the opening of the plenary.
 
 
 Minuted by: Team Synapse

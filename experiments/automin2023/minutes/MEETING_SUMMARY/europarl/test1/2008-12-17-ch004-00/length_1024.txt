@@ -1,12 +1,12 @@
 DATE : 2023-05-01
-ATTENDEES : PERSON008
+ATTENDEES : PERSON064, PERSON065, PERSON066, PERSON067, PERSON068, PERSON069, PERSON070, PERSON071
 
 
-SUMMARY-
- -Yesterday, a large number of visitors who had made bookings were unable to enter the House.
-  The police prevented them, because they were wearing red jackets.
-  The President should inform the police that it is forbidden to obstruct visits.
-  The procedure for voting on the climate package is undemocratic
+SUMMARY
+- Yesterday, a large number of visitors who had made bookings were unable to enter the House.
+- The police prevented them, because they were wearing red jackets.
+- The President should inform the police that it is forbidden to obstruct visits.
+- The procedure for voting on the climate package is undemocratic
 
 
 Minuted by: Team Synapse

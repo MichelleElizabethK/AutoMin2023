@@ -1,11 +1,11 @@
 DATE : 2023-05-01
-ATTENDEES : PERSON008
+ATTENDEES : PERSON106, PERSON107, PERSON108, PERSON997, PERSON998
 
 
-SUMMARY-
- -The voting list also has Amendment 8 replaced with Amendment 14.
-  The aim of the last part of Amendment 8 is to include it in this amendment.
-  The intention of Amendment 14 is not to replace the original paragraph 51 but to add to it.
+SUMMARY
+- The voting list also has Amendment 8 replaced with Amendment 14.
+- The aim of the last part of Amendment 8 is to include it in this amendment.
+- The intention of Amendment 14 is not to replace the original paragraph 51 but to add to it.
 
 
 Minuted by: Team Synapse

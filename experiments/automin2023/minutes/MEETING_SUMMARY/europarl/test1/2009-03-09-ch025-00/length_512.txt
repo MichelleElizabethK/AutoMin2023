@@ -1,11 +1,11 @@
 DATE : 2023-05-01
-ATTENDEES : PERSON008
+ATTENDEES : PERSON217, PERSON218, PERSON219, PERSON221
 
 
-SUMMARY-
- -The report by Mr Doorn is about the implementation of Directive 2006/43/EC on statutory audits of annual accounts and consolidated accounts.
-  Key definitions are framed differently in different countries and the number of Member States with independent public oversight is a long way short of 27.
-  The Commission should take The European Parliament will vote on the application of the directive on statutory audits of accounts tomorrow.
+SUMMARY
+- The report by Mr Doorn is about the implementation of Directive 2006/43/EC on statutory audits of annual accounts and consolidated accounts.
+- Key definitions are framed differently in different countries and the number of Member States with independent public oversight is a long way short of 27.
+- The Commission should take The European Parliament will vote on the application of the directive on statutory audits of accounts tomorrow.
 
 
 Minuted by: Team Synapse
