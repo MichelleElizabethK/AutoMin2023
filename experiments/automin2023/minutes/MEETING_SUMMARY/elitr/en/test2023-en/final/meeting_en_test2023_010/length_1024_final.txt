@@ -1,0 +1,23 @@
+DATE : 2023-05-01
+ATTENDEES : PERSON1, PERSON10, PERSON11, PERSON2, PERSON4, PERSON6, PERSON7, PERSON8
+
+
+SUMMARY-
+- A couple of packages are missing from the PROJECT1 data set.
+- He is now using his phone instead of the computer.
+- PERSON11 has a video from caldi's launch PERSON8 will meet with PERSON9 for two or three days in person to talk about the evaluation.
+- PERSON4, PERSON5, PERSON7 and PERSON1 are meeting tomorrow at ten to discuss the evaluation of existing, models.
+- Person1 will prepare two or three tables similar to the one for the PROJECT1 search.
+- PERSON7 wants to see the full structure of the table.
+- People should have a chance to go through the CVs.
+- PERSON7 needs to review the delebls.
+- PERSON10 has successfully docorized caldi model by PERSON3, but he doesn't know how it was created.
+- PERSON1, PERSON9 and PERSON5 will work on the evaluation together.
+- PERSON7 asks PERSON1 to prepare a table for the rebr.
+- PERSON1 will parallelize both the processing of the systems and the evaluation of the cell DF.
+- The most important events for the next year will be the Sicogres PERSON7 is looking for someone familiar with caldi models to help with fine tuning and development of caldi.
+- They will have a conference call today at one pm.
+- There will be no call next week.
+- The evaluation is common to both the tasks: domain adaptation and the multi-source.
+
+Minuted by: Team Synapse

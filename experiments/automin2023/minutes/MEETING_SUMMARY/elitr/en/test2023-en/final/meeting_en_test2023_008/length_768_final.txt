@@ -1,0 +1,27 @@
+DATE : 2023-05-01
+ATTENDEES : PERSON1, PERSON10, PERSON11, PERSON2, PERSON4, PERSON6, PERSON7, PERSON8
+
+
+SUMMARY-
+- According to the rules, project1 is Bergamot, project2 is Elit.
+- He needs to have the training data for the evaluation.
+- He will ask another researcher in Brazil, who is fluent in Portuguese, if she can help with that.
+- He will be busy and he has to leave in 20 minutes.
+- In the experiments with Paracrawl the model does not work very well without lemmatization.
+- One of the tasks is to style transfer sentences from English to Czech and to create a test set that covers that.
+- PERSON3 will check if any of the terms or the words are also present in the Czech training data.
+- PERSON4 explains to PERSON3 and PERSON6 that the general domain model is trained on Czech without sentences from the European dataset and evaluated on European.
+- PERSON4 will try to find a general domain tranlation to pick some bilingual dictionary and extract general, generally rare words from it.
+- PERSON6 has around 200 abstracts from PERSON6 wants to make sure everything is working properly.
+- PERSON1 will open the document PROJECT1 test set.
+- PERSON4 will do some cross domain experiments with terminology from another domain.
+- PERSON4 explains to PERSON3 how the system works.
+- PERSON1 suggests looking for university master thesis repositories and books on translating math books into Czech.
+- PERSON6 is looking for resources on computation linguistics in Portugal.
+- They are going to talk about the data they have received from PERSON8.
+- There are two translations into Czech and one into German: the European Court of Auditors and the Defset and the Test Set.
+- The automatic metrics are not good enough to assess the accuracy of the results.
+- The Defset is in English, the Test PERSON1 and PERSON2 explain to PERSON4 how to extract the documents from the WMT PROJECT1 testsuite and extract them for evaluation.
+- There is no specific index for this repository.
+
+Minuted by: Team Synapse
