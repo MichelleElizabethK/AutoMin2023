@@ -2,9 +2,10 @@ DATE : 2023-05-01
 ATTENDEES : PERSON008
 
 
-SUMMARY-- The management of the Galileo programme will be placed under the political control of Parliament and the Council.
-- The European Commission, Commissioner, and the European Space Agency have launched the selection
-- The President of the European Parliament, Jean-Pierre Jouyet, is signing the legal instrument on the Galileo programme.
+SUMMARY-- DATE : 2023-05-01 ATTENDEES : PERSON008   SUMMARY- The President of the European Parliament, Jean-Pierre Jouyet, is signing the legal instrument on the Galileo programme.
+- It will enable the deployment of the publicly funded global satellite positioning system.
+- The management of the Galileo programme will be placed under the political control of Parliament and the Council.
+- The European Commission, Commissioner, and the European Space Agency have launched the selection   Minuted by: Team Synapse
 - The European Parliament adopted the Regulation on Galileo.
 
 Minuted by: Team Synapse

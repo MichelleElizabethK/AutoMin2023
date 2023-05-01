@@ -2,7 +2,9 @@ DATE : 2023-05-01
 ATTENDEES : PERSON008
 
 
-SUMMARY-- He wants to talk about three reports.
-- PERSON098 apologises for taking up everyone's time and delaying lunch.
+SUMMARY-- DATE : 2023-05-01 ATTENDEES : PERSON008   SUMMARY- PERSON098 apologises for taking up everyone's time and delaying lunch.
+- He wants to talk about three reports.
+- Minuted by: Team Synapse
+- PERSON102 proposes two oral amendments to paragraph 102 concerning human rights and the rule of law.
 
 Minuted by: Team Synapse

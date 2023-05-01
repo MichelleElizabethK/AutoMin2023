@@ -3,6 +3,7 @@ ATTENDEES : PERSON008
 
 
 SUMMARY-- 10 years after the introduction of monetary union, Europe is in a major crisis.
+- DATE : 2023-05-01 ATTENDEES : PERSON008   SUMMARY- Jean-Claude Juncker and Joaquín Almunia are in the European Parliament for the debate on the first ten years of economic and monetary union and future challenges.
 - Denmark has one of the highest levels of Eurostat has announced a recession in the Eurozone.
 - Eurozone and European Central The last few months have demonstrated the strength of the euro.
 - Eurogroup always wanted the European Union and Eurogroup to have a greater presence at the G20, at the International Monetary Fund and at the Financial Stability The European Parliament discusses the euro's international role and its repercussions on the internal market.
@@ -27,7 +28,6 @@ SUMMARY-- 10 years after the introduction of monetary union, Europe is in a majo
 - It is clear that the economic downturn can be halted by implementing an economic policy, which is better coordinated among Member States, and speeding up integration and the expansion of the internal market.
 - It is based on two asymmetrical pillars: monetary union and economic coordination, which are intergovernmental.
 - It is clear that the euro exchange rates have been too high for too long and have had negative effects.
-- Jean-Claude Juncker and Joaquín Almunia are in the European Parliament for the debate on the first ten years of economic and monetary union and future challenges.
 - Member States in the Euro Zone are better equipped to cope with large disruptions than their neighbours.
 - Nevertheless, the first ten years of the euro have been very positive.
 - On the other hand, liberal reforms The European Union has been developing more slowly than its competitors.
@@ -39,8 +39,8 @@ SUMMARY-- 10 years after the introduction of monetary union, Europe is in a majo
 - The European Central Bank and the authorities of the EU are trying to use the euro as a tool to impose uniform economic policies on the It is 10 years since the introduction of the euro in a large number of countries within the EU.
 - The European Central Bank's high-rate policy has cost the economy 0.5 growth rate points Ten years ago, I had the honour of speaking about the euro on behalf of the Group of the European People's Party (Christian Democrats) and European Democrats.
 - The euro's success depends on the trust placed in it by European citizens The European Central Bank and the euro have so far passed the litmus test of this financial crisis.
-- The European Parliament wants to open a new debate on the inclusion of a financial market stability objective in the monetary policy objectives.
 - The euro can only remain stable and make progress against the dollar as a global reserve currency if two things are guaranteed: the ECB must remain independent and the Stability and Growth Pact must be expanded.
+- The European Parliament wants to open a new debate on the inclusion of a financial market stability objective in the monetary policy objectives.
 - The euro area and Economic and Monetary Union has added a new dimension to the European integration process.
 - The European Commission and members of the Eurogroup need to set an example for the social PERSON097, a member of the European Commission, makes a series of points about the euro, the political situation in Europe and Britain's membership in the Eurozone.
 - The Stability and Growth Pact is now facing its first big test, in the form of the handling of the financial crisis.
@@ -54,9 +54,9 @@ SUMMARY-- 10 years after the introduction of monetary union, Europe is in a majo
 - The Eurogroup has presented 62 detailed points, including an assessment of the past and prospects for the The 10th anniversary of the Economic and Monetary Union coincided with an exceptionally difficult and complex economic situation.
 - The Eurogroup's and the Commissioner's presence is requested by the Group of the Greens/European Free Alliance to discuss several issues related to taxation, the euro and the European Union's political power.
 - There is a touch of anxiety in European Parliament's debates due to the financial and economic crisis.
-- The euro has become an attractive currency even to countries outside the Community.
 - The truth about the euro is that its first ten years have entailed enormous costs in the form of reduced growth and increased unemployment.
 - The stability brought about by the euro currency is a key factor in enabling Ireland to emerge from the turmoil.
+- The euro has become an attractive currency even to countries outside the Community.
 - There is a danger that the global slowdown in demand will continue to weaken exports and frustrate the advantage of the The euro will be the best investment stimulus for foreign investors in Central Europe.
 - The European Commission will present an action plan on 26 November.
 - The euro's 'one size fits The euro and enlargement are the European Union's most visible successes of the last 10 years.
@@ -74,5 +74,6 @@ SUMMARY-- 10 years after the introduction of monetary union, Europe is in a majo
 - The euro has been a success for the European Union.
 - The sustainability of inflation and the deficit in the public finances will be closely monitored.
 - The euro should be the currency of the whole of Europe.
+- The vote will take place on Tuesday 18 November 2008 at 12 noon.
 
 Minuted by: Team Synapse

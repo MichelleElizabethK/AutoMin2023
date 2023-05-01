@@ -2,7 +2,9 @@ DATE : 2023-05-01
 ATTENDEES : PERSON008
 
 
-SUMMARY-- Parliament is about to vote on a matter on which it couldn't debate at the plenary.
+SUMMARY-- DATE : 2023-05-01 ATTENDEES : PERSON008   SUMMARY- Parliament is about to vote on a matter on which it couldn't debate at the plenary.
+- It's a price increase above the minimum level.
+- Minuted by: Team Synapse
 - The Committee on Economic and Monetary Affairs recommended a compromise.
 
 Minuted by: Team Synapse

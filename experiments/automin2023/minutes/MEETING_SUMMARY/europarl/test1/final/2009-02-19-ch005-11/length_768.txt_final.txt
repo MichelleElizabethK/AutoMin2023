@@ -2,6 +2,7 @@ DATE : 2023-05-01
 ATTENDEES : PERSON008
 
 
-SUMMARY-
+SUMMARY-- DATE : 2023-05-01 ATTENDEES : PERSON008   SUMMARY- The committee was unanimous on this issue.
+- Minuted by: Team Synapse
 
 Minuted by: Team Synapse

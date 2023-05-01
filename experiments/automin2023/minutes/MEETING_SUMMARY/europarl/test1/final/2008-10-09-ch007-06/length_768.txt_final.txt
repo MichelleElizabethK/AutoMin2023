@@ -2,7 +2,9 @@ DATE : 2023-05-01
 ATTENDEES : PERSON008
 
 
-SUMMARY-- EURO-NEST should be established in Lublin, Poland.
-- The situation in Ukraine is serious.
+SUMMARY-- DATE : 2023-05-01 ATTENDEES : PERSON008   SUMMARY- The situation in Ukraine is serious.
+- EURO-NEST should be established in Lublin, Poland.
+- Minuted by: Team Synapse
+- There should be a broader strategy.
 
 Minuted by: Team Synapse
