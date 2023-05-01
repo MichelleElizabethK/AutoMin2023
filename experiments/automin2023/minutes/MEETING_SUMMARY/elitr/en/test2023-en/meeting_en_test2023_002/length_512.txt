@@ -1,0 +1,61 @@
+DATE : 2023-05-01
+ATTENDEES : PERSON1, PERSON10, PERSON11, PERSON2, PERSON4, PERSON6, PERSON7, PERSON8
+
+
+SUMMARY-
+ -PERSON1 will help PERSON2 with the Czech ASR after June 10th.
+ -PERSON1 has no experience with Flask but he can handle batching.
+ -PERSON2 wants to create a queue to synchronize his model and his model will take many requests at one time, put it to one batch, do the inference and whenever I'm finished with infering, there will be a queue per user where I put the intermediate results and the PERSON2's idea is to create an HTTP client that can send audio and text simultaneously.
+  Hypercore is not enough to handle more connections at a time.
+  People need to have two connections.
+ -PERSON1 and PERSON2 discuss the implementation of HTTP.
+ -PERSON1 will look into it.
+ -PERSON7 had about 3 or 4 assignments and PERSON2 had about 12 or 10.
+ -PERSON1 had about 4 or 5 assignments.
+  In both cases, the implementation of the code was implemented but the interface was empty.
+ -PERSON2 and PERSON1 failed their courses.
+  They had a lot of assignments in DL and in Deep Learning.
+ -PERSON1 was taking a course when she was 16 or 17.
+  Now she's working on an automatic evaluation for compression.
+  Even though BLEU and COMET measure the quality of the data they are comparing, they are not quite comparable.
+  There is reference-free COMET ad it didn't work well for offline model.
+  Person2 is sticking to BLEU as of now.
+  Person7 would like to look at some of the translations that the model made mistakes at the first try but fixed them later on.
+ -PERSON7 speaks English and German.
+ -PERSON2 speaks English-Chinese and English-Japanese.
+  According to PERSON2, shortening sentences is not a good use case for interpreters.
+  People have a limited capacity and they cannot say as much as they would like to, so they have to listen and speak simultaneously.
+  Therefore, interpreters try to improve latencies by lengthening sentences PERSON2 and PERSON7 discuss the pros and cons of shortening and isometric translation.
+ -PERSON2 thinks that the delay in the Russian language might have been due to the fact that it was a comedy and they were speaking too many words per second.
+ -PERSON7 is in Paris for an internship.
+  It's hot in the office, but they have AC.
+ -PERSON7 is working on a machine translation compression.
+  The initial idea was to do it for online or for simultaneous translation, but now they are discussing with PERSON2 whether it's useful or not.
+  The idea is to study the relationship between length and compression ratio.
+  German and English have PERSON1 and PERSON2 noticed that Germans use a lot of words to describe the same thing whereas Englishians use fewer.
+  It takes more time to reproduce the same information in German than in English.
+  People need to say more phonemes to do it.
+  German grammar allows you to save one word and express the past in speech, but in English it's more unusual.
+ -PERSON1 is not interested in doing shortening anymore.
+ -PERSON2 used to be, but now he's not.
+ -PERSON1 is organizing IWLTS 2023.
+  He will be helping around with 23.
+ -PERSON7 will also be helping.
+ -PERSON7 joined at the end of last year or the beginning of this year.
+  She has some study which she hasn't finished yet.
+  There is a retranslating system used in PROJECT1 and PROJECT2.
+  There was a lot of flicker and changes in the The idea of retranslating is stupid, according to PERSON2, PERSON7 and PROJECT1.
+  Person2 thinks the system should focus on making it fluent.
+  According to PERSON2, the flicker is annoying and distracts people from what is being said.
+ -PERSON1 and PERSON2 discuss the implementation of speech-to-text translation.
+  They discuss the pros and cons of displaying extra information on the screen.
+ -PERSON1 and PERSON2 discuss the pros and cons of speech to speech technology.
+  The only solution to speech-to-speech translation is to do it without res retranslation.
+ -PERSON2, PERSON1 and PERSON7 discuss the current state of computer translation systems.
+ -PERSON1 and PERSON2 discuss the pros and cons of automatic speech translation and retranslating text.
+  The goal of computer systems is to produce a fluent translation within the target language.
+ -PERSON1 and PERSON2 explain to PERSON7 how they would like their speech translation system to be monotonous.
+ -PERSON1 and PERSON2 will see each other next week.
+
+
+Minuted by: Team Synapse

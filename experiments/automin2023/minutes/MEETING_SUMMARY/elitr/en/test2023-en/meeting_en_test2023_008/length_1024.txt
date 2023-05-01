@@ -1,0 +1,28 @@
+DATE : 2023-05-01
+ATTENDEES : PERSON1, PERSON10, PERSON11, PERSON2, PERSON4, PERSON6, PERSON7, PERSON8
+
+
+SUMMARY-
+ -PERSON3 posted the reproducibility checklist.
+  The automatic metrics are not good enough for the current paper.
+  The model learns to inflect the constraints properly and is not just about translation.
+  It works even when the translation is different from the reference.
+ -PERSON6 wants to know if the lemmatization is working right.
+ -PERSON4 thinks it is, as long as they do the analysis more properly.
+ -PERSON3, PERSON4 and PERSON6 are doing cross domain experiments.
+ -PERSON4 will try to look up some other terminal database and some dataset.
+ -PERSON3 wants to train on one domain and train on another.
+  Person6 wants to improve the Portugese language model.
+ -PERSON6 is looking for the training data for the project.
+  He needs to find the papers in Portuguese.
+  He will contact a researcher in Brazil who used to work with the Portuguese language.
+ -PERSON4 wants to make more work with the training data they have.
+  He will try to find some more difficult phonology, some maths terminology for, books for translation of math books into Czech.
+  There is a corpus of sentence transformations for English, but they do not have any reference data PERSON1 and PERSON2 are working on a project.
+  They need to prepare an auditing report for the European Court of Auditors and a sub-lease agreement for a tenant and lessee.
+ -PERSON1 and PERSON2 explain to PERSON4 and PERSON5 how to extract data from the WMT 20 testsuite markables by PERSON2.
+  They also explain how to convert the data to English and how to prepare it for evaluation.
+ -PERSON6, Ondrej Bojar, Michal / Misa, Lucia Brazilka ci Portugalka, Sylvie je jen zminovana, Project1 = Bergamot.
+
+
+Minuted by: Team Synapse

@@ -1,0 +1,76 @@
+DATE : 2023-05-01
+ATTENDEES : PERSON1, PERSON10, PERSON11, PERSON2, PERSON4, PERSON6, PERSON7, PERSON8
+
+
+SUMMARY-
+ -PERSON6 was in a call until the very last minute, so he didn't remind everybody to connect.
+  His machine crashed and he had to restart it.
+  Now he can hear people.
+  The transcripts for check are almost done.
+  The transcriber of Germany's working until December the 10th.
+ -PERSON1's mother is writing the question for the German subti- subtitle user study.
+ -PERSON6 is starting to write deliverables.
+ -PERSON11 has just added the transcripts for the The meme project does offline subtitling.
+  Their mission is to create subtitles for the hearing-impaired.
+  Their models work with sequence to sequence.
+  They generate one word at a time.
+  It would be possible to implement natural shortening in their models.
+ -PERSON11 is thinking about taking over the work of PERSON3, which is not ready for speech translation.
+ -PERSON6 wants an update for the sessions for the next week.
+ -PERSON4 will work on the webpage for PROJECT2 tomorrow.
+ -PERSON4 is away from 11 to 12 on Friday from ten to twelve.
+ -PERSON6, PERSON4 and PERSON8 are going to do the Zoom Test for YouTube videos at the same time tomorrow at one o'clock in the afternoon.
+ -PERSON8, PERSON4 and PERSON6 will prepare two presentations for the two domains.
+  On Friday, they will prepare a test time for two concurrent sessions.
+  On Monday, the models will be updated with the, with the domain elected ones.
+  Some of the videos are not properly converted PERSON8 is manually converting audio files to MP3 format today.
+  The sound quality is getting worse when passed to the sound system.
+ -PERSON6 has been telling people since August that they should have a test set to evaluate on a later test set.
+  Every time they try to run it, they find out that it's not as easy as they thought.
+  For example, the call that PERSON8 had, someone was PERSON8 will send the numbers for the data set to PERSON6 today.
+ -PERSON6 needs them immediately.
+ -PERSON4 is working on the adaptation for the two domains.
+  There will be a Monday seminar on it.
+ -PERSON6 wants to have multiple custom dictionaries in the system.
+ -PERSON4 doesn't know how to run SLTF.
+  The ASR system without using people's pronunciation was better than the one with people's generated pronunciations.
+ -PERSON2 produced a long, word list.
+  There is a phoneme to grapheme list.
+  The list should contain our words.
+  There is a lot of noise in the dictionary.
+ -PERSON6 wants the system to sort it out by taking only the words that were observed five times or more, and only the pronunciations that were recorded three or more times.
+  This way, random errors won't be frequent.
+ -PERSON PERSON4 and PERSON2 will work on the language model substitute and the generated dictionary together.
+ -PERSON2 is finishing training of a German ASR that may be used for time stamping.
+  The training set contains around 300 hours of data, but there are some serious errors in the ASR output.
+ -PERSON1 and PERSON2 discuss how to enrich the language model by texts and PERSON6 wants to split the work among herself, PERSON4 and PERSON8, so that PERSON8 can focus more on getting the numbers and getting the systems running.
+  He wants to have the ASR numbers today and improved numbers on Monday, when PERSON4 has the domain adaptation for PERSON6 is leaving the call.
+ -PERSON8 is the host.
+  There are two ASR workers from K80, one of them is from the nearest one.
+  There is only one option for ASR for multitranslation and the other one is a normal sequence.
+  On Monday, PERSON1 did a comparison of the workers for SLT.
+  The bottleneck in quality was the ASR quality.
+  The MT worker with the lowest latency and flicker was selected.
+  The rainbow MT model had better scores.
+ -PERSON11 is trying to commit the file.
+  The output is terrible for some folders, but okay for others.
+  It may be caused by the speaker's accent.
+ -PERSON1 wants to keep some files with Czech names.
+ -PERSON11 is having problems with FFMPEG.
+  The transcripts for some of the files he transcribed don't have the right length, because they were processed incorrectly.
+  The length is incorrect for most of the folders.
+  The best solution would be to throw away everything and run everything in PERSON1 and PERSON2 are working on the German ASR.
+ -PERSON1 will provide PERSON2 with monolingual German text in the European domain and the ASR will be in lower case.
+ -PERSON1 will send an email to PERSON2.
+ -PERSON11 will try to fix the audio quality issues in some files.
+ -PERSON2 asks PERSON4 to help him with translating IPA into alphabet phonemes.
+ -PERSON2 and PERSON4 are trying to solve a pronunciation problem.
+  They need to substitute a phoneme with another one to produce a different pronunciation.
+ -PERSON2 and PERSON4 are having problems with a computer program they are using.
+  They have a test run with PERSON8 that they were discussing.
+ -PERSON2 wants to have a call with PERSON4 tomorrow and remap his dictionary to CMU.
+ -PERSON4 wants PERSON2 to convert the list of IPA characters into the CMU phonemes.
+ -PERSON2 agrees to do it.
+
+
+Minuted by: Team Synapse

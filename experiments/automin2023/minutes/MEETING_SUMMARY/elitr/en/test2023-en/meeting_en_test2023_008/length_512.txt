@@ -1,0 +1,42 @@
+DATE : 2023-05-01
+ATTENDEES : PERSON1, PERSON10, PERSON11, PERSON2, PERSON4, PERSON6, PERSON7, PERSON8
+
+
+SUMMARY-
+ -PERSON4 and PERSON3 discuss the paper they are working on.
+  The results are better, but the automatic metrics are not good enough.
+  They need to improve them.
+ -PERSON3 and PERSON4 are talking about a machine learning model.
+  The model works even if we provide the lemmas instead of surface forms and it inflexes the constraints correctly.
+  In the manual evaluation there is a comparison with the baseline without any constraints.
+ -PERSON4, PERSON6 and PERSON3 discuss the problems with the lemmatization of a computer program.
+  They discuss how to improve it.
+ -PERSON4 explains to PERSON3 how the system works.
+ -PERSON4 will do some cross domain experiments like train on one domain and try with terminology from the other.
+ -PERSON4 will try to look up some other terminal database and some dataset.
+ -PERSON4 will try to find out how many European?
+  are present in the training data.
+ -PERSON6 wants to translate the Portuguese language abstracts from Portuguese to English so they can have the papers in Portuguese also translated.
+ -PERSON3, PERSON6 and PERSON1 are going to use the training data for the evaluation.
+  PROJECT2 overlooked the Portuguese data.
+ -PERSON7 is Brazilian.
+  She has not responded to the question by email yet.
+ -PERSON6 will ask another researcher in Brazil if she can help her with finding conferences and master thesis repositories.
+ -PERSON3, PERSON4, PERSON1 and PERSON2 agree that their system is too good and they should try testing it in the cross domain scenario.
+  Person3 would like to extract the European data completely from the training set, but they want to avoid retraining the model.
+  Person PERSON1, Dusan and PERSON3 are going to play around with the models with some sort of style transfer.
+ -PERSON1, PERSON2 and PERSON3 want to create a test set for the PROJECT1 project.
+ -PERSON1 will open the document PROJECT1 test set.
+  There is no specific index for this repository.
+  There are two translations into Czech and one into German.
+  In the test set part IWSLT nonative testset, there is an English, a German and a Czech PERSON2 explains to PERSON1 how to prepare a proper sub-lease agreement in Czech.
+ -PERSON1 and PERSON2 explain to PERSON4 how to extract sentences from WMT PROJECT1 test set for Bles core evaluation.
+ -PERSON4 should use the documents from the spoken ones and the written ones sao domain speeches.
+ -PERSON6 offers help with the navigation.
+ -PERSON3, PERSON4, PERSON5 and PERSON6 would like to get together and work on the English Portuguese data.
+  The data from PERSON8 will be used for experiments.
+ -PERSON1, Person3, Person4, Person5, Person6 and Person7 are going to meet on Monday after the school to discuss the data.
+  Person8 is doing annotation work for Sheffield.
+
+
+Minuted by: Team Synapse
