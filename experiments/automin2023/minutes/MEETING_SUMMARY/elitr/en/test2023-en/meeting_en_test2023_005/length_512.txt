@@ -1,0 +1,71 @@
+DATE : 2023-05-01
+ATTENDEES : PERSON1, PERSON12, PERSON15, PERSON18, PERSON2, PERSON4, PERSON8, PERSON9
+
+
+SUMMARY
+- PERSON2 and PERSON9 are in the last call before Christmas.
+- They want to discuss the models that they need and improve the project.
+- The payment has been received.
+- The report on integration is almost complete and is ready for review.
+- PERSON15 is going to check if there is a table with all the systems deployed in the mediator and their scores for these language pairs are this and that.
+- PERSON2 will help PERSON17 and push PERSON17 to have the numbers there within this week so that she can review it early next week.
+- PERSON5 has received an almost complete version with sections for ASR, MT, NSLT, but not including the automatic minuting section.
+- PERSON9 wants to know the status of the DELBLs.
+- PERSON2 will make sure to submit them before the end of the year, on the New Year's Eve at the latest.
+- PERSON12 is reporting some minor bugs with the ASR system in German.
+- There are also PERSON2 and PERSON18 are going to do English to five models for 9 times to cover the 43 target languages.
+- Before training the models, another colleague, PERSON16, is going to evaluate them.
+- PERSON2 will ask PERSON17 or PERSON16 to synchronize and run the models as, make them available as workers.
+- PERSON2, PERSON6 and PERSON18 agree it would be a good idea to save resources.
+- ORGANIZATION3 will deploy the two to five system as a pair of workers.
+- There are 16 workers in total.
+- PERSON2 will talk to PERSON17 and they will evaluate them.
+- PERSON18 wants to know if all the languages will be finished in some form before the end of the year.
+- PERSON18 made a fix to the text client to improve the ASR system and the improve models from ORGANIZATION3.
+- The next milestone is the improve spoke language translation prototype.
+- The trade fair of the students companies will be held in March.
+- There will be a competition 90 seconds in a lift.
+- The organiser of the competition wants to record it and then prepare another, test or set of speeches of non-native speakers who use English.
+- Also, all the PERSON1 and PERSON2 are planning to use the PROJECT2 Clearest Voice Fair as a test session.
+- They want to focus on the competition only and not on the booths.
+- The next important session to get ready for the ORGANIZATION5 part 1 is going to take place in mid-April, not in May as originally planned.
+- It's to have the management bits of the organiser completed and the transition of the presidency of the Czech Republic completed.
+- Next year PROJECT5 will try to go public and make the system available to all its target languages.
+- There will be many more smaller events.
+- One of them will be on January 25th, when survivors of Holocaust will have a half day conference.
+- PERSON2 will conduct a test session for colleagues.
+- They have seen one of the Monday seminars and want to know how the systems work there.
+- On the evening of the day there is a computer-written theater play premier.
+- It's going to be in Czech and the premier will be interpreted According to PERSON2, there will be two big test sessions: PROJECT5, probably in December and ORGANIZATION5 congress.
+- The PROJECT5 2020 event was held.
+- People have to be ready for another bomb excavation and other things and have worker rounds.
+- They need to practice also the preparations for the upcoming events.
+- It always takes 30 minutes to get the online session up and running.
+- People need to be there The PROJECT4 and PROJECT5 2020 participants were not very good at recording the sessions.
+- They need someone who will be responsible for making recordings of the important sessions.
+- PERSON2 asks for volunteers to take care of the recording of the holocaust survivors conference and the theater play written by GPT2 and through GPT3 and GPT4.
+- PERSON4 and PERSON2 are planning a mid January technical call with PERSON5 and others to discuss how to prepare a model for PROJECT2.
+- PERSON2, PERSON4, PERSON5, PERSON18, PERSON15 and PERSON18 are going to work on a project to develop a more robust and scalable system for live testing.
+- The system should be dockerized and run in the cloud.
+- PERSON2, PERSON4 and PERSON18 are discussing the implementation of PROJECT3.
+- They consider using a GPU instead of a CPU.
+- PERSON2 and PERSON4 want to test the dockerized systems on paid hardware.
+- However, they don't see it as a priority for the project.
+- PERSON2 will ask PERSON7 to do a poll about the complexity of PROJECT2.
+- On Monday, PERSON2, PERSON4 and PERSON2 were talking about simultaneous SLT and how it could be made better.
+- Dominik is preparing a speech interpretation corpus for Europe.
+- It should be a large enough dataset to improve the models.
+- PERSON2, PERSON4 and their research partners in the consortium were asked to collaborate more.
+- PERSON12 corpus is suitable for this purpose.
+- ORGANIZATION1 has audio of the main speaker and the interpreter, but not the transcripts for the interpreters.
+- ORGANIZATION2 has ASR outputs for PERSON18, PERSON2 and PERSON4 want to conduct a data augmentation experiment on the verbatim transcript and real transcript of the interpreter.
+- They also want to run a simultaneous SLT experiment.
+- PERSON2, PERSON18, PERSON4, me and possibly others will meet from the first week of January to create a subteam within the project.
+- PERSON2 will set up a doodle poll for finding a regular slot in the week of January.
+- PERSON4, PERSON18, PERSON12, and PERSON2 will start regular weekly calls.
+- They will do experiments and write papers.
+- They have a complete five to five pipeline, PERSON2 will get in touch with PERSON16.
+- PERSON9 will inform him about the ASR.
+
+
+Minuted by: Team Synapse
