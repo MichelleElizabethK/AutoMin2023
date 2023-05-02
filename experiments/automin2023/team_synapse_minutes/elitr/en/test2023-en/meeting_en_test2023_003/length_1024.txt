@@ -1,0 +1,38 @@
+DATE : 2023-05-01
+ATTENDEES : PERSON1, PERSON4, PERSON5
+
+
+SUMMARY
+- PERSON1, PERSON4 and PERSON5 are meeting today.
+- PERSON5 was about to join, because he wants to be in the meeting, but PERSON7 has stopped working on the document.
+- PERSON5 will contact PERSON7 to double check if he can do the annotation at the level of tokens.
+- If he doesn't respond, they will put it to the agenda.
+- PERSON5 and PERSON4 are working on a project to remove named entities from the collection of documents.
+- PERSON4 and PERSON5 are working on an annotation of documents.
+- There are a lot of typos and mistakes in the document.
+- PERSON4 and PERSON5 discuss how to preserve the identity of NEs, preservation of conferencing chains, conference chains and the names of speakers.
+- PERSON5 will get in touch with PERSON7 to check if he can help with deidentifying the data.
+- If not, they will have to do it themselves.
+- PERSON6 is working on the identification from the beginning of January.
+- PERSON5 is waiting for PERSON4 to finish.
+- She has to decide whether to leave English, German, Czech and Romanian language out of the data collection.
+- She also needs to make sure that all the data must be free of personal data.
+- PERSON5 sends an e-mail to her this morning.
+- There are two consent forms: one for collecting data and one for publishing it.
+- The consent forms are not perfect, but they are signed by 30% of participants, so there is no need to redo the first one PERSON4 and PERSON6 will prepare the special samples for every consent for the whole year.
+- PERSON5 will prepare a web page with the full dataset and link to it so that people can browse it.
+- PERSON5, PERSON1 and PERSON4 are working on a project to create a master sheet with information about participants of the project.
+- They are going to ask people for bug reports and individualize the data.
+- PERSON1, PERSON5 and PERSON4 discuss the timeline for the deidentification of participants.
+- The participants should get their consents by the end of February.
+- They should have their data ready for browsing by March first week of March.
+- PERSON1 will send the e-mail template to the prospective members of the Scientific Committee.
+- PERSON4 and PERSON5 are unsure if they should invite all of the master's students to the meeting.
+- PERSON1, PERSON5 and PERSON4 are going to divide the candidates into a Scientific Committee of at least fifteen people and submit the proposal within ten days.
+- PERSON4 will come to ORGANIZATION2 on Thursday to confirm if he will take part in the call.
+- PERSON5 will ask Jung Hun Chou and PERSON6 if they will be on the Committee.
+- They will send e-mails to the prospective people.
+- PERSON5 and PERSON4 are going to meet this afternoon to discuss their co-operation with foreigners.
+
+
+Minuted by: Team Synapse

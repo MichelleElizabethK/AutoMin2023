@@ -1,0 +1,29 @@
+DATE : 2023-05-01
+ATTENDEES : PERSON11, PERSON12, PERSON13, PERSON2, PERSON5
+
+
+SUMMARY
+- PERSON5 got a new phone two months ago.
+- He is busy with assignments, projects and exams.
+- He stays in Wohnheim in a private apartment.
+- He wasted his holiday by being ill.
+- The holocaust survivors session has been postponed by a month.
+- PERSON11 is going to the theatre tomorrow for a technical meeting.
+- The second event will be online and interleaved with real-life discussion.
+- PERSON13 will be available as a backup person in case PERSON11 gets sick.
+- PERSON7 and PERSON15 won't be available during this call.
+- PERSON2 will do some observations.
+- PERSON2 will make a call to PERSON8 next Monday.
+- PERSON1 has compiled a translation dictionary.
+- PERSON11 and PERSON2 will talk about SLT style of evaluation at the latest next Wednesday.
+- PERSON3 will get some delay scores for some of the files in PROJECT3 test set.
+- PERSON12 is trying to revamp PROJECT1 and train the model on ORGANIS PERSON11 and PERSON12 want Organisation5 to provide more data sets.
+- PERSON5 wants to do some non-native speech as part of his masters thesis.
+- PERSON5, PERSON12, PERSON8 and PERSON13 are going to have a conference call on Monday.
+- PERSON8 is unavailable, so they will call someone else.
+- PERSON13 explains to PERSON11 how to integrate multiple ASR sources, multiple channels, a language ID and a filter for the ASR to make it silent if it's the wrong language.
+- According to PERSON2, organiser9 has done something similar to ORGANISATION8, where people can directly translate from one language to another without using English as an intermediary language.
+- According to PERSON11, direct bilingual models are better than models that produce a monolingual output.
+
+
+Minuted by: Team Synapse

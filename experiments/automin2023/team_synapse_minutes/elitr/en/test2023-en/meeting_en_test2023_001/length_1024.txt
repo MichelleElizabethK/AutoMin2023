@@ -1,0 +1,38 @@
+DATE : 2023-05-01
+ATTENDEES : PERSON1, PERSON10, PERSON11, PERSON2, PERSON4, PERSON6, PERSON7, PERSON8
+
+
+SUMMARY
+- PERSON6, PERSON8, PERSON11, PERSON2, PERSON1 and PERSON12 are on a conference call.
+- They are discussing some technical issues with the system.
+- PERSON11 is interested in doing offline subtitling for the upcoming sessions.
+- PERSON6 would like to implement natural shortening in the model as well.
+- PERSON6 and PERSON4 are preparing the setups for PROJECT2 and PROJECT4 is working on the Monday seminar model.
+- PERSON6 advises to update the pipelines on Friday.
+- PERSON8 is doing some ASR today.
+- Some videos are not properly converted into a 16 c format and some audio files are not working properly.
+- PERSON1 is going to be busy tomorrow and over the weekend, so today is the last chance for PERSON6 to get it running before the weekend.
+- PERSON8 will ask PERSON10 if he can help.
+- PERSON4 is not taking part in the call with PERSON1 as well.
+- PERSON4 and PERSON2 are on a call.
+- PERSON4 explains to PERSON2 how to create a custom word list and how to use it.
+- PERSON2 is finishing training of a German ASR that may be used for time stamping.
+- There are some serious errors in the ASR output.
+- The decision on which model to use will be made on Monday.
+- The language model may need both the Transcripts and the Language Model.
+- PERSON6 is leaving the call.
+- PERSON8 is the host.
+- PERSON10, PERSON4 and PERSON11 will synchronise and send the numbers to PERSON8.
+- PERSON1 compares the quality of the ASR workers and their latency and flicker.
+- There is only one ASR worker PERSON11 is having problems with transcribing files.
+- He's trying to convert them to the correct format, but it doesn't support the format.
+- It's not the speaker's fault, but the files themselves.
+- PERSON2 will train a language model for the German ASR tomorrow.
+- PERSON1 will send an email to PERSON2.
+- PERSON2 and PERSON4 are having problems with converting IPA phonemes into alphabet sounds.
+- They ask each other for help.
+- PERSON4 wants to have a call with PERSON2 tomorrow, but it will be difficult as he is off for Friday prayer on Friday for 10 to 12 and has a test run with PERSON8 that they were discussing.
+- He also wants to change the IPA to the alphabet phonem
+
+
+Minuted by: Team Synapse
