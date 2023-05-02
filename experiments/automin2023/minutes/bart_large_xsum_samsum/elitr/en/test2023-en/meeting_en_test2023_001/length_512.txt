@@ -1,0 +1,75 @@
+DATE : 2023-05-01
+ATTENDEES : PERSON1, PERSON10, PERSON11, PERSON2, PERSON4, PERSON6, PERSON7, PERSON8
+
+
+SUMMARY
+- PERSON6 was in a call until the very last minute, so she didn't remind everybody to connect.
+- Now she can hear them.
+- PERSON1's mother is writing the question for the German subti- subtitle user study until December the 10th.
+- PERSON11 has just added the transcripts for the first 30 parts and for the next ten parts, it's still running, but for some folders the audio format is wrong PERSON6 has seen the meme project demo.
+- It's slightly easier than what they do, but their mission translation is doing shortening simply because the data is shortening.
+- It would be great if they could also locate some data where there is some natural shortening in the data.
+- PERSON3 is no longer ready for speech translation.
+- There are no candidates in Edinburgh.
+- The only other candidate would be PERSON13 from the PROJECT1, who works halfway in Prague and half in Brno.
+- PERSON4 will work on the webpage for PROJECT2 tomorrow.
+- PERSON6 wants an update for the sessions for the next week.
+- PERSON6, PERSON4 and PERSON8 are going to do a test tomorrow afternoon.
+- They will do a Zoom Test for YouTube videos at the same time.
+- PERSON8 will use black bird.
+- PERSON6 and PERSON4 will use Ark and PERSON8 will use one or two Czech time PERSON4 has been working on adaptation for the two domains.
+- PERSON8, PERSON8 and PERSON4 have been setting up presentations.
+- PERSON6 will put a link to the presentations.
+- On Friday, there will be a test time for two concurrent sessions.
+- One will be arc plus black PERSON8 needs to convert some audio files to MP3 format to improve the sound quality.
+- He will ask PERSON10 to do it.
+- PERSON6, PERSON8 and PERSON10 are working on a test set that they want to evaluate on a later test set.
+- They are having problems with conversion, of the file formats and with the recording.
+- PERSON1 is busy and can't help.
+- PERSON8 will ask PERSON10 PERSON8 will send the numbers for the data set to PERSON6 as soon as possible.
+- They will do a Monday seminar on the adaptation for the two domains.
+- PERSON4 doesn't know how to run SLTF.
+- PERSON6 wants to have multiple custom dictionaries in the system.
+- The ASR system without using people's pronunciation is better than the one used with people's generated pronunciations.
+- PERSON2 produced a long, word list.
+- PERSON4 produced a phoneme to grapheme list.
+- There is a lot of noise in the dictionary.
+- The system accepts only the words that were observed five times or more, and only the pronunciations that were recorded three or more times.
+- This way, there will be fewer errors.
+- However, there are still some variants in pronunciation.
+- PERSON4 and PERSON2 will work together to create a substitute for the language model substitute in the generated dictionary.
+- PERSON2 is finishing training of a German ASR that may be used for time stamping.
+- There are some serious errors in the ASR output.
+- People1 and PERSON2 discuss how to enrich the language model by texts and how to use language model.
+- PERSON10 has a lot of work to do in the coming days.
+- PERSON8 needs to prepare to have the double system running.
+- PERSON4 needs to stay on the call with PERSON2 and discuss how to use the dictionary.
+- PERSON10 needs to focus more on getting the numbers and PERSON6 is leaving the call at the moment.
+- PERSON8 is the host.
+- PERSON4, PERSON2, PERSON10 and PERSON8 need to synchronise and synchronise the calls.
+- There are two ASR workers: one from K80 and one from the nearest one.
+- They PERSON1 did the comparison of the workers for SLT.
+- There are no big differences in machine translation parts, but the bottleneck in quality is the ASR quality.
+- The MT workers with the lowest latency and, and some good flicker were better.
+- The rainbow MT workers had better PERSON11 is trying to commit the file.
+- The output is terrible for some folders and okay for others.
+- It may be caused by the speaker not speaking clearly for the ASR.
+- The annotator will filter out the bad files and keep them there.
+- PERSON11's transcripts were processed incorrectly and the length is incorrect for most of the folders that he transcribed later.
+- FFMPEG doesn't support the OGG file format.
+- PERSON11 will change the file to soxi and run it in parallel.
+- PERSON11 has a lot of files to convert.
+- PERSON2 is training a language model to process the interpreters.
+- The ASR is in lower case and without punctuation.
+- PERSON1 will send an email to PERSON2.
+- PERSON11 will ask the annotator if the transcription work helped.
+- PERSON2 asks PERSON4 to help him with some problems with the translation of IPA into alphabet phonemes.
+- PERSON2 asks PERSON4 to send him a link to a chart that shows the nearest, nearest phonemes to this one.
+- PERSON2 suggests that they substitute each word with this phoneme.
+- PERSON4 doesn't know the pronunciation of any of the vowels.
+- PERSON2 and PERSON4 are trying to work out how to remap their dictionaries to CMU.
+- They have a test run with PERSON8 on Friday from 10 to 12.
+- PERSON4 wants PERSON2 to convert the list into the CMU phonemes so that IPA instead of IP will be IPA.
+
+
+Minuted by: Team Synapse

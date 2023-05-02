@@ -1,0 +1,40 @@
+DATE : 2023-05-01
+ATTENDEES : PERSON1, PERSON10, PERSON11, PERSON2, PERSON4, PERSON6, PERSON7, PERSON8
+
+
+SUMMARY
+- PERSON6 and PERSON8 are trying to talk to PERSON2 and PERSON11, but they can't hear each other.
+- The transcripts for check are almost done, one transcriber of Germany's working and she wants to do it alone until December the 10th.
+- The audio format is PERSON11 is interested in learning how to do offline subtitling for the upcoming sessions.
+- PERSON3 is not ready for speech translation.
+- PERSON13 works halfway in Prague and halfway in Brno.
+- PERSON4 is working on the webpage for PROJECT2.
+- PERSON6 is away from 11 to 12 on Friday.
+- PERSON8 will set up, two presentations and run a dry run of some past similar talks to PRO project2.
+- PERSON8 is working on an evaluation of a leader test set.
+- Some of the videos are not properly converted into a 16 c format and some audio files are not working properly.
+- The sound quality is a little worse.
+- PERSON1 is organising an event tomorrow and over the weekend.
+- PERSON8 will ask PERSON10 if he can help.
+- PERSON2 sent the files with the ASR system to PERSON6.
+- PERSON4 is not taking part in the call with PERSON1.
+- PERSON4 and PERSON2 are trying to solve a problem with a computer program.
+- They need to create a dictionary and a language model substitute.
+- PERSON2 is finishing training of a German ASR that may be used for time stamping.
+- The training set contains around 300 hours of data, but there are some serious errors in the ASR output.
+- There are also possibilities to use language model and the language model for recognition.
+- PERSON8 is leaving the call at the moment.
+- PERSON10 will send the numbers to PERSON4 and PERSON2, and they will synchronise and send them to PERSON8.
+- PERSON11 will choose the best ASR worker in quality for the Monday Seminar.
+- PERSON11 is having problems with the files he's trying to transcribe.
+- He's not sure how to convert them properly, because FFMPEG doesn't support the format.
+- PERSON2 is working on the German ASR.
+- PERSON1 will send an email to PERSON2.
+- PERSON2 and PERSON4 are trying to convert some IPA phonemes from alphabet to IPA.
+- Some of them are not in alphabet.
+- They need to substitute a phoneme with another one.
+- PERSON4 wants to have a call with PERSON2 tomorrow, but PERSON4 is busy and has to prepare himself.
+- P PERSON2 agrees to remap his dictionary to CMU and convert IPA and IP into the CMU phonemes.
+
+
+Minuted by: Team Synapse

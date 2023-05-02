@@ -1,0 +1,70 @@
+DATE : 2023-05-01
+ATTENDEES : PERSON1, PERSON4, PERSON5
+
+
+SUMMARY
+- PERSON1, PERSON4 and PERSON5 are going to a meeting today.
+- There will be only two of them.
+- Others might join them later.
+- PERSON1, PERSON5 and PERSON4 are worried about the work of the annotator.
+- The annotator has stopped working on the project.
+- PERSON7 was about to move to Canada, so he might not be able to help.
+- PERSON4 sent a list of named entities to the PERSON5, PERSON4 and PERSON1 are working on a project.
+- They need to do the annotation at the level of the type level and the second round for many of the words.
+- The last annotation is from the middle of December.
+- The link to the coffee agenda is PERSON4 will be back in 30 seconds.
+- PERSON5 will write the identification procedure.
+- PERSON5 made a copy of PERSON7's document.
+- She would like the name of the document to be more descriptive.
+- PERSON5 and PERSON4 are discussing the removal of named entities from documents.
+- They are working at the word type level and word token level.
+- PERSON5 and PERSON4 are working on the annotation of documents.
+- Professor mentions in one of the early seminars that the word type and word token are the terms from lexical references.
+- There are many typos in the list created by PERSON7.
+- Most of the typos are due to people not knowing the correct spelling of named entities.
+- PERSON8, the student, used a name tag.
+- There are problems with named entities, multi word, entities, edition of new documents, closing lists, months, names, of, of days in the week and removal of the original ex from the documents.
+- PERSON5 wants to preserve the identity of NEs, preservation of conferencing chains, conference chains and, individual speakers.
+- PERSON5 and PERSON4 agree to ignore tracing other people who are only mentioned in the text and not taking part in the meeting.
+- PERSON1 will have a session with PERSON4 to have a better understanding of the data.
+- PERSON6 is working on the identification from the beginning of January.
+- She needs to read the regulations and decide if the names of languages should be deleted.
+- PERSON5, PERSON4 and PERSON1 discuss the preparation of the minutes and the identification of the participants.
+- PERSON5 wants to get in touch with PERSON6 as soon as possible and agree on a timeline.
+- She needs to read the guidelines and discuss with her what is person data.
+- The guidelines say that all personal data must be removed and the data set has to be free of personal data PERSON5 sent an e-mail to her this morning mentioning the new two stages of the consent form.
+- She will demand some time for that to be ready.
+- The consent forms are about working with data and publishing it.
+- They are not perfect, but they are signed by 30% PERSON5 wants to focus on the second consent form, which is the consent to publish the data and the collection of samples.
+- People who have not signed the first consent form are being processed without having received the consent.
+- PERSON4 and PERSON6 will prepare the special samples for every consent for every participants.
+- PERSON5 proposes to simplify the task by giving everyone access to the full dataset.
+- PERSON1 will prepare a web page that people can browse.
+- PERSON5 wants to extract the names of participants from the meeting minutes.
+- It's a tedious task.
+- Some of the names are incorrect and some are missing.
+- The best effort is to collect the names from the minutes, The list of participants, and then we will say in the context PERSON5, PERSON1, and PERSON4 are going to create a master sheet with the names of the participants.
+- They will send it to the participants via e-mail.
+- PERSON5 and PERSON1 will prepare a sample document, one meeting or two meetings at most, so that they can put it online for prospective participants of the task at the end of January or beginning of February.
+- They need to have the full dataset by the 16th of March.
+- PERSON5 wants the deidentification procedure to be done by the end of February and the consent to be given by the participants by the first week of March.
+- PERSON4 will be finished with the word type level annotation in two days.
+- The coding of the xml, which is item three, and the removal of the text from the document is item six.
+- The webpage should be ready by mid-February.
+- PERSON1, PERSON4 and PERSON5 are going to send a mock e-mail to the Russian participants in the Scientific Committee.
+- PERSON1 needs to prepare the text for an e-mail to the prospective members of the scientific committee for the application.
+- PERSON1, PERSON5 and PERSON4 are going to divide the candidates and send personal invitations to them.
+- They need to submit the proposal within the next ten days.
+- PERSON5 wants to have at least 15 people from the list to participate in a Scientific Committee.
+- PERSON1 will put their names in the ORGANIZATION1 sheet.
+- PERSON5 will send e-mails to all the people on the list.
+- PERSON4 and PERSON5 are going to have a conference call.
+- They want to ask the experts from the old dinosaur world as the keynote speakers.
+- PERSON5, PERSON1 and PERSON4 are writing e-mails to the prospective people.
+- They will send the proposal to Iska by January 10th and to Sikdad by January 15th.
+- PERSON4 will come to ORGANIZATION2 at Thursday and will write to PERSON4 wants PERSON5 to send the pre-prepared letters to his candidates.
+- He wants them to feel better to be under the influence of the Illitere Committee.
+- PERSON5 and PERSON4 are going to meet this afternoon.
+
+
+Minuted by: Team Synapse

@@ -1,0 +1,38 @@
+DATE : 2023-05-01
+ATTENDEES : PERSON1, PERSON2, PERSON3, PERSON4, PERSON6
+
+
+SUMMARY
+- PERSON3, PERSON4 and PERSON5 will not be joining the meeting today as PERSON1 will be busy with some hackathlone and PERSON4 will have to leave in 20 minutes.
+- PERSON3 and PERSON4 are trying to figure out how the model learns to inflect the constraints properly and how it exploits the information from the constraint.
+- PERSON4, PERSON6 and PERSON3 are trying to solve the problem of lemmatization.
+- The problem is with the lack of references with the correct word surface.
+- Some kind of adversary evaluation might help.
+- PERSON4 explains to PERSON3 how the system works.
+- PERSON4 will do cross domain experiments with terminology from one domain and terminology from the other.
+- He will look up some other terminal database and some dataset.
+- PERSON4 will try to find out how many European?
+- abstracts are present in the training data.
+- PERSON6 is working on the Portugese language model for the new result rate.
+- He needs to find a model to translate the abstracts from Portuguese to English.
+- PERSON3, PERSON6 and PERSON1 are going to use the training data for the evaluation.
+- PERSON7 has not responded to the question about the English Portuguese data, so they are looking for a second list.
+- PERSON6 will ask another researcher in Brazil if she can help her with finding the conferences and the master thesis repository.
+- PERSON3, PERSON4, PERSON1 and PERSON2 are going to test their system in the cross domain scenario.
+- They want to extract European data from the training set, but they don't want to retrain the model.
+- PERSON3 will look into some more difficult phonology, PERSON3 wants to know if there is any style transfer data for English Czech.
+- PERSON1, PERSON2 and PERSON3 will create a test set for PROJECT1 and share the links for the data.
+- PERSON1 and PERSON2 are working on a project.
+- There is no specific index for a certain non native, spoken language translation within the test set.
+- There are two translations into Czech and one into German.
+- PERSON2 is still muted.
+- PERSON1 and PERSON2 are trying to work out how to document the sub-lease agreement.
+- PERSON4 should use the documents from the WMT PROJECT1 test set for Bles core evaluation and for specific terms evaluation by PERSON2.
+- PERSON6 will help with navigation.
+- PERSON3, PERSON5 and PERSON6 want to get together and adjust the English Portuguese data.
+- They also want to adjust the multi source data from PERSON8.
+- PERSON1, PERSON3, PERSON4, PERSON5, PERSON6, PERSON7, PERSON8 and PERSON9 are meeting today.
+- They are going to meet on Monday after the school.
+
+
+Minuted by: Team Synapse

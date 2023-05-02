@@ -1,0 +1,29 @@
+DATE : 2023-05-01
+ATTENDEES : PERSON1, PERSON10, PERSON2, PERSON3, PERSON5, PERSON8
+
+
+SUMMARY
+- PERSON3 sent an e-mail to confirm that he has a valid visa for half a year.
+- He will come to the country on April.
+- PERSON2 was doing something during the holiday.
+- April was busy until the New Year's but now she should be available.
+- PERSON8 sent a message to the other alters of the paper, but they haven't replied yet.
+- PERSON8 is in Slovakia, moving to Prague tomorrow, going to the PCR test on Wednesday and waiting for the result until Thursday.
+- The next week he has a Hacathon on universal coreference with PERSON4, PERSON9 and PERSON13, so he won't be available for PERSON8, PERSON10, PERSON5 and PERSON2 discuss how to represent the context in multi-source translation.
+- PERSON1, PERSON2 and PERSON8 discuss a method for encoding two paraphrases of the same sentence.
+- The method is easy to test and difficult to train, but it doesn't work well for RNNs.
+- PERSON10, PERSON8, PERSON1 and PERSON12 are going to limit the experiments to a single sentence and a single paraphrase.
+- There is an EACL deadline on Friday the fifteenth of January, and then there is ACL deadline at the end of the month.
+- There PERSON1, PERSON10, PERSON5 and PERSON3 are going to write a paper for the ASL and submit it to the conference.
+- PERSON3 is going to train a model on English-Portugese data sets.
+- PERSON1, PERSON3 and their colleagues are going to work on a project.
+- They need to create a dedicated English to Portugese model for the auditing and the comprehension linguistics domain for PROJECT2.
+- PERSON2, PERSON3, PERSON8 and PERSON10 are working on a project.
+- The project is about NLP, comprehension linguistics and the linguistics domain.
+- There is a conference in NLP in Brazil or Portugal.
+- Some of the papers are in Slovak or Czech languages PERSON1, PERSON3, PERSON5, PERSON8 and PERSON10 are trying to share a link but it doesn't work for them.
+- The link is accessible, but it's not working for PERSON5.
+- There will be a conference call on Thursday at 4 CET.
+
+
+Minuted by: Team Synapse

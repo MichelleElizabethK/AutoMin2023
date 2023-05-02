@@ -1,0 +1,65 @@
+DATE : 2023-05-01
+ATTENDEES : PERSON1, PERSON2, PERSON7
+
+
+SUMMARY
+- PERSON2 is currently focusing on her paper on EMNLP, which is due in June.
+- She needs to finish the research first and then she needs to start writing the paper.
+- PERSON1 will be done with his exams by June 10th.
+- PERSON2 will help PERSON1 with PERSON2 wants to create a queue to synchronize his model and his model will take many requests at a time, put them to one batch, do the inference and send them back to the server.
+- PERSON1 suggests 200 milliseconds as an audio stream, but it's too small for PERSON2 wants to create an HTTP client which can fill the queue and read from another queue and send the text back in an HTTP request.
+- PERSON1 and PERSON2 use Hypercore for online text flow.
+- PERSON1 and PERSON2 are giving ICC this semester.
+- They have to code data structures in C or Python.
+- PERSON7, PERSON2 and PERSON1 had to do the dirty work in C + and in Python.
+- They had a lot of assignments.
+- PERSON2 and PERSON1 were in a course in Deep Learning.
+- It was a real pain for them.
+- Many people failed the course because of the assignments.
+- There are some courses where the exam is fun and others where it's difficult.
+- PERSON1 and PERSON2 are taking a course.
+- PERSON1 will write the exam.
+- PERSON2 is working on an automatic evaluation for compression.
+- PERSON2 is working on evaluation for compression.
+- BLEU and COMET are highly correlated with each other.
+- The difference in quality between the measurements is bigger for COMET.
+- The reason is that COMET needs the reference.
+- PERSON2 tried reference-free COMET ad and it didn't work well for offline model.
+- He switched to BLEU as of now.
+- PERSON7 would like to look at some of the results.
+- PERSON7 doesn't speak German.
+- PERSON2 speaks English and German.
+- PERSON2 doesn't think that shortening sentences is a good use case for interpreters.
+- People have limited capacity and they cannot say as much as they would like to, so they have to listen and speak simultaneously.
+- When translating, interpreters need context to do their job properly.
+- PERSON2 and PERSON7 discuss the pros and cons of shortening and isometric translation.
+- PERSON7 is in Paris for an internship.
+- He's working on IWSLT now.
+- It's hot in the office, but he has the window open.
+- PERSON7 is working on a machine translation compression.
+- The initial goal was to do it for online or for simultaneous translation, but now it's more useful for machine translation.
+- It's interesting to look at how much the length of the sentence contributes to the presentation.
+- German isometric languages PERSON1 and PERSON2 discuss the differences between German and English language.
+- It takes more time to reproduce the same information in German than in English.
+- People need to say more phonemes in order to do the same thing in both languages.
+- With the German dubbing of English series or English movies, the pace is too fast and people talk too much.
+- PERSON2 is no longer interested in doing shortening as it's not useful for online speech translation.
+- PERSON1 will be organizing IWLTS 2023 and will be helping around with 23.
+- PERSON7 joined the project at the end of the year or the beginning of this year.
+- She has some study which she hasn't finished yet.
+- There is a retranslating system used in PROJECT1, but she doesn't think it's useful.
+- The retranslating system from PROJECT1 is stupid, according to PERSON2.
+- PERSON7 thinks they should focus on making the model more fluent.
+- The flicker flickering is annoying and distracts people from what is being said.
+- It is caused by the fact that people's brains work with information in a different way.
+- PERSON1 and PERSON2 discuss the pros and cons of retranslating.
+- PERSON1 and PERSON2 discuss the pros and cons of speech to speech.
+- PERSON2, PERSON1 and PERSON7 discuss the pros and cons of speech to speech translation.
+- PERSON2, PERSON7 and PERSON1 agree that it's better to not have retranslating.
+- PERSON1 and PERSON2 are sceptical about automatic speech translation.
+- PERSON2 and PERSON1 agree that the computer should be able to correct mistakes even if they are wrong.
+- PERSON1 and PERSON2 discuss monotonous speech translation at IWSLT.
+- PERSON1 and PERSON2 will see each other next week.
+
+
+Minuted by: Team Synapse

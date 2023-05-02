@@ -1,0 +1,52 @@
+DATE : 2023-05-01
+ATTENDEES : PERSON1, PERSON4, PERSON5
+
+
+SUMMARY
+- PERSON1, PERSON4 and PERSON5 are having a meeting today.
+- PERSON5 was supposed to join, but he stopped responding to their messages.
+- They are worried about the presence of PERSON7.
+- PERSON4 and PERSON5 are arguing about the annotation of an online document.
+- The annotator stopped working on it.
+- The annotation was done at the type level, but the second round for many of the words needs to be done.
+- The link to the coffee agenda is in the master PERSON5 explains the annotation process to PERSON4 and PERSON1.
+- PERSON5 and PERSON4 are working on a project.
+- They need to remove all named entities from the collection of documents and replace them with placeholders.
+- They want to proceed at the word type level and then the word token level.
+- PERSON5 is not sure if PERSON7 will be available to do the bulk processing of the documents and the insertion of the annotations into the xml.
+- There are a lot of typos in the list.
+- PERSON8, the student, used a name tag.
+- There are problems with named entities, multi word, entities, edition of new documents, preservation of conferencing chains, conference chains, including the identity of, individual speakers.
+- PERSON5 and PERSON4 disagree on whether it's better to preserve the identity of project names or people.
+- PERSON5 wants to deidentify the data, but is worried that some named entity will leak into the data.
+- She needs to get in touch with PERSON7 to check if he can help her and if not, she will have to do it herself.
+- PERSON5 is waiting for PERSON4 to finish.
+- She needs to read the regulations.
+- She has to decide if the names of languages should be deidentified and if they should be left out of the document.
+- PERSON4, PERSON5 and PERSON6 are going to discuss the removal of personal data and the annotation of consent forms.
+- There are two stages of the content consent forms.
+- The first stage is about working with the data and the second one is about publishing the data.
+- The consent forms are not perfect and 30% of participants haven't signed them.
+- PERSON5 will focus on the second stage, which is the consent PERSON5 proposes to focus on the second form only for the purpose of the release of the corpus and forget about the first form only once the corpus is finished and released.
+- The second form is on the consent to process the data and deidentify it with the forcing goal of publication PERSON4 and PERSON5 discuss the tedious task of creating a master sheet with the names of the participants from the minutes of the meeting.
+- Some of the names are incomplete and some are incorrect.
+- The best effort is to collect the names from the meeting minutes and send them to the PERSON5 and PERSON1 are going to prepare individualized master sheets for the participants of the task.
+- They need to have the full dataset by the end of March.
+- They will ask people for bug reports.
+- PERSON1, PERSON5 and PERSON1 agree that the deidentification procedure should be done by the end of February.
+- They should have the data for the participants to browse by mid-February and the consent for it in the first week of March.
+- PERSON5, PERSON4 and PERSON1 are discussing the work of the Scientific Committee.
+- They are unsure if they should invite all the Russian participants to the committee, because half are master's students.
+- PERSON1, PERSON4 and PERSON5 are going to send e-mails to prospective candidates for the application.
+- PERSON5, PERSON1, and PERSON4 are going to make several copies of the invitation e-mail and send them to all the people on the list.
+- They will send them the e-mails today in order to submit the proposal within January 7th or 8th.
+- PERSON4, PERSON5, and PERSON1 will take part in the call.
+- They will send the proposal to Iska by January 10th and to Sikdad by January 15th.
+- They are going to ask the experts from the old dinosaur world as the keynote speakers.
+- PERSON4 will come to ORGANIZATION2 at Thursday and will write to PERSON6 if she will speak.
+- He will also send pre-prepared letters to his candidates.
+- He is Russian.
+- PERSON1, PERSON5 and PERSON1 are talking.
+
+
+Minuted by: Team Synapse

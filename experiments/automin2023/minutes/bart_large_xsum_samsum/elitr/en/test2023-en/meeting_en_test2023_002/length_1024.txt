@@ -1,0 +1,33 @@
+DATE : 2023-05-01
+ATTENDEES : PERSON1, PERSON2, PERSON7
+
+
+SUMMARY
+- PERSON2 is training the Czech ASR, but she doesn't have time to make it online.
+- She needs to focus on her paper on EMNLP, which is due in June.
+- PERSON1 will be done with his exams by June 10th, so he will help PERSON1 and PERSON2 are working on a project.
+- They discuss how to stream audio and send it back to the HTTP server.
+- PERSON1 is giving ICC this semester.
+- PERSON2 is not.
+- PERSON1 and PERSON2 had to write a lot of code for their courses.
+- Their professor is crazy about the assignments and the implementation of the test files.
+- Many people failed their courses because of this.
+- PERSON2 is working on automatic evaluation for compression.
+- He is surprised by the difference in quality between the measurements and the results.
+- PERSON2 can provide logs in English and German.
+- PERSON7 doesn't speak German, but he can speak Czech, Slovak and French.
+- PERSON2 doesn't want to do shorter translations, because he thinks longer ones are better.
+- PERSON2 and PERSON7 discuss the pros and cons of shortening and lengthening the sentences to improve the performance of interpreters.
+- PERSON7 is working on a project about text compression and machine translation.
+- The initial idea was to do it for online or for simultaneous translation, but it's not so useful for simultaneous machine translation, so he's now discussing with PERSON2 whether it's useful or not.
+- German is PERSON2 explains to PERSON1 and PERSON7 the difference between the speed at which two different languages convey the same information in different languages.
+- PERSON1 will be helping with organizing IWLTS 2023.
+- PERSON2 and PERSON7 hate the idea of retranslating systems.
+- PERSON2 and PERSON1 discuss the issue of flicker flickering in speech-to-speech translation.
+- PERSON1 and PERSON2 discuss the pros and cons of speech-to-speech translation.
+- PERSON1 and PERSON2 discuss the state of the art in automatic speech translation.
+- PERSON1 and PERSON2 discuss monotonous speech translation.
+- They discuss it at the IWSLT this year.
+
+
+Minuted by: Team Synapse

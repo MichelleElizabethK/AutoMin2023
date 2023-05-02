@@ -1,0 +1,26 @@
+DATE : 2023-05-01
+ATTENDEES : PERSON1, PERSON10, PERSON2, PERSON3, PERSON5, PERSON8
+
+
+SUMMARY
+- PERSON3 wants to come to the Czech Republic in April.
+- He sent an e-mail to confirm his visa is ready.
+- It's valid for one hundred eighty days.
+- PERSON8 and PERSON10 are waiting for the relevant data for the task, but they don't have a baseline right now.
+- PERSON8 is moving to Prague tomorrow.
+- PERSON10 will try to arrange a meeting with PERSON12 to discuss the data set.
+- PERSON10, PERSON8 and PERSON5 explain how to improve the performance of a multi-source translation.
+- PERSON2, PERSON1, PERSON8 and PERSON10 discuss the differences between encoding methods.
+- PERSON2 suggests to increase warm-ups and warm-up sets.
+- PERSON10 suggests adding a special token to distinguish between the source and the context of the paraphrase and PERSON1, PERSON10, PERSON5 and PERSON3 are going to write a paper for the ASL conference on the first of February.
+- There is a deadline for the EACL on Friday the fifteenth of January, and then there is ACL at the end of the month PERSON1, PERSON3 and PERSON11 are going to train on the same domains as the PROJECT3 experiments.
+- PERSON1 wants to focus on English-Portugese.
+- PERSON3 wants to add the comprehension linguistics as another domain.
+- PERSON3, PERSON5 and PERSON10 are working on a project.
+- PERSON3 is going to write the results she has collected into the paper and share the link for the new paper with PERSON1.
+- PERSON1 wants to share a link to the breakdown analysis PERSON10 will fix the formatic.
+- The link is accessible.
+- There will be a call on Thursday at 4 CET.
+
+
+Minuted by: Team Synapse

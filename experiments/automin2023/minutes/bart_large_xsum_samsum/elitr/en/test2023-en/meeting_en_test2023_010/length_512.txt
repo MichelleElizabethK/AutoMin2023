@@ -1,0 +1,44 @@
+DATE : 2023-05-01
+ATTENDEES : PERSON1, PERSON11, PERSON4, PERSON5, PERSON7, PERSON8
+
+
+SUMMARY
+- PERSON8 has just arrived to Iran.
+- She was in Prag, but she went back to Iran yesterday morning for New Year's Day.
+- She is using her phone instead of the computer.
+- She wants to check if her voice is okay.
+- PERSON7 is in the corridor in PERSON1 is working on automating the PROJECT1 data set.
+- The Petri environment and the virtual environment are compatible, but there are a couple of packages that are missing.
+- Today, PERSON1 will have a call with PERSON9 and they will figure out which packages to install in PERSON1 wrote a script, but forgot about the service call, so he didn't test it.
+- PERSON7 asks him to prepare a table in the delebl.
+- They will use the same set-up that they used for the evaluation in this case.
+- PERSON7 and PERSON1 are preparing a new table for the PROJECT1 search.
+- They want to create two or three more tables.
+- They need to collect the numbers in separate files and compile them into one table.
+- The script to do that is in the psf file.
+- PERSON1 will copy paste the entire script in two different folders and run it with different workers.
+- This will parallelize both the processing of the systems and the evaluation of the cell DF.
+- PERSON7 and PERSON1 need to finish the description of PROJECT1 desk set.
+- PERSON5 needs to check the progress of the evaluation of the systems.
+- PERSON5's work is not part of the current delebl on multisource machine translation.
+- The delebl number is four point two.
+- The evaluation of existing syst.
+- is common to both the domain adaptation and the multi-source.
+- PERSON7 will do the evaluations with PERSON1 and put them to the table tomorrow at ten.
+- After that, they will meet with PERSON5 and PERSON1 to double check the status of the evaluations.
+- PERSON1 will start working with the Windows laptop and see if it will get the Webex thing.
+- PERSON4 has already shipped the speech in a British corpus to the reviewer from Pervoiz, but the reviewer hasn't received it yet.
+- PERSON11 is trying to learn caldi models f in order to prepare for events like the Malach conference.
+- PERSON11 has seen the video from the launch.
+- He doesn't know how the model was created.
+- He is working on the index files for the multi-lingual set-ups.
+- He has also discussed the SLTE and PROJECT1 test set with PERSON8.
+- PERSON8 will meet with PERSON9 for two or three days in person to talk about SLTV test, SLTV and PROJECT1 test.
+- PERSON9 can’t run the evaluation, because he doesn't have access to the cluster.
+- The evaluation should be divided between PERSON1 and PERSON9, so that PERSON9 can continue from that point and run the evaluations.
+- Today at one PM, there will be a call PERSON1, PERSON7 and PERSON2 are going to meet on the 7th of January.
+- There will be no call next week and on the last day of the year, on the New Year's Eve.
+- There is a Linguistic Mondays seminar on the 4th PERSON1 reminds PERSON7 to go through the CVs today.
+
+
+Minuted by: Team Synapse

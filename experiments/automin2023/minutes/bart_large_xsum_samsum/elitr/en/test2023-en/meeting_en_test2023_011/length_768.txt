@@ -1,0 +1,22 @@
+DATE : 2023-05-01
+ATTENDEES : PERSON2, PERSON4, PERSON5, PERSON6, PERSON7, PERSON9
+
+
+SUMMARY
+- PERSON9 is in the Czech Republic.
+- There are holidays officially until 24th of December.
+- Most of the employees are on vacation.
+- The meeting on 21st and 28th will be cancelled.
+- The last meeting with the partners went well.
+- They got additional work, but it's not PERSON7, PERSON4, PERSON5, and PERSON4 will meet on the 21st and 28th.
+- They will cancel the other two meetings and focus on the positive constraints and the multi-lingual multi-source translation.
+- PERSON9 is preparing data for the model for negative constraints and training the system for the constraint decoding.
+- PERSON2 is not sure about batching.
+- PERSON2 is working on the analysis of the system and is waiting on the dataset reprocessing from PERSON9.
+- PERSON2, PERSON7, PERSON4, PERSON5 and PERSON8 are waiting for the first complete version of the analysis.
+- The deadline for the deliverable to be submitted is the end of the year.
+- PERSON6, PERSON7 and PERSON4 agree that PROJECT2 is good and safe.
+- They will see each other next year.
+
+
+Minuted by: Team Synapse

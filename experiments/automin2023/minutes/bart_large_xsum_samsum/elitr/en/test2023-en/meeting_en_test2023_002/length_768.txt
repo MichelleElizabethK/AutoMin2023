@@ -1,0 +1,45 @@
+DATE : 2023-05-01
+ATTENDEES : PERSON1, PERSON2, PERSON7
+
+
+SUMMARY
+- PERSON2 is currently focusing on her paper on EMNLP, which is due in June.
+- She needs to finish the research first and then she needs to start writing the paper.
+- PERSON1 will be done with his exams by June 10th.
+- PERSON2 will help PERSON1 with PERSON1 and PERSON2 are working on a speech translation project.
+- PERSON1 wants to limit the length of the audio stream to 200 milliseconds.
+- PERSON2 wants to use a different HTTP server.
+- PERSON1 didn't take ICC last semester, so he's giving ICC this semester.
+- PERSON1 and PERSON2 took a course in Deep Learning.
+- It was a pain, because they didn't have the interface.
+- They had a lot of assignments.
+- The exam was yesterday for PERSON5.
+- It's not graded.
+- PERSON2 is working on automatic evaluation for compression, but she notices that even the COMET metric is highly correlated with BLEU for her purposes.
+- She's trying to compress and the results are not as good as she'd like.
+- PERSON2 has found a data set for compression data set and he wants to share his results with PERSON7.
+- PERSON7 doesn't speak German, but he can understand Czech, Slovak, French.
+- PERSON2 and PERSON7 discuss the pros and cons of shortening and isometric translation.
+- PERSON2 and PERSON7 were watching a comedy.
+- The target language was probably English or Czech.
+- The pace of the show was too fast, so they had to read a lot of text.
+- PERSON7 is done with IWSLT and is in Paris for an internship PERSON7 is working on a machine translation compression study.
+- The initial idea was to do it for online or for simultaneous translation, but it's not useful for simultaneous machine translation, so they are now discussing with PERSON2 whether it's useful or not.
+- German is famous for having a PERSON2 explains to PERSON1 and PERSON7 the difference between the speed at which German and English speakers convey information.
+- German speakers talk at a faster pace than English speakers.
+- German dubbing is useful for online speech translation but not for movies.
+- PERSON2 used to be interested in shortening, but now she's not, because of the experience and the realization that the low latency model should output more than less, because it should commit to something and it should correct itself.
+- If you want to low latency, you have to PERSON7 joined at the end of the year.
+- He has some study which he started and it's not finished yet.
+- PERSON2 hates the idea of retranslating systems.
+- PERSON1 and PERSON2 discuss the issue of flicker flickering and how it affects human perception of information.
+- They discuss the motivation behind retranslating.
+- PERSON1 and PERSON2 discuss the pros and cons of speech to speech.
+- The idea behind retranslating is that there is a point where w you have to guess, right?
+- If the guess is correct, then it's great, but if it's not, then there is the flicker.
+- PERSON1 and PERSON2 discuss the pros and cons of live speech to text translation.
+- PERSON1 and PERSON2 discuss monotonous speech translation.
+- They discuss it at the IWSLT this year.
+
+
+Minuted by: Team Synapse

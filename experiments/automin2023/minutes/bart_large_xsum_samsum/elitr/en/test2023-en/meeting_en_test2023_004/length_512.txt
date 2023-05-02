@@ -1,0 +1,35 @@
+DATE : 2023-05-01
+ATTENDEES : PERSON1, PERSON2, PERSON3
+
+
+SUMMARY
+- PERSON1 is at the office today, in the office.
+- PERSON2 is waiting for the person who was supposed to join the group, but he didn't come.
+- The person who is supposed to do the annotator didn't do it, so they have to replan everything now.
+- PERSON1, PERSON2 and PERSON3 had a technical communication meeting.
+- According to the rules, their papers for special sessions should fill the same criteria as all other papers and the same timelines.
+- There is a satellite event for shared tasks.
+- It is independent of interspeech and PERSON1, PERSON2 and PERSON3 are going to do a shared task at Sick Dial.
+- The proposal for a statistical workshop this year was made in September, which is too early for them, and the next one in 2022, which would be too late for them.
+- They are PERSON3 explains to PERSON1 and PERSON2 how the workshop works.
+- The deadline for submitting the full papers of participants is February 28.
+- For the satelite event it's February 28, but before that, they have to submit the proposal any time as soon as possible and get endorsement.
+- If they accept them both to Sigdail and this interspe PERSON1, PERSON3 and PERSON2 are planning a workshop.
+- They need to find enough participants.
+- They have to take membership to submit the proposal.
+- PERSON1, PERSON3 and PERSON4 are going to a workshop.
+- They have to pay two, fourteen rows for institutional membership and make a website for their shared task.
+- They also have to study some satellite events that they got accepted to last year.
+- PERSON1, PERSON2, PERSON3 and PERSON4 are interested in the publication of their work in the journal Noise PROJECT2.
+- It was published in 1964.
+- PERSON2, PERSON3 and PERSON1 are going to attend a workshop organised by Sigdial.
+- The workshop is about machine translation corpus linguistics and morphologies in Texas, semantics.
+- It is not mentioned on the website.
+- The proceedings would be indexed with ethylanthology.
+- PERSON2 and PERSON3 are going to publish the conference proceedings from El Severe on January 15th.
+- They want to use PROJECT1 from Elsevier, but they don't know if it's free or if they charge for it.
+- It will get indexed in Cosmopile Google PERSON2 and PERSON3 will meet tomorrow to discuss the additional works they need to do for the satellite event.
+- PERSON3, PERSON1 and PERSON2 agree to do double work tomorrow.
+
+
+Minuted by: Team Synapse

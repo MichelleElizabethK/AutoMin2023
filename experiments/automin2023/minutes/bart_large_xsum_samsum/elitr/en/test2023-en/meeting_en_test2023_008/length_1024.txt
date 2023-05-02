@@ -1,0 +1,24 @@
+DATE : 2023-05-01
+ATTENDEES : PERSON1, PERSON2, PERSON3, PERSON4, PERSON6
+
+
+SUMMARY
+- PERSON3, PERSON4 and PERSON5 are working on a project.
+- The results are better than expected, but the automatic metrics are not good enough.
+- They are going to try adversarial evaluation.
+- PERSON6, PERSON4 and PERSON3 are trying to solve the problem of translation errors in their paper.
+- PERSON3, PERSON4 and PERSON6 are working on cross domain experiments.
+- They need the test set and the list of terms, which is basically bilingual vocabulary.
+- They also need to translate the abstracts from Portuguese to English.
+- PERSON6 is looking for a second list of the papers in Portuguese that can be used as training data for the evaluation.
+- He will contact a researcher in Brazil.
+- PERSON4 would like to make more work on the training data they have.
+- He will try to find some more difficult phonology, some maths terminology for, books for translation of math books into Czech.
+- There is a corpus of sentence transformations for English, but there is no reference data PERSON1 and PERSON2 are working on a sub-lease agreement between a tenant and a lessee.
+- They need to translate the document into Czech.
+- PERSON1, PERSON2, and PERSON4 are going to have a meeting next week, Monday, after the school, to discuss the data.
+- The data from the WMT PROJECT1 test set will be used for Bles core evaluation and for specific terms evaluation.
+- PERSON1, 2, 3, 4, 5, 6, 7, 8 and 9 are watching a game.
+
+
+Minuted by: Team Synapse

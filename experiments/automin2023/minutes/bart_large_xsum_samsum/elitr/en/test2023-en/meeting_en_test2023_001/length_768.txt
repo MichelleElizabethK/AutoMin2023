@@ -1,0 +1,52 @@
+DATE : 2023-05-01
+ATTENDEES : PERSON1, PERSON10, PERSON11, PERSON2, PERSON4, PERSON6, PERSON7, PERSON8
+
+
+SUMMARY
+- PERSON6 was in a call until the very last minute.
+- The transcripts for check are almost done.
+- One of the transcribers is working alone until December the 10th.
+- The other one is writing the question for the German subti – subtitle user study.
+- PERSON11 wants to train empty systems to do speech translation.
+- The meme project does offline subtitling.
+- It's slightly easier than what we do, but their mission translation is doing shortening because the data is shortening.
+- PERSON11 is interested in taking part in the project.
+- The only other candidates are students of PERSON1, who works halfway in Prague and halfway in Brno, and PERSON13 from the PROJECT1.
+- PERSON4 will work on the webpage for PROJECT2 tomorrow.
+- PERSON6, PERSON4 and PERSON8 are going to have a dry run of some past similar talks to PROJECT2 talks.
+- They are also going to do a test of the dataset for Monday seminar.
+- They will meet tomorrow in the afternoon, one or two in the Czech time PERSON4 has been working on adaptation, for the two domains.
+- PERSON8 is doing some ASR for the leader test set.
+- Some of the videos are not properly converted into 16 c format and some audio files are not working properly.
+- PERSON6, PERSON8 and PERSON11 are working on a test set.
+- They are having problems with conversion, of the file formats and with the recording of the video.
+- They want to run the evaluation on a later test set, but PERSON1 is busy and can't help.
+- PERSON8 will send the numbers for the data set to PERSON6 today.
+- PERSON4 is working on the adaptation for the two domains.
+- PERSON2 sent the files with the four words, the Watson, IBM and three kinds of Watson to PERSON6.
+- PERSON4 is not taking part PERSON4 and PERSON2 produced a long, word list.
+- The one with the phoneme to grapheme list is slightly better than the other models.
+- There is a lot of noise in the dictionary.
+- PERSON4 and PERSON2 need to work on it together.
+- PERSON2 is finishing training of a German ASR that may be used for time stamping on Libry Speech.
+- The training set contains around 300 hours of data, but there are some serious errors in the ASR output.
+- They will do the first test of this tomorrow at 1 PERSON6 wants to see the ASR numbers today and the improved numbers on Monday, when PERSON4 has the domain adaptation for those.
+- There are two ASR workers from K80, one of them is the nearest one, the other one is a normal one.
+- The decision on During the month of August, the MT models with the rainbow scores were better than the other MT models.
+- The rainbow workers had better scores.
+- Some of their files are bad, others are okay.
+- PERSON11's transcripts were processed incorrectly, so they don't have the right length.
+- The length is incorrect for most of the folders that he transcribed later.
+- He needs to change the converting command to sox.
+- PERSON1 will send the monolingual German text to PERSON2.
+- PERSON2 will prepare it and send it to PERSON1 by tomorrow.
+- The text is in the European domain.
+- The ASR is lower case.
+- There are curly brackets around the pronunciation and the last phoneme PERSON4 and PERSON2 are having problems with some phonemes in their language.
+- They are going to substitute one of them with another one.
+- PERSON2 asks PERSON4 to help him with translating his dictionary to CMU.
+- PERSON4 is too busy to help, but will do it tomorrow.
+- PERSON2 will be in touch with PERSON4 probably tomorrow.
+
+
+Minuted by: Team Synapse

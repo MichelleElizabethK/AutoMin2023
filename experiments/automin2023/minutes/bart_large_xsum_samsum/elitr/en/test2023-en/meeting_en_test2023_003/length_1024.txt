@@ -1,0 +1,37 @@
+DATE : 2023-05-01
+ATTENDEES : PERSON1, PERSON4, PERSON5
+
+
+SUMMARY
+- PERSON1, PERSON4, and PERSON5 are going to meet today.
+- The annotator has stopped working on the document.
+- The othersmin is probably moving to Canada.
+- PERSON4 will send a link to the agenda so that PERSON5 and PERSON1 can check if they are in the correct place.
+- PERSON5 and PERSON4 are working on a project to remove named entities from the collection of documents.
+- PERSON4 and PERSON5 are working on an annotating task.
+- There are many typos and mistakes in the document.
+- PERSON4 and PERSON5 are discussing how to preserve the identity of speakers and the names of conference chains.
+- PERSON5, PERSON4, PERSON7 and PERSON1 are working on the identification from the beginning of January.
+- They are worried that some named entity will leak into the data and they need to preserve the identities.
+- They need a skilled person in text processing to do the deidification PERSON5, PERSON4 and PERSON1 are discussing the procedure for the collection of data.
+- They agree to leave English, German, Czech, Romanian and other languages out of the collection.
+- They also agree to remove all personal data from the collection and to annotate the transcript PERSON4 and PERSON5 are working on two consent forms.
+- The first form is about collecting data and the second one is about publishing.
+- The consent forms are signed by 30% of participants.
+- PERSON4 and PERSON5 are going to prepare the special samples for every consent for the whole year.
+- They will also prepare a web page so that people can browse the data.
+- PERSON5, PERSON4 and PERSON1 are going to create a master sheet with the names of participants from the minutes of the meetings.
+- They will ask people for bug reports.
+- PERSON1, PERSON5 and PERSON4 are going to write the data deidentification from the participants by the end of February.
+- They need to have the data ready for them to browse by the mid of February at the latest.
+- PERSON1, PERSON5 and PERSON4 are going to send a list of potential participants to the Scientific Committee.
+- Some of them are students and others are system professors.
+- PERSON1, PERSON5 and PERSON4 are going to prepare a proposal for a project.
+- They need to submit it by January 7th or 8th.
+- They want to invite as many people as possible.
+- PERSON5 will come to ORGANIZATION2 at Thursday and will ask Jung Hun Chou and others if they will be the keynote speakers.
+- PERSON5 will send an e-mail in English to PERSON4.
+- They will meet this afternoon.
+
+
+Minuted by: Team Synapse

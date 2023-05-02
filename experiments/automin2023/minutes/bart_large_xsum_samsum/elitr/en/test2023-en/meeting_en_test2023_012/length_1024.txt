@@ -1,0 +1,38 @@
+DATE : 2023-05-01
+ATTENDEES : PERSON3, PERSON4, PERSON6, PERSON7
+
+
+SUMMARY
+- PERSON6 and PERSON4 are in a meeting.
+- PERSON3 will join them in about twenty minutes.
+- PERSON4 will share a video with them.
+- PERSON6 detests the TD ID of the keywoard extractor, because it gives bad results.
+- PERSON3 will have to move to the court as the paper submission deadline is on January 15th.
+- Interspeech special session is just like SIGDial, but it will be an integral part of the program and it will not run as a parallel session.
+- PERSON3, PERSON4, and PERSON7 are planning a project.
+- They want to create a programm commiteee to handle the review of the papers.
+- Interspeech is an option for them, but they are worried about the timing of the event.
+- They PERSON3, PERSON7 and PERSON4 agree that the deadline for papers for special session papers should be in March.
+- If they get accepted for the Interspeech satellite event, they should start preparing for that.
+- PERSON3 will apply for SIGDial proceedings.
+- Interspeech will do the proceedings of PBML.
+- PERSON3, PERSON7 and Misis PERSON9 need to apply for the ORGANIZATION7 membership.
+- They have to submit it by February twenty-eight.
+- It costs two hundred fourty euros for one year.
+- For a student member it's twenty euros.
+- For full PERSON3, PERSON6 and PERSON7 are going to Interspeech conference.
+- They need to make a proposal and prepare the website.
+- PERSON3, PERSON6 and PERSON7 are trying to learn from Arion how to improve their data.
+- PERSON3 will write to PERSON10 and ask him to make the data available to the people for the second round of consents in March.
+- The data has been processed only by you and your people, but now the data also has to go to the anonymisation.
+- PERSON3, PERSON7 and PERSON6 are working on a project.
+- PERSON3 needs to mute himself on one of the two devices.
+- PERSON6 needs to share his screen.
+- PERSON3 advises PERSON6 to use VIM instead of nano for summarizing documents.
+- PERSON3 suggests to contact the authors of the ORGANIZATION3 paper to double check if their implementation is correct.
+- PERSON3 wants to make a timeline for the data preparation and share it with PERSON7 and PERSON10.
+- Some files will not make it to the release.
+- The alignments are less important for the release than the transcripts.
+
+
+Minuted by: Team Synapse

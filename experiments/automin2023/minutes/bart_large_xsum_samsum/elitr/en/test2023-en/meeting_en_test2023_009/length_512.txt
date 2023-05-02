@@ -1,0 +1,47 @@
+DATE : 2023-05-01
+ATTENDEES : PERSON1, PERSON10, PERSON2, PERSON3, PERSON5, PERSON8
+
+
+SUMMARY
+- PERSON8, PERSON10 and PERSON3 wish each other happy new year.
+- PERSON8's pronunciation of Czech words is pretty good.
+- PERSON3's visa will be valid for half a year.
+- PERSON3 wants to come to the US before summer or during the holiday.
+- She doesn't have a fixed arrival date yet.
+- She will come in April.
+- If it needs to be earlier, it can be earlier.
+- PERSON8 and PERSON10 are waiting for the relevant data for the task.
+- They want to focus on the data set of PERSON12.
+- They will try to arrange a conference call with her.
+- PERSON8 is in Slovakia, moving to Prague tomorrow, going to the PCR test on Wednesday and waiting for the result until Thursday.
+- If the result is negative, they will meet on Friday in person or through Zoom.
+- The next week PERSON8 has a Hacathon on universal core PERSON10, PERSON8 and PERSON5 discuss the topic of encoders and their role in multi-source research.
+- PERSON10, PERSON2 and PERSON8 discuss how to represent the second input sentence in a document.
+- PERSON1, PERSON2, PERSON8 and PERSON10 are discussing a method for encoding two paraphrases of the same sentence.
+- The method is easy to test, but it doesn't work for everyone.
+- PERSON10 wants to make sure in the concatenation settings that there is a special token to distinguish between the source and the context of a sentence and the other sentence.
+- PERSON8 wants to limit experiments to only a single sentence and a single paraphrase.
+- PERSON1 joined the meeting late.
+- The top priority right now is getting the data set from PERSON12.
+- There is a DEMO deadline in on Friday the fifteenth of January, and then there is ACL at the end of the month.
+- There's an abstract submission a week before.
+- PERSON1, PERSON5, PERSON10 and PERSON3 are going to write a paper for the ASL conference.
+- There is a review deadline on the twentieth of the twelfth.
+- PERSON5 has already submitted the short paper.
+- PERSON1 is training a model to train an English- PERSON3 is preparing the data sets for the PROJECT2 experiments.
+- The project will focus on English-Portugese and comprehension linguistics.
+- It will also focus on the constraints for terminology.
+- PERSON1, PERSON11 and PERSON3 want to collect more data and create dedicated data sets for Portugese within their PROJECT2 asset.
+- They also want to develop a dedicated English to Portugese model.
+- PERSON3 will check if there is a conference in NLP or comprehension linguistics in Portuguese.
+- She will share the link for the new paper with PERSON3.
+- PERSON3 will soon put all the results into the paper.
+- The method works, but it's not the complete solution.
+- PERSON5 shared the link to the breakdown analysis with PERSON1.
+- PERSON1, PERSON5, PERSON3, PERSON8 and PERSON10 are trying to find the link from the agenda.
+- It's not working.
+- PERSON10 will fix the formatic.
+- There will be a call on Thursday at 4 CET.
+
+
+Minuted by: Team Synapse

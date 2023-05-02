@@ -1,0 +1,31 @@
+DATE : 2023-05-01
+ATTENDEES : PERSON1, PERSON2, PERSON3, PERSON4, PERSON6
+
+
+SUMMARY
+- PERSON3, PERSON4 and PERSON5 are discussing the ACL paper.
+- They discuss the reproducibility checklist and how to improve it.
+- They also discuss adversarial evaluation.
+- PERSON4, PERSON3 and PERSON6 are trying to work out how to improve the performance of the paracrawl model.
+- PERSON4 and PERSON3 are trying to solve the problem of mismatch.
+- The system makes some general translation errors, but it doesn't make any specific errors related to the specific problem.
+- The problem with mismatch is that the output is correctly inflected, but the context is different.
+- PERSON3, PERSON4, and PERSON6 are working on a project to improve the performance of the Portuguese language model.
+- PERSON6 needs to check the training data for the evaluation.
+- He will ask another researcher in Brazil, who used to work in Portugal, if she knows some papers in Portuguese.
+- PERSON6 is looking for resources for computation linguistics in Portugal.
+- PERSON1 suggests looking for university master thesis repositories and books for translation of math books into Czech.
+- PERSON1, Dusan and PERSON3 want to create a test set that would cover a particular sub-part of PROJECT1.
+- PERSON1, PERSON3 and PERSON2 are working on a project.
+- The project is organized according to indices.
+- There is no index for, this domain specificity.
+- There are some non native, spoken language documents that should be included in the index.
+- They need to translate some PERSON1 and PERSON2 are working on a sub-lease agreement between a tenant and a lessee.
+- The agreement is based on some tax-related documents.
+- The documents are text only documents and they contain some technical terminology.
+- There are no reference translations, but there are sentences with PERSON4, PERSON3, PERSON6, and PERSON1 are going to meet next week to discuss the data.
+- PERSON3: Okay, by.
+- PERSON4: Portugalec-Joao, PERSON5: Ondrej Bojar, PERSON6: Michal / Misa, PERSON7: Lucia Brazilka, PERSON8: Sylvie, PROJECT1: Bergamot, PROJECT2
+
+
+Minuted by: Team Synapse

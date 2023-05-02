@@ -1,0 +1,17 @@
+DATE : 2023-05-01
+ATTENDEES : PERSON2, PERSON4, PERSON5, PERSON6, PERSON7, PERSON9
+
+
+SUMMARY
+- PERSON9, PERSON7, PERSON4, PERSON5 and PERSON2 are going to cancel the meeting on 21st and 28th of December.
+- They will review one of the deliverables.
+- On the 21st and 28th most of the people will have holidays or days off so they can cancel the meetings.
+- The next one will be on the 4th of January.
+- PERSON9 is preparing data for the negative constraints in the input.
+- PERSON5 is working on a side project PERSON2 is working on a system that can only process one sentence at a time.
+- He's waiting on the dataset reprocessing from PERSON9.
+- PERSON2, PERSON3, PERSON4, PERSON7 and PERSON8 are going to meet on Monday to discuss the analysis they are working on.
+- The deadline for the deliverable is the end of the year, so they should get the full version on the 21st.
+
+
+Minuted by: Team Synapse

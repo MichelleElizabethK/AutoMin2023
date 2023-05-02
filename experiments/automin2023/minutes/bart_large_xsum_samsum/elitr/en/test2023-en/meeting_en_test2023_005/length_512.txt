@@ -1,0 +1,68 @@
+DATE : 2023-05-01
+ATTENDEES : PERSON1, PERSON12, PERSON15, PERSON18, PERSON2, PERSON4, PERSON8, PERSON9
+
+
+SUMMARY
+- PERSON2 and PERSON9 are in the last call before the Christmas.
+- They want to discuss their experience from running the sessions, the PROJECT5 session that they had and PROJECT4.
+- The report of multilingual machine translations is almost complete and is ready for review.
+- The payment PERSON15 is going to check if there is a table with the details of the PROJECT2 test set.
+- There is no table.
+- PERSON8 has not completed his part yet, but will do it today.
+- PERSON2 will help PERSON17 and push PERSON17 to have the numbers there within this week, so that she can review it early next week.
+- PERSON5 has received an almost complete version with sections for ASR, MT, NSLT, but not for PROJECT2.
+- PERSON9 wants to know if the delbls are in good shape.
+- PERSON2 will make sure to submit them before the end of the year, on the New Year's Eve at the latest.
+- PERSON12 is reporting some minor bugs with the ASR system.
+- The training is PERSON2 and PERSON18 are going to do English to five models 9 times to cover the 43 target languages.
+- Before starting to train the models, PERSON16 is going to evaluate them.
+- PERSON2 will ask PERSON17 or PERSON16 to synchronize and run the models as, as workers.
+- ORGANIZATION3 does not have to deploy ten workers, if all of them are based on the same multilingual model.
+- There is no possibility to let a worker provide more than one finger PERSON2, PERSON6 and PERSON18 agree on saving for the partner's resources.
+- ORGANIZATION3 will deploy the two to five system as a pair of workers where one of them goes from English into five, and the other goes from German into four.
+- PERSON18 wants to know if all the languages will be finished in some form before the end of the year.
+- PERSON2 and PERSON15 want to make sure that the table by PERSON17 contains the translation for English into four languages and German into four.
+- PERSON18 made a fix to the text client to improve the ASR system and improve models from ORGANIZATION3.
+- The next milestone is the improve spoke language translation prototype.
+- PERSON1 and PERSON2 are going to attend the trade fair of the students companies in March.
+- There will be a competition 90 seconds in a lift and a test or set of speeches of non-native speakers who use English.
+- They want to record them and then prepare another, test PERSON1 wants to focus on the Clearest voice competition at the fair.
+- PERSON2 would like to limit it to the dissemination into high school students.
+- The next important session is going to take place in mid-April, not in May as originally planned.
+- It's to have the management bits of the ORGANIZATION5 completed, and the other part of the project is the transition.
+- PERSON5 needs to figure out the platform, Next year PROJECT5 will probably take place towards the end of the year.
+- It will be similar to PROJECT5 2021, except that they will try to go public and make the system, system, used by others.
+- They need to record feedback and measure impact.
+- There will be many smaller PERSON2 and her colleagues are planning a test session for them.
+- They will try to do domain adaptation.
+- On the evening of the day, colleagues are putting together the premier of a computer-written theater play.
+- It will be in Czech and the premier will be interpreted with a human The semester is finishing, so there will be fewer Monday seminars.
+- There will be two big test sessions, PROJECT5 and PROJECT4, probably in December and ORGANIZATION5 congress in January.
+- The PROJECT5 2020 event was held.
+- People need to be ready for another bomb excavation and other things and have worker rounds.
+- They need to arrive at the session at a quarter past 8 to make sure that everything is running properly.
+- The recording of the sessions is also important.
+- The PROJECT4 and PROJECT5 2020 were very bad at recording the sessions.
+- Some of the recordings were without sound.
+- They need to nominate someone who will be responsible for making recordings of the important sessions.
+- PERSON2 asks for volunteers to be responsible for recording for the holocaust survivors conference, the Malach test session and the theater play written by GPT2 and through.
+- PERSON4, PERSON2 and PERSON9 are planning a mid-January, technical call to discuss how to prepare a project for PROJECT2.
+- PERSON2, PERSON4, PERSON15, PERSON5, PERSON2, and PERSON18 are going to meet to discuss how to improve the system.
+- PERSON2, PERSON4 and PERSON18 are going to use a GPU instead of a CPU in PROJECT3.
+- PERSON2 and PERSON4 want to test the dockerized systems on their hardware.
+- They want to do it before the Metaforum, but it's not a priority for the project.
+- PERSON2 will ask PERSON7 to do a poll about the complexity of PROJECT2.
+- PERSON4 wants to know more about simultaneous SLT and how it could be made better.
+- PERSON4 would like to know how to improve their models for simultaneous SLT.
+- They don't have a test set, so they have to wait for Dominik to prepare one.
+- PERSON2, PERSON4 and their research partners in the consortium were asked to collaborate more.
+- They will try to plan a paper with a particle experiment, either the weight K versus whatever the by-dual people did as well as the minimum translation units.
+- The ORGANIZ PERSON18, PERSON2 and PERSON4 want to do an experiment on simultaneous SLT.
+- They have the text translation of the verbatim transcript and the real transcript of the interpreter.
+- They also have the data to train a data augmentation system to augment normal text translation PERSON2, PERSON18, PERSON4, me and possibly others will meet from the first week of January to create a subteam within the project.
+- PERSON2 will set up a doodle poll for finding a regular slot in the week of January.
+- PERSON4, PERSON18, PERSON12 and PERSON2 will start regular weekly calls.
+- PERSON12 is going to compile first betaversion of the corpus and pass it to PERSON4 and PERSON2 will get in touch with PERSON16 and update him about the ASR.
+
+
+Minuted by: Team Synapse

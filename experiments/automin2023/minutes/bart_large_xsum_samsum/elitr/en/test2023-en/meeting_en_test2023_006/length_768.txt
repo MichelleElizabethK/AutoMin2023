@@ -1,0 +1,55 @@
+DATE : 2023-05-01
+ATTENDEES : PERSON11, PERSON14, PERSON16, PERSON17, PERSON19, PERSON2, PERSON4, PERSON6, PERSON8
+
+
+SUMMARY
+- PERSON19 is starting to run the experiments that PERSON11 told him about.
+- The experiments are to complete the GPU test and to know which version of PROJECT2 works and it trains on floating point.
+- They are doing it in F P sixteen, in the half precision.
+- They need PERSON17, PERSON11 and PERSON19 are going to have a separate call tomorrow afternoon at 2 PM to discuss the multi-source research.
+- PERSON17 will send a link to the ORGANIZATION4 calendar.
+- PERSON9 is leaving and will probably be late for the call.
+- He will finish the language model checking of ASR outputs.
+- Once this is done, it will be integrated on PERSON5 and PERSON8.
+- PERSON17 wants to make sure that the profanity filtering is integrated and tested well.
+- It was tested on logs, but now it's time to test it on the live pipelines.
+- PERSON4 can download the files to his local machine and use PROJECT10, but he prefers to PERSON8 will have a call with PERSON9 later today.
+- They will discuss profanity filtering and spasm detection and removal.
+- They also need to talk about the PROJECT5 Czech ASR.
+- PERSON9 has already started preparing for the upcoming Monday seminar.
+- The speaker will be an Italian guy, famous one, the author of PROJECT6.
+- He will talk about verb frames and domain adaptation.
+- On Monday we will hear the Italian English and yesterday we had a chance to hear PERSON9 will be leaving the team.
+- The system needs users and the more diverse users, the better, because it will be robust to the different conditions of the users.
+- Yesterday, the pipeline had to be started by PERSON9 and PERSON5 and they failed, so the system is fragile PERSON16, PERSON5, PERSON16 and PERSON8 will have a call with PERSON5 to discuss how to make the configuration cleaner.
+- PERSON6, PERSON16 and PERSON17 are discussing the multi-lingual model.
+- They discuss whether it's better to run it with fewer languages enabled or with more languages.
+- PERSON6, PERSON17 and PERSON8 are discussing technical issues with PROJECT2.
+- PERSON16 was working with PROJECT2 and she had several problems with path conflicts.
+- She needs to replace the wrong paths with the correct ones.
+- She is working on shortening and extending the models.
+- She has issues with storage on Mala Strana and she is running out of PERSON6 wants to know how much space there is available on Troja.
+- ORGANIZATION97 takes a lot of data.
+- ORGANIZATION2 takes 50 gigabytes.
+- ORGANIZATION12 wants PERSON12 to be on the call tomorrow at two.
+- PERSON16 will have called at half past three with PERSON11 and PERSON19.
+- There is an Indian guy in Saarbrücken who is interested in joining the group.
+- He has almost completed his masters' thesis based on neural machine translation.
+- He wants to apply for PhD PERSON8 is working on a project.
+- He has a call at two thirty Prague time with PERSON4 to discuss the capability of downloading files.
+- After that, he will have a call with PERSON2 to discuss all the things that he put in the script and he will write it into PERSON17 learned from the last week sessions that they need to make sure they have the important people around the globe available for important sessions.
+- They need to know which components they are using and who are the people behind them.
+- They also need to have a fallback solution if one of PERSON17 is looking for someone to work on the non-native accent thing.
+- PERSON9 is already starting the data collection, but she would like to see the benefit of the domain adaptation in the PROJECT5 set up.
+- PERSON17, PERSON8 and PERSON6 are working on a project.
+- One of their suggestions is to have a fully neural ASR and do experiments on finetuning.
+- PERSON14's friend will help with the profanity and then the positive speak.
+- The project coordinator at PROJECT1 doesn't have capacity to include African languages in the project.
+- There was a competition for people to make models to detect tweets or like sentences which were harmful in some ways.
+- The setting is slightly different from the competitions and also the difference is that we do not expect the speakers to use abusive language and instead we expect them to say only the nice things.
+- PERSON6, PERSON13, PERSON14, PERSON17, PERSON8 and PERSON10 are looking for students to work on shortening MT.
+- They will meet again on the 7th of January.
+- PERSON19 thanks PERSON19 for the conversation.
+
+
+Minuted by: Team Synapse

@@ -1,0 +1,65 @@
+DATE : 2023-05-01
+ATTENDEES : PERSON3, PERSON4, PERSON6, PERSON7
+
+
+SUMMARY
+- PERSON6 is going to share a video with PERSON4 and PERSON3.
+- PERSON6 detests the TD ID for keyboard extractor.
+- Felix has written a text summariser based on a meeting data.
+- The summarizer is not good and gives horrible results.
+- PERSON6, PERSON3 and PERSON4 agree that the task is very difficult.
+- PERSON7 thinks they should pre-process the data.
+- PERSON3 was at lunch and the e-mail was delayed, so he had to go to the canteen instead of the court.
+- The submission deadline for SIG Dial is January 15th, but all the other dates are not published yet.
+- The notification comes after one month.
+- PERSON3, PERSON7 and PERSON4 are going to have a special session in SIGDial.
+- The paper submission deadline for SIGDial is earlier than for Interspeech.
+- The papers that would be submitted in their shared task would be reviewed by the program committee of SIGDial, PERSON3, PERSON4 and PERSON7 are going to a conference in July.
+- The conference was held in September, the paper submission was in May.
+- They need to create a programm commiteee to handle the review of the papers.
+- In the past, MT marath PERSON3, PERSON4 and PERSON7 are worried about the timing of the Interspeech special session.
+- PERSON3 and PERSON7 agree that the deadline for papers for special session papers should be in March instead of June.
+- Interspeech satellite event is in June, so they need to prepare for that.
+- PERSON4 doesn't want to take part in MT marathons.
+- PERSON3 thinks the later time is more important.
+- PERSON7 thinks inviting the program committee is better.
+- PERSON7 is worried about Interspeech.
+- If they don't get into the program, they will apply for SIGDial.
+- They can create their own separate proceedings.
+- If someone doesn't make it in time for the deadline, they should go through the SIGDial submission deadline.
+- If PERSON3 wants Interspeech and Interespe to have some of the papers submitted by the March deadline for the Interpseech proceedings and some of them for the PBML proceedings.
+- PERSON3 and PERSON7 have to prepare the proposal for both Interspeech and SIGDial.
+- They need to apply for the ORGANIZATION7 membership, which costs twenty euros.
+- PERSON7 and PERSON3 are going to apply for a student registration for ORGANIZATION7.
+- They need to ask if it's required that all the organizations have a member ship or not.
+- PERSON3 and PERSON7 are going to attend Interspeech conference.
+- The conference fee is twenty euros for a student member for one year.
+- For institutional member package A it is two fourty euros.
+- If one has the membership for ORGANIZATION7, they will get PERSON3 asks PERSON7 to put the student versus non-student fee for Interspeech in the email to PERSON1.
+- PERSON1, PERSON2, PERSON3, PERSON4, PERSON5 and PERSON6 are going to ask for preferred type of membership at ORGANIZATION5 and ask for the best set up of web page before browsing for some of the projects that they already have.
+- PERSON7 PERSON6 will run the code from the PERSON8 outputs to check if they are decent.
+- If they are not, she will contact the KER at linda.
+- PERSON3 is opening the document by PERSON6 the progress report.
+- Most of the codes for the evaluation and for the automatic summarization the methods you mention are already there in one paper implemented.
+- PERSON7 also has implemented it and he will send the summaries in the same email.
+- PERSON3 and PERSON4 are on a conference call.
+- PERSON10 is not attending most of the calls.
+- They need to have a lot of data available in January and all the data that they want available in March, but they need to show it to the people for the second round There is a lot of information in the documents.
+- People in the building have to split the meetings into three parts: the training part, the development part and the final test part.
+- They have to prepare their own automatic metric.
+- The gold standard metric is the one originated by anotators PERSON7 will prepare a set of metrics from the roots.
+- He will prepare at least two lexical and two semantic level metrics.
+- PERSON6 will run the summarization methods on his machine.
+- PERSON3, PERSON6 and PERSON7 are doing the evaluation of two other meetings.
+- PERSON3 asks them to mute themselves on one of the two devices.
+- PERSON3 from the ORGANIZATION3 paper asks PERSON6 to send the paper's authors an e-mail to double check if their implementation delivers the same results as the paper.
+- PERSON3 asks PERSON6 to contact a PhD student who has a lot of papers into meeting summarization.
+- PERSON3 wants PERSON4 to contact them and invite them for the shared task.
+- PERSON3 wants to make a timeline for the data preparation and share it with PERSON7 and PERSON10.
+- Some files will probably not make it to the release.
+- Anonymise with the help of annotators and then show for the second consent.
+- The alignments are less important for PERSON3 and PERSON4 agree not to release any alignments.
+- They will use it for evaluation.
+
+
+Minuted by: Team Synapse

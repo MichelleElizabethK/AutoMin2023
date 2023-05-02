@@ -1,0 +1,38 @@
+DATE : 2023-05-01
+ATTENDEES : PERSON11, PERSON14, PERSON16, PERSON17, PERSON19, PERSON2, PERSON4, PERSON6, PERSON8
+
+
+SUMMARY
+- PERSON17, PERSON14, PERSON2, PERSON9, PERSON11, PERSON19, and some other people are trying to solve some problems with their experiments.
+- They need to complete the GPU test and to know which version of PROJECT2 really works and it trains on floating point PERSON17 and PERSON11 will have a separate call tomorrow afternoon at 3 PM.
+- They will talk about the advantages and disadvantages of using a multi-source approach.
+- PERSON8 wants to make sure the profanity filtering is integrated and tested well.
+- He wants to explain to PERSON4 how to do it.
+- PERSON8 is having a call with PERSON9 later today.
+- PERSON14 is preparing for the upcoming Monday seminar with an Italian speaker.
+- PERSON9 will be leaving the team soon, so they need to record the experience from the PROJECT1 and S G one sessions.
+- There was a problem with the ASR and the pipeline.
+- It was started by PERSON9 and PERSON5, but it didn't work properly.
+- PERSON17, PERSON5, PERSON16 and PERSON8 are unhappy with the fact that there is a separate file for PERSON6's worker.
+- They want PERSON5 to set up a call with him and discuss how to make the configuration cleaner.
+- PERSON6 suggests limiting the number of languages PERSON16, PERSON6, PERSON17, PERSON8 and PERSON19 are working on a project.
+- There are problems with the model.
+- It's slow, it wasn't trained with the fine tunings that PERSON15 used, and it was basically trained using tensor to tensor PERSON16 was working with PROJECT2.
+- There were some problems with path conflicts.
+- PERSON15 sent some scripts with absolute paths on their systems and they need to replace them with their own paths.
+- PERSON6 is working on the shortening and extending models.
+- He is running out of PERSON17 will have a call with PERSON19 and PERSON11 tomorrow at 2 pm.
+- PERSON6 will be on the call as well.
+- PERSON17, PERSON2, PERSON8 and PERSON4 are meeting tomorrow at 2 pm to discuss the evaluation of all systems, all files in the test set.
+- PERSON2 will be the person who will pick up the ASR from the script.
+- PERSON17, PERSON9, PERSON14 and PERSON8 are going to work on the domain adaptation for the PERSON18 toolkit this Monday.
+- PERSON17, PERSON8, PERSON6, and PERSON14 are working on a project.
+- They want to develop a fully neural ASR and do experiments on finetuning.
+- PERSON14's friend will help with the profanity and then the positive speak.
+- PERSON8, PERSON13, PERSON14, PERSON17 and PERSON6 are discussing the task of profanity filtering and shortening MT.
+- PERSON17 wants to come to Prague.
+- They will have one more Thursday call next week and then it will be Christmas Day and New Year's Eve.
+- On the 7th of January they will meet again.
+
+
+Minuted by: Team Synapse

@@ -1,0 +1,35 @@
+DATE : 2023-05-01
+ATTENDEES : PERSON2, PERSON4, PERSON5, PERSON6, PERSON7, PERSON9
+
+
+SUMMARY
+- PERSON9 is in the Czech Republic.
+- People don't work until 24th of December.
+- There are holidays until 24, 25 and 26.
+- PERSON7 is on vacation.
+- PERSON2 is waiting for PERSON2.
+- PERSON2, PERSON7, PERSON9 and PERSON4 are on vacation.
+- The meeting on 21st and 28th will be cancelled.
+- The partners didn't bother them with paraphrasing or overstating the work.
+- They will review one of the deliverables.
+- PERSON7 wants to cancel the meetings on 21st and 28th as most of them will have holidays or days off.
+- The next one will be on the 4th of January.
+- PERSON5 is still working on the alignment in PCEDT.
+- PERSON9 is preparing data for the negative constraints in order to train the model for negative constraints.
+- He has the test set of?
+- but needs to train set as well.
+- He's using the Marion implementation of negative constraints to test it.
+- PERSON2 is not sure about the batching, because all the sentences were separate in the files either way.
+- He didn't implement using more than one sentences profile.
+- The more efficient method was appending the constraints.
+- PERSON2 is waiting for the dataset reprocessing from PERSON9.
+- The code is too complicated for the positive constraints.
+- For the negative constraints, PERSON2 used a simple baseline method and added some bonus to the soft pocks for the tokens in each step.
+- PERSON2, PERSON7, PERSON4 and PERSON5 are waiting for the first complete version of the analysis.
+- The deadline for the deliverable to be submitted is the end of the year.
+- PERSON4 will send PROJECT2 an e-mail with a link to submit a PDF file before the New Year's Eve.
+- PERSON7 will check on 21st.
+- PERSON4 and PERSON6 will stay here for a little while for the outings.
+
+
+Minuted by: Team Synapse
