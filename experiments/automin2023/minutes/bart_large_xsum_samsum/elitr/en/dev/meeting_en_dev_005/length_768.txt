@@ -1,0 +1,28 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON11, PERSON12, PERSON14, PERSON17, PERSON2, PERSON5, PERSON7
+
+
+SUMMARY
+- PERSON14, PERSON8, PERSON2, PERSON7, PERSON9 and PERSON1 are in a meeting.
+- They are trying to record the call to see if they are able to summarize it automatically.
+- PERSON9 will give her presentation on PROJECT2 on the Monday seminar on the On the 12th of February there will be a dry run and then the final workshop.
+- There will be non-native speakers presenting in English.
+- There are two events which have the same type of adaptation: NLP and PROJECT2 on 12th and PRO PROJECT2 on the 17 PERSON11 is working on the collection is business for English and OTHER3.
+- He needs to clean all the data, but member PERSON6 was busy with exams, so he can't help.
+- He will use the data as a language model and he will extract the terms from it.
+- PERSON14, PERSON10 and PERSON10 are working on the paper for exceptement.
+- PERSON17 has finished the evaluation framework and it's ready.
+- PERSON2 is on the call.
+- The recorded from MI Corporas has time stamps for word, so they should be able to convert that into shorter segments.
+- There is one recording translated into English only in LOCATION1 and OTHER3.
+- PERSON7 has been working on the adaptation of czech ASR for the PERSON4 talk that took place yesterday.
+- He was happy with the result.
+- He is working on a next version of the ASR system that should be trained on even more data.
+- PERSON2 needs feedback from PERSON13 on how the segmenter works.
+- There are some problems with it.
+- The speaker diarization should be done on speaker separately and the windows can overlap to speakers.
+- The team needs to work on the byplans to be wilow cashing PERSON5 is waiting for a virtual machine for the paraphrasing server.
+- PERSON14: LOCATION4.
+
+
+Minuted by: Team Synapse

@@ -1,0 +1,81 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON11, PERSON3, PERSON6, PERSON7, PERSON9
+
+
+SUMMARY
+- The left speaker is to the right.
+- If they want to screen a film or something, it will be strange because the person will be walking across the street and the sound will go in the other direction.
+- People will probably meet in LOCATION4.
+- On Thursday and Friday, PERSON11 has a vacation PERSON11 wants to do something on Thursday.
+- PERSON6 has something planned for Thursday.
+- The deadline for the project has been set for today.
+- The principal investigator of the grant hasn't arrived yet.
+- PERSON9 submitted the camera diversion, PROJECT12.
+- The project needs to have a PERSON6, PERSON7, PERSON5 and PERSON9 are going to send the whole book to PERSON11 so that he can start looking for reviewers.
+- PERSON6 wants to send the book to PERSON5 in the next week or so.
+- The deadline is at the end of June.
+- PERSON9 thinks it can be a part of the book, but it has to be all the chapters.
+- PERSON6 wants everyone to focus on book b There is a callish calling deadline on July the first.
+- PERSON7 is not planning to submit anything.
+- PERSON6 would like to submit the paper to PROJECT11 and the paper they haven't sent to ORGANIZATION3 to the deadline at the end of June.
+- PERSON9 PERSON11, PERSON6 and PERSON9 are going to meet on July 13th or 14th to discuss the Black box deadline.
+- PERSON6, PERSON9 and PERSON7 are going to have a meeting on the Thirteenth of July.
+- There will be regular meetings on Tuesdays from June to July.
+- PERSON6, PERSON9 and PERSON3 will have a meeting on the thirteenth.
+- There is a deadline for submitting a paper to calling, but nobody submits anything.
+- PERSON6 suggests to finish writing the book by the end of June and have the meeting in the middle of June.
+- The official deadline for the book is July, but it can be postponed like the grant, all the outcomes of the grant can be post-pasted from the end PERSON6 would like to submit the book officially the end of July.
+- PERSON9 and PERSON11 think it's possible to use the money from the project for some conferences that happen in the first half of 2021, but it depends on how they assess it.
+- PERSON6, PERSON9, PERSON11 and PERSON10 will ask the organiser to postpone the conference.
+- They will use the money from the postponement to pay for some conferences next year.
+- The organiser is the lady that sits in PERSON12's room.
+- PERSON6 thinks they will have all the papers they promised by the end of this year.
+- PERSON3 sent PERSON6 the visualisations of the PROJECT9 metrices and types.
+- PERSON6 is working on the attention, attention metrices.
+- PERSON6 and PERSON7 are discussing the differences between their balustrades paper and the one by PERSON9.
+- There was one parameter that was changed in the neural machine translation test.
+- The heat maps look different in PROJECT9 and PROJECT1.
+- PERSON6, PERSON3 and PERSON7 discuss this.
+- PERSON6 is working on a paper on attention head structure.
+- He would like to add more details to it, but at the same time keep it simple.
+- PERSON6's work on the book went better.
+- The book is now one hundred and thirty pages long.
+- PERSON11 wrote a few paragraphs last week, which is the most since he started.
+- PERSON11 will focus on visualisations of embeddings and the new generative language models.
+- PERSON11 will write a summary of where her chapter is going and explain to PERSON7 what content is missing.
+- PERSON11 wants to talk about the data and what visualisation she wants to do, but it will be better to let the discussion to ORGANIZATION7 PERSON11 wants to go through at least the first two articles of the chapter three and rewrite it to make sense.
+- PERSON9 knows how to do the zero, zero section.
+- PERSON6 and PERSON7 know how to set the section counter to minus one and then at the section PERSON7 explains to PERSON9 the structure of the chapters.
+- PERSON9 revises the introduction and changes the titles of sections and subsections.
+- According to PERSON9, it went to go over the individual linguistic abstractions and see how they are captured.
+- Now it's structured according to the individual papers and it's reorganizing the information that's already there.
+- There are more works that should be there and there are some that are PERSON9 and PERSON7 discuss semantics and the importance of coreference resolution in LOCATION3.
+- They also discuss whether part of speech tags are syntax or morphology.
+- PERSON9 wants to re-split syntax into smaller sections.
+- PERSON6 thinks it's better to keep each section as a separate subsection.
+- PERSON9 has a typic problem.
+- He covers Morphology, Syntax, Context and the effect of pre-training task.
+- PERSON3 has some visualisation but it doesn't fit into the linguistic abstractions.
+- PERSON9 has a lot of work to do.
+- Some of the sections will be cancelled.
+- They want to put the multilinguality paper that PERSON7 and PERSON6 submitted to PROJECT4 somewhere.
+- They also want to report on some information from PERSON9's PROJECT12 paper PERSON9, PERSON7 and PERSON6 want to put the hidden states of multilingual PROJECT9 into the chapter.
+- They also want to copy the related works from the paper and remove the sentence level representations.
+- PERSON9 will organize the missing information and organize it into a readable way.
+- PERSON6 will send it to PERSON5 on Thursday.
+- PERSON3 is writing a survey about syntax in neural networks.
+- He should submit it to PROJECT10 next week.
+- He can share the survey visualisation with PERSON3 has done 4 comparisons of different papers on the task of predicting part of speech, type.
+- Each dot corresponds to one pair of results from one paper.
+- Machine translation is better than language models.
+- PERSON3, PERSON6 and PERSON9 are writing papers about machine translation and part of speech.
+- PERSON6 is not good at visualising.
+- PERSON7 suggests generating them in PGF.
+- PERSON6 has one image like this and it's in the book repository.
+- PERSON7 shows a Python script that generates a text file.
+- The file is in a book repository.
+- After importing Matplotlib and saving it with PGF, it is generated in LaTeX.
+- Next week, PERSON6 and PERSON9 will update their scripts.
+
+
+Minuted by: Team Synapse

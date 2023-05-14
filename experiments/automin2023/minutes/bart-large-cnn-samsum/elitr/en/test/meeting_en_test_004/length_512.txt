@@ -1,0 +1,85 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON13, PERSON14, PERSON3, PERSON7
+
+
+SUMMARY
+- PERSON10, PERSON7, PERSON14, PERSON15, PERSON6, PERSON8 and PERSON4 are going to have a conference call about ORGANIZATION2 training.
+- The call is being recorded and there is no way to switch it off, so if you were not happy with the recording, you would have to choose a different platform.
+- PERSON10 wants to know if there is a text only client or text only version of the presentation platform that could be useful for connecting to other unexpected ways of presenting.
+- Last Friday, they tested at ORGANIZATION1 premises.
+- There will be a real video mixer available for the three days or two days of the workshop at LOCATION1.
+- PERSON13, PERSON10, PERSON7 and PERSON14 are working on a project.
+- They need to create a text-only pipeline to test the pipeline.
+- They will use text to text client and text worker to do the testing.
+- The text-to-text client works with Czech machine translation but there is a bug in the first sentence.
+- PERSON14 is working on a problem with the KT translation platform.
+- It's meant to be run with the continuous input stream.
+- It does not handle the batch the batch example very well.
+- Fixing it will require fixing the ASR, the segmentation and the MT from the same time.
+- Only one person is left.
+- PERSON3, PERSON14, PERSON6 and PERSON10 are working together this week to find better workarounds for ORGANIZATION5's batch processing mode.
+- The main priority is to have the online mode working.
+- PERSON5 needs to test machine translation by looking at the output of the online ASR.
+- PERSON10, PERSON6, PERSON14 and PERSON5 are going to use ASR to test the segmentation of the mission translation.
+- They will use the text only client for the offline ASR, and the ASR worker will just be their ASR.
+- PERSON13 will run a command line to test the integration between the ASR and the mediator.
+- The project1 part of the integration is working.
+- PERSON6 will process the audio recordings in an offline mode and send them to a mediator, so that they can be translated into text.
+- PERSON10 is worried about the integration of online ASR and machine translation system.
+- PERSON7 says it's difficult to get lots of lots of ASR data.
+- PERSON14 will send PERSON10 some samples from the actual translator to check the quality of the machine translation.
+- PERSON10, PERSON13 and PERSON14 have problems with the quality of the audio.
+- They need to update and improve the segmentation.
+- PERSON14 will send the TED files with the transcript and the translations to ORIZATION5 and PERSON5 will send them to PERSON5.
+- PERSON6 will test the PROJECT1 worker.
+- PERSON10 is trying to set up the microphone level.
+- The chat is filling up with messages but no ASR worker is available.
+- The debugging of the document downloading needs to be done very quickly.
+- The text client for CTM to TXT is needed to evaluate the hypothesis.
+- PERSON7's text to text client didn't work with batch mode.
+- The segmentation worker shares a lot of the code with MT worker.
+- The text client for the MT worker will probably have the same problem.
+- The project1 worker expects already the text, so the segmented output is not reliable to debug.
+- The segmentation workers in ORGANIZATION5 don't work with the CTM client.
+- If someone needs to test the machine translation, they have to rely on some ASR worker being available.
+- ORGANIZATION5 will try to fix the problem before next Friday.
+- PERSON14 wants to have a more directed bug-buggling session.
+- The problem is that after a session is completed, the worker still believes it's part of a session, and does not accept and is registered as such in the mediator.
+- The only common link that the worker and the client share is the audio client.
+- The ASR workers are registered as non-ideal even when they have finished their jobs.
+- The ASR output in chat does not insert any tags other than words.
+- The segmentation worker should remove these tags.
+- The ORGANIZATION2 platform mediator performs some kind of processing.
+- The presentation platform handles the text as it comes out of the segmentor.
+- PERSON10 and PERSON14 need to reverse engineer the system to make sure everything works as it's described in the SLT ORGANIZATION5.
+- The segmentation worker is a sequence labeling-Labels each word with either opf insert coma or insert full stop or with capitalize, drop or with punctuation.
+- The train labourer model is a trained model.
+- PERSON10, PERSON7, PERSON5, PERSON13 and PERSON15 will meet next week to discuss ORGANIZATION5 segmentation and MT fix a bug.
+- They will do PROJECT1 test next week.
+- PERSON7 has access to the Github account of PERSON5.
+- Everybody will be speaking their non-native English.
+- They will have four cabins with interpreters, students of interpretation, and will have one floor signal, one re-speaker into Czech and one into German.
+- The presentation platform will receive all the streams.
+- They need to decide online which of these streams is the best set up.
+- PERSON10 and PERSON3 discuss how to solve the problem of the presentation platform.
+- The fallback solution is to have a combinatory explosion of all the possible match matching path.
+- The presentation platform would keep checking for the various sources and it would pick up the highest scoring one that is available.
+- If the output from one of the re-speakers cabins or the floor is bad, the machine translation will not be connected to that and the presentation would automatically jump to the other provided translation.
+- PERSON10, PERSON15 and PERSON3 agree that killing the client is useful only to keep all the clients up and running and streaming audio.
+- PERSON10 prefers to kill the client when he's not happy with the ASR output or machine translation.
+- PERSON15 proposes that all audio inputs are translated into all target languages at all times.
+- For June the preview of the subtitle will not be available, but the selection of the stream should be available.
+- There will be a man monitoring the presentation platform and a man watching the ASR workers and logs from the MT systems.
+- Two people monitoring the same presentation platform at the same time.
+- PERSON3 and PERSON10 discuss the configuration of the subtitle solution for the conference.
+- The current current user is expected to be at the conference in June.
+- The integration has asked PERSON3 to report PERSON10 for not choosing the best subtitle provider for 4000 people connected on the same WiFi network.
+- PERSON10 and ORGANIZATION1 need to decide how to deliver the subtitles to the participants.
+- They don't believe 400 people can receive the signal of the WiFi reasonably well.
+- They have a year to find a better solution.
+- PERSON10 knows of a company that could help them with this.
+- PERSON3, PERSON10, PERSON7 and PERSON13 will talk to each other again next Friday to resolve some of the bugs and ship the PROJECT1 models to PERSON5 and then test the PERSON5 workers with their PRO PROJECT1 model.
+- PERSON7 is sending an e-mail right now.
+
+
+Minuted by: Team Synapse

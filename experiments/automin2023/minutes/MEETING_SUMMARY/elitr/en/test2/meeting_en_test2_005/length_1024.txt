@@ -1,0 +1,27 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON2, PERSON3, PERSON8
+
+
+SUMMARY
+- PERSON2 is in the office today.
+- PERSON8 and PERSON3 are waiting for PERSON5, who is supposed to join them, but he hasn't.
+- Organization organizes a mini conference.
+- Organizing the conference is independent of ORGANIZATION11.
+- ORGANIZATION11 requires papers for special sessions to PERSON2, PERSON3 and PERSON8 are trying to get into an ORGANIZATION2 workshop.
+- If they don't get in the workshop, they will try to find another one.
+- The proposal for an ORIZATION7 workshop was made in September, which is too early PERSON3, PERSON8 and PERSON2 are preparing the proposal for the workshop.
+- The deadline for submitting it is February 28th, but for the satellite event it's February twenty-eight.
+- If they are accepted in ORGANIZATION11 workshops, they have to get The proposal for the workshop is almost complete, but the participants have to take out institutional membership to submit it to the ORGANIZATION1 workshop administration portal.
+- They have to invite the program committee and prepare a website for their shared task.
+- They need to pay two hundred and fifty euros PERSON8 has read a lot of papers in this journal.
+- The core papers were published in 1964.
+- The journal is indexed in ORGANIZATION5, but the organiser didn't mention it on the website.
+- Organizer8 is famous for machine translation and organizes conferences.
+- PERSON8 has read four papers from PROJECT2.
+- The paper is open access.
+- It will be indexed in ORGANIZATION5, all the major industry services.
+- There will be double work on the paper.
+- The co-editors will meet tomorrow.
+
+
+Minuted by: Team Synapse

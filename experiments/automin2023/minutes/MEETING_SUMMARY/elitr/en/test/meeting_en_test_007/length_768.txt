@@ -1,0 +1,26 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON10, PERSON2, PERSON5, PERSON6
+
+
+SUMMARY
+- PERSON2, PERSON3, PERSON6 and PERSON10 are having a meeting on Thursday.
+- They are having lunch at 12.30 pm.
+- There will be a call on Thursday with the project partners.
+- PERSON2 informs PERSON10 that it's 1 hour from now and 4 days from now.
+- PERSON1 informs her that she has to come to the Czech Republic in order to enter a proper work contract.
+- According to PERSON1, LOCATION1 can't apply for a visa.
+- There are other people from India who want to come here, but they can't, because ORGANIZATION4 is closed.
+- ORGANIZATION3 is working on it, but there are still issues with quality estimation and communication.
+- Organization PERSON9 is preparing leaflets for the leaflets that he would be handing out to participants and that's it.
+- There are forty jobs on the cluster.
+- They are minus one hundred priorities, so people can skip them.
+- Every job takes two hours, so it's fine.
+- PERSON6 and PERSON10 are sceptical about machine-learned evaluation methods.
+- They agree that the PROJECT5 method might be sensitive to domain shift and Semantically Rich Representations.
+- However, they think it might be useful for paraphrasing and distinguishing between different sentences.
+- PERSON6, PERSON2 and PERSON10 are going to focus on the constraint decoding part of the project.
+- They will try to have a meeting next week to discuss it further.
+- PERSON6, PERSON2 and PERSON10 have finished their meeting.
+
+
+Minuted by: Team Synapse

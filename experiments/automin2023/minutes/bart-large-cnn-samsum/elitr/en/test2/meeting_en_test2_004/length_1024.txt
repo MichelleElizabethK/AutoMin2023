@@ -1,0 +1,40 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON12, PERSON13, PERSON14, PERSON5, PERSON7
+
+
+SUMMARY
+- PERSON5 needs to figure out his sound settings before he can talk to PERSON13.
+- PERSON13 is back to work after the holidays.
+- He is staying in a private apartment in Barbican city, Mannheim.
+- The electricity is back in the apartment.
+- The Holocaust survivor's session has been postponed by a month.
+- PERSON12 needs help with data preparation for the PROJECT6 and PROJECT13 events.
+- PERSON7 suggests using simple HTML tables that would be auto generated, and that would grow.
+- The Weights and Biases solution is not recommended by PERSON3, so the simple HTML is probably the way to go.
+- PERSON12 is working on updating the demo paper submission, which is due next Friday.
+- He also has some project reports to do, and he's starting to gather documents for the two sessions.
+- PERSON7 is busy with minuting and arranging what people do.
+- He wants to know what is missing, and what is happy and unhappy.
+- PERSON7, PERSON12, PERSON5, and PERSON1 need to improve their segmenter.
+- They need to get the delay scores for some of the files from the PROJECT2 from the IWPROJECT10 Dev set.
+- The deadline for the evaluation of the deliverable is approaching.
+- PERSON5 is trying to train a model on common voice as part of his thesis.
+- He will use the data set from PROJECT4 to train the model.
+- The data set has additional information about gender and speakers.
+- There are non native speakers there, many of them Indians.
+- PERSON12 suggests using more datasets.
+- PERSON7 will have a call with PERSON10 on Monday or Tuesday.
+- PERSON13 and PERSON5 will attend the call with the person who recorded the video of the project.
+- They will discuss how to prepare a model for PROJECT2 project and how to train the replacement for PERSON10.
+- Before Christmas, PERSON14 released the PROJECT11 corpus for PERSON3.
+- This week, he implemented or trained speech language identification for Czech, German and English.
+- He is going to integrate it into the Mediator and create a simple start up script to increase control so anyone can use it.
+- The study for PROJECT12 with PERSON3 should be done by the end of the month deadline.
+- PERSON7, PERSON12, and PERSON7, when you talk to PERSON16 a well and possibly PERSON13, need to figure out how to deal with multilingual models.
+- They need a tool that will separate the output into the three language channels and produce either silent or correct PROJECT3.
+- PERSON7 will try to find the reference to the machine that was translating Spanish to something which only it.
+- knows and converting it to German.
+- The book will be out in the middle of the year and they need to start writing it after the subtitler study.
+
+
+Minuted by: Team Synapse

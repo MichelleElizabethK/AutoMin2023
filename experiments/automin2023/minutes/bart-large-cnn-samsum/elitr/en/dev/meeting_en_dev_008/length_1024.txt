@@ -1,0 +1,36 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON5, PERSON7
+
+
+SUMMARY
+- PERSON7 is trying to fix the program in Overleaf, but it doesn't compile for him.
+- The main topic of the meeting is to define the structure of the deliverable documents.
+- The documents should be on the ORGANIZATION1 presentation platform, and the ORGONIZATION7 presentation platform.
+- PERSON7, PERSON1 and PERSON5 are discussing the structure of the deliverable for the project.
+- They need to share the internals of the project with ORGANIZATION7.
+- They also need to explain why it works.
+- The deliverable is going to be a public document.
+- PERSON7, P1, P5 and P6 are late with the preparation of the document.
+- They need to have the full content ready by Wednesday.
+- They have to prepare the ORGANIZATION4 paper, EAMT demo paper and the progress to the template.
+- The deadline is February 21.
+- PERSON7 has assigned a project to PERSON5, PERSON1, PERSON4, PERSON8 and PERSON6 to prepare a two-page document for the project.
+- They need it by the end of the next week.
+- The document needs to be written in Overleaf.
+- PERSON5 has problems with cloning.
+- PERSON5 and PERSON7 are going to create a deliverable for PERSON5.
+- They need to follow the structure that PERSON5 has suggested in the Overleaf document and ask ORGANIZATION7 to review their understanding of the platform.
+- PERSON5 will send it to PERSON7 today.
+- PERSON5 is trying to edit a document.
+- He doesn't know how to do it.
+- He needs to install a package manager.
+- He also needs to check the file name of the PDF file he missed.
+- The last page of the document doesn't take.
+- PERSON5 and PERSON1 are working on a document.
+- They need to update all the files and install the Overleaf.
+- It doesn't work at first, because they have the wrong package installed.
+- They have to kill the app and install it again.
+- Finally, it works.
+
+
+Minuted by: Team Synapse

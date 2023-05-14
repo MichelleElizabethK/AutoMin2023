@@ -1,0 +1,51 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON11, PERSON14, PERSON15, PERSON2, PERSON3, PERSON4, PERSON7, PERSON8
+
+
+SUMMARY
+- PERSON2, PERSON7 and PERSON3 are trying to talk to each other, but they can't hear each other.
+- The phone is working, but it's not clear what they are saying.
+- -  -   'It works'.
+- PERSON3 had an ORGANIZATION12 call this morning, but it didn't work.
+- The kids took all his computers and he left with only his cellphone.
+- The goal is to synchronize the group and the date and time of the week, so that it is fits to most of them.
+- The conference is in early December.
+- It will serve as a test for ORGANIZATION16 Congress.
+- PERSON11 has been working on the paraphrasing for the last few calls.
+- He has been trying to collect monolingual data that he can use for the rainbow models.
+- He used the ORGANIZATION10 to scrape subtitles from the courses in multiple languages.
+- The free version of the course has some limitations, so he only obtained to scrape a small data set like one hundred thousand sentences, which could be used for testing.
+- He will write to PERSON13 to ask for help.
+- PERSON3 wants to use monolingual data for, domain adaptation.
+- He wants to test the evaluation using PROJECT5 test set and PROJECT3.
+- He also wants someone to send him the status of the PROJECT2 and PRO PROJECT5 test sets.
+- The PRO PROJECT2 is completely finished.
+- PERSON8 created a new index called ORGANIZONATION6 for PROJECT2.
+- He wants to make it the standard evaluation tool for all people doing a spoken language translation.
+- The current version of the current version is off-line, but it works only with files from the PROJECT5 test set.
+- The project will be published at a conference in January.
+- PERSON8 will come to ORGANIZATION3 to help with organizing the PROJECT5 test set.
+- PERSON3 will help PERSON10 with getting the evaluation of the of all the systems.
+- PERSON14 is lost and needs someone to help him with the project.
+- PERSON4 has worked on multi-target machine translation for his master thesis.
+- He is also employed on PROJECT5 to develop multi-source models.
+- His task so far is to generate synthetic multi- source train set.
+- He asked PERSON11 for model and he sent it to PERSON3.
+- PERSON4 will get cluster access soon.
+- PERSON3, PERSON10, PERSON11, PERSON7, PERSON15 and Umar are working on a multilingual PROJECT4 systems.
+- They need to use more than one GPU for the cluster.
+- They also need to do itterative back translation on Czech German news to have some higher quality in German-Czech news corpus.
+- PERSON10 recommends transfer learning on of double encoder model on GPus.
+- PERSON7 is working on ORGANIZATION11 Common voice and wants to chop the utterences and recreate new sentences using the words itself.
+- PERSON15 wants to share the path with PERSON7 on which he's working on.
+- PERSON7 is working on the same task as the ORGANIZATION14 challenge.
+- The main objective is to train PROJECT7 in English PROJECT4.
+- The data set is partially non-native, partially native.
+- It contains twenty-three percent United States English, eight percent England English, five percent India and South Asia accent, four percent Australian English, three percent Canadian, two percent Scottish, one percent Irish and one percent Southern African.
+- It also contains information about age and gender.
+- PERSON7 and PERSON15 need to use the same data for ORGANIZATION13 evaluations as PROJECT4 from his master thesis.
+- They need to check if they can use the data from the ORGONIZATION14 challenge.
+- Common voice is the best option as it works with accented speech.
+
+
+Minuted by: Team Synapse

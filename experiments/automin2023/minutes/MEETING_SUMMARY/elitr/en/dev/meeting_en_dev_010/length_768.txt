@@ -1,0 +1,51 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON10, PERSON12, PERSON14, PERSON17, PERSON19, PERSON20, PERSON22, PERSON3, PERSON4, PERSON8, PERSON9
+
+
+SUMMARY
+- PERSON10 is happy to see that it works even without any installation.
+- PERSON12 confirms it works.
+- PERSON14 doesn't know how to organize the IWSLT presentations.
+- PERSON8 has been asked by the organizers to prepare a video for PROJECT5 submission and PERSON8 has to prepare posters for his presentation.
+- PERSON14 and PERSON10 have been asked to prepare presentations for their projects.
+- PERSON16's latest proposal was to organize workshop workshops sessions of 1 PERSON10, PERSON7, PERSON22, PERSON1, PERSON11 and PERSON1 are at a meeting.
+- They are going to discuss the postponed review and other important issues.
+- PERSON10 and PERSON20 are preparing the financial tables for the EU.
+- Organizing Committee 5 (OCO5) wants to get an estimate from ORGANIZATION6 (ORGANIZATION6) and the final versions of their financial tables in mid July or late July.
+- ORGANIZATION6 PERSON20, PERSON10 and PERSON14 will conduct a dry run of the workshop at the end of May to test whether they understand each other and then in July, they will get the final numbers.
+- There is a large set of deliverables and a reviewer for the report on N PERSON20 would like more input in the scientific dissemination part of the report.
+- PERSON10 suggests to put more details in the separate deliverable 7.2.
+- PERSON10, PERSON19 and PERSON11 are going to prepare a spread sheet with the deliverables for the conference presentation.
+- They will prepare a manual conversion of the Bibtech entries of the papers.
+- PERSON12 will review the report on NLP technologies workshop on ORGANIZATION5's request.
+- The main authors responsible for the deliverables have to submit them by the end of this week or on Monday.
+- Some of them haven't started yet.
+- The workshop has been postponed.
+- The new Congress date is from 30th of May to the 3rd of June 2021.
+- PERSON14 is waiting for the all-clear report.
+- Some of the file service has come up successfully again.
+- The project officer will email the new date with the project officer tomorrow.
+- PERSON15 will prepare an internal pole with a large number of dates, so that they can email the options The demo will take place in on 1 of the days in the second half of June.
+- The technical team has already replicated some of the components.
+- However, they haven't provided their systems to others.
+- PERSON18 will ask PERSON22 to do that.
+- PERSON19, PERSON10, PERSON1, PERSON4, PERSON9 and PERSON17 will try to package their systems and get back to PERSON22 and PERSON6 for this system.
+- It would be easier for them to integrate PROJECT3 and PROJECT4 systems.
+- The ASR PERSON10, PERSON9 and PERSON19 discuss how to prepare a production and development system for a demonstration.
+- The demo was postponed because of a power outage and a bomb attack.
+- PERSON10 asks all the partners to avoid doing any updates to their workers shortly before the demo.
+- The system is not ready for the demo.
+- The system is tested under research conditions only.
+- There is no worker that does this yet.
+- PERSON15 wants regular testing of the systems integrated in the pipeline.
+- PERSON18 wants separate versions of the modules.
+- PERSON3 wants regular dry runs of the PERSON10, Alex, PERSON18, PERSON19 and PERSON22 are going to have a number of demo, dry run sessions.
+- They will present the same video twice, once with the devset chosen system and the second time with the test set chosen system.
+- This is cheating, PERSON19, PERSON10 and PERSON14 are going to ask for a 2 or 3 month extension of the project.
+- PERSON8 is preparing slides and video as a pre-recorded presentation for the PROJECT5 system paper.
+- The deadline for the recorded, demo is the 17th of June.
+- PERSON8 will share the Overleaf link for the slides as soon as he starts with that.
+- PERSON3, PERSON19, PERSON14 and PERSON10 are saying goodbye to each other.
+
+
+Minuted by: Team Synapse

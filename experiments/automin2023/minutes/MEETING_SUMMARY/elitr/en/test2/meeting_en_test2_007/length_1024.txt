@@ -1,0 +1,40 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON13, PERSON15, PERSON16, PERSON2, PERSON3, PERSON6, PERSON7, PERSON8
+
+
+SUMMARY
+- PERSON13 apologises for coming late.
+- PERSON7 missed two sessions.
+- Yesterday the experience was disastrous, the recognition quality was also slow.
+- PERSON3 has added files to the PROJECT12 Test set.
+- PERSON14 has set up PROJECT4 to collect the text data.
+- PERSON13 explains to PERSON16 that there is a clear distinction between the PROJECT13 Archive, which are the interviews with the survivors of World War II of the Holocaust and the PRO PROJECT13 Conference, and the ORGANIZATION10's archive, which is the historical papers PERSON13 wants PERSON15 to help him with revising the paper.
+- PERSON15 doesn't have access to the reviews.
+- PERSON16 wants to work on the evaluations first.
+- PERSON15 wants PERSON8 to process all the files that PERSON5 has for the experiment.
+- PERSON13 wants PERSON7 to prepare a pipeline for every event.
+- PERSON7 is writing a tool that will help with that.
+- PERSON15 has a simple tool that you could adapt.
+- PERSON18 should prepare very simple instructions that the participants could follow.
+- PERSON3 should focus on a stand alone one shot of things.
+- PERSON16 and PERSON3 need to make sure they evaluate the systems thoroughly.
+- PERSON1 has developed a shortening PROJECT1, English to Czech.
+- The output is shorter, but the bleu score is lower.
+- PERSON16 wants to include the evaluation campaign in the PROJECT12 test set evaluations.
+- PERSON8 is working on the training of the recordings.
+- PERSON13 needs to work on the training pipeline on PROJECT9.
+- He also needs to figure out the split between PROJECT5 and PROJECT2.
+- He will talk to PERSON6 and PERSON2.
+- PERSON13 and PERSON6 are trying to solve the problem of alignment in English and German.
+- PERSON6 explains to PERSON13 why there is a delay between the text and the finished product.
+- PERSON6 is confused by the numbers in the document.
+- PERSON13 explains to PERSON6 how to solve the equation based on characters and time stamps.
+- PERSON13 and PERSON6 are trying to solve a mathematical equation.
+- The equation is based on the number of characters and the length of the text.
+- It is complicated, but can be easily understood.
+- PERSON2 has written permission for PROJECT6 and PROJECT12 evaluation.
+- PERSON13 will do PROJECT7 evaluation.
+- PERSON6 is going to work on the paper.
+
+
+Minuted by: Team Synapse

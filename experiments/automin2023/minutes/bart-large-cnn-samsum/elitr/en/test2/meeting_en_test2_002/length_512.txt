@@ -1,0 +1,111 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON12, PERSON15, PERSON16, PERSON18, PERSON24, PERSON3, PERSON7
+
+
+SUMMARY
+- PERSON1, PERSON15, PERSON7, PERSON12, PERSON16, PERSON10, and PERSON24 are here.
+- They are going to run the same set up that PERSON12 ran for the test part of PROJECT3 on other parts.
+- It is to complete the GPU test and to know that one version, one new version of PRO project3 really works.
+- PERSON12 is waiting for the input from ORGANIZATION1.
+- He promised it by Thursday.
+- PERSON15 is worried about the multi source status for the deliverable.
+- PERSON24 should work on the corpus of the multilingual text based data after the baseline.
+- PERSON15, PERSON12 and PERSON24 will have a separate call tomorrow at 3 pm to discuss their experiments with multi-source text in ORGANIZATION6.
+- They will use the text from OR organizer 6 and translate it into different languages.
+- They want to double check their plans.
+- PERSON15 will send a link to the calendar and plan the meeting for Tuesday or Wednesday.
+- PERSON10 will finish the language model checking of ASR outputs.
+- The integration will be more on PERSON8 and PERSON3.
+- The other person on the call is probably going to be late.
+- PERSON15 reminds PERSON3 that profanity filtering is not yet integrated.
+- It's important to have the set up so that you can integrate and tested yourself.
+- The profanity filter has been tested on locks and now it's time to test it on the life pipelines.
+- PERSON3 has a call with PERSON6 later today.
+- They discuss profanity filtering and especially the spasm detection and removal.
+- The new ASR, the end to end ASR also suffers from the spasms issues.
+- The profanity filter should be employed twice after the ASR and second after the MT.
+- PERSON15, PERSON3 and PERSON10 are having a call with PERSON10 later today.
+- They need to discuss the PROJECT2 check ASR, domain adaptation and profanity filtering.
+- PERSON1 will pass over the PRO project2 baseline for his own experiments.
+- PERSON10 is preparing for the upcoming Monday seminar that's going to be given by the author of PROJECT1.
+- On Monday they will hear the Italian English and yesterday they had a chance to hear the Japanese English.
+- The ASR was struggling with the accented English.
+- PERSON15 and PERSON1 are working on a technical solution for multi-accent English.
+- The current idea is to create new sentences by concatenating words that were spoken in other sentences.
+- The new sentences will solve two problems with one, one experiment.
+- One problem is the implicit language model.
+- The other is the robustness to different accents.
+- PERSON10 will be leaving the team.
+- The pipeline had to be started by PERSON10 and PERSON8 yesterday, but they failed to do it properly.
+- It's up to PERSON3 and PERSON18 to solve the problem and propose a solution to the problem.
+- PERSON18 had a talk with PERSON8, because he got stuck in the pipe.
+- He explained him how to debugg the pipelines that escaped.
+- It was the same pipeline as the previous one.
+- The fingerprint was still the same, but the worker was not running.
+- PERSON15, PERSON18 and PERSON3 want to have a call with PERSON8 to discuss how to make the configuration cleaner.
+- PERSON16 wants to remove scripts with different performance and create one script with different parametres.
+- PERSON18 wants to limit the number of languages and profanity filtering.
+- PERSON16, PERSON15 and PERSON18 are discussing whether it's better to run the multi-lingual platform with fewer languages enabled or with more languages enabled.
+- They discuss the performance of the rainbow worker of PERSON16, which is in the pipeline at the moment.
+- PERSON18, PERSON15, PERSON16 and PERSON15 discuss the problem with the PERSON16 tensor to tensor worker.
+- They recommend using PROJECT3 as a fall back solution and launching rainbow worker from PERSON14 on their cluster.
+- The PROJECT3 is better optimised.
+- PERSON3 will start looking into getting PROJECT3 up and running.
+- The devel at ORGANIZATION5 would be a good place to discuss the technical issues with people on the devel.
+- PERSON12, PERSON15, PERSON16, and PERSON18 are using the newest version of PRO PROJECT3 to train the shortening models.
+- PERSON12, PERSON16, PERSON3, PERSON18 and PERSON15 need path configs for the PROJECT3 itself and for the or in the model config to learn PERSON14's model.
+- They need to replace the absolute paths on their systems with their paths and then hopefully it will work.
+- PERSON16 is working on the shortening and extending models.
+- He is running out of storage quota on levá strana.
+- He needs to come up with an estimate how much more space he needs.
+- He will use PROJECT5 dash ORGANIZATION5 for the technical issues.
+- PERSON15 explains to IT EDU how to limit data growth and how much space is available on Troja.
+- The ORGANIZATION8s one hundred language models take a lot of space.
+- There is a command to check the quota.
+- On Troja there is space on all the disk.
+- PERSON15, PERSON16, PERSON19, PERSON15 and PERSON18 are going to meet tomorrow at 2 pm before the call with PERSON24 and PERSON12.
+- They will discuss the possibility of an Indian student joining their group.
+- The deadline for applying for a PHD is at the end of the year.
+- PERSON15 is trying to send an ORGANIZATION2 invite tomorrow at 2 pm.
+- They need to evaluate all systems, all files, in the PROJECT5 test set automated.
+- The code is almost finished.
+- They have a call at 2:30 pm with PERSON6 to discuss the SLTS capability of downloading files.
+- PERSON3 will have a call with PERSON7 later to discuss automating the ASR evaluation.
+- After that, he will call PERSON15 and they will arrange a meeting to discuss the details of the script.
+- PERSON7 will manage the recording of the results.
+- PERSON15 wants to make sure that they have the important people around the globe available for important sessions.
+- They also need to know which components they are using and who are the people behind these components.
+- The long-term focus is also very important.
+- PERSON15 would like to put their names next to those for the people who are long term.
+- PERSON15 is looking for someone who can work on the non native accent.
+- PERSON3 could be the only person responsible for that.
+- PERSON10 is already starting the data collection.
+- The domain adaptation is for the PERSON17 toolkit.
+- PERSON1 is doing how to work with PROJECT2.
+- PERSON15 wants to know if the toolkit for PROJECT2 is getting the worst out of the way.
+- PERSON3 confirms that the domain adaptation is working well.
+- They need to transcribe one of the Monday meetings to check if it's working properly.
+- It is impossible to do domain adaptation for the fully neural ASR.
+- Two ASRs could be used at the same time: one for end-to-end ASR and one for domain adapted PROJECT2.
+- They could steal the data from ORGANIZATION3.
+- PERSON15 and PERSON16 want to create a profanity filter and videos from ORGANIZATION3 and make a training set out of them.
+- They need help from someone with the human capacity to do that.
+- PERSON15's friend, PERSON1, will help them.
+- PERSON1 suggests using sentiment analysis to remove some words that might harm someone.
+- PERSON15 suggests using a task based on the movie review.
+- PERSON3 has experience with sentiment analysis, but it doesn't play well in a specific use case like financial data.
+- PERSON16 sends a link to a competition where people had to make models to detect tweets or sentences which were harmful in some ways.
+- The setting of the competition is slightly different from the one in which people expect the speakers to use only nice words.
+- The subjectivity is important, but it may be less severe in this setting.
+- PERSON3, PERSON15, PERSON1, and PERSON16 discuss how the profanity filter could be used to filter out hateful comments and remove them from the conversation.
+- PERSON1 will ask his student to keep the non-native English accent for his thesis.
+- PERSON15 will ask elderly students who are already in Prague for the first or second year if they are interested in helping with the task of shortening MT.
+- PERSON3 will ask one of them for the positive speak, for the profanity filtering.
+- They have covered some of the topics, but need more people to do that.
+- PERSON15 wants to be the first one who makes it to Prague.
+- They will have one more Thursday call next week.
+- There will be Christmas Day and New Year's Eve break and then two weeks of a break from Thursday calls.
+- Next week they will meet again and then in January.
+
+
+Minuted by: Team Synapse

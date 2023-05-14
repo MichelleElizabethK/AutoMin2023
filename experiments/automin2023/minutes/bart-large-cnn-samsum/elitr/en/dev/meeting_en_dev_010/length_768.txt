@@ -1,0 +1,70 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON10, PERSON12, PERSON14, PERSON17, PERSON19, PERSON20, PERSON22, PERSON3, PERSON4, PERSON8, PERSON9
+
+
+SUMMARY
+- PERSON10, PERSON12, PERSON9, PERSON22, and PERSON14 are meeting to discuss the organization of the IWSLT presentations and the organizing of the panel.
+- The presentation of the papers can be pre-recorded, then podcast, at an European time zone time slot, and attend US time zone.
+- PERSON10, PERSON14 and PERSON16 will present the results of the project to a panel.
+- They will prepare a video for the PROJECT5 submission and prepare posters for the posters.
+- They have to organize workshop workshops sessions of 1 or each 1 or 10 people.
+- The workshop sessions will be twice a day at 9 am and 6 pm Seattle time.
+- PERSON1, PERSON10, PERSON7, PERSON22 and PERSON11 are going to meet to discuss the postponed review.
+- They need to figure out the date of the review, because it will be postponed till September, and give the project officer the new date.
+- PERSON10 and PERSON2 will prepare the financial tables for the new official submission in September.
+- The EU gives them 2 months to finalize these numbers.
+- ORGANIZATION5 will get the estimate numbers from ORGANIZATION5.
+- Organizer 20 is late, because they don't have all the salaries yet.
+- PERSON10, PERSON20 and PERSON14 will do a dry run of the report on NLP technologies at the end of May.
+- The reviewer on spoken language translation is missing.
+- The report has to be written by ORGANIZATION5 and everyone should contribute their data.
+- PERSON10, PERSON20, PERSON4, PERSON14, PERSON19 and PERSON22 need more input on the dissemination of the workshop and NLP technologies.
+- They need to collect all the information, ideally Bibtech, for all the papers, which acknowledge PROJECT5.
+- PERSON10, PERSON19, PERSON21, PERSON6 and PERSON22 have to prepare a spread sheet with the papers and deliverables for the project management guide initial and updates.
+- PERSON19 created a website from Bibtech, which was okay, but it needs to be converted into spreadsheet format.
+- PERSON10, PERSON14 and ORGANIZATION5 will do the NLP workshop.
+- PERSON12 will review the report on NLP technologies workshop.
+- The workshop is for people not familiar with NLP and PERSON12 is the right person to do it.
+- PERSON10 has written the Overleafs for all the deliverables.
+- They need to submit them by the end of the week or on the last of June.
+- Some deliverables haven't started yet.
+- The workshop has been postponed.
+- The new Congress date is from 30th of May to the 3rd of June 2021.
+- PERSON10, PERSON3, PERSON14 and PERSON20 will prepare an internal pole to reduce the number of dates that they offer to the project officer.
+- They will fill it during the end of this week.
+- On Monday, or Tuesday the latest, they will have the dates ready for the options, ready for PERSON5.
+- The options will be sent from the 2nd half of June.
+- The demo will take place in on one of the days of the 2nd half of June.
+- The technical team needs to make sure that all the components of the demo are replicated.
+- The team has already replicated some of the ORGANIZATION11 MT systems, but they haven't provided their systems to others yet.
+- PERSON18 proposes a dockerisation for the demo.
+- PERSON10, PERSON19, PERSON1, PERSON22, and PERSON6 will try to package their systems and get back to PERSON22 and also PERSON6 for this system.
+- They have the ASR systems for Czech, that's PROJECT2 based.
+- They also have some Jasper based, but these are not integrated yet because of the missing segmentation.
+- The punctuator is GPU based.
+- The only open point is the GPU configuration.
+- PERSON9, PERSON10 and PERSON19 are going to give the punctuator to ORGANIZATION6 to spread it across the consortium.
+- They are also going to update the systems before the demo, so that they are stable and stable for a long period of time.
+- PERSON19 and PERSON10 are not a software company, so they don't have the resources to do the updates to their workers shortly before the demo.
+- ORGANIZATION2 postponed the demo because of the bomb and power outage.
+- PERSON10 wants to test the components of the ASR and translate text to text.
+- PERSON4, PERSON10 and PERSON3 don't feel the system is ready for the demo.
+- They want to start regular testing of the systems integrated in the pipeline.
+- For the demo, they will have frozen fingerprints and for the research, there will be workers with frozen fingerprints for testing.
+- PERSON10, PERSON18, PERSON19 and PERSON22 are going to have a number of demo, dry run sessions again.
+- The date for the demo will be chosen, and they will choose and freeze the fingerprints.
+- They will present the videos twice, once with the devset chosen system and the second time with the test set chosen system.
+- PERSON19, PERSON10, PERSON14 and PERSON3 are going to ask for a 2-3 month extension of the project.
+- They will decide on June 8 and ask for the extension before June 15th.
+- They need to fill out a table by mid next week by how many months they would like the project to be extended.
+- PERSON10, PERSON8, PERSON3, PERSON19 and PERSON14 are going to have a discussion on the IWSLT results.
+- They are also going to do a demo of the system.
+- The deadline for the recorded, demo is the 17th of June.
+- PERSON8 will share Overleaf for the slides.
+- PERSON20, PERSON14, PERSON22, PERSON10 and PERSON3 are saying goodbye to each other by phone.
+- They are thanking each other for their good wishes and good wishes.
+- .
+- i   in the end, they say:
+
+
+Minuted by: Team Synapse

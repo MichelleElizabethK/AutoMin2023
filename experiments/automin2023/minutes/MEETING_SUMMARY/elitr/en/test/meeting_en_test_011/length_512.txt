@@ -1,0 +1,38 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON4, PERSON5, PERSON6, PERSON7, PERSON9
+
+
+SUMMARY
+- PERSON9, PERSON4, PERSON6, PERSON5, PERSON7 and PERSON8 are trying to talk to each other on the phone, but only one of them can hear them.
+- They are discussing the contents of a document.
+- PERSON7 and PERSON5 want to do some probing on transformer networks.
+- They used the ORGANIZATION1 in the paper.
+- There was another paper called OTHER3 open sense to me, yellow paper.
+- It deals with attention and compution scores.
+- PERSON5 explains to PERSON7 how the paper works.
+- PERSON5 wants to start with PROJECT5.
+- PERSON7 suggests to focus on OTHER10.
+- PERSON7 wants to have a skype call with the people in LOCATION1 for 2 weeks to work on a project together.
+- According to PERSON1, the attention matrice is a line with particulations.
+- According to PERSON7, there are two layers for the determiners and multifiers.
+- PERSON1 and PERSON7 are training about its raise and dependency trees.
+- PERSON7 explains to PERSON9 how to prepare a paper.
+- PERSON1 is in LOCATION2 until the 15th December.
+- PERSON7 will be taken in the beginning of December.
+- PERSON1 wants to try to extract the graph structures from syntactic trees to improve machine translation systems.
+- PERSON5 will send the paper with the objective function to be as similar as possible to the dependency trees if I redisconnect it.
+- PERSON7 will add PERSON5 to their doctor Who group.
+- PERSON5 is reworking the manual for PROJECT5.
+- PERSON9 wants to know what they are working on.
+- PERSON5 wants to get the semantic score for the money paper.
+- PERSON9 wants them to put PERSON3 in seminar.
+- PERSON9, PERSON5, PERSON6 and PERSON1 are working on a project.
+- They are trying to solve a connection problem between PROJECT5 and PROJECT4.
+- PERSON9 and PERSON1 discuss the differences between a language model trained for machine translation and a model trained on a different task.
+- PERSON5 is working on his master thesis.
+- He will submit it tomorrow.
+- PERSON9 has to prepare a paper for at least one month.
+- PERSON6 and PERSON5 will have some experiments.
+
+
+Minuted by: Team Synapse

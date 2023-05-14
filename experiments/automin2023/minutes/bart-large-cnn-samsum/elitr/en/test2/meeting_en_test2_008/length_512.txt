@@ -1,0 +1,108 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON4, PERSON9
+
+
+SUMMARY
+- PERSON9 and PERSON10 are having a meeting today.
+- PERSON10 wants to be in the meeting.
+- There are some decision points from his end.
+- They have been in communication with him for two days.
+- He is writing a lot of emails today.
+- The meeting will take place in a few minutes.
+- PERSON4 and PERSON9 are worried about the future of their project because the annotator who prepared the data for PERSON7 stopped working on it after Christmas and he didn't respond to their messages.
+- PERSON10 is worried that he might have started some PhD and he might be too busy to help them.
+- PERSON4 will send the link to the Coffee Meetings agenda to PERSON9 and PERSON10.
+- They will write it to the agenda and put it into the shared task components or put it to their agenda.
+- The agenda is in the master document.
+- The last meeting is from the middle of December.
+- PERSON4 will be back in 30 seconds.
+- PERSON10 will write the procedure for de-identification.
+- If PERSON7 is not responding, they will have to recreate it themselves.
+- The process is documented to the finest level.
+- The documents will contain information like, this word was suspected to be an NE, but at the words type, annotation it was marked as a regular word.
+- PERSON9 needs to see an example of the renaming process.
+- PERSON4 explains it to PERSON9.
+- PERSON7 has made annotations to the same file and wanted to rename it, so he asked PERSON4 to make a copy of his document, but not to delete the lists.
+- PERSON10 and PERSON4 want to have the full collection of all documents with all named entities replaced by place holders.
+- They want to proceed at the two levels: the word type level and the word token level.
+- They also want to do the annotation of the documents.
+- PERSON4 needs someone to do the bulk processing of the documents and the insertion of the annotations into the Xml.
+- If PERSON7 is not available, that will be seriously in need off.
+- PERSON4 doesn't understand the code.
+- PERSON10 explains to him that it's not a problem as the decisions are manual.
+- There are many typos in the list.
+- Most of the output is not a named entity.
+- The multi-word sentences are also a problem.
+- The program does not include all the words beginning from cPROJECT4tal.
+- There are open problems with the edition of new documents.
+- PERSON10 wants to make sure there are no NE leaks into the final data.
+- NEs need to be co-referenced to preserve the identity of the speakers.
+- They need to hide the original name of the person when someone referred to someone else.
+- PERSON10 and PERSON4 agree that for the sake of time, they should ignore the identity or tracing of the identity of the projects and people.
+- For speakers like utterance labels and when they are referred to in the text, the data set for the purposes of summarization will suffer.
+- PERSON4 and PERSON10 are working on a project.
+- They need to create an outline on a time frame and get in touch with PERSON7 to get information from him.
+- If he can't help them, they will have to do it themselves and it will fall on PERSON9 for the programmer parts.
+- PERSON9 and PERSON10 are worried about de-identifying their data set.
+- PERSON10 will have a session with PERSON4 to explain the procedure.
+- PERSON14 is working on de-identifiedification since the beginning of January.
+- PERSON4 will talk to or call or meet with PERSON14 to discuss the de-Identification procedure.
+- PERSON4 needs to read the regulations to de-identify the present data.
+- She has to decide what should be anonymised.
+- If she has to delete the names of languages, she should leave English, German, Czech and don't mix it up.
+- She should align the transcript with the minutes.
+- PERSON9, PERSON10, PERSON14 and PERSON4 are waiting for PERSON4 to finish reading the regulations and agree on a timeline.
+- The key word is personal data.
+- The data set needs to be free of personal data and all person's data must be removed.
+- PERSON4 and PERSON14 need to discuss the de-identification and consent forms.
+- They need to create two consent forms: one for working with the data and one for publishing it.
+- They have to redo the first page of the consent form and give all participants of all meetings both consent forms at the same time.
+- PERSON4 and PERSON10 are going to focus on the second consent form to publish the data.
+- The first form will be for the purpose of the release of the corpus.
+- They will come to the first form only once the corpus is finished and released.
+- The second form will have permission to publish data in the anonymous form.
+- PERSON4 and PERSON10 want to create a directory with documents which people could browse.
+- They want to send everyone a link to the full data set and send them a consent form for access to the data.
+- The easiest way to skip this is to prepare the data set fully de-identified already and give a link.
+- PERSON10 and PERSON9 want to create a pre-release of the corpus.
+- They need to extract the names of the participants from the meeting minutes.
+- The best effort is to collect the names from the list of participants and edit the content based on the information provided by the annotators.
+- PERSON9 and PERSON10 are going to create a master sheet and extract the name of participants from each of the minutes.
+- They will send a consent form to all the participants based on their records.
+- It will be a mail merge operation, so they will prepare personalised emails.
+- PERSON9 and PERSON10 are going to create individualized sheets for the participants of the task.
+- They need to have the full dataset by the end of March or the 16th of March.
+- A trial data is 16 March but training data is first April.
+- PERSON9 and PERSON10 want to have the data de-identification from the participants by the end of February and the consent from their end by the first week of March.
+- PERSON4 will be finished with the work type level annotation in two days.
+- It takes thousand and a half hours.
+- PERSON10 will write a comment to point six and seven in the agenda document.
+- This should happen by the end of February at the latest.
+- PERSON9 will increase the timer for the removal of the text from the document.
+- The webpage is modern, but PERSON4 doesn't like changing very quickly.
+- PERSON9 has forwarded the email template that they would be sending to the.
+- Scientific Committee.
+- It's a special task to look through the list of PhD students who are participating in the mock.
+- They have to have some ORGANIZATION2, ORGATOMIC2 or ORGADITATION9's.
+- PERSON9 and PERSON10 need to prepare the text for an email to prospective members of this organization.
+- They need to send it to C, F, P. and put a link to it.
+- They also need to divide the people and invite them personally.
+- PERSON9 and PERSON10 need to submit the proposal within the January 7th or 8th.
+- They need to make several copies of the invitation, personalised in various ways, and they need to contact people from a list to put their names in the ORGANIZATION9sheet.
+- PERSON10, PERSON4 and PERSON9 are going to have a scientific committee meeting.
+- They are working on the list of people to contact and will send them the emails today.
+- They will aim for the deadline of two days from now.
+- PERSON10 will be added to the PROJECT2 repo.
+- PERSON10, PERSON9, PERSON4 and PERSON7 are going to ask the experienced people from the ORGANIZATION8 corpus to be the key note speakers.
+- They will also ask them to give them the best background knowledge from the past.
+- If they get some response from both, PERSON14 will come to ORGANIZATION4 on Thursday and if she also comes, they will speak.
+- PERSON4 wants PERSON10 to send three prepared letters to his Russian candidates.
+- He wants them to cooperate with him from the financial point of view.
+- He asks them to do it in English as he thinks it's better in English than in Russian as it's too Russian.
+- PERSON4, PERSON10, and PERSON9 will meet this afternoon to have a drink.
+- They will do it this afternoon, as agreed by PERSON10 and PERSON4.
+- .
+- -   "Thank you"   and "Bye"
+
+
+Minuted by: Team Synapse

@@ -1,0 +1,34 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON11, PERSON13, PERSON15, PERSON16, PERSON4, PERSON8
+
+
+SUMMARY
+- PERSON11, PERSON4, PERSON8, PERSON15, PERSON13 and PERSON15 have to postpone one of their regular meetings due to the review.
+- PERSON1, PERSON8, PERSON11, PERSON13, PERSON16 and PERSON4 are going to contribute to the project.
+- Organizing Committee 1, 2, 3 and 4 is developing their own ASR systems, whereas ORGANIZATION5 is developing its own.
+- ORGANIZATION5 should review the PERSON11 will write a project management guide.
+- It should be ready by mid June at the latest.
+- It is the first draft.
+- PERSON8 has started the PROJECT1 test sets some time ago.
+- The organization responsible for this deliverable is ORGANIZATION1.
+- The test sets consists of raw documents, curated to serve well, linebay, segmented, everything.
+- The set of languages tested depends on the set of documents PERSON8, PERSON15 and PERSON1 discuss how to organise the collection of test sets for a project.
+- PERSON8 explains to PERSON13 and PERSON15 how the evaluation of spoken language translation works.
+- PERSON8 explains to PERSON1 how they work with the lock files.
+- They try to be very clear about the time stamps of the translations.
+- If they are unable to find people who can speak the related data sets, they will ask them to find the text monolingually and PERSON8 translates a lot of sentences into Irish.
+- The project was started when the EU still existed.
+- ORGANIZATION7 has been working on the retranslation approach for the past years.
+- ORGANIZATION5 managed the integration part of the project.
+- ORGANIZATION6 managed the overview of the audible SLT PERSON8 and PERSON1 agree that retranslating is a good idea.
+- PERSON15 is not an ASR person, so he doesn't know if it's possible to retranslate end-to-end ASR.
+- There is a lot of research going on PERSON1, PERSON8, PERSON4 and PERSON13 are trying to run GPT tool to predict the tail of the sentence.
+- It doesn't work so far, so they are guessing.
+- The date for the demo is 14th May 17th.
+- Organizing Committee 5 PERSON4, PERSON8 and PERSON1 discuss how to present the results of the project to the project officer.
+- Early next week, someone should send an e-mail to the PERSON5 regarding the date of the demo.
+- The demo should be ready by the end of the week from the 11th.
+- Before that, people should run the demo for themselves.
+
+
+Minuted by: Team Synapse

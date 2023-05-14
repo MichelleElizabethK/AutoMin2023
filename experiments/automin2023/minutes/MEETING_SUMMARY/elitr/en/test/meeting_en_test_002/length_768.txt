@@ -1,0 +1,32 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON11, PERSON3, PERSON5, PERSON6, PERSON8
+
+
+SUMMARY
+- PERSON8 is preparing the paper for the PROJECT1.
+- PERSON5 is joining them, right now and with PERSON11, he should be ready.
+- The deadline for ORGANIZATION6 has been moved to Sunday, 7 October.
+- PERSON3, PERSON8 and PERSON11 will have to wait up to three more weeks for results for the next one.
+- One of their colleagues is maintaining a calendar with important dates for conferences.
+- PERSON5, PERSON3, PERSON8 and PERSON11 are working on a project.
+- They have a data set of Czech reference translations.
+- There are also two reference translations from English to Czech and from German to English.
+- PERSON5 will send them the data set composition so that they can PERSON3, PERSON5, PERSON8, PERSON11, PERSON12 and PERSON1 had a meeting last Thursday.
+- They covered everything they need for PROJECT7.
+- There was also a meeting on the experiment with ORGANIZATION2.
+- They will find translators to do the PERSON5 and PERSON6 are frustrated because ORGANIZATION7 hasn't provided enough people for the experiment.
+- They are waiting for ORGANIZATION7 to provide them with the number of people and the total funding for the project.
+- ORGANIZATION7 has problems to get volunteers.
+- There are no native English speakers PERSON5 is afraid that PERSON12 will only say that he is starting to hire someone.
+- The advertisement for PROJECT3 is new and wasn't available last week.
+- The project has already had ten people do the experiment, which is five times more than what they had from ORGANIZ PERSON11 is running the back translation of monolingual data.
+- The deadline for the AC ORGANIZATION6 has been shifted to October 7th.
+- PERSON2's contribution is getting lower and the number of GPUs available is getting smaller.
+- There is a system demonstration tract in ORGAN PERSON11 wants to make a shorter version of the paper for PROJECT1.
+- PERSON3 thinks it's enough for the demonstration.
+- PERSON5 is going to write to PERSON12 to manage things in ORGANIZATION7.
+- PERSON6 is leaving and they need to find new employees.
+- PERSON3, PERSON5, PERSON11, PERSON8 and PERSON12 have finished their discussion.
+
+
+Minuted by: Team Synapse

@@ -1,0 +1,39 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON13, PERSON15, PERSON16, PERSON2, PERSON3, PERSON6, PERSON7, PERSON8
+
+
+SUMMARY
+- PERSON13 is trying to recover from missed sessions by coming twice.
+- Yesterday the experience was disastrous, it was badly recognised and it was also slow.
+- There was a log-in issue with one of the machines.
+- PERSON3 has added files to the PROJECT12 Test set.
+- Person PERSON13 and PERSON16 explain to PERSON14 the difference between the PROJECT13 Archive, which consists of interviews with the survivors of World War II of the Holocaust and the conferences about it, historical evidence, the recordings, and then the historical papers by historicians, and the PERSON6 and PERSON13 have a meeting in the afternoon.
+- They are going to discuss some issues related to the PROJECT7 paper.
+- They also discuss revising the paper and looking at the reviews.
+- PERSON13 sends a link to the paper PROJECT12 multilingual life subtitling.
+- The quality is bad for remotely handled sessions, especially if people are wearing face masks.
+- PERSON15 is continuing with data preparation of ORGANIZATION5 corpus.
+- PERSON16 is working on the PERSON15 is busy with exams in January.
+- PERSON13 suggests to start processing long-term data of ORGANIZATION5 and give more priority to the write-up of the experiment with PERSON5.
+- PERSON8 is writing a tool that will allow operators to prepare a pipeline for an Next Friday there is going to be a conference about PROJECT13 and they are going to provide life subtitles and transcription.
+- The conference is on the twenty fifth on January.
+- If the organisers say, that it is reasonable to ask such a thing, the participants should be given access to the PERSON13 wants to collect feedback on the quality of the outputs.
+- PERSON16 wants to rerun the transcripts of the last week's seminar.
+- PERSON1 has developed a system for shortening PROJECT1, English to Czech.
+- The shorter the outflow, the lower the bleu score.
+- Therefore, PERSON13 wants the evaluation campaign to be committed to the PROJECT12 test set evaluations.
+- PERSON8 is working on the chopped PERSON8 is struggling to optimize the training pipeline.
+- PERSON13 wants to know how much he should be paid from PERSON19's PROJECT5 tool.
+- PERSON13 wants to talk to PERSON8, PERSON15 and PERSON2 about the PROJECT7.
+- PERSON13 and PERSON6 agree that the alignment system should be maxed out with the value of the previous word.
+- PERSON6, PERSON13 and PROJECT2 are arguing about the alignment based method of calculating the translation delay.
+- PERSON6 and PERSON13 have a problem with a formula for dividing the number of characters into equal parts.
+- PERSON13 explains to PERSON6 how the formula works.
+- It is based on characters at the end time of the word and on the time stamps in C. There is another type of calculation which is only based on the C and the number of characters.
+- It considers partial words and PERSON13 will add acc, my PROJECT3 account to the PROJECT12 test set and do PERSON17e the code towards the maximization.
+- PERSON2 is sharing the screen.
+- PERSON13 is adding PERSON6 and PERSON7 to PROJECT7.
+- PERSON6 is adding her to ORGANIZATION9 teams.
+
+
+Minuted by: Team Synapse

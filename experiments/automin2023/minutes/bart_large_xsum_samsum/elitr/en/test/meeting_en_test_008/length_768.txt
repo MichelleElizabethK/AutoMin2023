@@ -1,0 +1,28 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON5, PERSON7, PERSON8
+
+
+SUMMARY
+- PERSON8 is preparing a link into the web interface.
+- PERSON5 is preparing the link to the manual evaluation.
+- PERSON8 is looking for some reference to the evaluation.
+- PERSON5, PERSON7 and PERSON8 are working on a project.
+- They are looking for information about a meeting from 2011.
+- The meeting took place in ORGANIZATION3, but the index of the minutes does not correspond to the indexes for the transcripts.
+- They find PERSON5 has opened Fact-based Content Weighting or Evaluating Interacting Summarisation.
+- The paper has an interface, but it's not the same as the other one.
+- It has a web application for the front-end and a summary and transcript for the summarisation.
+- PERSON8 and PERSON5 are going to create a web-based interface for the evaluation of a paper from 2020 September.
+- It will help annotators to do their job better.
+- PERSON8 will share the draft of the training data with the rest of the team.
+- PERSON7 and PERSON5 agree on building an interface and giving them the link of the interface.
+- PERSON8 and PERSON7 are okay with the interface, but they need to be sure about the rating PERSON8, PERSON5 and PERSON7 want to compare their automatic matrix.
+- They will all annotate a single minute and then they will see based on PERSON8's criteria with judgement they all will get the minutes.
+- PERSON8 hasn't made her matrix until now.
+- She is trying to link the papers which she implemented in the agenda.
+- There are only three four papers on evaluation.
+- She's trying to do it with their data and not the ORGANIZATION1 and the PROJECT1 corpor PERSON5 and PERSON7 need to find minutes for each meeting.
+- PERSON8 will send the automatic evaluation for the paper and discuss it offline.
+
+
+Minuted by: Team Synapse

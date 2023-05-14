@@ -1,0 +1,52 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON14, PERSON17, PERSON28, PERSON5, PERSON6
+
+
+SUMMARY
+- PERSON14 submitted the paper to LOCATION3 to PROJECT5 and the second part of the article to the journal.
+- PERSON5 and PERSON17 can't hear each other very well.
+- They haven't read their book for the last week and this morning PERSON6 couldn't read it PERSON6 is working on her paper.
+- She is still missing the introduction.
+- She wrote a conclusion to it.
+- She divided the text into sections on syntax, semantics and coreference.
+- She added the centroids.
+- PERSON5, PERSON14 and PERSON6 want to sign the paper, but they don't know if it's their work or someone else's.
+- They don't agree on the definition of the word "odborná kniha" but they agree that their work is doing PERSON17, PERSON14 and PERSON6 have a disagreement about the presentation of their papers.
+- PERSON17, PERSON6, and PERSON14 are writing a paper.
+- They need to agree on the citation, the reference and then write the book.
+- PERSON14, PERSON5 and PERSON17 want to delete the section about the neural language models from the previous chapter and merge it with the section on the unsupervised methods.
+- PERSON5, PERSON14 and PERSON17 are discussing the methods for probing and unsupervised evaluation.
+- PERSON5 wants to use these methods only for visualisation and, and it's probably not a good idea to use them quantitatively, whereas PERSON6 and P PERSON17 wants to add a section after the unsupervised methods to the file "Hidden states only".
+- He has notes from the tutorials "Behavior" and "Interaction".
+- PERSON17, PERSON5 and PERSON14 are talking about the interactive visualisation.
+- They discuss the unsupervised methods used in the research.
+- PERSON17, PERSON14 and PERSON6 discuss the differences between unsupervised and supervised methods of learning.
+- PERSON6, PERSON14 and PERSON17 are going to write comments on comments for the virtual task.
+- PERSON5 and PERSON17 are arguing about the interpretation of neural networks in a book.
+- PERSON14, PERSON18, and PERSON11 are machine learning people.
+- They have nothing to do with NLP.
+- PERSON17, PERSON5, PERSON6, and PERSON14 are discussing the structure of the book they are discussing.
+- They agree that it should be clear that they are talking about the general interpretation of the general, not NLP.
+- They also agree that the chapters should be PERSON6, PERSON17 and PERSON14 are arguing about the title of the summary in the book.
+- They think it should be called conclusion, conclusion and summary.
+- The limit for pages is 50, but they have almost 150.
+- PERSON6, PERSON14 and PERSON17 are discussing the book they are discussing.
+- The book does not have a summary index.
+- It has a glossary, but it is unnumbered.
+- PERSON6, PERSON14 and PERSON17 are working on a project.
+- They are going to discuss it tonight.
+- PERSON14, PERSON17 and PERSON6 are going to meet on the project 4 meeting on July 21st.
+- The meeting is having all the Tuesdays.
+- The next meeting would be on Tuesday.
+- PERSON14 wants to write the final report on the 21st, but PERSON14 and PERSON5 will meet on the 21st of July at 11.
+- They will meet again on the 28th of July.
+- They need to find a non-Czech reviewer for the book.
+- PERSON14 is an assistant professor.
+- PERSON17, PERSON12, PERSON16, PERSON13 and PERSON26 are full professors.
+- They are working there at LOCATION1.
+- The email was from a professor.
+- They want to meet for a drink today at 2 p.m. PERSON14, PERSON6 and PERSON17 are looking for a reviewer to read the book and write a review.
+- PERSON14 would like to see many, many comments on the book.
+
+
+Minuted by: Team Synapse

@@ -1,0 +1,26 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON5, PERSON7
+
+
+SUMMARY
+- PERSON7 is trying to fix the program in Overleaf, but it doesn't compile for him.
+- Overleaf has some serious troubles.
+- He's trying to use it as a plain text editor.
+- PERSON7, PERSON1, PERSON5 and PERSON2 are discussing the structure of the deliverable and how to share it with the rest of the team.
+- PERSON7, PERSON5, PERSON1, PERSON2, PERSON3 and PERSON4 are late with the preparation of the paper.
+- The deadline is in a week, so they need to have the full content ready by Wednesday.
+- They will ask for feedback next week.
+- PERSON7 will ask her colleagues in ORGANIZATION3 to review the deliverable towards the end of next week.
+- They need the internal review, the link to the document and some notes regarding the user interface.
+- PERSON7 will send PERSON1 a link to the ORGANIZATION4 demo paper.
+- PERSON1 will follow the structure suggested by PERSON5.
+- PERSON5 is having problems with the make and compiler.
+- He doesn't have them installed on his workstation.
+- His colleague, PERSON1, helps him.
+- PERSON5 is updating all the files.
+- PERSON1 is sending the link to the Wikibooks.
+- Overleaf doesn't let PERSON5 in for the Overleaf.
+- PERSON5 is going to install it.
+
+
+Minuted by: Team Synapse

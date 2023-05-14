@@ -1,0 +1,52 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON11, PERSON12, PERSON14, PERSON17, PERSON2, PERSON5, PERSON7
+
+
+SUMMARY
+- PERSON14 is trying to record the call to see if they are able to summarize the document they are talking about.
+- PERSON9 will give her presentation on PROJECT2 on the Monday seminar.
+- The date is possible the 17th February.
+- The goal of the office is to describe the pipeline and invite more people to join them.
+- PERSON14 needs to work on domain adaptation again.
+- The Monday seminar on the 17th happens the week after we have some dry run of a workshop where we are describing various language technologies for the ORGANIZATION5 congress.
+- They are also advertising for NLP.
+- PERSON14 is preparing for the NLP and PROJECT2 on the 12th and the 17th of February and the students firm fair on the 8th and 9th February.
+- Last year the system was not working so they used the system from ORGANIZATION4 and it went for one minute of the two days.
+- PERSON14, PERSON11, PERSON14 and PERSON16 will work on profanity filtering during the 18th and till 20th of March.
+- This week PERSON11 is working on the collection is business for OTHER3 and English.
+- PERSON11 has downloaded 1970 to 1980 pdf files extracted from the office and crawled 15,000 sentences.
+- PERSON11 and PERSON14 want to collaborate with PERSON6 on a project.
+- They will use the language model of PERSON6 and he will extract the terms from it.
+- The problem with compress sound goes always to network and is directly decompress before begin sent, so PERSON11 added the required command.
+- PERSON14 has an idea to train empty systems on corpora which are refind to contain only higher frequency words.
+- The idea is to filter the corpus together a very huge corpus and create a corpus limited to these words.
+- It is possible to filter monolingualy or to use back translation.
+- PERSON17 has finished the evaluation framework and it's ready for some test.
+- The team is working on the paper for exceptement.
+- PERSON4 didn't say "šoupátko" again so the scrotum didn't reappear in the TOK on Tuesday.
+- PERSON14, PERSON1, PERSON2 and PERSON17 are going to run the forced alignment of MI Corporas where their forced alignment fails and break the long recording into shorter ones.
+- They will do it after lunch on Thursday.
+- They have only one recordings translated into LOCATION1 and OTHER3.
+- PERSON7 has been listening to the presentation of the adaptation of czech ASR for PERSON4 talk that took place yesterday.
+- He was happy with the result and is working on the next version of the ASR system that should be trained on even more data.
+- PERSON11 will be evaluated soon to check the quality of the ASR system.
+- PERSON2 is working on the sound segmentation.
+- The results were bad for some ORGANIZATION6 talks, because the corpora on which the transformer was trained was for casual speak.
+- PERSON2 needs feedback from PERSON13 on how his segmenter works.
+- He needs it for the Monday talk by 17th or even for the dry run sesion of the workshop on the 12th.
+- The problem is that there is no speaker diarization on fly so they don't know when there is a speaker change.
+- The windows can overlap to speakers and the transformer translates sentences into nonsense.
+- PERSON8 has already worked on the project last June when he was helping us to put all the byplans together.
+- He is now in LOCATION3 and can participate only remotedly.
+- PERSON5 is waiting for a virtual machine for the paraphrasing server.
+- PERSON12 is still working on the division of the levels of microphone.
+- PERSON11, PERSON14 and PERSON5 are going to use FastSpeech to create an independent visualisation of sound.
+- They will try to integrate it in their set-up.
+- PERSON5 will come to LOCATION5 for a week to try it out.
+- PERSON5 is from LOCATION4.
+- The meeting should be on Friday instead of Thursday next week.
+- There will be a call for a doodle for the group as well as a list of topics for the next meeting.
+- The list is: "What do you want to do?"
+
+
+Minuted by: Team Synapse

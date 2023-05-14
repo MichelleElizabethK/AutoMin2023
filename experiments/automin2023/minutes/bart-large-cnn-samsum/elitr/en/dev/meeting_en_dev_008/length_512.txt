@@ -1,0 +1,61 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON5, PERSON7
+
+
+SUMMARY
+- PERSON7 is trying to fix the program in Overleaf, but it doesn't compile for him.
+- The main topic of the meeting is to define the structure of the deliverable documents.
+- The documents should be on the presentation platform, but also the ORGANIZATION1 presentation platform and ORGANIZATION7 presentation platform.
+- PERSON7, PERSON5 and PERSON1 are working on the ORGANIZATION7 presentation.
+- The Overleaf doesn't work.
+- They use a simple item to create a presentation platform.
+- It works from the phone, but it's not working from the laptop.
+- PERSON7, PERSON1, PERSON5 and PERSON5 are discussing the structure of the deliverable and the demo paper of the project.
+- They want to share the internals of their project with ORGANIZATION2, but they need to explain why it works first.
+- PERSON5 and PERSON7 need to develop a Web-based publishing platform for PROJECT1.
+- They need to follow the requirements in the description of work and the D platform updates.
+- The ORGANIZATION7 platform needs to be included in the deliverable.
+- PERSON5 will talk to the person who is their intermediator with ORGANIZATION7.
+- PERSON7 and PERSON5 are late with the preparation of an internal document.
+- The document has to be internally reviewed in two weeks, but they don't have anyone to do it.
+- PERSON5 will spend the afternoon putting the info inside the documents and will send them to the reviewers.
+- PERSON7, PERSON5, PERSON4 and PERSON1 are working on the EAMT demo paper.
+- They need to submit it on February 21st.
+- The deadline is in a week.
+- The deliverable is optional.
+- The full content should be ready by Wednesday.
+- PERSON7 has assigned a document to PERSON5, PERSON1, PERSON4, PERSON8 and PERSON6.
+- They need it to be ready by the end of next week.
+- It will be two pages long.
+- It should be a demonstrator and not the report.
+- PERSON7 is writing the requests for the internal review.
+- The content should be there towards the end of the next week.
+- The ELG paper is due next Friday, February 21st.
+- The document doesn't compile, but it compiles outside of Overleaf.
+- PERSON5 will write the deliverable and ask ORGANIZATION7 to review his understanding of the platform.
+- He will e-mail it to ORGANIZATION7 today and they will fix the issue.
+- The deliverable should have the same structure down to the Overleaf document.
+- PERSON7 and PERSON1 are trying to create a PDF from the ORGANIZATION4 demo paper.
+- The PDF didn't work, because there were no references.
+- PERSON7 modified the make file to make it compile seamlessly and added the necessary references.
+- PERSON5 has some questions about the make and the compilers.
+- He has to install them on his workstation.
+- PERSON1, his colleague from 13 years ago, explains to him how to compile the document.
+- He's joined his colleague's team as a part time employee.
+- PERSON1 is recording the Git command.
+- Last page .style doesn't take.
+- It's probably a package that's missing.
+- The files the tech file, taking requires this use package require package.
+- PERSON5 doesn't have this package manager installed.
+- He will check it by himself.
+- PERSON5 and PERSON1 are trying to install YAM install tex live dash last page.
+- It's finishing the install phase.
+- It complains on different styling, but it works.
+- It doesn't let PERSON5 in for the Overleaf for the other paper.
+- PERSON5 and PERSON1 are happy that Overleaf works as a Git repost.
+- PERSON5 will commit his modification and pull PON's modifications locally.
+- PON will work on the document over night or over night.
+- He will also put in some technical details.
+
+
+Minuted by: Team Synapse

@@ -1,0 +1,65 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON17, PERSON19, PERSON21, PERSON8, PERSON9
+
+
+SUMMARY
+- Today is the deadline for not adding new content to the book.
+- Everything in the book is already there.
+- Multilinguality is missing.
+- The definition of 'new contents' is not clear.
+- The introduction is to be written.
+- The last section is about Conclusions.
+- PERSON17 and PERSON9 have to comment on the text that is not finished.
+- PERSON8 is planning to rewrite the text.
+- He is unable to create images.
+- PERSON8 needs to check the paper's licence before he can copy it into his or her book.
+- He needs to specify the licence in the archive.
+- PERSON8, PERSON17 and PERSON9 are discussing whether or not they need to state the creative comments atribution 4.0 international licence for Proceedings of something on ORGANIZATION1 web.
+- PERSON9 and PERSON8 have different ideas about the structure of their papers.
+- They think there should be more detail about event fractuality and name entities in the papers.
+- PERSON9 divided the figure into two pictures.
+- Half of the figure is for attentions and half for probing.
+- PERSON19: GPT and attentions.
+- There is also a hidden one with PROJECT1.
+- PERSON9: Smaller font image.
+- PERSON9 is working on her chapters 5.2 and 5.3.
+- Some parts of the chapters still need to be rewritten and others are almost complete.
+- PERSON21 wants to share her screen with PERSON9.
+- PERSON21 wants to see the pdf of the book.
+- The chapters 3.1, 3.2 and 3.3 are already written, the to-do section can be safely deleted and the chapters 4, 5 and 6 are still to be written.
+- They need to rewrite and PERSON21 trains FastText embeddings and finds it strange that the FastText's image is more similar to the original Glove image than to Word2vec's.
+- PERSON21 and PERSON8 are wondering why some embeddings have some extremes and others don't.
+- PERSON21 and PERSON17 discuss the differences between the original PERSON13 model and the new PERSON21 model.
+- They agree to delete some of the ugly figures and fix others.
+- PERSON9 and PERSON21 discuss how to improve the figures after they have been prepared and sent to the reviewers.
+- PERSON21 will transform the bit map into proper text in Inkscape.
+- PERSON9, PERSON8, PERSON21 and PERSON17 are working on PROJECT3.
+- The deadline is today at midnight.
+- If someone doesn't complete their part within that time, they will have to reorder the chocolate.
+- PERSON9, PERSON14, Sentiment in Czech, is the last book.
+- The reviewers PERSON18, PERSON15, PERSON25 and LOCATION2 are English speakers.
+- The book is 160 pages long.
+- There is a preface to the book, but it's not abstract.
+- PERSON9 explains to PERSON8 and PERSON17 the difference between a book conclusion and a book summary.
+- PERSON21 brought some books to have a look at how they are structured.
+- The summary must be in English in every Czech book.
+- The book PERSON10 has conclu, concluding tokens and then summary.
+- The longest book in the series is the light lexikons.
+- PERSON9, PERSON17, PERSON26, 110, PERSON22, 149, PERSON19, and PERSON8 are working on a book.
+- They have a lot of errors.
+- Some of them are not in the Zotero format.
+- PERSON8 will comment on the table.
+- The next meeting is in two weeks on Monday, 13th July.
+- The meeting starts at 2 p.m. and ends at 5 pm.
+- The agenda includes lunch, the PROJECT2 meeting, PROJECT3 meeting and ORGANIZ PERSON9 will be sending many slack messages.
+- PERSON8 has holiday from Thursday.
+- PERSON9 and PERSON21 will be working next week.
+- If someone organises the ORGANIZATION1 lectures, PERSON8 will join.
+- There will be prerecorded presentations and live QA sessions PERSON17, PERSON8 and PERSON21 are registered for the tutorials.
+- The presentations will still be live, but they will be a broadcast.
+- You need to watch it at the given time and for each paper there are two time slots.
+- People can ask questions live on Organization PERSON17, PERSON2, PERSON20, PERSON9 and PERSON19 are registered.
+- There are a lot of people registered so it's possible that one of them could be watching a screening at some point.
+
+
+Minuted by: Team Synapse

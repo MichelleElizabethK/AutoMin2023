@@ -1,0 +1,31 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON10, PERSON11, PERSON14, PERSON5, PERSON9
+
+
+SUMMARY
+- PERSON10's system is frozen.
+- The easiest way to replay is to create a lockfile with time stamps and feed it to the AB client and to the presentation workers.
+- PERSON1, PERSON11 and PERSON9 are working on a project.
+- They are trying to set up a system to stream a video simultaneously on the ORGANIZATION5 server and on the server and simultaneously provide inputs to an AB client.
+- PERSON9, PERSON14, PERSON5, PERSON10, PERSON11 and PERSON14 are going to conduct a remote streaming of TEDx talks.
+- They need to identify the video file suitable for this kind of demo.
+- They also need to prepare a machine translation and transcribe the videos PERSON9 and PERSON14 are working on a presentation on Thursday and Friday.
+- They need to fix the set up, fix the quality and prepare the video.
+- They also need to inject the subtitles to all the languages.
+- PERSON1, PERSON9 and PERSON14 are discussing how to present Youtube videos in the PROJECT1 window and how to demo the system that handles non-native speech.
+- PERSON1, PERSON14, PERSON9, PERSON10, PERSON11 and PERSON11 are going to work on the technical set up.
+- PERSON10 explains to PERSON9 how to set up the demo.
+- PERSON1 is testing the idea of plan C on his laptop.
+- PERSON9 is streaming a 3-second-long fragment of video.
+- The project officer will see the demo through the screen so they'll be able to present both online text flow and subtitles of the presentation.
+- The presentation should be publically available to the host persons of the meeting.
+- PERSON9, PERSON10, PERSON11 and PERSON5 are having a technical problem with the presentation platform and online text flows.
+- They are meeting tomorrow to solve the problem.
+- PERSON7 is responsible for booking the Zoom meeting slot.
+- PERSON9 should prepare the call link for the call for all the participants.
+- PERSON10 should show him how to pipe the text into the presentation platform.
+- German will be the source language for the video file.
+- The next test session
+
+
+Minuted by: Team Synapse

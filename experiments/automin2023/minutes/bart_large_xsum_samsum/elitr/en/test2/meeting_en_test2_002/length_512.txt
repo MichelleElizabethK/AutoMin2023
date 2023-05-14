@@ -1,0 +1,76 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON12, PERSON15, PERSON16, PERSON18, PERSON24, PERSON3, PERSON7
+
+
+SUMMARY
+- PERSON24 is doing experiments to complete the GPU test and to know which version of PROJECT3 they will use.
+- PERSON12 is waiting for the input from ORGANIZATION1.
+- PERSON15 is worried about the multi source status for the deliverable.
+- PERSON24 should work on it after the baseline.
+- PERSON12 and PERSON15 are going to do experiments with multi-source text in ORGANIZATION6.
+- They will have a separate call tomorrow at 3 PM.
+- PERSON15 will send a link to the calendar for the notes for today's call.
+- PERSON10 will finish the language model checking of ASR outputs.
+- PERSON8 and PERSON3 will synchronize about the tools that, that PERSON10 has developed.
+- The other person on the call is PERSON15 reminds PERSON3 that profanity filtering is not yet integrated.
+- PERSON3 explains to PERSON6 how to do it so that he can test it himself.
+- PERSON3 has a call with PERSON6 later today.
+- They will discuss the profanity filtering and the spasm detection and removal.
+- PERSON3 is having a call with PERSON10 later today.
+- PERSON8 is also in touch with PERSON3, but will join after the call.
+- PERSON15 and PERSON3 are preparing for the upcoming Monday seminar that will be given by an Italian guy, the author of PROJECT1.
+- They need to prepare for the domain adaptation and recording segmentation.
+- PERSON15 is working on a solution for the multi-accent English.
+- He will create new sentences by concatenating words that were spoken by different speakers.
+- This will improve the implicit language model and the robustness of the ASR system.
+- PERSON10 and PERSON8 failed to start the pipeline yesterday, so the system was stuck for a while and some of the languages didn't work properly.
+- It's on PERSON3 and PERSON18 to make sure the system is understandable and regularly tested.
+- PERSON8 got stuck in the pipe.
+- He didn't know enough about the architectures.
+- When the workers started running, it didn't work.
+- PERSON18, PERSON15 and PERSON3 want to set up a call with PERSON8 to discuss the first specification of requirements for a pipeline set ups.
+- PERSON16 wants to limit the number of languages.
+- PERSON16 and PERSON18 are discussing whether it's better to run the multi lingual moral with fewer languages enabled or with more languages.
+- PERSON18, PERSON15 and PERSON16 are arguing about the fall back solution for a problem with the PROJECT3 model.
+- The model was trained using tensor to tensor, which makes it slow.
+- It is better optimised for PROJECT3.
+- PERSON3 is going to look into the technical issues with PROJECT3.
+- PERSON12, PERSON16, PERSON18 and PERSON3 need to learn PERSON14's model.
+- PERSON14 sends them some scripts with absolute paths on their systems and they need to replace them with their own paths.
+- PERSON18 sends them the location of the models.
+- PERSON3 sends them PERSON16 is working on the shortening and extending models.
+- She is running out of storage quota on levá strana.
+- PERSON16 wants to know how much space there is available on Troja.
+- ORGANIZATION8s one hundred language models take a lot of data, so they need to be stored there.
+- PERSON19 would like to take part in a project with PERSON15 and PERSON16.
+- They will meet tomorrow at 2 pm before the call with PERSON24 and PERSON12.
+- The deadline for applying for PHD one is at the end of the year.
+- There is an Indian student who PERSON15 is trying to send an invitation to ORGANIZATION2 tomorrow at 2 pm.
+- They haven't had the call last week.
+- They need the evaluation of all systems, all files, in the test set.
+- The code is almost finished.
+- There will be a call at PERSON3 will have a call with PERSON7 about automating the ASR evaluation.
+- After that, they will arrange a meeting, and then PERSON7 will look at the presentation and write it into the deliverable.
+- During the last week sessions, PERSON15 and PERSON3 learned two important lessons.
+- First, they need to make sure they have the important people around the globe available.
+- Second, they have to focus on the long-term focus.
+- PERSON15 is looking for someone who can work on the non native accent.
+- PERSON10 is already starting the data collection.
+- PERSON3 is learning how to do domain adaptation.
+- PERSON15 wants to know if the toolkit is getting the worst out of the PROJECT10.
+- PERSON3 confirms that the dictionary is well included, and the substitute words are for the language model are really used, and it's asking the correct anagrams instead of the new PERSON15, P, PERSON1 and P.16 are working on a paper on how to improve the ASR.
+- One suggestion is to have two ASRs running at the same time.
+- The other is to steal the data from ORGANIZATION2's models on ORGAN PERSON15 and PERSON16 want to create a tool to download filter and videos from ORGANIZATION3 and make a training set out of them.
+- They want to use them for their training tests.
+- They don't have the human capacity to do that, so they need colleagues to PERSON1, PERSON15 and PERSON3 discuss the use of sentiment analysis on social media to filter posts.
+- There was a cable competition where people had to make models to detect the tweets or like sentences which were harmful in some ways.
+- The setting is slightly different from the competitions and the subjectivity is less important.
+- PERSON3, PERSON12, PERSON1, and PERSON15 discuss how to improve the performance of ASR.
+- PERSON16 has some bachelor students who might be interested in supervising a student.
+- PERSON1 will ask his student to speak with a non native English accent.
+- PERSON3 will ask elderly students who are studying in Prague for the first or second year if they would be interested in working on the task of shortening MT.
+- PERSON1, PERSON15, PERSON12 and PERSON3 are going to Prague.
+- They will meet again on the 7th of January.
+
+
+Minuted by: Team Synapse

@@ -1,0 +1,40 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON12, PERSON19, PERSON20, PERSON3, PERSON9
+
+
+SUMMARY
+- PERSON20 and PERSON12 discuss the pandemic in India and the Czech Republic.
+- They also discuss the situation in Czech Republic where there are many cases of HIV/Aids.
+- PERSON9 wants to know if there are any good models for the named entity recognition model for English and Czech meetings.
+- PERSON9 and PERSON12 discuss named entity recognition problems with their institute's system.
+- PERSON12 and PERSON9 discuss changes to the text of the transcripts.
+- They discuss how to keep the information consistent.
+- PERSON3 will join the meeting at 10 pm.
+- PERSON12 will send him an e-mail with the link to the meeting.
+- PERSON12 and PERSON3 are discussing how to deal with grey cases for named entities.
+- They agree that all the named entities have to be located automatically, but they differ on the level of manual validation.
+- PERSON3, PERSON9 and PERSON12 agree on the two step manual annotation.
+- They differ on how it should be done.
+- PERSON3 explains to PERSON12 and PERSON9 how to improve the system of name tag.
+- PERSON3, PERSON12 and PERSON9 discuss the implementation of the name tag system.
+- PERSON9 will use named entity recognition for English meetings and after that for Czech meetings.
+- In the first phase the name tag will pre-annotate this list.
+- Then the annotators will label the lines with the decisions.
+- PERSON3 explains to PERSON9 how to process the corpus from top to bottom.
+- PERSON9 will provide a table with names of speakers.
+- PERSON3 suggests to use angle brackets to separate the names of the speakers.
+- PERSON3 suggests that when doing the anonymization, one should preserve the full name like PERSON10 here on line one.
+- PERSON10 will be identified as a name at the type level.
+- PERSON3 wants PERSON15 to limit his involvement in the minuting and the tool for that as he is starting his Phd.
+- in Slovakia.
+- PERSON20 wants him to transfer the tool to him.
+- PERSON3, PERSON19, PERSON12, PERSON9 and PERSON20 are going to work on the mock annotation of the summaries.
+- They will divide themselves into two groups of two annotators and two evaluators and annotate them.
+- PERSON12 will choose the number of meetings and send them to PERSON19 and PERSON20.
+- They will work as summarizers and evaluators on the evaluation part of the meetings.
+- They have to do it within this week.
+- PERSON12, PERSON19 and PERSON20 are going to annotate and then evaluate twenty one-minute-long meetings.
+- They will meet tomorrow.
+
+
+Minuted by: Team Synapse

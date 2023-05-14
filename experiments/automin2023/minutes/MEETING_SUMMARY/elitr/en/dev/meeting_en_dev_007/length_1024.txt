@@ -1,0 +1,23 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON2, PERSON3, PERSON5
+
+
+SUMMARY
+- PERSON1 and PERSON2 are working on organizing the organisational data set.
+- The deadline for the data is November 30th, but it's already late, so they need to prepare it by the end of the month.
+- They will discuss the annotations and alignment tool by PERSON6 PERSON1 and PERSON2 are going to conduct an investigation.
+- They want to prepare a shared task.
+- PERSON2 wants PERSON1 to send him the minutes from all the participants and the evaluation metrics based on the automatic evaluation metrics.
+- PERSON2 needs someone who understands how the annotators work to help him with the alignment of transcripts and minutes.
+- PERSON1 would like to transfer the task to PERSON5 and explain her how the tool works.
+- PERSON1 supports the idea of aligning minutes and transcripts to form a structured transkript.
+- PERSON2 is not sure if it's a good idea.
+- PERSON1 wants to start the annotation work from Monday.
+- PERSON2 would like to start it from September.
+- PERSON5 and Thirtankar will meet on Friday to discuss technical details.
+- PERSON1 and PERSON2 are supposed to prepare data for ORGANIZATION1 and annotators tool by the end of this week.
+- They need to make a call with annotators.
+- PERSON4 will join them when they discuss the evaluation, but PERSON2 didn't speak to
+
+
+Minuted by: Team Synapse

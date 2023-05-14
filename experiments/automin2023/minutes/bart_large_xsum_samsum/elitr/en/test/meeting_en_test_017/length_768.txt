@@ -1,0 +1,49 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON11, PERSON3, PERSON6, PERSON7, PERSON9
+
+
+SUMMARY
+- PERSON6 will do the submission for the start project this week.
+- The left speaker is to the right and the right tester speakers are to the left.
+- The sound will be strange because the person will be walking across the street and the sound will go in the other direction.
+- The PERSON6, PERSON9, PERSON11 and PERSON7 are going to send a book to PERSON5.
+- They want to send him a table of contents and a version of their book.
+- The book is not finished yet, so they don't know whether to restructure it or change PERSON9, PERSON6, PERSON7 and PERSON3 are working on the book.
+- They have only two weeks on to the deadline but it's not much time.
+- They want to have the book written on, at the end of June.
+- They don't have a Google calendar for PERSON9 and PERSON11 will be here from the thirteenth to the twenty-sixth.
+- They will send some papers to Black box in July.
+- PERSON6, PERSON9 and PERSON7 are going to have a project meeting on the 13th of July.
+- They will also have regular meetings on Tuesdays.
+- PERSON6, PERSON3, PERSON9 and PERSON11 are going to meet on the 13th of July.
+- They will have the meeting in the middle of June.
+- The official deadline for the book was the end of June, but it was postponed due to the corona crisis.
+- PERSON6 wants to submit the book officially the end of July, but she doesn't know whether it can be postponed many more times.
+- PERSON9 and PERSON11 think they can postpone it for six months and use the money from the project for some conferences in the first half PERSON6, PERSON9, PERSON10, PERSON12 and PERSON10 are working on the book.
+- The deadline is June 30th.
+- The next meeting is on July thirteenth.
+- PERSON6 and PERSON7 are discussing the differences between their balustrades paper and the one in LOCATION2.
+- PERSON6 spent a lot of time on the first part of the chapter and on that section and he still has not finished it.
+- The second part of chapter five must be reviewed and rewritten.
+- The section about self-attentions and the section about the categorization are almost done PERSON6 and PERSON11 are working on their chapters.
+- PERSON6 has written more than 100 pages.
+- PERSON11 has written a few paragraphs in the last week.
+- PERSON11 has a lot of work to do on her book.
+- She needs to go through the first two articles mentioned in the three, zero, one, two and rewrite the third one to make sense.
+- She also needs to talk about the data and what data should be visualised PERSON9 has restructured the section and needs to change the introduction.
+- PERSON9 reorganizes the text according to the individual papers.
+- He needs to add some more to the text and restructure the structure of the text.
+- Some of the papers are about semantics and others are about pragmatics or semantics.
+- PERSON9, PERSON6 and PERSON7 discuss the semantics of the task they are working on.
+- PERSON9 wants to split it into multiple smaller sections and keep it as a separate subsection.
+- PERSON9 has a typic problem to solve.
+- She has a list of papers that she wants to cover, but some of them are missing.
+- PERSON9, PERSON7 and PERSON6 want to report on the PROJECT4 paper they submitted.
+- They want to copy the related work from the paper and put it in the introduction.
+- PERSON6 wants to send a survey about, syntax in, neural networks to PROJECT10.
+- PERSON3 wants to share a survey visualisation with ORGANIZATION6.
+- PERSON3, PERSON6 and PERSON9 want to create a visualisation about transformers and machine translation.
+- PERSON6 and PERSON7 are going to discuss how to set up the LaTeX format for deep learning images in the book repository.
+
+
+Minuted by: Team Synapse

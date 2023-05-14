@@ -1,0 +1,45 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON12, PERSON4, PERSON6, PERSON8
+
+
+SUMMARY
+- PERSON8, PERSON4, PERSON12, PERSON6, PERSON7, and PERSON10 are on the call.
+- They are discussing the development schedule for the project.
+- The plan is for ORGANIZATION1 welcome, PERSON1, and in-between will be Python Sorrow that's excepts sentences for translation from the ORGNI worker.
+- PERSON8, PERSON10 and PERSON6 are working on a presentation platform.
+- They need to prepare an ORGANIZATION1 worker for partial sentences.
+- They also need to work on the handling of timestamps and hide them from the Python and PROJECT3.
+- PERSON6 and PERSON8 are discussing how to present partial translations and partial output in the presentation.
+- The presentation platforms must update the text incoming messages only what they want to publish.
+- The textfield content can be sent several times as an update and then at some point the presentation platform would scroll it up and it would display whatever comes as full textfield.
+- PERSON6 and PERSON8 need to discuss whether the textfield should be replaced or scrolled up.
+- They will discuss it again on Monday.
+- The prototype for the presentation platform is not available at the moment, so there will be no prototype available for PERSON10 today.
+- The first prototype presentable should be at the 15th of June.
+- The development team has something close to be fine advertial to use as a prototype, but they can have some working maybe for the project.
+- PERSON8 would like to finish the prototype sooner.
+- PERSON8 wants to start running ORGANIZATION2 workers in LOCATION1 as a fall back solution to the ORGONATION2 calls with live subtitling.
+- PERSON11 wants to use clones of alpha workers to run in LOCATIONS1.
+- PERSON8 suggests to switch to the ORGANIZONATION2 platform.
+- PERSON10 wants to stop using limit number workers as it's not comfortable for him.
+- PERSON8 wants to make use of the ORIGONIZATION3 and ORIGINATION4 platform.
+- After the call, PERSON8 will reboot to windows and connect to the room to connect the workers.
+- The presentation will be tested with ORGANIZATION2 after this call.
+- The platform is ready.
+- Once PERSON2 speaks, they will learn where they will get the files for domain adaptation and so on.
+- PERSON4 has a problem with ASR on his production client.
+- He needs to create a script to replicate the problem and stress test it.
+- The production client is different from the simple one only by a by changing the default parameters and comment send documentations.
+- It's fine for Linux based clients.
+- PERSON4 and PERSON8 confirm that the text client is the same ebclient as in the sample.
+- The script is different, but it's the same from the from the sample and it didn't work for them this week.
+- They have up to four calls a week and a workshop.
+- If they have any problems with these calls, they need to put it in the document and find a slightly different hour.
+- PERSON6 will be in Trento checking blogs and checking blogs.
+- It's still too early to confirm if the final lists are in the MT models.
+- PERSON6 will reboot and try to lodge the ORGANIZATION2.
+- If it works for him, he will launch it himself.
+- If not, he'll be in touch next Friday.
+
+
+Minuted by: Team Synapse

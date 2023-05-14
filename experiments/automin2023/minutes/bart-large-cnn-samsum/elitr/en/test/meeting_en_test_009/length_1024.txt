@@ -1,0 +1,57 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON10, PERSON2, PERSON3, PERSON6, PERSON7, PERSON9
+
+
+SUMMARY
+- PERSON1, PERSON9, and PERSON10 are waiting for someone from ORGANIZATION3 to join the call.
+- They are having problems with the presentation platform, which now requires a password.
+- The high load is because of the missing multiplexing.
+- Organizer 3 needs to find a solution to this problem.
+- PERSON1 and PERSON9 are having problems with the translation of ASR files into different languages.
+- There are not enough ASR workers for the project.
+- PERSON11 is giving a lecture this morning.
+- PERSON9 is looking for someone who knows where PERSON12 is.
+- PERSON1, PERSON9 and PERSON7 are trying to get the machine translation workers to work properly.
+- The problem is that the text communication is not working properly.
+- PERSON1 suggests a text communication with a text-only pipeline to solve the problem.
+- PERSON2 can't help because PERSON12 is going on holiday.
+- PERSON1, PERSON5, PERSON9, PERSON6 and PERSON13 are having connection issues with the presentation platform.
+- They need to make a platform running locally within sol Wired Network to stream the slides to participants notebooks.
+- PERSON1 will be coming to the venues on Wednesday evening.
+- PERSON6 and PERSON1 are trying to test the configuration of the presentation platform on the local network.
+- They are using the ORGANIZATION2 platform and the subtitles are coming from the Internet while the stream is only copied locally.
+- They need to connect the two machines to the same LAN and run the engines on one machine and the other machine on the other.
+- PERSON10 and PERSON14 will probably arrive on Wednesday around the 16 or 17.
+- PERSON1, PERSON10 and PERSON9 are working on the presentation platform.
+- They are going to test it today and tomorrow.
+- They need to choose the preferred English stream at the beginning and the performer translation only of eternal tone of all the possible combinations.
+- They also need to prepare the X1 configuration, X1 X2, and put up the final setup.
+- PERSON10 and PERSON1 are going to fix some issues with the presentation platform.
+- PERSON10 will support PERSON5 during his travel.
+- PEN1 is going to help PEN10 with the problem with the partial hypothesis output of the ASR.
+- PERSON1, PERSON9, PEN1, N1, Minus, and PEN12 will meet tomorrow to discuss a problem with machine translation.
+- They will discuss the solution to the problem and test it this afternoon.
+- PEN 1 will confirm their availability for tomorrow's meeting on slack.
+- PERSON1 is concerned about the availability of the workers.
+- PERSON9 is also concerned about empty workers not being used, while the they should be.
+- P3 will not be able to make it to LOCATION1.
+- PERSON11 is entering his availability for tomorrow morning, but he has a problem connecting to the pexip.
+- PERSON1 wants to restart the ASR workers as soon as possible, but he doesn't know how to do it.
+- He suggests setting up a CGI or PHP script to send the session ID of a worker which is not functioning to a fixed URL.
+- The script would kill the process and start a new process instead, so that they could initiate the restart of the worker.
+- PERSON1, PERSON3 and PERSON11 want to know how to tell a dead worker from a working one.
+- They want to create a script to make restarting one of the ASR workers faster.
+- The code of the script can be found in the log file.
+- There were issues with the move from the old mediator to the new mediator version of the presentation platform.
+- The problem was with the Xml that you were lying on some custom XML library, and you had to switch these libraries.
+- It's not the XML that they are accesing, because they use precompiled library.
+- They need a function call that would extract the session ID from it.
+- The session ID is written in each pocket of the receipt mediator.
+- There is an open SSH port 22 4443 and 4444 on the machine.
+- PERSON1 and PERSON3 are having problems with the call.
+- They are trying to fix it, but it's not working properly.
+- They need someone to keep on the call with PERSON9 and speak to them.
+- They will write to them on slack tomorrow.
+
+
+Minuted by: Team Synapse

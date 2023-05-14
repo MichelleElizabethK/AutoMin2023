@@ -1,0 +1,35 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON11, PERSON12, PERSON14, PERSON17, PERSON2, PERSON5, PERSON7
+
+
+SUMMARY
+- The Monday seminar on the 17th of February is going to be held.
+- PERSON9 will give a presentation on PROJECT2 on the Monday seminar.
+- The goal of the office is to describe the pipeline and to invite more people to join.
+- On the 12th of February there will be a dry run of the NLP workshop.
+- On the 17th February there is going to be a final workshop.
+- There will be non-native speakers presenting in English.
+- The students' firm fair is taking place on the 18th and 19th This week PERSON11 is working on the collection is business for English and OTHER3.
+- He has downloaded 1970 to 1980 pdf files which is extracted which was extracted from the OTHER2 using texted OTHER1.
+- 15000 sentences is crawled automatic using automatic clover.
+- PERSON6 was busy with exams.
+- According to PERSON14, the bad word "šoupátko" was created by an error in the translation system.
+- The idea is to train empty systems on corpora which are refind to contain only higher frequency words.
+- PERSON10 and PERSON10 are working on the paper for PERSON2 is on the call.
+- PERSON14 has received the e-mail yesterday from PERSON1.
+- The recorded from MI Corporas has time stamps for word.
+- The evaluation is finished.
+- There is one recording translated into LOCATION1, LOCATION2, OTHER3 and a limited PERSON7 has been working on the adaptation of czech ASR for PERSON4 talk that took place yesterday.
+- He was happy with the result.
+- He is preparing a next version of the ASR system that should be trained on even more data.
+- He also trained the transformer converting the phonings PERSON2 is waiting for feedback from PERSON13 on his segmenter.
+- He needs it in order to prepare a presentation for the workshop on the 12th.
+- PERSON8 is working on a project for PROJECT2.
+- PERSON5 is waiting for a virtual machine for the paraphrasing server.
+- PERSON12 is working on the division of the levels of microphone.
+- PERSON13 is not responding.
+- PERSON14: LOCATION4.
+- PERSON7: Thank you.
+
+
+Minuted by: Team Synapse

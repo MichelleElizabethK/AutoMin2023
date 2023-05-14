@@ -1,0 +1,91 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON11, PERSON12, PERSON15, PERSON16, PERSON19, PERSON2, PERSON20, PERSON21, PERSON23, PERSON3, PERSON5, PERSON6, PERSON9
+
+
+SUMMARY
+- PERSON5 is trying to get everything running on his side so that they have more interchannels.
+- The goal for today is to get all money on the full workload.
+- The logistics is - Full Wednesday is surely avilable for those who are coming here from abroad.
+- PERSON5 wants to see the full workload and test the presentation platform.
+- The presentation platform available is not yet updated.
+- A working copy will be deployed next week.
+- The real video mixer has been ordered and will be ready soon.
+- The fingerprints map is more legible.
+- PERSON5 wants to use the old setup for the check today.
+- The voice quality is not perfect.
+- Wednesday is available for the full guesting at South Premises from the very morning and Tuesday afternoon.
+- PERSON9 is coming on Wednesday evening or even earlier.
+- PERSON5, PERSON9 and PERSON12 will come to the meeting on Tuesday lunchtime.
+- They will do the testing in the second, once PERSON3 has put everything together and on, and so on.
+- PERSON5 wants to know if all the interpreters in the four booths would see their subtitles as the're being recognised.
+- If ORGANIZATION5 can bring sufficient laptops, they'll get them.
+- PERSON5 wants to have notebooks in the interpreters' booths and fake language labels in the languages to correspond to the ASR of the individual booths.
+- He wants to discuss how to do it in a different way so that the network load is not duplicated again.
+- PERSON5 wants to collect feedback from the participants on the presentation platform.
+- They have not yet populated the feedback form.
+- They will organise a ORGANIZATION4 form on Wednesday and finalise the content of the form on Thursday and give it to the participants.
+- PERSON5 wants to record a video from a PhD student of journalism.
+- They are waiting for the confirmation from ORGANIZATION3 if they have no objections against this.
+- If not, they would like to do it outside of the building, or at ORGANIZATION5.
+- They need to suggest what should appear in the video.
+- PERSON5 wants to record a video inside the building.
+- ORGANIZATION3 has to confirm that they are fine with that.
+- Even with the interpreters, there was a requirement for the confidentiality or no disclosure, so it's not easy to get permission to record anything.
+- PERSON5 wants to record the setting and what they do there, so the wires and an empty room, or interpreter's booth or maybe to watch participants from behind.
+- He wants to make a disclosure for from the journalists, because he will be there, he will hear stuff.
+- They need to have a nondisclosure agreement and confirm the regime here is the same as with the interpreters.
+- PERSON5, PERSON2, PERSON9, PERSON3 and PERSON11 are taking part in an experiment.
+- There are concerns that the participants will talk too much during the sessions and leak too much data.
+- The participants agree to be very careful about the data protection.
+- PERSON5 has the full set of subtitles, but only two English segmenters.
+- They have to run at most two languages at once.
+- There is no one from PROJECT2.. com to translate the German to English.
+- The video broadcastings are not finished yet.
+- PERSON3, PERSON11, PERSON5, PERSON6 and PERSON9 are trying to solve an incremental transcription problem.
+- The problem is with the presentation platform.
+- The solution is to keep the ASR and change the start time until the finalisation of the protocol.
+- PERSON5, PERSON11, PERSON3, and PERSON21 are trying to solve the problem where the English doesn't get through to the Romanian subtitles.
+- The last published message from the publisher is three minutes old and no one is publishing right now.
+- The ASR workers are not available to help.
+- PERSON9, PERSON5, PERSON3 and PERSON11 are on a conference call.
+- The ASR is not working.
+- Two ASR workers from English are available, but one of them isn't working.
+- The other one is not responding to the e-mail.
+- PERSON5 is trying to login to Skype to reach people on Skype, but it didn't connect.
+- There is only one English segmenter and it's not available, but there are two German segmenters.
+- PERSON17 told PERSON9 that PERSON14 is out of office at the moment.
+- PERSON3, PERSON5, PERSON9 and PLPL are trying to pass the translation system from ORGANIZATION1, but it's not working.
+- The input is from audio.
+- The publisher, PERSON22, is running the workers right now.
+- PEN21 sends the desktop to PEN5.
+- PERSON5, PERSON21, PERSON9 and PERSON22 are trying to find space for the worker.
+- The worker is not available today, because he has a medical issue.
+- They need to know when he will be available.
+- PERSON10 didn't know about the private call and the regular meeting.
+- He didn't receive doodle.
+- PERSON11 is the LG-code from ORGANIZATION1.
+- The first agenda is metaphorum.
+- The testing is still going on.
+- The HTTPS should work at the moment, but it's not mandatory.
+- It would be nice to have the HTTPS mandatory on the presentation interface.
+- PERSON20, PERSON3 and PERSON15 are having problems connecting to the Internet.
+- There is a problem in managing user's data for the GDPR.
+- The presentation platform didn't store any data.
+- There are no usernames or passwords needed, just something to prevent anyone from anywhere to listen in.
+- PERSON9 explains to PERSON2 how to connect Avai to a segmenter that doesn't produce any output.
+- PERSON19 has ten instances of the segmenter running all off putting hard files and he doesn't know which one it's connected to.
+- PERSON11 is off the phone for an hour or two.
+- He will arrive on Wednesday in the evening.
+- PERSON2 is going to write a microtest script with a test case and upload it to the crise control repo.
+- They will exchange emails about the bridge fingerprints.
+- PERSON9 and PERSON21 will come back in the afternoon to check the source language in the presentation platform.
+- They need to change the publishing workers.
+- They will also change the fingerprints on the client side.
+- PERSON2 is going to finish the script and then they will write on.
+- PERSON2 will write a script for the testing the ASR and send it to PERSON9.
+- PERSON9 will send the script to the control repo.
+- PERSON2 is compiling the client now to test it.
+- PERSON3 and PERSON2 will be available in 10 minutes.
+
+
+Minuted by: Team Synapse

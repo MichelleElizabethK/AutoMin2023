@@ -1,0 +1,38 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON10, PERSON2, PERSON3, PERSON6, PERSON7, PERSON9
+
+
+SUMMARY
+- PERSON1 is waiting for PERSON13 to join the call.
+- PERSON10 is going to register a new credential for all the participants of the workshop.
+- The authentication fee has been reintroduced so that only people participating in the event are allowed subtitles.
+- There is a problem with multiplexing PERSON9 is listening on another machine than the EB client.
+- There are not enough ASR workers to process all the targets at once, so three of them crashed and were released.
+- PERSON1, PERSON7 and PERSON9 are trying to solve the problem of the machine translation workers not working properly.
+- Organizer12 is away on holiday, so they don't have anyone to help.
+- PERSON1, PERSON9, PERSON5, PERSON6, PERSON13 and PERSON1 are working on a presentation.
+- There are problems with the presentation platform.
+- PERSON6, PERSON1, PERSON14 and PERSON10 are going to run the presentation on the local network.
+- They are using the ORGANIZATION2 presentation platform and the subtitles are coming from the Internet while the stream is only copied locally.
+- The functionality of the presentation platform is working, but there are some issues with it.
+- PERSON9 has shared with them the scheme of the microphones and so on.
+- PERSON10 suggests to select the preferred English stream at the beginning and filter all the possible streams.
+- PERSON5 and PERSON9 agree PERSON10 will be there on Wednesday.
+- ORGANIZATION2 will add the slides X1 till X4 this afternoon.
+- PERSON1 wants to have machine translation as immediate as possible, translating incomplete sentences as well.
+- PERSON10 wants to test it this afternoon.
+- PERSON12 wants to confirm availability for debugging tomorrow.
+- PERSON9 is worried about the availability of the workers.
+- PERSON1 is checking whether there is a delay.
+- PERSON11 has a problem connecting to the pexip.
+- PERSON12 will be available tomorrow morning.
+- PERSON3 wants to be there as much as possible and restart the workers as soon as possible, but he can't guarantee that he will be there at every minute.
+- PERSON1 suggests setting up a CGI script or PHP script to ping fixed URL and tell it the session ID of a PERSON1, PERSON3 and PERSON9 want to know how to deal with the problem of restarting ASR workers.
+- PERSON1 asks PERSON11 to restart the server.
+- It will save a lot of time and it will speed up the restarts.
+- It turns out that the server doesn't use the provided library, it uses a precompiled library.
+- It is also more complicated with the workers, PERSON1, PERSON3 and PERSON9 are having problems with the call.
+- They need someone to help them.
+
+
+Minuted by: Team Synapse

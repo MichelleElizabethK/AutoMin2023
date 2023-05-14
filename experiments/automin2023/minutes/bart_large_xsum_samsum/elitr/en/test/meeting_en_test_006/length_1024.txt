@@ -1,0 +1,35 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON11, PERSON13, PERSON15, PERSON16, PERSON4, PERSON8
+
+
+SUMMARY
+- PERSON11, PERSON4, PERSON8, PERSON13, PERSON15 and PERSON16 are going to meet on Monday, but they have to postpone one of their regular meetings as the rules have been changed.
+- PERSON1, PERSON8, PERSON11, PERSON13, PERSON16 and PERSON4 are going to do the summarization and review of the ASR system.
+- They need to ask for an extension for this deliver because Congress has not taken place.
+- PERSON1, PERSON8 and PERSON11 are looking for a project management guide for the Czech Republic project.
+- QT21 doesn't have it.
+- The project is due on the 8th of June.
+- PERSON1 will write something and someone will review it.
+- PERSON8 has started building the PROJECT1 test sets some time ago.
+- He wants to have them populated and described by the end of August so that they can be ready to submit as a deliverable.
+- The test sets consists of raw documents, curated to serve well, linebay PERSON8, PERSON1 and PERSON15 discuss how to organize the test sets and file lists.
+- PERSON8 explains to PERSON1 and PERSON15 how the evaluation of spoken language translation works.
+- PERSON8 and PERSON1 are working on a project.
+- They want to do both the translation and the auditing of the files.
+- If they cannot find people who can do both, they will ask them to do manual back translation to Czech.
+- PERSON1, PERSON8, PERSON11, PERSON13 and PERSON15 are working on a project.
+- The project was started when the EU still existed.
+- There are ten tens of thousands of sentences in Irish.
+- ORGANIZATION7 has been working on this retranslation approach for the PERSON1, PERSON8, PERSON15 and PERSON15 are working on a project in German.
+- The project is in the middle of the project.
+- There is a lot of research going on right now.
+- PERSON1, PERSON8, PERSON4, and PERSON13 are working on a project.
+- They are trying to run GPT tool to predict the tail of the sentence.
+- It doesn't work very well, so they are going to send a demo on May 17th.
+- PERSON4, PERSON8 and PERSON1 discuss how to present the results of the demo to the project officer.
+- The demo should include both the ORGANIZATION2 representation and the sub-organization5 subtitles.
+- PERSON8, PERSON4, PERSON15 and PERSON11 are going to send an e-mail to the PERSON5 towards the end of the next week.
+- Before that, they should run the demo for them.
+
+
+Minuted by: Team Synapse

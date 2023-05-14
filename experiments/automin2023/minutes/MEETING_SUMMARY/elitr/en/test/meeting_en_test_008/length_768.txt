@@ -1,0 +1,30 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON5, PERSON7, PERSON8
+
+
+SUMMARY
+- PERSON8 is aligning the link into the web interface.
+- PERSON5 has prepared some guidelines for the evaluation, but they are not fully ready yet.
+- PERSON8 is searching for some reference to the evaluation.
+- PERSON7 managed to upload the ORGANIZATION3 sources.
+- PERSON5 and PERSON7 are doing a search on ORGANIZATION3's website.
+- They find minutes of a meeting from 2011, a snapshot of the interface for the annotation tool for valuing the corpus, and a reference to the agenda from ORGANIZATION3.
+- PERSON5 has opened Fact-based Content Weighting or Evaluating Interacting Summarisation.
+- There is an interface which can be seen in the blue web application.
+- It is a web application for the front-end of the paper.
+- It has a summary and a snapshot of the PERSON5 is happy with what PERSON8 has done regarding the evaluation matrix for the paper from 2020 September.
+- PERSON7 wants to know how it would work for a shared task.
+- PERSON8 will share the draft of the training data with the rest of the team.
+- PERSON7 and PERSON5 agree on the need to build an interface for annotators.
+- PERSON8 is reading the paper how to add the constant values in the equation.
+- PERSON5, PERSON8, PERSON7 and PERSON8 will judge each other's minutes.
+- They will get transcripts and two different minutes.
+- PERSON8 is working on the evaluation paper.
+- It took her a long time because she was having problems with some of the documents.
+- She is trying to link the papers which she implemented in the agenda.
+- She has done three evaluation papers.
+- PERSON5 has sent her the meeting with PERSON5 and PERSON7 need to find minutes for each transcript.
+- PERSON8 will link the implementation he's done on and send the automatic evaluation in 5 minutes.
+
+
+Minuted by: Team Synapse

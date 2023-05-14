@@ -1,0 +1,50 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON4, PERSON7, PERSON9
+
+
+SUMMARY
+- PERSON4 hasn't heard from PERSON2 yet.
+- He's in Prague.
+- PERSON1 has forwarded to PERSON4 the e-mail they both sent.
+- PERSON7 is in Iran for a month or two, and then she's moving to Canada.
+- PERSON9 is in New PERSON9 wants professor PERSON4 to come to do the paperwork.
+- The deadline for getting the money has been postponed.
+- There are limits on how far they can push the professor.
+- Professor PERSON4 will talk to her about it.
+- PERSON4 is looking for a student to work on the project.
+- PERSON2 is busy with his master thesis and has to finish it in a short period of time.
+- PERSON7 was supposed to prepare the files for annotators and put the annotations into the data set, but she's PERSON4 explains to PERSON7 that some of the words that PERSON1 prepared are not named entities in all the contexts, so they need to be decided by the by instances.
+- PERSON7 needs to prepare some text in a graphical format for the annotators.
+- PERSON4 suggests bolding and italicising the text to make it easier for people to annotate documents.
+- PERSON7 suggests taking the list from PERSON1.
+- PERSON4 shares the de-identification procedure with PERSON7 and PERSON9.
+- PERSON4 wants PERSON7 to extract the indicators from the HTML and put them into the clean XML format.
+- PERSON1 wants PERSON4 to copy and paste a remark of hers into the main text of the minutes.
+- According to PERSON4, the XML markup should be clear about the stages of the processing and the annotation itself can be ambiguous.
+- PERSON1 thinks that individual sentences are not enough to present the full documents.
+- PERSON1, PERSON4, PERSON9 and PERSON7 discuss how to communicate with people who upload documents.
+- PERSON1, PERSON4 and PERSON7 discuss how to mark non-per-named entities that have been automated or, halfway automated.
+- PERSON9 will make the website ready within one or two hours.
+- The website is in the PROJECT1, GitHub.
+- The way to roll it out to the web is fully automatic.
+- PERSON5 is not on the call.
+- PERSON4 needs a reference letter for scholarship.
+- They are in the process of submitting the PROJECT3 proposal to two places: Toronto and Calgary.
+- PERSON9 wants to set up a meeting with PERSON6 to talk about it.
+- PERSON7 will try to prepare a demo of the document for the annotators.
+- They need to have all the data processed by February mid.
+- PERSON4 wants the sample data, at least, some files, to be uploaded on the website as soon as possible.
+- PERSON9 wants to PERSON9 will send a PROJECT2 proposal next week.
+- There is a new variant of the proposal that is weaker.
+- It's in the ORGANIZATION1 document.
+- PERSON9 and PERSON1 had to stay at home because they have a comorbidity.
+- They hope the mass immunization program will stop the spread.
+- PERSON9 and PERSON1 are going to submit a project to the review committee.
+- They have to submit it today, but they don't have a formal committee, outline of the program, invited speakers and website.
+- PERSON1 should have sent the proposal to PERSON9, but she didn't.
+- They need to submit the proposal by January tenth.
+- PERSON4 has suggested a solution on the website, so PERSON1 will make it quickly and send it to him.
+- PERSON5 might be joining the group, PERSON9 and PERSON1 will meet tomorrow at half past one.
+
+
+Minuted by: Team Synapse

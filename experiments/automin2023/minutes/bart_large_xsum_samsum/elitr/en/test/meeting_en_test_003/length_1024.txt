@@ -1,0 +1,21 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON12, PERSON4, PERSON6, PERSON8
+
+
+SUMMARY
+- PERSON8, PERSON4, PERSON10 and PERSON12 are on a conference call.
+- They are going to discuss the development schedule for the project.
+- PERSON10 is going to prepare a Python based translation system.
+- PERSON8 and PERSON6 are discussing how to present a presentation.
+- They discuss how to handle partial translations and partial output.
+- The first prototype should be ready at the 15th of June.
+- ORGANIZATION3 will prepare an image and ORGANIZATION4 will try to get that running.
+- ORGANIZATION4 has decided not to use the ORGANIZATION2 platform today, because they are still checking some of the recording qualities.
+- Organization PERSON8, PERSON3, PERSON5, PERSON6 and PERSON4 are going to talk to PERSON3.
+- PERSON11 is going to create a script that will replicate a problem with offline ASR.
+- PERSON4, PERSON8, PERSON11 and PERSON9 are responsible for MT clients on their side.
+- The text client is the same as in the sample.
+- The schedule has up to four calls a week and the workshop is on Friday at the same time, an hour earlier than today
+
+
+Minuted by: Team Synapse

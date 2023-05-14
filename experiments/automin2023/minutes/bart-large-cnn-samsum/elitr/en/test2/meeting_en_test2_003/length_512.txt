@@ -1,0 +1,91 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON4, PERSON7, PERSON9
+
+
+SUMMARY
+- PERSON4 hasn't heard from PERSON2 yet, so he's not sure if he will join.
+- He sent an email to PERSON2, but he's in Prague.
+- PERSON7 is already in Iran for a month or two, and she's moving to Canada or New Delhi.
+- PERSON9 is afraid to go to New Delhi.
+- The way in which they are paying PERSON4 has legal limits, which will probably run out in the middle of the year.
+- The previous year, they were able to use the full year limits for the half a year.
+- This year, the limits would not be sufficient.
+- Professor PERSON4 will talk to PERSON9 about it.
+- PERSON2, a student of PERSON4's, can't join the project because he needs to finish his master thesis.
+- The thesis is to develop a tool to help annotate data.
+- He is not going to handle the data, because he is already being paid from a company.
+- PERSON4 needs someone to prepare the files for annotators and then do the insertion of the annotations into the data set, polishing, cleaning up the data and then the final removal of the original content.
+- PERSON7's winter semester has already started.
+- PERSON4 will try to reach out to a CS student who is also remote and busy.
+- PERSON4, PERSON7 and PERSON4 need to prepare the XML for the annotators.
+- They need to put the annotations into all the files, at the appropriate places and then they need to do the same thing at the token level.
+- The annotators need to browse the instances of words, the undecided ones, and decide them.
+- PERSON4 suggests bolding and italicising the text to make it easier for people to annotate the document.
+- PERSON7 suggests taking the list from PERSON1 and trying to do it without any other person at hand, except for him or her.
+- PERSON4, PERSON7 and PERSON9 have sent the transcriptions and minutes from MINUTES to ORGANIZATION4 Word.
+- It's helpful to have some formal trait in the document, so the annotators can report problems with the light yellow areas and italicise for no.
+- PERSON4 shares the de-identification procedure with PERSON7.
+- The annotator should open the HTML in Word, in ORGANIZATION4 Word, or an open off LibreOffice.
+- The programmer should extract the indicators and put them into the clean XML format.
+- PERSON4 will try to find another person to do the markup.
+- If she can't find someone, she will ask PERSON1 to put her remark about the timeline into the main text of the minutes, so that they do not lose it.
+- If someone else can't do it, then it will be up to PERSON9.
+- PERSON4 explains to PERSON7 how to create a custom XML markup for an annotating a document.
+- PERSON7 wants to know if they are going to show them only the sentences with the with those words, or the whole text.
+- The markup should be clear about the stages of the processing.
+- PERSON4 suggests presenting the full text to annotators in an HTML presentation to ORGANIZATION4 Word.
+- PERSON1 suggests sending them individual sentences.
+- PERSON4 would convert the documents from the current format, which is plain text, into this HTML with the, with the highlighted places.
+- PERSON1, PERSON4, PERSON9 and PERSON7 are going to use ORGANIZATION1 Forms to upload documents.
+- They will have to make sure that the document is accessible to all people.
+- They are also going to create a light yellow highlight for words that are in the document.
+- PERSON4, PERSON7 and PERSON1 discuss how to mark non-per non-named entities.
+- They agree that the yellow is for undecided people and the green one is for the people who have already been decided on the type level that they are a person.
+- PERSON4 wants to prepare a test document for the de-identification procedure.
+- He also wants to talk to the two other prospective programmers about the markup and the debate how it should be prepared for the annotators.
+- PERSON7 and PERSON1 will prepare the test document and PERSON4 will do the bolding.
+- PERSON9, PERSON1, PERSON4 and PERSON9 have to go for the Scientific Committee, so they need the website ready within one or two hours.
+- They need to put that into the email and ask the people.
+- They are running short on time for PROJECT2.
+- They will submit it during the afternoon.
+- PERSON4, PERSON1 and PERSON9 will write to the Russians.
+- PERSON5 is not on the call, so she will be added to the sheet.
+- PERSON7 needs a reference letter from PERSON4 for a scholarship.
+- She sent him a link two weeks ago, but he hasn't seen it.
+- PERSON9 and PERSON7 are in the process of submitting the PROJECT3 proposal to a conference.
+- They need to have all the data processed by February mid.
+- They want to prepare a demo of the document and show it to the annotators.
+- If they are busy sometimes, PERSON7 can step in and do the problematic parts.
+- PERSON7, PERSON9 and PERSON1 are going to work on a project together until the end of the week.
+- They will catch up next week on Monday to discuss the sample they should look for for the first time.
+- .
+- .
+- PERSON7 wants to see the sample data, so that he can help with uploading it to the website as soon as possible.
+- If they have the codes, that won't be the matter of, one file or two files, but if they have all the files, they can just run down all of them.
+- The proposal will be ready for next week.
+- PERSON9 sends PERSON1 the ORGANIZATION1 Doc.
+- It's snowing outside.
+- PERSON1 wishes he was there, but he had to stay at home.
+- He's not confident about flying now, because of the new variant of the flight simulator.
+- PERSON9 and PERSON1 are waiting for the mass immunization program to start.
+- The vaccines are more than 90 percent accurate and can stop the spread of disease.
+- The vaccine is not foolproof, but it is more than 80 percent accurate in phase two.
+- PERSON1 and PERSON9 have to submit a PROJECT3 proposal by today.
+- They have to do it quickly as they don't have a committee or outline of the program.
+- They need to submit the document for the website.
+- The link is too long.
+- PERSON9 will paste the new website link to the third page of the website for PERSON1.
+- The review committee will not see the link.
+- PERSON1 will send the XML source to PERSON9 and he will put the link to his website himself.
+- PERSON9 wants to get all the proposal submission stuffs done by January 10th, so that they can focus back to their research.
+- PERSON4 has some suggestion on the website, so PERSON4 will send it to him.
+- PERSON1 is bad at organising things.
+- She didn't hear back from PERSON5 recently.
+- She will write to her.
+- PERSON9 and PERSON1 will meet tomorrow for half an hour to talk about the pending task.
+- They will contact each other if they need to discuss something else.
+- They also plan to contact PERSON5 if they want to discuss anything else.
+- The situation is not good but it's absolutely okay.
+
+
+Minuted by: Team Synapse

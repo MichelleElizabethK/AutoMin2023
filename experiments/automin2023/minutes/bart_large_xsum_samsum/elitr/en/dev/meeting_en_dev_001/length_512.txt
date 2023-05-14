@@ -1,0 +1,69 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON3, PERSON4, PERSON5, PERSON6
+
+
+SUMMARY
+- PERSON4 is getting a visa to Australia this Friday.
+- She has an appointment on visa embassy.
+- She's gathering all the documents now.
+- PERSON10 and PERSON3 are discussing the differences between the ORGANIZATION1 and the organization's other data sets.
+- PERSON10, PERSON5, PERSON6, and PERSON3 are discussing how to prepare summaries for the share task.
+- The data set for the training is too small for the full training, but it is acceptable for some form of fine tuning, or, the like the development set.
+- The participants should be allowed to keep half of the data of the test set and give the other half to them for whatever PERSON6 and PERSON10 have worked on a project for 19000 hours.
+- There was no speed summarization share task for a long time.
+- PERSON10, PERSON6 and PERSON3 are going to use ORGANIZATION1 data from fix year.
+- ORGANIZATION1 has 15 meetings and each of them is evaluated on a fine grained scale.
+- PERSON3, PERSON10 and PERSON6 are going to use the corpus from 2006 to 2011 and add minutes that can be found.
+- The minutes are on the organiser's website.
+- The manual work should not take more than 5 to 10 minutes.
+- PERSON10 wants to show PERSON3 and PERSON6 a screen with a summary of the session from the organiser's research for 2011.
+- PERSON3, PERSON10 and PERSON5 are going to have a meeting.
+- They are discussing a task that is very different from what they have so far.
+- They want to make it simpler than the search form, but it takes too much time.
+- PERSON3 asks one of PERSON3, PERSON10 and PERSON6 are arguing about the organization's minutes.
+- According to PERSON10, there should be 3 test sets, ORGANIZATION2 and PROJECT1, and 3 tracks.
+- PERSON10, PERSON1, PERSON3 and PERSON6 agree that organization 2, PROJECT1 should provide the existing training data as the training data.
+- ORGANIZATION1 should provide only a small portion of this data.
+- Organizing 2, PROJECT1 should also provide some of the parliamentary sessions PERSON3 explains to PERSON10 how to find the minutes from the ORGANIZATION1 corpus.
+- There was only one session in that period found in those five years.
+- PERSON3 and PERSON10 are looking for someone who can open a business request on their behalf.
+- PERSON1 is planning to call PERSON3 tomorrow to discuss something.
+- PERSON8 is on vacation this week, so he probably won't be able to help.
+- PERSON3, PERSON10, PERSON5 and PERSON6 are on the call.
+- They are discussing whether to download all the data from the open acces or the academic corpus and provide it as PERSON5 and PERSON10 need to redo what has been done by the open academic corpora if they are going to include ORGANIZATION1 in the share task.
+- They need to prepare the data set for the participants and find and download the pairs of transcript and minutes for all the PERSON5 wants to create a collection of the best transcripts and have some people create a summary of them.
+- PERSON3 and PERSON10 want to take the whole ORGANIZATION1 corpus and pack it with the existing minutes, invest money in alignment and programming an end in that direction PERSON10 wants to create a corpus of open academic summarization corpora.
+- The corpus will have 3 different tracks: transcript, minutes and data tracks.
+- PERSON10, PERSON6 and PERSON3 are going to do a share task.
+- They will take a small portion of the ORGANIZATION1 minutes corpus as a test set for their shared task.
+- PERSON10 wants to invite people to cross train for all the tasks PERSON10 needs someone who is familiar with Wget to download and prepare the corpus.
+- PERSON5 is on vacation this week.
+- PERSON8 is still at home.
+- PERSON6 can try to help.
+- PERSON3 suggests creating a template for the uniformal format of the data.
+- PERSON3 wants to know what the data should look like.
+- The data should be similar to the basic symbols and ORGANIZATION1 data set.
+- The text should start with a full stop and end with a future.
+- It should be aligned with dashes in the minutes.
+- The PERSON10 wants to report on the current downloading of ORGANIZATION1 data.
+- He wants to have the ASR and the corresponding minute in one format.
+- He will share the link of the session with PERSON3.
+- PERSON3 cannot get the link from PROJECT3.
+- The talk is by a colleague of PERSON7, who works remotely for ORGANIZATION5 developing a web brow, like browser for big corpora.
+- He has been working on the Czech parliament browser for 10 years and he PERSON10 has a clear idea of what should be done to prepare the data.
+- PERSON3 doesn't have a clear understanding of the format.
+- PERSON1 has a lot of work to do.
+- PERSON5 has uploaded data in English, but it's a problem for him to work with PERSON6 will download the data.
+- PERSON10 will start processing the data, and then PERSON6 will finish the conversion.
+- PERSON3 will start reorganising the files from ORGANIZATION1.
+- PERSON6 wants PERSON5 to put the whole corpus to the server and organize it according to the dates and names of the sessions.
+- PERSON6, PERSON3 and PERSON10 are organizing the data.
+- PERSON6 will work with the data, PERSON3 will annotate the data with his annotators, and PERSON10 will prepare the scripts.
+- PERSON5 will share the details of the sticker data from the PERSON5 and PERSON6 are looking for the source files for the machine translation work.
+- They find them on MT dot.
+- PERSON3 is in the forest.
+- It's cold where he is.
+- PERSON1 will join them tomorrow.
+
+
+Minuted by: Team Synapse

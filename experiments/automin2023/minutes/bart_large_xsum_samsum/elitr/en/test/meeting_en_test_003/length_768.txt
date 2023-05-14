@@ -1,0 +1,23 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON12, PERSON4, PERSON6, PERSON8
+
+
+SUMMARY
+- PERSON8, PERSON6, PERSON4, PERSON12, PERSON10 and PERSON7 are on the call.
+- They are going to discuss the development schedule for the project.
+- PERSON6 had a problem with the internet connection.
+- He wants to know more about the handling of timestamps.
+- PERSON8 and PERSON6 will discuss on Monday whether to replace or use the history of text fields.
+- The first prototype of the presentation platform will be ready at the 15th of June.
+- PERSON8 wants ORGANIZATION3 to start as many workers as possible in LOCATION1.
+- ORGANIZATION3 has decided not to use the ORGANIZATION2 platform today, because they are still checking some of the recording qualities.
+- ORGANIZATION4 will prepare an image and ORGANIZATION3 will try to PERSON8, PERSON3, PERSON5, PERSON4 and PERSON11 are going to talk to PERSON3 about spreading out the image.
+- PERSON11 is going to create a script that will replicate a bug in the system.
+- PERSON4 has a problem with offline ASR.
+- The production client is different from the simple one only by a by.
+- PERSON8 wants to know if there are any problems with the schedule.
+- PERSON6 will not be able to come to the workshop.
+- PERSON8 will try to lodge the ORGANIZATION2.
+
+
+Minuted by: Team Synapse

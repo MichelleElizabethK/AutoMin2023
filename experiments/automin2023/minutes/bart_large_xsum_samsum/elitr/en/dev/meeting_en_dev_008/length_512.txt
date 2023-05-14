@@ -1,0 +1,35 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON5, PERSON7
+
+
+SUMMARY
+- PERSON7 is trying to fix the program in Overleaf, but it doesn't compile for him.
+- PERSON3 has sent the Overleaf link and a link to the GitHub prepositary where we have the template is normal directory.
+- PERSON5 wanted the documents to be on the presentation PERSON7, PERSON5, PERSON3 and PERSON1 are trying to edit a presentation on Overleaf, but it doesn't work.
+- PERSON7, PERSON1 and PERSON5 are discussing the structure of the deliverable and how to share the internals with the rest of the team.
+- PERSON5 will email all of the participants in the project a copy of the deliverable.
+- PERSON5 will spend the afternoon putting the info inside the ORGANIZATION3 sheet.
+- PERSON7 will email all of them and tell them that they are late with the preparation and they need someone to review it.
+- PERSON5, PERSON7 and PERSON1 should have their full content ready by Wednesday and submit it to EAMT on February 21st.
+- PERSON1, PERSON5, PERSON4 and PERSON8 will review the deliverable towards the end of next week.
+- The deliverable should be two pages long.
+- PERSON7 is writing requests for the internal review.
+- The document doesn't compile outside of Overleaf.
+- The ELG paper is due next Friday, February 21st.
+- The link to the document should be there towards the end of the next week.
+- People can work on the plain text PERSON5 will mail the deliverable to PERSON7 today.
+- PERSON1 tried to make a PDF from the demo paper, but it failed.
+- PERSON7 helped him.
+- PERSON1 followed the structure suggested in the Overleaf document, but there are no references to the document.
+- People need to copy paste the document and link it to the original.
+- PERSON5 has some questions about the make and the compiler.
+- He has made a local copy of the paper, he has pulled all the last modifications and he's trying to compile it, but he missed the part regarding the commit and how to commit.
+- PERSON5 is having problems with the last page of a PDF file not taking the required file name.
+- He doesn't have a Tex Live manager installed.
+- He will work on it.
+- PERSON1 and PERSON5 are having problems with YAM install tex live dash last page or something.
+- PERSON5 has worked out how to repost a document on Overleaf.
+- PERSON1 will work on it over night.
+
+
+Minuted by: Team Synapse

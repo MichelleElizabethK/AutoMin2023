@@ -1,0 +1,48 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON3, PERSON4, PERSON5, PERSON6
+
+
+SUMMARY
+- PERSON4 is getting her visa this Friday.
+- PERSON3, PERSON5, PERSON6, PERSON4 and PERSON10 are doing a project.
+- They need to prepare for a share task involving around 100 hours of data.
+- The participants will be given half of the test set and the other half will be used for the development set.
+- PERSON10: 8 0 8 0 80 hours.
+- PERSON6: There was no speed summarization share task for a long time.
+- PERSON10: 50 hours of English and 30 hours of Czech.
+- PERSON3: ORGANIZATION1: ORGANIZATION2: ORGANIZATION3: ORGANIZATION4: ORGANIZATION5 PERSON10 wants to see minutes from the organiser's meeting.
+- Organizer3 shows her a summary of the session and the name of the chapter from the transcript.
+- PERSON5 should prepare how it should look like this sample of this send reporting to the.
+- PERSON10 thinks they should have 3 tracks, ORGANIZATION1 track and PROJECT1 track, and 3 test sets with 3 underlying data sets as the data sets.
+- PERSON10, PERSON1, PERSON3 and PERSON6 discuss what they should provide as training data for ORGANIZATION1, PROJECT2, ORGANIZATION3 and ORGANIZATION4.
+- ORGANIZATION1 should provide only a small portion of the training data.
+- ORGANIZATION2 should provide all the minutes.
+- ORGANIZATION3 PERSON3, PERSON10, PERSON5, PERSON1 and PERSON8 are looking for someone who can download all the meeting data from the database and provide it as training data.
+- PERSON5, PERSON10 and PERSON3 discuss organization 1's share task.
+- ORGANIZATION1's minutes are not usable, they are not variable and they do not have a lot of diversity of data.
+- PERSON5 proposes to take the whole organization's minutes and combine them with the PERSON10, PERSON5, PERSON6 and PERSON3 are going to prepare a summarization corpus.
+- The corpus will be the ORGANIZATION1 minutes corpus.
+- It will have 3 different tracks, one of which is the summarization task.
+- There will be a pre-training PERSON8 is on vacation this week.
+- PERSON10 will talk to him about the procedure for downloading the speech transcripts and the summaries.
+- PERSON3 will prepare a template for the hard data set.
+- PERSON10 wants to know the format for the downloading of ORGANIZATION1 data.
+- PERSON7 has worked on the Czech parliament browser and has experience with preserving the original data.
+- He recommends an angle brackets style for the transcript and a speaker diarization.
+- PERSON1 has a lot of work to do.
+- PERSON5 has uploaded data in English, but it's better to work with Czech data.
+- PERSON6 will help PERSON1 with processing the data.
+- ORGANIZATION1 has a corpus of documents.
+- ORGANIZATION2 has it on the server.
+- Organization PERSON10, PERSON6, PERSON3, PERSON5 and PERSON6 are working on organizing the data from the Organizing1 corpus.
+- They need to organize it according to the dates and the names of the sessions.
+- They also need to prepare the minutes from the transcripts.
+- PERSON5 gives the source.
+- The source is 2006 till 2011.
+- There is a pdf file with the description of the corpus.
+- PERSON6 gives the minutes for each of those ASR.
+- It's about five degrees where PERSON3 is.
+- PERSON1 will join them tomorrow.
+
+
+Minuted by: Team Synapse

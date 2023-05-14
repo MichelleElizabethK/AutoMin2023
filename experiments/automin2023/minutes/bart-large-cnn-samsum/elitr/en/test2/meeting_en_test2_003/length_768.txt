@@ -1,0 +1,74 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON4, PERSON7, PERSON9
+
+
+SUMMARY
+- PERSON4 hasn't heard from PERSON2 yet, so he's not sure if he'll join.
+- PERSON1 sent an email to him.
+- He's in Prague.
+- PERSON7 is already in Iran, but for a month or two.
+- She's moving to Canada or New Delhi.
+- PERSON4 needs Professor PERSON9 to come to do the paperwork, which cannot be done remotely.
+- The problem has been postponed, but there is a limit on how far they can push this.
+- Professor PERSON4 will talk to Professor PERSON9 about it later.
+- PERSON4 is looking for a person to work on a project.
+- The project is to develop a tool to help annotators.
+- PERSON2 can't do it, because he needs to finish his master thesis.
+- PERSON7 can't work on the project, because of his busy schedule.
+- PERSON4 will try to reach out to someone who can help him.
+- PERSON4, PERSON7, PERSON4 and PERSON7 need to prepare the text for the annotators.
+- They need to put the annotations into all the files, at the appropriate places and then they need to do the same thing at the token level.
+- The annotators don't have the time capacity and the programming skills to do it themselves.
+- PERSON4 suggests bolding and italicising the text to make it easier for people to annotate the document.
+- PERSON7 suggests taking the list from PERSON1 and trying to do it without any other person at hand, except for him or her.
+- PERSON4 explains to PERSON7 and PERSON9 the de-identification procedure for annotating documents in ORGANIZATION4 Word and LibreOffice.
+- They are looking at the text from MINUTES, which PERSON4 has sent to PERSON9 and PERSON7.
+- PERSON4 is trying to create an HTML markup.
+- He needs to extract the indicators and put them into the clean XML format.
+- PERSON7 is limited to weekends, so he will find someone else to do it.
+- If he doesn't find someone, he will do it himself.
+- PEN1 needs to put the remark about the timeline into the main text of the minutes.
+- PERSON4, PERSON7 and PERSON1 discuss how to present the annotated documents to the annotators.
+- They agree that the full text should be shown to them in order for them to skip quickly through the instances of the annotations.
+- PERSON1, PERSON4, PERSON9, and PERSON7 are going to create a document management system.
+- They will use ORGANIZATION1 Forms to upload the documents.
+- They want to divide the documents into different categories based on the type of the document.
+- PERSON4, PERSON1, PERSON7 and PERSON1 will prepare a test document for the annotators.
+- They will do the bolding and italicisation, and they will test the HTML, Word, and HTML on one document.
+- PERSON4 will make a call and talk to prospective programmers.
+- PERSON7, PERSON4, PERSON9 and PERSON1 have to prepare the website for the procedure for de-identification.
+- They have to submit it to the Scientific Committee.
+- They are running short on time for PROJECT2.
+- They will submit it in the afternoon.
+- PERSON5 is not on the call.
+- She will be adding some more names to the to this sheet, to the prospective, Scientific Committee.
+- PERSON9 will arrange a meeting with PERSON4 this week to talk about the PROJECT3 proposal.
+- They are submitting it to Toronto and Calgary.
+- PERSON7 will prepare a demo of the document for the annotators.
+- They need to have all the data processed by February mid.
+- If they have the code, they can just run down all of the files.
+- They will catch up next week on Monday.
+- PERSON9 and PERSON7 are almost done with their work.
+- They are going to send a PROJECT2 proposal next week.
+- It's snowing outside.
+- It was nice to meet and talk to PERSON7 and PERSON9.
+- They both wish they could have been there.
+- PERSON9 and PERSON1 have a comorbidity.
+- They are waiting for the mass immunization program to start.
+- They have to submit a PROJECT3 proposal.
+- The vaccines are more than 90 percent accurate, but there is a margin of error.
+- PERSON9 and PERSON1 have to submit the submission portal requirements by today.
+- They have to do it quickly, because they don't have a committee, the outline of the program and invited speakers.
+- The link to the registration page is too long.
+- They need to make it shorter.
+- They also need to submit their web pages.
+- PERSON1 and PERSON9 want to submit the proposal submission stuffs by January 10th, so that they can focus back to their research.
+- PERSON4 has some suggestion on the website, so PERSON4 will send it to him.
+- PERSON5 didn't respond to their emails recently, so PERSON1 will write to her.
+- PERSON9 and PERSON1 will meet tomorrow for half an hour to catch up.
+- If they need to discuss something, they will contact PERSON5 soon.
+- They will contact each other anytime if they need something to talk about.
+- They say goodbye to each other.
+
+
+Minuted by: Team Synapse

@@ -1,0 +1,66 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON11, PERSON3, PERSON6, PERSON7, PERSON9
+
+
+SUMMARY
+- PERSON6, PERSON3, PERSON11, PERSON7, PERSON9, and PERSON14 are going to meet in LOCATION4 today to discuss the project.
+- The problem with the speakers is that the left speaker is to the right.
+- They need to fix the cabels here.
+- The deadline for the project was set for today.
+- PERSON6, PERSON7 and PERSON9 are preparing a book for PERSON5.
+- They are going to send it to him at the end of the week.
+- After that they will discuss with him who will be the reviewers.
+- They have only two weeks to finish the book.
+- There's a callish calling deadline on July the first.
+- PERSON7 will submit the paper to PROJECT11 and the paper they haven't sent to ORGANIZATION3 to the deadline at the end of June.
+- PERSON9 will be here on the thirteenth to nineteenth July.
+- The Black box deadline is August.
+- PERSON6, PERSON7, PERSON9 and PERSON3 are going to have a meeting on July 13th.
+- They will have regular meetings on Tuesdays at 11.
+- The next two Tuesdays there will be meetings.
+- The first week of July there is no meeting.
+- The second week is from 6th to 10th July.
+- The third week is holiday.
+- The thirtieth is a meeting and the next week they will have another one.
+- PERSON6, PERSON7, PERSON9 and PERSON11 are working on a book.
+- The official deadline for the book was the end of June, but it can be postponed for a month because of the corona crisis.
+- They need to finish the writing and have the meeting in the middle of June.
+- The final report can be delayed until the end or end of January.
+- PERSON6, PERSON9, PERSON11, PERSON10, and PERSON7 have finished the book.
+- The deadline is June 30th.
+- The next meeting is on July thirteenth.
+- PERSON6 is working on the attention, attention metrices and different patterns.
+- PERSON6 is trying to explain why LOCATION2 used PROJECT8 heat maps instead of PROJECT1.
+- PERSON7 and PERSON3 think it's due to the concentration of the distribution of the heat maps in PROJECT9.
+- PERSON9's PROJECT5 is copied in the Conclusion.
+- PERSON6, PERSON7, PERSON11 and PERSON3 are working on the book.
+- They need to revise the first part of chapter five.
+- PERSON6 wants to focus on the visualisations of the papers on embeddings.
+- PERSON11 wants to concentrate on the text without too many details.
+- PERSON11 will write a chapter on the new generative language models and discuss it with PERSON7 and PERSON6 on Slack.
+- PERSON9 knows how to do zero, zero section.
+- PEN11 will look into ORGANIZATION7 and delete some of her chapters.
+- PERSON9 restructured the section of ORGANIZATION1.
+- He needs to add more to the introduction.
+- He also needs to change the title of the section.
+- He is not sure about the division between Semantics and Syntax.
+- He has some to-do lists.
+- PERSON9 wants to split the text semantics task into multiple smaller sections to make it easier for people to understand the meaning of the words.
+- PERSON7 and PERSON6 advise him to keep it as a separate subsection.
+- PERSON9 will re-split the task.
+- PERSON9 has covered the typic problem, the abstractions that people look for and the effect of pre-training task.
+- He doesn't have a list of papers he wants to cover yet.
+- The multilinguality paper that they submitted to PROJECT4 is still missing.
+- PERSON6, PERSON7, PERSON5, PERSON9 and PERSON3 are working on their dissertation.
+- They want to share their work with the rest of the group.
+- They need to organize it into a readable way so that it can be sent on Thursday.
+- PERSON3 has done 4 comparisons on the task of predicting part of speech.
+- He found that machine translation is better than language models and machine translation vs. out encoders.
+- He will talk to PERSON6 about the visualisation about transformers, which is mostly about the layer.
+- PERSON6, PERSON7 and PERSON9 are working on a project involving deep learning visualisations.
+- They need to generate them in PGF and save them in LaTeX.
+- They have to do it in two weeks.
+- They will discuss it during the week and update it.
+
+
+Minuted by: Team Synapse

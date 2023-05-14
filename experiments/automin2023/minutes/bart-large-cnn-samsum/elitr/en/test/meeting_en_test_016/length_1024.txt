@@ -1,0 +1,33 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON3, PERSON5, PERSON6, PERSON9
+
+
+SUMMARY
+- PERSON3, PERSON10 and PERSON6 are studying at ORGANIZATION3 and LOCATION2 respectively.
+- They are interested in watching some other-than-English (OTHER6) video.
+- They will try to rely on the live generated translations into OTHER3.
+- The head of the particle division of the ORGANIZATION1 was angry because the technology is only working technically.
+- PERSON7 agreed to join the surge.
+- On Monday at 2, PERSON3 is giving a talk on the Monday seminar.
+- He wants to know if PERSON9 can help him with domain adaptation.
+- He also wants to check if PERSON5 can get in touch with him.
+- PERSON3, PERSON6, PERSON5, PERSON9 and PERSON11 are going to give a talk at a seminar on Monday.
+- They need to synchronize with PERSON9 to create a searchable corpus of the domain LOCATION3 and LOCATION2.
+- They also need to create an audio visualization tool.
+- PERSON3 and PERSON10 are working on different projects.
+- PERSON3 is working on a visualisation tool.
+- PERSON10 is developing a machine translation model.
+- He used a data set of 300 million open subtitles from various languages.
+- The model is much better than the previous one, but it wasn't trained on PROJECT5, so he will have to export it as an open neural network exchange format.
+- PERSON3, PERSON10 and PERSON11 are working on a project.
+- They are collecting monolingual data and need someone to translate it into different languages.
+- They need to create a special model to bootstrap the data.
+- They want to improve the performance of their existing models.
+- PERSON3, PERSON10, PERSON11, PERSON12, PERSON5 and PERSON6 are working on a project.
+- They are trying to create a project model based on the translation of documents into different languages.
+- PERSON6 is going back to work next week, so she has less time for the project.
+- PERSON5, PERSON6, PERSON3, and PERSON10 are going to create a Wikipedia page of all the data they use.
+- The data ambassador, PERSON2, is on vacation this week, so he proposes some Wiki page of the data that they are using or they plan to use.
+
+
+Minuted by: Team Synapse

@@ -1,0 +1,46 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON11, PERSON12, PERSON3, PERSON6, PERSON7, PERSON8, PERSON9
+
+
+SUMMARY
+- PERSON12, PERSON7, PERSON10, PERSON11 and PERSON9 are on a conference call.
+- The microphone was muted, but the audio is working properly.
+- There are some technical issues with the system.
+- PERSON4 is unavailable, PERSON3 has another meeting, and PERSON3 hasn There are no German interpreters at the workshop.
+- PERSON12 wants to change the audio recording system (ASR) so that the interpreters can work more effectively.
+- ORGANIZATION3 has a problem with translating sentences from English into German.
+- ORGANIZATION4 needs to fix it.
+- PERSON9, PERSON11 and PERSON3 are having a problem with screen sharing in Pexip.
+- PERSON11, PERSON3, PERSON4, PERSON7 and PERSON12 are working on a project involving multiplexing, machine translation and audio/video recording.
+- PERSON12 explains to PERSON7 and PERSON11 that the empty worker cannot distinguish between the same string repeated and the same message.
+- PERSON3 runs a test with the English ASR and it turns out that it was him who did the wrong thing.
+- ORGANIZATION3 sends an PERSON3 prepared the German ASR, but it's not working.
+- PERSON12 will share the screen with PERSON3 to test it.
+- PERSON12 asks PERSON3 to upload some files to the repository of PROJECT1.
+- They need to link the webpage that runs the video and the screencast that they are going to send.
+- There are problems with characters and coding, but the English subtitle works well.
+- PERSON11 connected both English and German screenshare.
+- It's not working.
+- PERSON12 is using Firefox on a Linux laptop.
+- PERSON3 is using Chrome on a Windows laptop.
+- It doesn't work.
+- PERSON12 wants to perform a big test on Monday next week, so that he can provide his support and they can check everything together.
+- PERSON3 is available from 11 am to 3 pm on Monday, but PERSON4, PERSON6, PERSON7 and PERSON8 won't be available PERSON12 is trying to stream a video on M3U8, but it's not a live video.
+- It's a playlist with chunks and the browser downloads them and plays them.
+- PERSON3 explains to PERSON12 how to set up the administration interface, how to change the default languages and how to access the database.
+- PERSON12, PERSON11 and PERSON3 need a big map of all the fingerprints connected to the overall connection for the presentation platform.
+- They need it before the 27th June meeting.
+- PERSON12 and PERSON3 are having problems with the presentation platform.
+- They need the full list of languages that it accepts fingerprints in order to work properly.
+- PERSON12 wants to change the set of languages and add Spanish to the front page, but it's not possible to do it until the presentation worker is registered with ORGANIZATION6.
+- PERSON9 doesn't know how to translate the names of the participants to English and French.
+- PERSON12 and PERSON9 complain about the quality of the web browser they are using for the workshop.
+- They want it to be better optimised for desktop and mobile devices.
+- PERSON3 can't share the code for the presentation platform with PERSON12 and other people on the call today at 1.
+- PERSON12 and PERSON3 are on a conference call.
+- The goal for Monday was to test more languages in the presentation platform.
+- On Friday they have to check the audio and video input and output system.
+- PERSON2 and PERSON4 are absent.
+
+
+Minuted by: Team Synapse

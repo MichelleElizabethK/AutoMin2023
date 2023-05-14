@@ -1,0 +1,67 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON3, PERSON4, PERSON5, PERSON6
+
+
+SUMMARY
+- PERSON3 has just answered an e-mail from PERSON10.
+- This Friday PERSON4 has an appointment at the visa embassy.
+- She is getting her visa soon.
+- PERSON10 and PERSON3 discuss organisational structure and their differences between it and other structures.
+- PERSON10, PERSON5, PERSON6 and PERSON3 are discussing how to prepare summaries for the share task.
+- PERSON10, PERSON3, PERSON6 and PERSON6 are discussing the data set for the training of speech recognition and machine translation.
+- The data set is too small for the full training.
+- They will retain half of the data of the test set and give the other half to the participants There was no speed summarization share task for a long time.
+- There were 19000 hours of data.
+- PERSON10, PERSON6, PERSON3 and PERSON10 are going to use ORGANIZATION1 data from fix year for evaluation.
+- According to PERSON3, if they agreed to use it, they can take the corpus from 2006 to 2011 and add minutes that can be found.
+- For each meeting, they should find the minutes using the name of the transcript.
+- The minutes are on their website.
+- For one meeting, it PERSON10 wants to see the summary of the session.
+- PERSON3 shows him the minutes of the previous sitting.
+- PERSON3, PERSON10 and PERSON5 are discussing whether or not to change the structure of the meeting to a one-to-one meeting.
+- PERSON3, PERSON10 and PERSON6 are arguing about the organization's minutes.
+- According to PERSON10, there should be 3 test sets, one for each of the three tracks, ORGANIZATION1, PROJECT1 and ORIZATION2.
+- PERSON10, PERSON1, PERSON3 and PERSON6 are discussing what they should provide as the training data for organiser2, PROJECT1 and ORGANIZATION2.
+- For ORGANIZATION1, the annotator should be able to cover only a small portion of the meetings.
+- Organizer2, PERSON3 explains to PERSON10 and PERSON6 how to find documents and how to solve problems related to organization-related issues.
+- PERSON3 and PERSON10 are trying to figure out how to improve the search engine.
+- They need someone who can do it automatically.
+- PERSON10 suggests to send an e-mail to PERSON8, who is on vacation this week, asking him to create a downloader and reconstruct the structure based on matching of strings.
+- This is exactly an exercise for the CS student in early years of their masters.
+- If they do PERSON5 and PERSON10 need to redo the data set if they are going to include ORGANIZATION1 in the share task.
+- They need to prepare it for the participants to make it easy.
+- The minutes are not variable, so they are not usable for them.
+- PERSON5 wants to have some people create a summary of the best transcripts from the minutes.
+- PERSON10 and PERSON3 want to keep the existing minutes as they are the best ones possible for the sessions.
+- PERSON10 wants to create a new corpus for the open academic summarization corpora for the benefit of PERSON5.
+- PERSON5 has several releases of the ORGANIZATION1 sessions summaries corpus.
+- The corpus will have 3 different tracks, like data tracks.
+- PERSON10 explains to PERSON6 and PERSON3 the details of the share task.
+- They agree to do one more corpus preparation and take a small portion of it as a test set for their shared task.
+- PERSON10 needs someone who is familiar with Wget to download and prepare the corpus.
+- PERSON5 is on vacation this week, but he could be able to help.
+- PERSON8 is still at home, so PERSON10 should ask him for a session where he could walk them through the PERSON5 proposed a basic sample of data.
+- The data should be similar to the ORGANIZATION1 data set.
+- The presentation by the colleague of PERSON7, who is developing PROJECT3, should be presented in Hnanice.
+- The formalization ends with the fact that PERSON10 wants to report on the current downloading of ORGANIZATION1 data.
+- PERSON3 can't find it.
+- PERSON10 sends a link to the chat.
+- PERSON3 cannot figure out the link to the talk PROJECT3.
+- The talk is in XML format.
+- Organizing5 has a colleague who works remotely for ORGANIZATION5, who has a great experience with preserving the original data.
+- ORGANIZATION1 has a good speaker diar PERSON10 and PERSON3 agree that the information should be converted to angle brackets instead of square brackets and the same angle brackets style should be used for the ORGANIZATION1 sessions.
+- PERSON1 should prepare the data.
+- PERSON1 has a lot of work to do.
+- PERSON3 PERSON10 suggests that PERSON6 downloads the data, and then PERSON6 will start processing the conversion.
+- PERSON3 suggests reorganising the files to the structure that PERSON10 proposed.
+- PERSON6 wants PERSON5 to put the whole corpus to the server and organize it according to the dates and the names of the sessions.
+- PERSON6, PERSON10, PERSON3 and PERSON5 are on a conference call.
+- They are discussing how to organize the ORGANIZATION1's data.
+- They also discuss how to prepare the minutes from the Organized 1's transcripts.
+- PERSON5 shows PERSON3 and PERSON6 a link to a text file.
+- The text file is a source for the machine translation work.
+- The limit on the downscale is 96 KB, but it's enough for downloading.
+- PERSON3 is in the forest, it's cold, he's making decisions with PERSON10.
+
+
+Minuted by: Team Synapse

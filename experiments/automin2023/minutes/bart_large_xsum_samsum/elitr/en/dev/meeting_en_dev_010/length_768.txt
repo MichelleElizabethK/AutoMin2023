@@ -1,0 +1,52 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON10, PERSON12, PERSON14, PERSON17, PERSON19, PERSON20, PERSON22, PERSON3, PERSON4, PERSON8, PERSON9
+
+
+SUMMARY
+- PERSON10, PERSON12 and PERSON14 are discussing organization of the IWSLT presentations.
+- PERSON10 and PERSON14 are going to present the overall results.
+- They need to prepare a pre-recorded summary of the results, presentation and posters.
+- They have to organize workshop workshops sessions of 1 or 10 people for 1 or each 1 evaluation.
+- PERSON10, PERSON7, PERSON1, PERSON11 and PERSON22 are in a meeting.
+- They are going to discuss the postponed review and other issues.
+- PERSON10 and PERSON20 are going to submit the financial tables with the deadline of May.
+- Organized 5 wants to have the final versions of the tables in mid July or late July.
+- They need to finalize it and send it as 1 of the report until the end of PERSON20, PERSON10 and PERSON14 are going to do a dry run of the report on NLP technologies at the end of May.
+- The numbers will be approximate, but it will be easy to get the final numbers in July.
+- There is a large set of deliverables PERSON20 wants more input in the scientific dissemination part of the report.
+- PERSON10, PERSON19 and PERSON4 want more details about the workshop and NLP technologies.
+- They want to collect all the information and put it in a report.
+- PERSON10, PERSON19 and PERSON11 need to check that the papers got there.
+- They need to convert Bibtech entries of the papers into spreadsheet.
+- PERSON14 will review the report on NLP technologies workshop for ORGANIZATION5.
+- PERSON12 will do the NLP workshop.
+- PERSON10, PERSON15, PERSON22 and PERSON14 are working on a project.
+- They need to submit all the deliverables by the end of this week or on Monday.
+- Some of them haven't started yet.
+- There are some milestones for the events, which were postponed.
+- The new PERSON14 is waiting for the all-clear report.
+- Some of the, file service has come up successfully again, some of the file system checks are still going on, but it looks like they should be back to operation walls.
+- The demo will take place in on one of the days of the, in the 2nd half of June.
+- People in the technical team are going to run some of the ORGANIZATION11 MT systems on a dockerized server.
+- PERSON10 will try to package his systems and get back to PERSON22 and PERSON6 for this system.
+- The ASR systems for Czech, Jasper and PROJECT3 and PROJECT4 are not integrated yet.
+- The punctuator is CPU based, but it can be run on GPU.
+- PERSON10 wants to give the punctuator to ORGANIZATION11, get them to run it.
+- PERSON19 wants a more professional software setup.
+- The demo was postponed because of the bomb and power outage.
+- People were trying to help the demo, but it put the demo at risk.
+- PERSON10 wants to test the, the, components, better components of the demo.
+- PERSON6 had something which could be promising for the ASR PERSON4 feels that the system is not ready for the demo.
+- The system is tested under research conditions only.
+- PERSON10 and PERSON15 are working on the PROJECT5 test set.
+- PERSON15 wants to start regular testing of the systems in the pipeline.
+- PERSON10, Alex, PERSON18, PERSON19 and PERSON22 are going to have a number of demo, dry run sessions.
+- They will choose and freeze the fingerprints for the demo.
+- PERSON19, PERSON10 and PERSON14 are going to ask for a 2 or 3 months extension of the project.
+- PERSON10 wants to have a discussion, a technical call on the IWSLT, results.
+- She will send the PDF with the findings PDF.
+- The deadline for the recorded, demo is the 17th of June.
+- PERSON8 is starting to prepare slides, plus video, as PERSON20, PERSON14, PERSON22 and PERSON10 are saying goodbye to each other.
+
+
+Minuted by: Team Synapse

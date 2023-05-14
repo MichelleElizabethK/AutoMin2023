@@ -1,0 +1,44 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON3, PERSON5, PERSON6, PERSON9
+
+
+SUMMARY
+- PERSON3, PERSON5 and PERSON10 want to watch an interesting talk in another language.
+- They want to use the technology that is only working technically for the people who speak OTHER3.
+- The head of the particle division of the ORGANIZATION1 was angry because the technology is not usable for people who don't speak it.
+- PERSON11 is studying at ORGANIZATION3, while PERSON6 is studying in LOCATION2.
+- They need to organize the layout to provide subtitles next to the slides.
+- PERSON7 will join them for the surge, depending on his availability.
+- On Monday at 2, PERSON3 is giving a talk on the Monday seminar.
+- PERSON3, PERSON9 and PERSON5 are going to prepare a technical talk on LOCATION3 for Monday.
+- They need to provide all the forms of the same word in the language model.
+- PERSON9 will get in touch with PERSON5 to get the files for the talk.
+- PERSON6 has done most of the work for LOCATION3, but it's too difficult to modify for OTHER3.
+- PERSON3 needs to synchronize with PERSON9 and provide some language model data related to his talk on Monday.
+- PERSON10 worked on the visualization, how was it called, real time audio visualization tool.
+- PERSON3, PERSON5 and PERSON10 are going to test the ASR.
+- PERSON5 has already measured word rate a few times and there were differences.
+- PERSON10 used a data set of 300 million open subtitles from various languages to train the paraphrasing model.
+- The problem is that it wasn't trained on PROJECT5.
+- PERSON10 wants to use an open neural network exchange format, but he doesn't know the architecture of the network and in the architecture.
+- The PROJECT4 format can be used for paraphrasing, but not for other use cases.
+- TensorFlow is serving behind the scenes on PROJECT1, but on PRO PROJECT5 they are running PROJECT5 models, which are trained in a similar way, but they don't have the connection to the integration of the other models.
+- They are going to evaluate their models offline within two weeks.
+- PERSON10 worked on data collection this week.
+- He will make a model where he would throw away the lower source languages and just use the main ones.
+- The parallel data extraction will be done by ORGANIZATION2, which is a good model for this purpose.
+- PERSON3, PERSON8, PERSON10, PERSON11, PERSON12, and PERSON7 are working on a project.
+- They need to create PROJECT5 model on all the translation.
+- PERSON6 is going back to work next week.
+- PERSON5 spent most of the time preparing for the dry run and organizing the event yesterday.
+- PERSON5 is looking for LOCATION3 data set with the correct transcripts.
+- The data set should be connected to the conversations.
+- PERSON10 suggests making a Wikipedia page of all the data sets they are using or plan to use.
+- PERSON2 is on vacation this week, but he will organize this.
+- PERSON3 and PERSON10 are on the phone.
+- They are talking to each other via speakerphone.
+- They do not wish to talk to each others further.
+- PERSON10 and PERSON3 do not want to talk any more, so they disconnect.
+
+
+Minuted by: Team Synapse

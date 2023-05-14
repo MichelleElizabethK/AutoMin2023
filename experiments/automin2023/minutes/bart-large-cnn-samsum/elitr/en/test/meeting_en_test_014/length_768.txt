@@ -1,0 +1,60 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON12, PERSON13, PERSON2, PERSON4, PERSON5, PERSON6, PERSON7, PERSON8, PERSON9
+
+
+SUMMARY
+- PERSON5, PERSON8 and PERSON6 are on the call.
+- They are talking to PERSON9.
+- The connection is slow.
+- They need to turn off the camera to save bandwidth.
+- They also need to mute themselves when they are not talking to each other.
+- PERSON5, PERSON8, PERSON7 and PERSON10 are on a conference call.
+- The purpose of the call is to collect credits for the Surge 2020 organization.
+- The conference call is being recorded and will be released publicly.
+- PERSON10 will bring a chair to the meeting.
+- PERSON5 wants everyone to give a summary of their work this week.
+- Next Wednesday they are doing domain adaptation at the university open day.
+- On the 12th of February they will give a workshop for the ORGANIZATION1 congress.
+- The workshop is two and half hours of hands on experience with natural language processing tools.
+- The next occasion to test things is the is this English given presentations of the tools.
+- PERSON8 started transcribing the YouTube videos shared by PERSON10.
+- He also prepared the transcript for the Monday seminar, got the ASR, followed by segmenter, voice domain adaptation and domain adaptation, and talk adaptation and speaking of the words.
+- The next task is to focus more on sentence, boundary detection on both English and Czech segmenter.
+- In coming days, he needs to integrate PERSON9's audio compression on these YouTube videos, progress more on the PERSON3 36 empty models and doc translation, and integrate office and text additions from PERSON4.
+- PERSON4 downloaded 1.7 terabytes of audios, videos interpreting in 22 languages.
+- He's downloading all of plenary session from your parliament since July 2018.
+- His main project until 6th of March is multi-source spoken language translation research.
+- PERSON4's main goal until the Feb 6th deadline is to experiment with multiple translation.
+- PERSON5, PERSON8 and PERSON9 will take the Monday seminar revised transcript as a test set.
+- They will take it uncompressed and check the word error rate, compressed and again check the error rate.
+- They want to run the evaluation without a mediator.
+- PERSON9 will be interested in interest in compression.
+- PERSON2 is working on the framework or for example test set for evaluation of simultaneous translation.
+- PERSON5 wants to propose a new idea for calculating the delay, BLEU score and the delay based on the MWAR segmenter.
+- PERSON5 wants to set up a regular evaluation of the pipelines to help PROJECT2 in the ORGANIZATION1 Congress.
+- PERSON8 is in India until the end of January and is arriving in early February, so it's not going to help them with the submission and prepare afterwards.
+- PERSON12 has sent a link to a website with data collection to find the data for 42 languages.
+- PERSON7 and PERSON12 need to convert PDF documents to plain text.
+- They need to use different tools depending on the language.
+- They also need to save the files in different file formats and convert them to corpus styles.
+- PERSON7 needs to use Tokenizer.
+- PERSON12 uses a text convertor.
+- PERSON5 will help PERSON12 with his bachelor thesis.
+- PERSON10 will work on the IWSLT test set, or spoken language translation from English to Czech and German.
+- PERSON8 will process the test sets with pipelines and use the evaluation tool by E PERSON2.
+- PERSON6 has done the forced alignment.
+- Now he's working on onlinezation of his ASR.
+- He has problems with transcribing.
+- PERSON13 is working on a back translation from Czech to English.
+- The talk by PERSON1 is on Wednesday.
+- They need to find better systems to be deployed by Wednesday.
+- PERSON5 wants PERSON8 to evaluate on PERSON1's recorded talk.
+- The evaluation will take place on Monday.
+- On Tuesday, PERSON4 will fine tune the system and on Wednesday morning, they will decide which one to deploy for the event.
+- The source audio is a 20-minute-long transcript of the talk.
+- PERSON8 wants to use European data to train the segmenter and use PERSON2's evaluation tool to see how they are doing.
+- The tool should be ready next week.
+- The next week, PERSON4 is not available on Thursday and Friday, so they will meet on Thursday on Wednesday.
+
+
+Minuted by: Team Synapse

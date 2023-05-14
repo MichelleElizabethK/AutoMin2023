@@ -1,0 +1,50 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON11, PERSON13, PERSON15, PERSON16, PERSON4, PERSON8
+
+
+SUMMARY
+- The Czech Republic government has lifted the restrictions on people going out.
+- People can go out even if they don't need to, for up to 10 people.
+- People are allowed to go to the forest, but only if they are in the city, not the countryside.
+- ORGANIZATION3, 4, There will be an online meeting in September.
+- People will have to postpone one of their regular meetings.
+- There will be a couple of deliverables due in June.
+- They need to decide who will be the internal review person for them.
+- There is a problem of who should do the summarization PERSON8, PERSON13, PERSON11, PERSON3 and PERSON1 are writing a project management guide for ORGANIZATION1.
+- ORGANIZATION1 has coordinated a number of projects.
+- ORGANIZATION2 has been working on it for 15 months.
+- PERSON8 believes in selforganization.
+- QT21 doesn't seem to have project management guides.
+- PERSON11 will write something and someone will review it.
+- The internal reviews should be ready by mid June at the latest.
+- The project will be ready in the end of August PERSON8 has started the PROJECT1 test sets some time ago.
+- The organization responsible for this deliverable is ORGANIZATION1.
+- The test sets consists of raw documents, curated to serve well, linebay, segmented, everything.
+- The set of languages tested depends on the set of documents PERSON8, PERSON15 and PERSON1 discuss the design of the test set.
+- They agree that the public use of these test sets should be limited to few of them.
+- PERSON8 suggests that for the general public there should be at least 3 file lists, the fingerprint would be downloadable by sacrebleu automatically.
+- PERSON15 has to send the lock file with the source code to the organizing committee.
+- The participants can misinterpret the time stamps and the forced alignment of the translations is not reliable for the evaluation.
+- PERSON1 and PERSON9 made some progress in getting translations out of the auditing websites.
+- The project was started when the EU still existed.
+- PERSON8 is supervising the overview of the audible SLT test set.
+- PERSON6 is managing the annotators for the PROJECT1 test set if PERSON12 doesn't start.
+- PERSON8 wants PERSON13 to step in and make sure the demo is delivered.
+- ORGANIZATION7 has PERSON8 would like the project to be evaluated on humans towards the end of the project.
+- PERSON1 would like it to be a bit earlier.
+- PERSON15 is not an ASR person, so he doesn't know if there is a difference between end-to-end ASR PERSON8 explains to PERSON15 and PERSON1 the difference between an end-to-end ASR and a partial sentence admitting ASR.
+- PERSON8 and PERSON13 discuss the organization of the demo.
+- The demo should be held on 14th May 17th.
+- Organizing 5 should supervise the organization and communication of this demo.
+- It should be some low like French watching session.
+- People should prepare their systems in advance.
+- PERSON1, PERSON4, PERSON8 and PERSON15 are doing ASR.
+- They are doing translation, transcription and translation.
+- They didn't understand the source language.
+- They need to test the system in German.
+- Early next week, someone should send an e-mail to the PERSON5 regarding the date of the demo.
+- The demo should be ready by the end of the week from the 11th.
+- Before that, people should run the demo for themselves.
+
+
+Minuted by: Team Synapse

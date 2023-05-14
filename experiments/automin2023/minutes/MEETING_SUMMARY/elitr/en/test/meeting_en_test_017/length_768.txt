@@ -1,0 +1,52 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON11, PERSON3, PERSON6, PERSON7, PERSON9
+
+
+SUMMARY
+- PERSON6 will do the submission for the start project this week.
+- The problem with the speakers is that the left speaker is to the right.
+- If they want to screen a film or something, it will be strange because the sound will go in the other direction.
+- The connection is good PERSON6, PERSON9 and PERSON5 want to write a book and publish it.
+- They want to send the book to PERSON5 so that he can start searching for reviewers.
+- PERSON6 wants to send the book to PERSON5 in the next few days.
+- PERSON9 thinks it can be a part of the project.
+- PERSON6 would like to have the book written on, at the end of June.
+- They don't have a Google calendar for PROJECT PERSON6 will be here from the thirteenth to the nineteenth of August.
+- PERSON9 will be there from the second week of August to the twelfth of September.
+- PERSON11 plans to be here until the fifteenth of August, so they will have a meeting on the th PERSON6, PERSON9 and PERSON7 are going to have a project meeting on the 13th of July.
+- There will be regular meetings on Tuesdays from June to July.
+- On the thirteenth of July there will be a holiday meeting.
+- PERSON6 suggests that they finish writing the paper by the end of June and have the meeting in the middle of June.
+- PERSON7 thinks they need several deadlines for the book.
+- PERSON6 would like to submit it officially the end of July.
+- PERSON11 wants to postpone it for six months.
+- PERSON9 wants to use the money from the project for some conferences next year.
+- PERSON6, PERSON9, PERSON10, PERSON12 and PERSON10 will have to spend all the money this year on the book.
+- The next meeting is on July thirteenth.
+- PERSON6 and PERSON7 are discussing the differences between their balustrades paper and the one by PERSON9.
+- PERSON6 spent a lot of time on the chapter and on that section and he still has not finished it.
+- The chapters are: the first part of chapter five, the section about self-attentions, the categorization and the syntactic specific functions in attention heads, the The book is one hundred and thirty pages long.
+- PERSON6 wrote it to one hundred fifty-eight pages.
+- PERSON11 wrote a few paragraphs, which is the most since she started, and it's almost ready to be read.
+- PERSON7 will focus on visualisations of embeddings PERSON11 has a lot of work with her chapters.
+- She needs to go through at least the first two articles mentioned in the three, zero, one chapter and rewrite it to make sense.
+- PERSON9 has restructured the section and needs to change the introduction.
+- PERSON9 is reorganizing the text.
+- He needs to add more information about morphology, syntax and semantics, but he's not sure which parts belong to semantics and which ones do not.
+- He would like some suggestions on semantics.
+- PERSON9 wants to split the text semantics task into several smaller sections.
+- PERSON6 and PERSON7 think it's better to keep it as a separate subsection.
+- PERSON9 has a typic problem.
+- She has a to-do list of papers she wants to cover and a list of sections for each of them.
+- PERSON9, PERSON7 and PERSON6 want to report on the PROJECT4 paper they submitted.
+- They want to put the related work from the paper together with the text of the dissertation they wrote.
+- PERSON6 and PERSON9 are working on a project.
+- PERSON3 is writing a survey about syntax in neural networks.
+- He should submit it to PROJECT10 and next week he should have it ready.
+- He has done 4 comparisons between different approaches to a task of predicting part of speech PERSON3 has done a lot of research on language models and machine translation.
+- The language model had more data for pretraining.
+- Machine translation is better than language models.
+- PERSON6 and PERSON7 are discussing how to prepare and store deep learning images in LaTeX format.
+
+
+Minuted by: Team Synapse

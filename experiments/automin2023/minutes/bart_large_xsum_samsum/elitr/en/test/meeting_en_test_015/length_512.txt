@@ -1,0 +1,62 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON17, PERSON19, PERSON21, PERSON8, PERSON9
+
+
+SUMMARY
+- Today is the deadline for adding new content into the book.
+- Everything is already there.
+- Multilinguality is missing.
+- The introduction is to do.
+- PERSON8 and PERSON9 are working on a project.
+- Some sections are not finished but the content is there.
+- The next phase should have been commenting on the text that is not finished at all.
+- The text is not final, so the text is kind of, yeah, so PERSON8 and PERSON9 need to check the paper's licence before they can copy it into their book.
+- PERSON8, PERSON17 and PERSON9 are discussing whether or not they have to include the creative comments atribution 4.0 international licence in their book.
+- PERSON9 and PERSON8 have different views on the structure of the paper.
+- PERSON9 wants to include some of the pictures from the other papers.
+- PERSON8 wants to say more about event fractuality.
+- There are many subsections with no content.
+- PERSON9 and PERSON8 discuss the different tasks they use in different tasks.
+- PERSON9 has it easier in the attentions tasks.
+- PERSON19, PERSON9 and PERSON8 need to regenerate the text on the pgf.
+- PERSON9 and PERSON21 are working on their chapters 5.2 and 5.3.
+- Some parts of the chapters need to be rewritten and some parts still have pictures missing.
+- PERSON8 and PERSON9 are working on a project.
+- They need to rewrite and rework chapters 3.1 and 3.2 of the book.
+- PERSON21 has trained FastText embeddings that look more similar to the Glove than to the original Glove.
+- PERSON8 and PERSON21 are discussing the differences between their figures and the others' figures.
+- PERSON17 and PERSON21 are arguing about the differences between the original PERSON13 model and the new PERSON21 model.
+- PERSON17 wants to delete the ugly figures from the first image he made in tix.
+- PERSON9 wants to improve the figures after it's been sent to the reviewers.
+- PERSON21 wants to change the content of the figures just how they look.
+- People will have figures in the missing sections like PCA and ICA.
+- PERSON4.1 will be deleted.
+- Person PERSON21 will convert the bit map into proper text in Inkscape.
+- PERSON9, PERSON8, PERSON21 and PERSON17 are working on a project.
+- The deadline is today at midnight.
+- PERSON9 wants to make sure that the chocolate is reordered in the box.
+- PERSON21 needs to add PCA and ICA and reorder the chocolate.
+- PERSON9, PERSON8 and PERSON17 are writing a book about Sentiment in Czech.
+- They want to have at least one reviewer from LOCATION2.
+- The book is 160 pages long.
+- There is a preface to the book, but it's not abstract.
+- They PERSON9 and PERSON8 are discussing the difference between a book summary and a book conclusion.
+- They are also discussing the structure of the book series.
+- The summary in English must be in every Czech book.
+- The summary is obligatory.
+- The longest book in the series is the light lexikons.
+- PERSON9, PERSON17, PERSON9, and PERSON8 are working on a text for lexikon.
+- There are many errors in the text.
+- Some references are not in the Zotero format and some citations are always missing.
+- PERSON8 will comment on the table.
+- The next meeting is in two weeks, on Monday, 13th July.
+- The meeting starts at 2 p.m.
+- There will be lunch, PROJECT2 meeting, PRO PROJECT3 meeting and ORGANIZATION4 beer.
+- PERSON8 and PERSON9 are going to watch the ORGANIZATION1 lectures during the next week.
+- PERSON21 has holiday next week but will be working.
+- PERSON17, PERSON8 and PERSON21 are going to watch the interpretability and analysis tutorial.
+- PERSON8 doesn't know how many people are registered and how it works.
+- People can watch if they are registered, but they need to pay for it.
+
+
+Minuted by: Team Synapse

@@ -1,0 +1,34 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON12, PERSON3, PERSON4, PERSON6, PERSON7
+
+
+SUMMARY
+- PERSON12 and PERSON7 will meet on Monday the 20th of May at 10 on a technical call to discuss the presentation platform.
+- The first prototype should be ready on the 7th of June.
+- PERSON7 explains to PERSON3 how to deal with the corpus of incomplete sentences and how to improve the user experience.
+- PERSON7, PERSON4, PERSON6 and PERSON3 are working on a project.
+- They need to change the training data for the MT systems, so that they can handle input like this.
+- PERSON3, ORGANIZATION6, PERSON7 and PERSON4 are working on a project.
+- They have some sample data.
+- They need to verify the timestamps of the ASR workers.
+- They also need to prepare a baseline for the workshop.
+- The baseline would be to PERSON4, PERSON6, PERSON7 and PERSON3 are working on a project.
+- They need to train the models to be ready to accept partial sentences, even if they are badly segmented.
+- They also need to prepare one language model for this workshop.
+- PERSON7 wants to know next week if she should do any ASR adaptation to the text.
+- If she doesn't, she should contact the integration and segmentation worker for Czech.
+- The workshop runs in English and German.
+- There will be student translators there.
+- PERSON4, PERSON7, PERSON12 and PERSON10 are planning an event on Wednesday, June 19th.
+- PERSON3 is fine tuning the German ASR.
+- PERSON7 wants to know if the system supports pivoting over English workers.
+- PERSON6, PERSON3, PERSON7 and PERSON10 are planning a workshop at the end of June.
+- They need to take paralel text only corpus, text to speech on it, and then ASR, and they try and on the output from ASR with errors against PERSON7 is running age ASR workers for English at ORGANIZATION6, but four of them don't emit any output.
+- ORGANIZATION6 wants to change the workers, but it's not possible at the moment.
+- Organized 6 is going to discuss it on Monday.
+- PERSON3, PERSON7 and PERSON9 are having problems with the election campaign.
+- They want to investigate the problem.
+- PERSON3 will let them know if they can have a meeting in 5 minutes.
+
+
+Minuted by: Team Synapse

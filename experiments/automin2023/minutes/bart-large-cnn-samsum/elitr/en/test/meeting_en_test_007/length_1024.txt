@@ -1,0 +1,26 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON10, PERSON2, PERSON5, PERSON6
+
+
+SUMMARY
+- PERSON10, PERSON1, PERSON2, PERSON3, and PERSON6 will have a meeting on Thursday at 1 P.M. LOCATION1 time.
+- They will have lunch and dinner.
+- The meeting will take place at 5 p.m. at the LOCATION2 time.
+- The deadline for joining the mailing list is 4 days and 1 hour from now.
+- PERSON1 wants to come to Prague in person to enter a proper work contract.
+- The ORGANIZATION4 is closed, so LOCATION1 can't apply for a visa.
+- PERSON2, PERSON3, PERSON4, PERSON5, PERSON6, PERSON9, and PERSON10 are working on organizing the project.
+- PERSON6, PERSON2 and PERSON5 discuss the progress of PROJECT1.
+- The communication is not perfect, but it's getting better.
+- The certificate on the server of the plane who does the evaluation has expired.
+- The state is that, PERSON9 is preparing the leaflets and handing them out.
+- The project will be published next year.
+- PERSON6 is sceptical about machine-learned evaluation methods, because they might be sensitive to domain shift and other things.
+- He thinks that the pretrain model might be useful for this kind of distinguishing.
+- The idea is to use the metric to estimate the sim – sim sim similarity, but still have the constraints to enforce some like surface form distinction.
+- PERSON6, PERSON10 and PERSON2 are going to have a meeting about the PROJECT4 today.
+- They discuss the possibility of using the metric to help with the development of the paper.
+- They will try to meet with PERSON1 next week to discuss the task together.
+
+
+Minuted by: Team Synapse

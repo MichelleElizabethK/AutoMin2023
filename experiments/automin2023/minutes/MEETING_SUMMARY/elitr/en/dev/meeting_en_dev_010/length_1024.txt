@@ -1,0 +1,42 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON10, PERSON12, PERSON14, PERSON17, PERSON19, PERSON20, PERSON22, PERSON3, PERSON4, PERSON8, PERSON9
+
+
+SUMMARY
+- PERSON10, PERSON12, PERSON14, PERSON22, PERSON9, PERSON3 and PERSON16 are meeting to discuss organization of the IWSLT presentations.
+- The deadline was given by ACL 3 days ago.
+- The overall results will be presented in one slot.
+- There will be workshop sessions of 1 or 10 participants.
+- The postponed review will take place in September.
+- PERSON10 wants ORGANIZATION5 to prepare the financial tables for the official submission in September.
+- ORGANIZATION5 is late.
+- ORGANIZATION20 wants to double check the numbers they received from ORGANIZATION5.
+- Organized ORGANIZATION5 should be ready to submit the final versions of the reports in mid July or late The organization organizes a workshop on NLP technologies for lay people.
+- The workshop was planned, but it didn't take place due to the Covid crisis.
+- Everyone should contribute their data to the report.
+- PERSON19, ORGANIZATION11, ORGANIZATION19, ORGANIZATION10, ORGANIZATION21, ORGANIZATION22, ORGANIZATION3, ORGANIZATION4, ORGANIZATION5, ORGANIZATION6, ORGANIZATION7, ORGANIZATION8, ORGANIZATION9 and ORGANIZATION10 are going to prepare a spread sheet with information about the submission of papers.
+- PERSON12 will review the report on NLP technologies workshop.
+- The workshop is for people not familiar with NLP.
+- It's from 30th of May to the 3rd of June 2021 and the workshop itself will be on the 1st of June.
+- Some of the deliverables have not PERSON10, PERSON15, PERSON3, PERSON4, PERSON22 and PERSON5 are going to have a rootless, virtual machine demo in the second half of June.
+- The demo will take place on 1 of the days of the week of 15th June.
+- PERSON19 wants his project's IT system to be containerized.
+- He also wants to integrate the ASR systems for Czech, PROJECT2 and PROJECT4, but they are not integrated yet.
+- PERSON9 wants to know the GPU configuration of the virtual machine.
+- PERSON10 wants to give the punctuator to ORGANIZATION6.
+- PERSON19 wants a staging in a production and development system to avoid updating the systems before the demo.
+- PERSON10 wants to know more about the submission to IWSLT.
+- Right now it's text based only for the MT side.
+- The system is tested under research conditions only.
+- It's possible to translate text to text in another language, but it's not ready for this demo According to PERSON10, they are getting closer to regular testing of the systems integrated in the pipeline.
+- They have lockdirs, which record the outputs, including time stamps.
+- They are working on PROJECT5, which will cover further language pairs and set-ups than the IW PERSON18 has not filled the documents yet, but they are in.
+- PERSON10, Alex, PERSON19 and PERSON22 will present the videos twice, once with the devset chosen system and the second time with the test set chosen system.
+- They will have a number of PERSON10, PERSON14, PERSON19, PERSON3, PERSON8 and PERSON10 are going to ask for 2 or 3 months extension of the project.
+- The deadline for the recorded, demo is the 17th of June.
+- PERSON8 will share the Overleaf link for the slides.
+- In one of the dry run sessions, they will also record what they are delivering and include it in the IWSLT.
+- A number of doodle pools is
+
+
+Minuted by: Team Synapse

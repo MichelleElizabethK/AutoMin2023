@@ -1,0 +1,33 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON11, PERSON14, PERSON15, PERSON2, PERSON3, PERSON4, PERSON7, PERSON8
+
+
+SUMMARY
+- PERSON2, PERSON7 and PERSON3 can't hear each other.
+- The organiser of the ORGANIZATION2 conference apologizes for the delay in the call.
+- The goal is to synchronize the group, and the date and time, so that it is fits to most of the participants.
+- The organiser asks for consent to process the data within the team, PERSON11 and PERSON3 are working on a project.
+- They need monolingual data sets to train the rainbow models.
+- ORGANIZATION6corpus released a data set in one hundred languages, but only one third of it is English-centric.
+- ORGANIZATION13 hasn't released the data PERSON11 has discovered that on some of the testing data sets from PROJECT6, the results are not much better than the best Edinburgh model.
+- The evaluation is more important and they need monolingual data for, domain adaptation.
+- The organization needs parallel data as much as possible.
+- PERSON8 wants to make PROJECT2 the standard evaluation tool for the PROJECT5 project.
+- He wants to have it commented in a paper and published at a conference.
+- PERSON3, PERSON8 and PERSON14 discuss ORGANIZATION3's instructions on how it should work.
+- ORGANIZATION3 should download the PROJECT5 test set when asked for it.
+- ORGANIZATION17 should do the evaluation of all the systems.
+- ORGANIZATION10 should help PERSON10 with what he PERSON4 has worked on multi-target machine translation for his master thesis.
+- He is also working on PROJECT5 to develop multi source, models.
+- His task so far has been to generate synthetic multi-source train set.
+- PERSON10 and PERSON14 are taking over what PERSON14 did PERSON10, PERSON3, PERSON4, PERSON15, PERSON7 and PERSON15 are working on the multi-source synthetic corpus.
+- They are also working on data augmentation for PROJECT4.
+- PERSON3, PERSON10, PERSON11, PERSON14, PERSON15 and PERSON16 are on a conference call.
+- They are discussing how to improve the performance of a machine learning model.
+- PERSON7 is working on a task similar to the Organizing14 challenge.
+- The task is to train a robust system in English PROJECT4.
+- PERSON7 and PERSON15 are working with the same data set for the ORGANIZATION13 evaluations.
+- They need to use the common voice and then compare the of more systems.
+
+
+Minuted by: Team Synapse

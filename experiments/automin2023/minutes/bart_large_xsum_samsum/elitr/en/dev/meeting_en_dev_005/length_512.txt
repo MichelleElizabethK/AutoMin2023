@@ -1,0 +1,39 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON11, PERSON12, PERSON14, PERSON17, PERSON2, PERSON5, PERSON7
+
+
+SUMMARY
+- PERSON14, PERSON8, PERSON2, PERSON7, PERSON9 and PERSON11 are in a meeting.
+- They are trying to record the call to see if they are able to summarize it automatically.
+- PERSON9 will give her presentation on PROJECT2 on the Monday seminar.
+- The The Monday seminar on the 17th happens the week after the dry run of a workshop where we are describing various language technologies and promoting NLP.
+- On Wednesday, the 12th of February, there will be the first dry run of the NLP workshop.
+- The second dry run will be recorded and used for domain adaptation later on.
+- The final workshop will be held in English.
+- There will be NLP and PROJECT2 on the PERSON14, PERSON11, PERSON16 and PERSON4 are going to present their companies to non-native speakers of English on the 18th and 19th of March.
+- They need to filter profanity.
+- PERSON11 is going to do the collection of business for English and other languages PERSON11 and PERSON6 will use the MultiSource model as a language model and they will work on it together.
+- There is a problem with the profanity filtery after PERSON4.
+- According to PERSON14, the bad word "šoupátko" was created by an error in the translation system.
+- The idea is to train empty systems on corpora which are refind to contain only higher frequency words.
+- PERSON14 and PERSON10 are working on the paper for exceptement and PERSON2 is on the call.
+- PERSON17 has finished evaluation framework and it's ready but he needs complete files to test it.
+- PERSON14 wants to break the recorded from MI Corporas into small chunks.
+- PERSON2 has already read a mail.
+- PERSON17 has a question about the English and LOCATION1 parts of the recording.
+- PERSON11 will create a list of files and send them to PERSON17.
+- PERSON14 will prepare a next version of the czech ASR system and enter it into the google sheets.
+- PERSON11 has found the appropriate command flacs so that the audio is compress to mp3 then shiped as mp3 to network and decompress before being sent to the ASR.
+- PERSON2 is working on sound segmentation.
+- PERSON2 needs feedback from PERSON13 on how the segmenter works.
+- There are some problems with it.
+- The speaker diarization should be done on speaker separately.
+- The windows can overlap to speakers and the problem with that is that the transformer translate sentences into nonsense.
+- PERSON8 has already worked on the project last June.
+- PERSON5 is waiting for a virtual machine for the paraphrasing server.
+- PERSON14 wants to know if there is code for FastSpeech for ASR.
+- PERSON5 will send it to PERSON14.
+- PERSON5 is from LOCATION4.
+
+
+Minuted by: Team Synapse

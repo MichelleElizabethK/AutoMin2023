@@ -1,0 +1,54 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON14, PERSON15, PERSON4, PERSON8, PERSON9
+
+
+SUMMARY
+- PERSON14 is watching a lecture on PROJECT2 ORGANIZATION5.
+- It was live streaming.
+- PERSON8 is working on a transcript.
+- PERSON9 wants to run the ASR and the segmenter separately and review the script first.
+- The transcript is processing.
+- PERSON9 and PERSON8 are preparing for the audible cell ties submition.
+- They want to run the byplan and for the locks for both, before the segmentor and after the segmenter.
+- The most important thing is the forced alignment process.
+- It's ORGANIZATION6 corpus.
+- The input files for this are Antrecorp.
+- PERSON8 needs to get all the input files for the evaluation.
+- The files will be in VDD, one sentence per line.
+- Some of the files are too long and some of them are broken into smaller chunks by PERSON13.
+- The most important path is the one for the academy is complementary evaluated.
+- PERSON8 informs PERSON14 that there is some inconsistency of names now, and they are PERSON3, PERSON12 and PERSON11 and also PERSON4.
+- The most up to date OST versions are in the in some repositor, which you do not have access to.
+- PERSON8 asks PERSON14 to put the path of the files that he is processing here.
+- He also wants to know if he needs to create a support director in Antrecorp to process some files and if it's important to have it versioned.
+- PERSON8 is processing Antrecorp.
+- 2 WAVs are here and the OST files are here.
+- They need 16 kWAVs for the forced alignment and 16 k for the AntRecorp depth and test directories.
+- They have PERSON15 on the call, they have PERSON9 and PERSON4.
+- PERSON8 wants to know if PERSON15 has started pushing anything into the new repository for PROJECT2 test set yet.
+- The deadline for EMT is tomorrow.
+- PERSON4 synchronizes with PERSON14 on the on the SLT test set and depth set forced alignment files.
+- PERSON8's priorities are the SLT evaluation, preparing the files for PERSON14 and cleaning up of the stable.
+- The files are 3 to 16 kilohertz WAV files, they should use the new names, not PERSON12 but Austrian and Austrian and not Dutch but Dutch.
+- PERSON8 needs to create a case similar to the academy test set they have now.
+- PERSON4 will prepare all the lines, all the English lines until line 16 tomorrow.
+- PERSON8 is disorganized because of the extra workload with remote lecturing, so she needs to rehandle the Doodle poll.
+- PERSON14 is working on a caraoke as timeview and spent on time introdate comes on.
+- The main thing that needs to be refix in the video is the word level timestamping.
+- He created an AAS file using a software other.
+- Now he can make a Python script to subtitle all the corpus.
+- PERSON9 is finishing the paper about subtitler for the 25th.
+- The deadline is still plenty of time, so he doesn't have to do anything with audible SLT.
+- PERSON15 is working on 3 languages Polish, Polish, German and Russian.
+- He collected 3000 sentences for 3 languages and almost cleaning part is done.
+- He will collect from other 43 languages.
+- He has already update ORGANIZATION3 locks.
+- PERSON4 will clean everything tomorrow.
+- He will give PERSON14 the pass for all files.
+- The files are the subtitles for this test.
+- They are in VDD format.
+- The name of the academy is Antrecorp.
+- If he needs a script, he should tell him about it in two hours.
+
+
+Minuted by: Team Synapse

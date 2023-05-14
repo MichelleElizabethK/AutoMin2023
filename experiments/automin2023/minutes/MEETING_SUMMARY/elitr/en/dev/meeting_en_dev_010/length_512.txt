@@ -1,0 +1,76 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON10, PERSON12, PERSON14, PERSON17, PERSON19, PERSON20, PERSON22, PERSON3, PERSON4, PERSON8, PERSON9
+
+
+SUMMARY
+- PERSON12 has joined the conversation.
+- It works even though there was a restriction on installing something.
+- PERSON14's profile picture is frozen.
+- PERSON10, PERSON14 and PERSON16 are discussing the organization of the IWSLT presentations.
+- There will be a panel and a pre-recorded summary of the results, presentation.
+- PERSON8 has received a request from the main organizers to prepare a video for his PROJECT5 submission.
+- The deadline for the decisions was given by ACL 3 days ago.
+- PERSON14 has received many e-mails on the topic.
+- PERSON16's latest proposal was to organize workshop workshops sessions PERSON14 didn't see the emails before Monday because they had a long weekend.
+- He should have a report by Monday or later.
+- The postponed review will be postponed till September.
+- The financial tables are being prepared as a preparation for the new official submission in September.
+- Organizing5 wants to double check the numbers they received from Organized6 and make sure they make sense before the official submission.
+- The EU gives them 2 months to finalize the numbers.
+- Organized PERSON20 and PERSON10 are going to conduct a dry run to test whether they understand each other's salary tables.
+- There are a lot of deliverables.
+- The reviewer for the report on NLP technologies has been chosen, but the reviewer on spoken language translation is also missing.
+- Everyone should contribute their data.
+- PERSON10, PERSON20, PERSON4, PERSON19 and PERSON14 want to collect more information about the workshop and NLP technologies.
+- They also need more input on the scientific dissemination part of the report.
+- PERSON10, PERSON19 and PERSON22 discuss the format of the pre-review they had during the autumn.
+- They agree it's not a good format.
+- Organizing ORGANIZATION11 had fill in their papers and think of.
+- PERSON21 has put the paper is here.
+- PERSON6 has is now putting the IWSLT, paper.
+- PERSON10 suggests to put the things that are not associated with the paper in the table.
+- PERSON10, PERSON11 and PERSON14 will review the report on NLP technologies workshop for ORGANIZATION5.
+- PERSON12 will talk to some of ORGANIZATION5's developers to make sure they are familiar with NLP.
+- According to PERSON10, all the main authors responsible for the deliverables have to submit them by the end of this week or on Monday.
+- Some of them haven't started yet, so they will negotiate with the respective reviewers to buy them some more time.
+- The new Congress date is from 30th of May to the 3rd of June 2021.
+- The workshop will be held on the 1st of June.
+- There was a demo.
+- The demo was very busy.
+- Since yesterday afternoon, the power has been restored.
+- PERSON10, PERSON15, PERSON20 and PERSON3 want the project officer to prepare an internal pole with a large number of dates for the demo.
+- They want to fill it by the end of this week.
+- On Monday or Tuesday, they want to email the options to the project PERSON10, PERSON3, PERSON18 and PERSON5 are going to conduct a demo in the second half of June.
+- The demo will take place on one of the days of the 2nd week of June and the choices will be sent to PERSON5 early next week.
+- PERSON19 wants his MT system to be dockerized.
+- PERSON10 is surprised that their IT system is not.
+- They will investigate what can be done about it.
+- PERSON10, PERSON19, PERSON1, PERSON4, and PERSON17 want to make sure that the ASR systems can be run at ORGANIZATION2 and the translation systems in ORGANIZATION11.
+- It would be easier for them to run PROJECT3 and PRO PERSON10 and PERSON19 want to give the punctuator and the virtual machine to ORGANIZATION2.
+- PERSON9 wants them to give it to ORGANIZATION11.
+- PERSON10 has learned that they must have a complete production system and a development system.
+- They must avoid updating the systems before the demo.
+- The production system has to be stable without any new segmenters, any new updates for a long period of time and without interdepencies interdepend The demo was postponed because of a power outage.
+- PERSON10, PERSON19 and PERSON4 want to test the new components of the ASR.
+- PERSON4's submission to IWSLT is text based translation from English to German.
+- PERSON4 and PERSON10 are discussing the implementation of a system.
+- The system is not ready for the demo.
+- PERSON4 wants regular testing of the systems integrated in the pipeline.
+- PERSON10 would like to have this ladder climbing approach.
+- According to PERSON10, they will be regularly running different set-ups.
+- The frozen fingerprints will be the thing to demo.
+- They need to come up with a list of what is stable and what is frozen.
+- They have a separate Google doc.
+- PERSON15 would like to propose dates for In the upcoming sessions, PERSON10, PERSON18 and PERSON22 will present the videos twice, once with the devset chosen system and the second time with the test set chosen system.
+- This way, they will be able to directly evaluate which systems are the best.
+- PERSON19, PERSON10 and PERSON14 are considering asking for an extension of the project.
+- The deadline for the project is in December.
+- PERSON10, PERSON14, PERSON19 and PERSON3 agree that they will ask for 2 or 3 months extension of the project.
+- PERSON8 is preparing slides plus video as a pre-recorded presentation for the PROJECT5 system paper.
+- The deadline for the recorded, demo is the 17th of June.
+- PERSON8 will share the Overleaf link for the slides.
+- In one of the dry run sessions, they will also record what they are delivering and include it in the IWSLT.
+- A number of doodle pools is
+
+
+Minuted by: Team Synapse

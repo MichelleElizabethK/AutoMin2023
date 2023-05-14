@@ -1,0 +1,48 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON10, PERSON11, PERSON14, PERSON5, PERSON9
+
+
+SUMMARY
+- PERSON10's system froze for 30 seconds.
+- The easiest way to fix it is to replay a lockfile and feed it to the presentation workers.
+- PERSON14 is waiting for PERSON9 and PERSON1 to join the Zoom account.
+- There was a PIN for the account but it was not included in the link.
+- ORGANIZATION3 promotes and organizes the ORGANIZATION4 promoting at the same time.
+- PERSON14, PERSON11 and PERSON9 are going to do a live streaming of a project.
+- They need a simple set up to stream remotely.
+- PERSON9 is trying to publish a video on a public server, but at the moment he's not able to do it.
+- PERSON14 is curious about the set up of the localhost.
+- PERSON9, PERSON14, PERSON1, PERSON10, PERSON5 and PERSON11 will focus on the technical set up of the project.
+- They need to stream both video and audio to the web server.
+- They also need to prepare a playlist of German TEDx talks.
+- PERSON11 and PERSON14 watched a TEDx talk in German.
+- They agree that the transcribing and translating model is better for the auditing domain.
+- They will focus on the selection of the input and test it separately on using PERSON11 direct tools.
+- PERSON9 proposes to fix the set up on Thursday and Friday.
+- The plan B is to use the standard Youtube iFrame within the presentation platform.
+- The iFrame will not have the auto play on and it will only show the video, the pre-recorded one that we want to PERSON9 explains to PERSON14 and PERSON1 that there are two back doors to the presentation platform: one for transcribing and one for calling the worker directly.
+- PERSON1's Youtube account is not ready yet, so he can't test the system.
+- The plan B is to stream the meeting in German and show how it handles non-native speech.
+- PERSON9, PERSON1 and PERSON14 explain to the project officer that the audio passes through the service architecture, but it does not pass through Youtube.
+- The plan B is something that PERSON9 will help PERSON10 with set up and it should work.
+- The best solution is There is no national holiday on Friday.
+- There was one on the first of May but no on the 8 of May.
+- The project officer knows that both the online text flow and the presentation platform are developed for face to face conferences.
+- PERSON11 wants to test if he can pipe audio into the ORGANIZATION6 mediator and see the output of that system.
+- PERSON10 has a German ASR script that can do multiple translations simultaneously for PERSON11.
+- PERSON9 and PERSON10 will log in to the ORGANIZATION5's web server to upload a video file, have the FFM peg tool installed and upload the M3U8 playlist to it.
+- Then they will write the file to the publicly exposed directory.
+- PERSON9 needs a couple of minutes to recap their stream text to the presentation platform, while PERSON1 is testing the idea of plan C. PERSON9 is streaming a 3-second-long fragment of video.
+- The apache server doesn't work properly.
+- They are going to fix it.
+- PERSON9 and PERSON10 are preparing a presentation for a meeting.
+- The project officer will see both online text flow and the subtitles of the presentation through the screen.
+- PERSON9 and PERSON10 are trying to figure out how to fix the problem with live streaming on a conference call.
+- PERSON9 suggests putting everything on a different machine and letting the demo run remotely.
+- If PERSON2 can join the meeting, they will be able to fix audax quickly.
+- PERSON9, PERSON5, PERSON11 and PERSON1 are going to have the next test session tomorrow at half past 10.
+- The source language for the video file will be German.
+- PERSON9 will send the command to pipe the text the presentation platform.
+
+
+Minuted by: Team Synapse

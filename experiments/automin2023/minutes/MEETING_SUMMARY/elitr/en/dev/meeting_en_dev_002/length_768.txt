@@ -1,0 +1,46 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON10, PERSON11, PERSON14, PERSON5, PERSON9
+
+
+SUMMARY
+- PERSON10's system freezes when Zoom is about to start.
+- The simplest way to fix it is to replay a lockfile and feed it to the AB client and to the presentation workers.
+- PERSON1 is here.
+- PERSON4 is also here.
+- The first path of the Zoom US link we are using is the ORGANIZATION3 path.
+- PERSON14 is trying to set up a set up that will work remotely for the project officer and other guests he will invite.
+- PERSON9, PERSON1, PERSON10, PERSON5, PERSON11 and PERSON14 are working on a project.
+- They need to stream video, audio and machine translation on a single web server.
+- They also need to identify and test the video file.
+- PERSON11 sent a playlist of German TEDx talks.
+- The German segmentation is not as good as the English one, but it was ok.
+- There are 3 possible days for auditing: Tuesday, Thursday and Friday.
+- The project officer will focus on the selection of the input and PERSON9 explains to PERSON14 how to set up the presentation platform and how to send a video to the presenter platform.
+- PERSON9 and PERSON14 agree on plan C. They want to stream the meeting on Youtube but there is no practical way to do it.
+- They will make a demo video to show how the system handles non-native speech.
+- PERSON10 was running the pipeline yesterday.
+- It passes through the service architecture, but it's not related to the videos.
+- When PERSON10 was talking, the sound came from the output, not from the subtitles.
+- The plan B is something that PERSON9 will help PERSON10 with set up PERSON9, PERSON5 and PERSON11 are going to work on technical set up.
+- PERSON14 wants to end the meeting only for himself.
+- PERSON11 wants to run multiple translations simultaneously for PERSON11.
+- PERSON9 explains to PERSON10 and PERSON1 how to stream video on the ORGANIZATION5's web server and write a playlist to the publicly exposed directory.
+- PERSON9 is streaming a video.
+- It's broken.
+- They are going to fix it.
+- PERSON9 and PERSON10 are working on a presentation platform.
+- The project officer will see both online text flow and the subtitles of the presentation through the screen.
+- The video will be publically available to the host persons of the meeting.
+- The participants will connect to the public URL to PERSON9 suggests running the demo remotely.
+- PERSON10 suggests putting everything on a different machine.
+- PERSON11 suggests using the client C client.
+- PERSON2 agrees to join the meeting.
+- If he does, they will fix audax.
+- PERSON7 is responsible for booking the Zoom meeting slot.
+- PERSON9 should prepare the call link for the call for all the participants.
+- PERSON10 should show him how to pipe the text into the presentation platform.
+- German will be the source language for the video file.
+- The next test session
+
+
+Minuted by: Team Synapse

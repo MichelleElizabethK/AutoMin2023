@@ -1,0 +1,33 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON13, PERSON15, PERSON16, PERSON2, PERSON3, PERSON6, PERSON7, PERSON8
+
+
+SUMMARY
+- PERSON13 and PERSON7 are late.
+- Yesterday, the experience was disastrous, because the recognition quality was badly recognised and it was also slow.
+- PERSON3 has added some files to the PROJECT12 Test set.
+- PERSON14 has set up PROJECT4 for the text files for the PERSON13 wants to explain to him that there is a clear distinction between the PROJECT13 Archive, the interviews with the survivors of World War II of the Holocaust and the historical papers and the presentations by historicians.
+- PERSON15 can't find the reviews for PROJECT12 multilingual life subtitling.
+- ORGANIZATION2 is not keen on the PROJECT14 quality, so PERSON16 should work on the evaluations first and fore.
+- PERSON13 will get in touch with PERSON8 to process all the files that PERSON8 has for, English, training data they need.
+- PERSON7 will write a paper on the study.
+- PERSON13 asks PERSON18 and PERSON16 to prepare a set of instructions for the participants of the seminar.
+- She also asks them to give them access to the subtitles and, separately, to get feedback from the participants.
+- The seminar is on the twenty fifth of January.
+- PERSON1 has developed a shortening PROJECT1, English to Czech.
+- The result is that the bleu score is lower.
+- PERSON16 wants to make a new evaluation campaign in the PROJECT12 test set evaluations.
+- PERSON8 is working on the training of the recordings.
+- PERSON13 wants to know how much money he should be paid from PROJECT5.
+- He needs to talk to her about it, but she is giving a talk this afternoon.
+- PERSON13 and PERSON6 are trying to solve the problem of alignment in English and German sentences.
+- PERSON6 and PERSON13 have a problem with the speed of the text to speech translation.
+- PERSON6 is confused by the differences between the two versions of the translation.
+- PERSON2, PERSON13 and PERSON6 are trying to work out a formula for a T-shirt design.
+- PERSON13 and PERSON6 are working on a paper.
+- It's complicated.
+- PERSON6 is going to work on the paper.
+- PERSON13 is adding her to PROJECT7.
+
+
+Minuted by: Team Synapse

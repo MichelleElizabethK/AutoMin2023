@@ -1,0 +1,32 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON13, PERSON14, PERSON3, PERSON7
+
+
+SUMMARY
+- PERSON15 is on vacation.
+- PERSON10, PERSON8, PERSON15, PERSON13, PERSON6, PERSON3 and PERSON2 are working on a presentation platform.
+- PERSON10, PERSON13, PERSON14, PERSON3, PERSON5 and PERSON15 are working on a project to train machine translation on a text-to-text pipeline.
+- There are some bugs in the current implementation.
+- PERSON14 is the only person left to fix them.
+- PERSON10 wants to have the online mode working.
+- PERSON5 needs to test machine translation by looking at the output of the online ASR.
+- PERSON14 suggests to send the audio files to PERSON5 and they would do the ASR offline.
+- The machine translation quality is not affected by mismatching segmentation between the training mode and the operation mode.
+- There is a risk that if the machine translation system is trained on offline ASR, it will be different from the one trained on online ASR.
+- ORGANIZATION5 has connected online AS PERSON10, PERSON14, PERSON5, PERSON6, PERSON3, PERSON13 and PERSON7 are trying to solve a problem with the batch mode of operation of the project.
+- The segmentation workers in ORGANIZATION5 do not work with the CTM client.
+- Therefore, in order to test the machine translation, they always have to rely on some ASR worker to handle the audio.
+- ORGANIZATION5 needs to solve the problem before next Friday.
+- The ASR output in chat does not have any tags other than words.
+- There is an ORGANIZATION2 platform mediator which performs most of the processing.
+- The segmentation worker is sequence labeling-Labels each word with either opf insert coma or insert the full stop.
+- PERSON10, PERSON5, PERSON7, PERSON13 and PERSON15 are going to conduct a project test next week.
+- They will be doing the ASR integrations, which is now overseen by PERSON14.
+- There will be a session with PERSON15 next week to discuss the bug PERSON3, PERSON10 and PERSON14 discuss a new component of the work project.
+- It is important that all audio inputs are translated into all target languages at all times and that they matter of which one is shown to the audience.
+- There will be more people monitoring the presentation platform at the same time.
+- PERSON10 and PERSON3 discuss how to deliver Polish subtitles to the participants.
+- Organizing Committee 1 can order whatever devices they want, but they don't believe 400 people can receive the signal of their WiFi reasonably well, so they will leave it for the next PROJECT3 call.
+
+
+Minuted by: Team Synapse

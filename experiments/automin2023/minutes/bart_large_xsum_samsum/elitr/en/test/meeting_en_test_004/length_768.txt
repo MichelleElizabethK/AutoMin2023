@@ -1,0 +1,37 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON13, PERSON14, PERSON3, PERSON7
+
+
+SUMMARY
+- PERSON3, PERSON10, PERSON13, PERSON14, PERSON15, PERSON6, PERSON8 and PERSON3 are working on a presentation platform.
+- The presentation platform is slowly taking shape.
+- There is no way to switch off the webcams in the ORGANIZATION2 PERSON10, PERSON3, PERSON5, PERSON13, PERSON14 and PERSON7 are working on a project.
+- They want to have a text client for debugging and for testing.
+- The text client should be able to send text to text worker.
+- PERSON14, PERSON5, PERSON7 and PERSON3 are working together this week to find better workarounds to improve the operation of the online ASR.
+- They need the segmentation of the ASR to train machine translation on this.
+- PERSON10, PERSON14 and PERSON13 explain to the client the set up for the testing of the PROJECT1 worker connection.
+- PERSON10 is concerned about the mismatch of the segmentations between online ASR and offline ASR.
+- PERSON14 will have to ask PERSON5 about the details for that.
+- PERSON13, PERSON14, PERSON10, PERSON5, PERSON6, and PERSON7 are working on a demo.
+- The demo is terrible.
+- They need to improve the quality of the segmentation.
+- There is a bug in the batch mode that needs to be fixed.
+- PERSON7 created a text to text client, but it didn't work with his batchmode.
+- The segmentation workers in Organization ORGANIZATION5 do not work with the CTM client.
+- The CTM is the word level output of ASR.
+- There is a bug to ship the C PERSON10, PERSON13, PERSON15, and PERSON3 will meet next week to discuss a bug in the ASR workers.
+- PERSON10 is confused about how the presentation platform handles unsegmented text.
+- PERSON3 can't check it right now, because log has been over written by something else.
+- The ASR worker connect, reconnects very quickly, MT workers do as well, but it takes some time.
+- When the mediator dies, the worker needs to survive and reconnect again PERSON3 and PERSON10 are working on a project.
+- They need to decide online which of the streams in concatenation with the ASR and the MT is the best set up.
+- They have to make sure that subtitles in Romanian are based on the machine translation all the target languages PERSON3, PERSON10 and PERSON15 discuss the functional requirements of the presentation platform.
+- The presentation platform will be able to monitor the output of the re-speakers cabins.
+- If one of them is unavailable, the machine translation will automatically jump to the other provided translation.
+- The PERSON10 and PERSON3 explain to each other how the presentation platform works.
+- PERSON10 is responsible for making the Polish output using the best ASR, another one for Spanish and one for the best MT.
+- PERSON10, PERSON3 and PERSON13 will talk again next Friday.
+
+
+Minuted by: Team Synapse

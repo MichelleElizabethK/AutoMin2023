@@ -1,0 +1,43 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON13, PERSON14, PERSON3, PERSON7
+
+
+SUMMARY
+- PERSON10, PERSON7, PERSON8, PERSON15, PERSON6, PERSON13, and PERSON4 are going to meet at LOCATION1 to discuss the presentation platform for the ORGANIZATION2 workshop.
+- The presentation platform is slowly taking form and will be ready next week.
+- PERSON7, PERSON10, PERSON13, PERSON15, PERSON6, and PERSON5 are working on a text-to-text translation pipeline.
+- It works with Czech machine translation, but there is a bug with the KT translation platform.
+- The fixings will require fixing the ASR, the segmentation, the worker and the presentation platform.
+- PERSON10, PERSON6, PERSON13, PERSON5, and PERSON7 are trying to fix the batch processing mode of operation.
+- They want to test machine translation by looking at the output of the online ASR.
+- PERSON5 will send the audio files to PERSON14 and PERSON14 will do the ASR offline.
+- The segmentation should be close to the online one.
+- PERSON10, PERSON13 and PERSON7 have problems with the quality of the online and offline ASR.
+- PERSON14 is trying to improve the segmentation of the pipeline to improve quality of machine translation.
+- They have 19 different lectures that are using online ASR, but it's difficult to get the parallel data.
+- PERSON10, PERSON14, PERSON13, PERSON5, PERSON6, PERSON3, PERSON7 and PERSON5 are trying to fix a problem with the batch mode of operation.
+- The problem is with the text to text client for the project1 worker and the production client.
+- The segmentation workers in ORGANIZATION5 don't work with the CTM client.
+- PERSON10, PERSON7, PERSON5, PERSON6, PERSON3, and PERSON14 are trying to fix the problem.
+- They need to use the ORGANIZATION7 mediator to solve it.
+- PERSON14 is confused about the CTM output of the ASR chat.
+- The segmentation worker should have removed the tags, but it didn't.
+- The system has to be reverse engineered to figure out what is happening.
+- The solution is to restart the mediator and reconnect the workers.
+- PERSON10, PERSON7, PERSON13, PERSON15 and PERSON5 are going to have a project test next week.
+- They will do the ASR integrations.
+- They need to decide online which of the streams in concatenation with ASR and the MT is the best set up for the presentation platform.
+- PERSON3, PERSON10, PERSON14 and PERSON15 are discussing a new technology for the presentation platform.
+- They discuss how to deal with the problem of manually killing some of the streams that they do not like.
+- They also discuss the possibility of all audio inputs being translated into all target languages at all times.
+- PERSON10 and PERSON3 discuss how the presentation platform will work at the June conference.
+- They discuss the monitoring of the platform and the selection of the subtitles for the different target languages.
+- There will be more people monitoring the platform at the same time.
+- The current current user is expected to be at June.
+- PERSON10 is the integrator and needs to decide how to deliver the subtitles to the participants.
+- ORGANIZATION1 can order whatever devices they want for the people, but they don't believe 400 can receive the signal of the WiFi reasonably well.
+- They have a year to find a better solution.
+- The technical solution will be discussed at the next PROJECT3 call.
+
+
+Minuted by: Team Synapse

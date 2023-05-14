@@ -1,0 +1,68 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON12, PERSON13, PERSON14, PERSON5, PERSON7
+
+
+SUMMARY
+- PERSON5 needs to figure out his sound settings before he can talk to PERSON13.
+- PERSON13 is back to work after the New Year holidays.
+- He is staying in a private apartment in Barbican city, Mannheim.
+- The electricity is back in the apartment.
+- PERSON12, PERSON13 and PERSON3 are going to meet for a project meeting.
+- They have two projects to discuss: PROJECT13 is the Holocaust survivor's session and PROJECT6 is postponed by a month.
+- PERSON13 is busy with homework, assignments and exams.
+- She will talk to PERSON7 to get some extra time.
+- PERSON12 is going to the PROJECT6 tomorrow for a technical meeting.
+- He needs someone to do data preparation for the two events.
+- He asks PERSON14 if he can be available as a back-up person in case he gets sick.
+- PERSON14 agrees to do it.
+- PERSON12 will prepare the tables for PERSON7 and PROJECT13.
+- He will do it himself, but he needs a back-up person for PRO PROJECT13 and a person to take care of the recording.
+- The most important topic to work on is the ladder climbing.
+- PERSON7 will move the few scripts from PROJECT2 test set and some.
+- conversions from the tables into HTML and put the results regularly to your webpage.
+- PERSON12 is working on updating the demo paper submission which is due next Friday and gathering documents for the two sessions.
+- PERSON7 and PERSON12 are preparing a report on the statistics about the transcript percent.
+- They also want to get an idea about the conversion of two languages for a given transcript.
+- For PROJECT3, they want to add a complementary metric to the report.
+- PERSON7 wants to revise the PROJECT1 domain and create a translation dictionary.
+- PERSON12 wants to improve the segmenter.
+- PERSON7 needs to make a call to PERSON10 next Monday.
+- Tomorrow, PERSON7 has a test.
+- PERSON1 needs to extract the positive plus negative lists from PRO PROJECT1 or domain documents.
+- PERSON7 will get PROJECT10 scores delay plus PROJECT7, on one of the IWPROJECT10 Dev, files or PROJECT1 domain files.
+- He will ask PERSON1 to get some delay scores for some of the files from the PROJECT2.
+- PERSON7 has done a lot of work on the deliverable towards the end of the year.
+- He doesn't celebrate Christmas, so it was not a spoiled Christmas break for him.
+- For both of the sessions, PROJECT13 and PROJECT6, PERSON12 wants to choose the system the Pipeline from some choices, based on some numbers.
+- PERSON5 is trying to train a model on common voice for the experiment.
+- The ORGANIZATION10 people didn't respond to an email asking about links to the data, so he sent them a reminder yesterday.
+- PERSON12 suggests using more datasets.
+- PERSON8 is owing us the list of PROJECT4 data and other links to deliverables in the work package one.
+- The link is D one five.
+- PERSON12 is the only person training PROJECT3 system at ORGANIZATION4 these days.
+- PERSON13 would like to get in touch with PERSON5 to work on PROJECT5 PRO PROJECT3.
+- PERSON13 wants to build a non native speech, automated system for some languages as a part of his masters thesis.
+- He will have a call with PERSON7 and PERSON5.
+- They will discuss the video that PERSON11 had recorded before he left.
+- Some of the paths are not existing yet, so some things were removed.
+- PERSON5, PERSON7, PERSON12, PERSON13 and PERSON14 are going to meet on Monday or Tuesday to discuss the PROJECT2 and PROJECT3 project.
+- They will also discuss the replacement for the person who is not available on Friday, so he will be included in the call.
+- PERSON12 and PERSON14 are working on a subtitler study for ORGANIZATION8 and PROJECT12.
+- They are aiming for the end of the month deadline.
+- They need to create a speech language identification for ORGANIZATION8 and for PROJECT3.
+- The PROJECT12 tool will separate the output into the three language channels.
+- It will produce either silent or correct PROJECT3.
+- The language checker is essentially a part of the PRO PROJECT3 silencing the PRO project3 if it is the wrong language.
+- PERSON7 and PERSON12 discuss how to integrate the language ID into the pipelines of the PROJECT9 and PROJECT3 models.
+- They discuss the pros and cons of multilingual models and the way to integrate them.
+- PERSON7 thinks the quality of the models will deteriorate if there are too many languages.
+- ORGANIZATION11 or ORIGINATION1 has a tool that translates directly from one language to another.
+- It's more efficient than using English as an intermediate language.
+- If the data is more available through English then it's better to go through English or Synthetise the data.
+- PERSON7 will try to find the book and send it to PERSON12.
+- They have to have it out in the middle of the year.
+- After the subtitler study, they should start writing.
+- PERSON12 will record her suggestion about how to use the language ID in the document.
+
+
+Minuted by: Team Synapse

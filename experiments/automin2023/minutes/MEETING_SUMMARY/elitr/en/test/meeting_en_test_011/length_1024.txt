@@ -1,0 +1,20 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON4, PERSON5, PERSON6, PERSON7, PERSON9
+
+
+SUMMARY
+- PERSON9, PERSON5, PERSON6, PERSON7 and PERSON4 are trying to talk to each other but only one of them is able to hear them.
+- They are discussing organisational organization and how to improve it.
+- PERSON5, PERSON7 and PERSON1 are discussing how to improve the accuracy of their research.
+- PERSON1 explains to PERSON7 and PERSON9 what the structure of the attention matrix is and how it compares to other attention matrices.
+- PERSON1 is in LOCATION2 until the 15th December.
+- He is doing research on the structure of syntactic trees and how they can be used to improve machine translation systems.
+- PERSON5 is reworking the manual of PROJECT5 and is trying to get it more reliable.
+- PERSON9 is analysing a model of a project.
+- There is one more creation.
+- PERSON9, PERSON5 and PERSON1 are trying to work out how to train a language model for machine translation and how to prepare a research paper.
+- PERSON9 has to prepare a paper for at least one month.
+- PERSON6 and PERSON5 will have some experiments.
+
+
+Minuted by: Team Synapse

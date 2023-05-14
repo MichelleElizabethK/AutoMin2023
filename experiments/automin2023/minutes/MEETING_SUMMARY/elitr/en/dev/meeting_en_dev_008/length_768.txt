@@ -1,0 +1,30 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON5, PERSON7
+
+
+SUMMARY
+- PERSON7 is trying to fix the program in Overleaf.
+- The main purpose of the meeting is to define the structure of the deliverable documents.
+- Overleaf has some serious troubles.
+- PERSON3 sent a link to the Overleaf link.
+- PERSON5 confirms that the documents should be on PERSON7, PERSON1, PERSON3 and PERSON5 are discussing the structure of the deliverable and how to share the internals.
+- PERSON5 will email all the intermediators with ORGANIZATION7 to explain the work of the project.
+- PERSON7 will email the same structure for all three platforms.
+- PERSON5 will ask for help in finding a reviewer.
+- PERSON5 will spend the afternoon on Sunday putting the info inside the document.
+- PERSON7 will spend Monday putting the template inside.
+- The deadline for the ELG is February 21st.
+- The full content of the document should be ready by Wednesday.
+- PERSON1 was not on the call.
+- PERSON5, PERSON7 and PERSON1 are working on a document.
+- The document doesn't compile outside of Overleaf.
+- It is due next Friday, 21 February.
+- PERSON5 will mail the deliverable to ORGANIZATION7 today.
+- PERSON5 has some questions about the make and compiler.
+- PERSON7 explains them to him.
+- PERSON1 and PERSON5 are trying to figure out how to install a PDF file.
+- PERSON5 is going to install Overleaf for the paper.
+- PERSON1 will work on the document over night.
+
+
+Minuted by: Team Synapse

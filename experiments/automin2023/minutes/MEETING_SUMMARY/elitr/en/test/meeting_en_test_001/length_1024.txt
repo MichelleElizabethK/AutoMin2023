@@ -1,0 +1,37 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON11, PERSON12, PERSON15, PERSON16, PERSON19, PERSON2, PERSON20, PERSON21, PERSON23, PERSON3, PERSON5, PERSON6, PERSON9
+
+
+SUMMARY
+- PERSON5 is taking part in a conference call.
+- The goal for today is to get everything done on the full workload.
+- The real video mixer is ordered and it will be ready by Wednesday.
+- PERSON5 is doing a check today.
+- The voice quality is not perfect.
+- People may be published with using the English as language.
+- On Wednesday, PERSON9 is also available for the full guesting at South Premises.
+- On Tuesday lunchtime, PERSON5 invites PERSON9 PERSON5 would like to collect feedback from the participants on the presentation platform.
+- PERSON23 doesn't know about the capacity of the switch.
+- PERSON5 wants to record a video from the video they did for theirself and a PhD student journalist.
+- Organizing Committee 3 will decide on Monday whether or not to allow it.
+- They need to confirm that the student journalist can enter the building and record the participants.
+- PERSON5, PERSON16 and PERSON3 have concerns about the quality of the video and the content of the interpreter's recording.
+- They want the interpreter to sign a nondisclosure agreement to make sure he won't leak anything.
+- PERSON5, PERSON3, PERSON20 and PERSON11 are on a conference call.
+- They are trying to solve a technical problem with the presentation platform.
+- PERSON5, PERSON3 and PERSON21 are having a problem with the ASR.
+- The ASR is not working.
+- The last published message is three minutes old.
+- There are two ASR workers registered as available, but only one of them is working.
+- PERSON3, PERSON9, PERSON5 and PERSON21 are working on a project.
+- They need to translate audio files from German to English and from English to Polish to pass them to the translation system.
+- PERSON5 is trying to reach out to PERSON10, PERSON11, PERSON3 and PERSON2.
+- PERSON5 wants to make HTTPS mandatory on the presentation interface at least for the event, but at the moment it's not mandatory.
+- There is a problem with connecting PERSON2, PERSON9 and PERSON19 are trying to make a recording from last year's workshop, but it's not producing an audio file.
+- The second instance of the segmenter doesn't output anything.
+- PERSON9 and PERSON19 will arrive on Wednesday in the evening.
+- PERSON2 will prepare a microtest script and upload it to the crise control repo.
+- They need to check each part of the presentation platform to be sure it contains the correct source language for the client.
+
+
+Minuted by: Team Synapse

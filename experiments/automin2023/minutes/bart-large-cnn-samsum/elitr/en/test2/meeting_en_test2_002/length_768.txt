@@ -1,0 +1,71 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON12, PERSON15, PERSON16, PERSON18, PERSON24, PERSON3, PERSON7
+
+
+SUMMARY
+- PERSON1, PERSON15, PERSON7, PERSON12, PERSON16, PERSON10, and PERSON24 are here.
+- PERSON24 is running the experiments that PERSON12 told him a while ago.
+- PERSON15 is a little worried about the multi source status for the deliverable.
+- PERSON15, PERSON12 and PERSON24 will meet tomorrow at 2 pm or 3 pm to discuss the multi-source research in the text domain.
+- They want to combine the document level aspect with the multilingual aspect of the research.
+- They will use the text from ORGANIZATION6 and translate it.
+- PERSON15 will send a link to the calendar and plan the meeting for Tuesday or Wednesday.
+- PERSON10 will finish the language model checking of ASR outputs.
+- The integration will be more on PERSON8 and PERSON3.
+- The other person on the call is probably going to be late.
+- PERSON15 reminds PERSON3 that profanity filtering is not yet integrated.
+- It's important to have the set up so that people can integrate and tested it themselves.
+- PERSON3 will explain to PERSON6 how to do it, so that he can run it for himself.
+- PERSON15, PERSON3 and PERSON15 discuss profanity filtering and the spasm detection and removal.
+- The new ASR, the end to end ASR also suffers from the spasms issues.
+- Two profanity filters are needed: one after the ASR and the other after the MT.
+- PERSON3 has a call with PERSON10 later today.
+- PERSON10 is preparing for the upcoming Monday seminar that's going to be given by the author of PROJECT1.
+- On Monday they will hear the Italian English and yesterday they had a chance to hear the Japanese English.
+- The ASR was struggling with that.
+- The current idea is to create new sentences by concatenating words from different sentences.
+- PERSON1, PERSON15 and PERSON18 need to record the experience from the ORGANIZATION7 and as the one sessions.
+- They need to make sure the whole set up is understandable and regularly tested by others in the team.
+- Yesterday, the pipeline had to be started by PERSON10 and PERSON8, but they failed, so they are relying on one person who is able to start the pipeline.
+- PERSON15, PERSON18 and PERSON3 need to discuss the configuration of the pipeline set ups with Coach.
+- Been.
+- Next week, he wants to hear from them how far they got in the specifications of the requirements.
+- They need to remove the scripts that have the similar performance or only leave the usable ones.
+- PERSON15, PERSON16, PERSON18 and PERSON15 are discussing the performance of their multilingual subtitling platform.
+- They agree that it's better to use multiple word, multiple replicas of the same workers and, each emitting a different subset of languages than to use a single rainbow worker.
+- PERSON15, PERSON12, PERSON16 and PERSON3 are having problems with the performance of the PROJECT3 tool.
+- They are going to discuss it in the devel at the ORGANIZATION5 mailing list, because it's a low level issue.
+- PERSON18 was working with PROJECT3 and had several problems.
+- He is working on shortening and extending models and running out of storage quota.
+- He will use PROJECT5 dash ORGANIZATION5 for the technical issues.
+- If you have random questions, ask around.
+- PERSON16 needs to ask IT EDU for more space on Troja.
+- He has 50 gigabytes of space, but he can ask for much more.
+- He needs to check the quota.
+- He will write to PERSON19 about it tomorrow at 2 pm.
+- PERSON15, PERSON16, PERSON18, PERSON15, and a guy from Zabrican, who is interested in joining their group, but he needs to apply for a PHD by the end of the year.
+- They need the evaluation of all systems, all files, in the test set automated in PROJECT5.
+- PERSON3 will have a call with PERSON7 later to discuss automating the ASR evaluation.
+- After that, he will call PERSON15 and they will arrange a meeting to discuss how to record the results of the evaluation.
+- PERSON7 will write it into the deliverable.
+- PERSON15 wants to make sure that they have the important people around the globe available for important sessions.
+- They also need to know which components they are using and who are the people behind these components.
+- The long-term focus is also very important.
+- PERSON15 would like to put their names next to those for the people who are long term.
+- PERSON15 is looking for someone who can work on the non native accent.
+- PERSON3 could be the only person responsible for that.
+- PERSON10 is already starting the data collection, but he would like to see the benefit of the domain adaptation in the PROJECT2 set up.
+- PERSON15, PERSON3 and PERSON16 are working on a new AI system.
+- They want to create a training set from ORGANIZATION3 and scrape the data from it to create an academic paper.
+- PERSON1 hasn't heard from a potential colleague or friend yet.
+- PERSON15, PERSON1, PERSON3 and PERSON16 want to use sentiment analysis to filter profanity and positive speak from social media posts.
+- They need help from their colleagues to do this.
+- They are looking for someone who is in touch with someone who can help them.
+- PERSON16 sends a link to a cable competition where people had to make models to detect the tweets or like sentences which were harmful in some ways.
+- The setting of the competition is slightly different from these competitions and the difference is that the speakers don't expect to use abusive language.
+- The subjectivity of the subjectivity is important, but it could be less severe in this setting.
+- PERSON1, PERSON15, PERSON11, PERSON21, and PERSON3 are going to meet next week to discuss the tasks they need to do.
+- They are also going to talk to the elderly students who are already in Prague for the first or second year about helping with the task of shortening MT.
+
+
+Minuted by: Team Synapse

@@ -1,0 +1,20 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON2, PERSON3, PERSON8
+
+
+SUMMARY
+- PERSON2 is in the office today.
+- PERSON8 and PERSON3 are waiting for PERSON3 to join them, but he's not answering the calls.
+- ORGANIZATION11 had a technical communication meeting about special sessions and the results are that their are papers for special sessions, should fill the same PERSON2, PERSON3 and PERSON8 are trying to get into an ORGANIZATION13 spoken language technology workshop.
+- They need to prepare a three-month-long shared task and write a separate paper on the topic.
+- If they don't get in the workshop, they have PERSON3, PERSON8 and PERSON2 have to prepare a proposal for the workshop.
+- They have to get an endorsement from Organizing1.
+- They need to submit the proposal by March 15th.
+- If they are accepted in the workshop, they have to submit it by January PERSON3's proposal is almost complete, but they have to take out institutional membership to submit to the ORGANIZATION1 workshop administration portal.
+- They have to invite the program committee and to make a website for their shared task.
+- They need to pay two forty Euros for institutional membership PERSON3, PERSON8 and PERSON2 want to organise a machine translation conference.
+- The conference should be held in ORGANIZATION8.
+- PERSON3, PERSON8 and PERSON2 will meet tomorrow to discuss the revision of the proposal for the satellite event.
+
+
+Minuted by: Team Synapse

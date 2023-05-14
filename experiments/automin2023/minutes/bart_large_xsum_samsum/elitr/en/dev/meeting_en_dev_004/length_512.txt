@@ -1,0 +1,68 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON14, PERSON17, PERSON28, PERSON5, PERSON6
+
+
+SUMMARY
+- PERSON14 submitted the paper to LOCATION3 to PROJECT5 and the second part of the article to the journal.
+- The book is here and the microphone is the camera mic.
+- PERSON17 and PERSON5 are working on PROJECT4.
+- PERSON6 is doing the same thing.
+- PERSON14, PERSON6, PERSON10 and PERSON5 are discussing their work on architecture.
+- They want to sign the paper so they can comment it.
+- PERSON6, PERSON14 and PERSON5 are arguing about the definition of "odborná kniha" and how to present their work in a context of other work.
+- They agree that writing the book is their own work but they don't know if it fits the PERSON14, PERSON17 and PERSON6 are arguing about the presentation of the papers in the book.
+- PERSON6, PERSON5, PERSON27, PERSON23, PERSON7 and PERSON14 agree that their paper is better than the other papers.
+- PERSON17, PERSON6, PERSON14 and PERSON5 are going to write a book based on the paper they have just done.
+- PERSON17, PERSON14 and PERSON5 are going to delete two of the most important language models from the book.
+- PERSON17 and PERSON14 are discussing the complete and optional parts of the ORGANIZATION2.0 tutorial.
+- They discuss the unsupervised methods of PCA and ICA and the facial tutorial.
+- PERSON17 wants to use PCA quantitatively to identify the gender PERSON6, PERSON14 and PERSON17 discuss the history of the topic of behaviouristic testing.
+- PERSON17 wants to add a section about behaviour after the unsupervised methods.
+- PERSON14 and PERSON5 are interested in testing the models and, and they are not interested in these methods.
+- PERSON17 has posted a link to the tutorial in ORGANIZATION2.
+- PERSON17, PERSON14, PERSON9 and PERSON5 are going through the slides from the ORGANIZATION2 presentation.
+- The presentation is almost 3 hours long.
+- There is an interactive visualisation of word embeddings.
+- PERSON14 and PERSON17 discuss the differences between supervised and unsupervised methods.
+- PERSON17, PERSON5 and PERSON6 are arguing about the pros and cons of different approaches to solving a problem.
+- PERSON17, PERSON14 and PERSON6 discuss the classification of data set construction and structure analysis.
+- PERSON14 and PERSON17 will write the sections for their chapters.
+- PERSON6 will write a section for her chapter and PERSON14 will write one for her.
+- PERSON14, PERSON6 and PERSON17 are discussing what to do with comments on comments.
+- PERSON5 wants to know who are the people who discuss interpretation of neural networks in the book.
+- PERSON17 doesn't understand what interpretation means.
+- PERSON5, PERSON6, PERSON17 and PERSON14 agree that they should talk about the general interpretation of the in general, not NLP.
+- They should also mention who the people are and change the name of the chapters.
+- PERSON14, PERSON6, PERSON5 and PERSON17 are arguing about the naming of the sections in the book.
+- PERSON6 and PERSON14 think the summary should be separated more clearly.
+- They agree on the first, first chapter, but they disagree on the second and third chapters.
+- They have almost 150 pages.
+- PERSON6, PERSON14 and PERSON17 are discussing the name of the book.
+- The book has not have a summary.
+- The summary is usually not numbered.
+- The translations are unnumbered.
+- PERSON17 and PERSON14 read the book.
+- It has a glossary.
+- It doesn't have a summary index.
+- It's almost finished.
+- People should read the whole book and comment on what is missing.
+- People need to make suggestions in the formal request.
+- PERSON14, PERSON6 and PERSON17 are going to work on a project tonight.
+- PERSON14 is not going to be online for the whole week.
+- PERSON14, PERSON17 and PERSON6 are having the PROJECT4 meeting on July 21st, but they are having all the Tuesdays.
+- PERSON14 deleted all the meetings, starting the next year.
+- They almost have everything they promised, except for the annulation PERSON14, PERSON17 and PERSON5 will meet on the 21st of July at 11.
+- They will discuss the problems in the book.
+- PERSON14 and PERSON6 are going to meet on 28th.
+- They need to find a non-Czech reviewer to review the book.
+- PERSON14 will ask doctor PERSON4 from LOCATION2.
+- PERSON14 is an assistant professor.
+- PERSON12, PERSON13, PERSON16, PERSON5 and PERSON17 are full professors.
+- PERSON17, PERSON26, PERSON6, PERSON14 and PERSON5 are looking for someone who could review their book.
+- They want to gather and listen her here and have wine, but they don't have wine.
+- They don't know if they have wine or not.
+- PERSON5, PERSON6 and PERSON14 are looking for a speech recognition expert to help them with their review of PROJECT3.
+- PERSON14 would like to see many, many comments on the book.
+
+
+Minuted by: Team Synapse

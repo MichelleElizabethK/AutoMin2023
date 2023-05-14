@@ -1,0 +1,45 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON12, PERSON13, PERSON14, PERSON5, PERSON7
+
+
+SUMMARY
+- PERSON13 is back to work after the New Year break.
+- He is staying in a private apartment in Mannheim.
+- The electricity is back.
+- PERSON12 and PERSON3 are meeting.
+- They are going to talk about the projects PROJECT13 and PROJECT6, which have been postponed by a month.
+- PERSON13 has a lot of work to do.
+- She will talk to PERSON7 about it.
+- PERSON14 will be available as a back-up person for the PROJECT6 on the 26th of February.
+- PERSON12 is going to do the recording of PROJECT13 and PERSON7's presentation.
+- PERSON3 and PERSON3 won't be available during this call, so PERSON12 will prepare the tables on his own.
+- PERSON12 is working on the demo paper submission, which is due next Friday and preparing project reports.
+- PERSON7 will create a conversion of the tables into HTML and put it on a webpage.
+- ORGANIZATION10 has bad performance for some of the files and they can directly, browse it on PERSON7 will take a record of the one point five.
+- PERSON12 has prepared a list of names and terms that they want to appear in the evaluation.
+- PERSON2 has compiled a translation dictionary.
+- PERSON7 wants to revise the PROJECT1 domain and create a dictionary based on the list of words that they do and do not like in the PERSON7 will get some delay scores for some of the files from the PROJECT2.
+- PERSON12 will prepare a call with partners on Wednesday.
+- PERSON7 has done a lot of work towards the end of the year.
+- PERSON12 is happy with the tables that they put into the deliverables.
+- PERSON5 has finally managed to compile it.
+- PROJECT13 is going to be in Czech and PERSON12 wants to choose the system PERSON5 is trying to train a model on common voice as the data set for the experiment.
+- PERSON12 and PERSON15 didn't respond to e-mail messages about links to the data.
+- PERSON8 has already provided the list of PROJECT4 data and other links to deliverables in the work package one.
+- PERSON12 has just pasted the link to the ORGANIZATION11 doc.
+- PERSON13 wants to build a non native speech, automated system for some languages as part of his masters thesis.
+- He wants to do it using PROJECT5.
+- PERSON5, PERSON7, PERSON12, PERSON13 and PERSON14 are going to have a sunchro on Monday or Tuesday.
+- The replacement for PERSON10 will be someone who will train PROJECT3 systems.
+- PERSON12 and PERSON14 are working on a speech language identification project.
+- They are aiming for the end of the month deadline with a subtitler study paper.
+- PERSON12 reminds PERSON7, PERSON7 and possibly PERSON16 to write down what is important in the briefing summary.
+- PERSON12 thinks that multi lingual, PROJECT9 models should be multilingual.
+- PERSON7 thinks that having three languages at the beginning is not necessary.
+- According to ORGANIZATION11 and ORGANIZATION1, direct translation from one language to another is more efficient than translating between English and another language.
+- According to ORGANIZATION12, direct translations between languages are better than models based on English centric data set.
+- PERSON7 will send the multi-lingual paper to PERSON12 and PERSON14.
+- PERSON12 will record his suggestion about how to use the language ID in their document.
+
+
+Minuted by: Team Synapse

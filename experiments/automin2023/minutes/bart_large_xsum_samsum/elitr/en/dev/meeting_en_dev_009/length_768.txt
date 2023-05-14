@@ -1,0 +1,34 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON2, PERSON6, PERSON7
+
+
+SUMMARY
+- PERSON6 and PERSON7 are having a coffee meeting.
+- They have problems with the ORGANIZATION2 link.
+- They are going to discuss some issues in a chat.
+- PERSON7 can hear better with ORGANIZATION2 meet.
+- It's not going to be free any more, so they have to pay for it beginning next month or so.
+- PERSON6 and PERSON3 created the agenda for the minutes.
+- The documents contain original agenda of the meeting, which was created by PERSON6 or PERSON3 before the meeting and partially s extended during the meetings, or sometimes after the meetings.
+- The minutes are not worse than the minutes created by PERSON6 proposed that annotators should send data via GateHub, but at the moment he doesn't know how it should be organised.
+- He doesn't have control over the communication between the annotators and the technical people.
+- PERSON2, PERSON7 and PERSON6 agree that they should not do this team for the moment.
+- PERSON7 would prefer to have the contact with annotators, but at the moment he would rather use the same strategy that they are using, sending the data to the annotators.
+- PERSON6, PERSON7 and PERSON4 think alignment should be a part of the shared task.
+- There are many automatic measures for summarisation, but none of them works well.
+- They have to submit the proposal within the first week of November.
+- PERSON2 wrote a protocol on how to do human evaluation in nature language generation.
+- PERSON7 wants to use alignment annotation for summarisation, but before November it would be difficult to come up with the alignment this score.
+- PERSON6 wants to follow variant B, which is using human evaluation like readibility and so on, not using the alignment.
+- PERSON2 and PERSON7 discuss the data format for the file.
+- They discuss some other details, such as the names of annotators and renaming the folder structure.
+- PERSON2 and PERSON7 have to rename the names in the cluster before pushing to Gatehub.
+- They have to keep the names of the annotators as an anonymous name.
+- They will meet today in person to discuss it further.
+- PERSON2 is worried about the team that he's proposing.
+- He disagrees with PERSON6 about several things.
+- The meeting will take place tomorrow morning.
+- The password for the meeting is minuting, which is already there in the meeting.
+
+
+Minuted by: Team Synapse

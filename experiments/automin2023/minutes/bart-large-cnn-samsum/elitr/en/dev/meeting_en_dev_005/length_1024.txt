@@ -1,0 +1,34 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON11, PERSON12, PERSON14, PERSON17, PERSON2, PERSON5, PERSON7
+
+
+SUMMARY
+- PERSON9 will give a presentation on PROJECT2 on the Monday seminar on the 17th February.
+- The goal of the office would be to describe the pipeline and invite more people to join them.
+- This is the early session for the adaptation.
+- There will be other Monday seminars.
+- PERSON14 is organizing a domain adaptation workshop for NLP and PROJECT2 on the 12th and the 17th of February and the students firm fair on the 18th and till 20th of March.
+- The profanity filtering is a big challenge.
+- PERSON11 is working on the collection is business for OTHER3 and English.
+- PERSON11, PERSON14 and PERSON17 are working on the profanity filtery homework.
+- The problem with the compress sound goes always to network and is directly decompress before begin sent.
+- The idea is to train empty systems on corpora which are refind to contain only higher frequency words.
+- PERSON17 has finished the evaluation framework and it's ready.
+- The team is working on the paper for exceptement.
+- PERSON11 will create a list of files and send it to PERSON11.
+- PERSON14 and PERSON2 will use the existing time stamps to break the long recording into shorter ones.
+- The evaluation will take place after lunchtime on Thursday.
+- PERSON7 has been listening to the adaptation of czech ASR for PERSON4 talk that took place yesterday.
+- He is working on a next version of the ASR system that should be trained on even more data.
+- He also trained the transformer converting the phonings into graphians and tested to the settings.
+- The results were at least for ORGANIZATION6 talks, but the actual translation with the transformer was quite bad.
+- PERSON14, PERSON7, PERSON2, PERSON5, PERSON8, PERSON11, PERSON12 and PERSON13 are working on a project.
+- The project is called Fast Rationing.
+- There is a paper from Organisation 3 from december on ASR and it could be used to improve the speed of the project.
+- PERSON14 wants to know if there is a code for Fastspeech available as code.
+- PERSON5 is from LOCATION4.
+- They will meet on Friday instead of Thursday next week.
+- They are going to do a call for a doodle.
+
+
+Minuted by: Team Synapse

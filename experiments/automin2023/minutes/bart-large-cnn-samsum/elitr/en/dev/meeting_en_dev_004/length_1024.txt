@@ -1,0 +1,59 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON14, PERSON17, PERSON28, PERSON5, PERSON6
+
+
+SUMMARY
+- PERSON14 has submitted the paper to LOCATION3 to PROJECT5, PRO PROJECT5 and the article in the journal.
+- PERSON5 and PERSON14 can't hear each other.
+- PERSON6 and PERSON17 need to share the screen with PERSON5 to share their book.
+- PERSON6, PERSON5, PERSON10, PERSON14 and PERSON17 are preparing a survey on individual architecture.
+- They want to present their work in the same way as someone else's.
+- They discuss the format of the multilinguality section of the survey.
+- PERSON17, PERSON14, PERSON5, PERSON6, PERSON10, and PERSON17 are discussing how to present their papers in the context of other papers.
+- They discuss the difference between referring to your own papers as your own and someone else's and referring to older papers as survey.
+- PERSON6, PERSON5, PENPERSON14 and PERSON17 are going to write a book.
+- They need to fix the missing parts and then add the reference.
+- They also need to write the book first and read it as well.
+- The section about the neural language models should be merged to the previous chapter.
+- PERSON17, PERSON14 and PERSON5 are going to read the ORGANIZATION5 tutorial and discuss the methods for unsupervised and supervised probing.
+- They want to use PCA to identify the gender biass component in their research.
+- They also want to write to the chapter about it.
+- PERSON17, PERSON5, PERSON9, PERSON14 and PERSON6 are going to discuss a 3-hour-long tutorial on behavioral analysis.
+- They want to add a section on interaction to the presentation.
+- The presentation will be in ORGANIZATION2, where the slides are.
+- PERSON17, PERSON5, and PERSON14 are discussing unsupervised methods.
+- They are also discussing the difference between the linear classifire and the more complex one.
+- They also discuss the differences between the methods used by PERSON25 and PERSON21.
+- PERSON17, PERSON9, PERSON14 and PERSON6 are going to write a section on unsupervised methods for structure analysis and behavioral analysis.
+- They are also going to discuss the hidden states corespondence and clustering with missing slash in the text.
+- PERSON17, PERSON5 and PERSON6 are going to discuss the comments on comments on a book about interpretation of neural networks.
+- The book is about NLP and linguistic structures.
+- There is no general consensus on what interpretation means in the book.
+- The chapter is about machine learning people.
+- PERSON17, PERSON5, PERSON6, PERSON14, and PERSON17 agree that the book should be about the thinking general.
+- They want to change the name of the sections to make them more clearly distinguishable.
+- They also want to have the two sections on the book named background and summary.
+- PERSON6, PERSON14 and PERSON17 are reading a book.
+- They want to merge it into two pages.
+- The book has not have a summary.
+- The first chapter can be hidden in embeddings and hidden in the attentions and then in the context.
+- PERSON6, PERSON14, PEN17 and PEN5 are going to read the whole book.
+- They will discuss what they should do with it.
+- The meeting is scheduled for July 21st.
+- PEN6 will check the list of figures and add some to it.
+- PERSON14, PERSON5, PERSON6, PERSON17, and PERSON14 are going to meet on the 21st of July at 11 to discuss the problems in the book.
+- The next meeting will be on Tuesday, 28th July.
+- The book is almost finished.
+- PERSON14 is looking for a professor to review her thesis.
+- She needs someone from LOCATION3 to do it.
+- She is an assistant professor.
+- There are four professors at LOCATION1.
+- They are: PERSON12, PERSON16, PERSON24, PERSON28 and PERSON26.
+- The email was sent at 2 p.m. today.
+- PERSON14, PERSON5 and PERSON17 are looking for a reviewer for their book.
+- They are not sure what kind of reviewer they should look for.
+- They will write the book themselves.
+- They need to find someone who knows a lot about interpretability.
+
+
+Minuted by: Team Synapse

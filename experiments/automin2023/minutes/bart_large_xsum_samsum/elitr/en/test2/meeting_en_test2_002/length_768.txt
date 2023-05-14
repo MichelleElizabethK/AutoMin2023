@@ -1,0 +1,56 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON12, PERSON15, PERSON16, PERSON18, PERSON24, PERSON3, PERSON7
+
+
+SUMMARY
+- PERSON1, PERSON15, PERSON12, PERSON7, PERSON24, PERSON16, PERSON10 and PERSON25 are trying to work on PROJECT3.
+- They need to complete the GPU test and to know which version of PROJECT3 they will use for the interpretation corpus.
+- They PERSON24 and PERSON12 will have a separate call tomorrow at 2 PM.
+- They will discuss the research on multi-source text based data.
+- PERSON15 will send a link to the calendar for the notes for today's call.
+- PERSON10 is leaving, so he will finish the language model checking of ASR outputs.
+- The other person on the call is probably going to be late for the call and will be in touch with PERSON3 reminds PERSON8 that profanity filtering is not yet integrated.
+- PERSON15 reminds PERSON3 that it was tested on locks and now it's time to test it on the life pipelines.
+- PERSON3 has a call with PERSON6 later today.
+- PERSON3 and PERSON15 discuss profanity filtering and spasm detection and removal.
+- The new ASR, the E2E ASR also suffers from the spasm issues.
+- The profanity filter should be employed twice on each path, first after the ASR and second after the PERSON15 is preparing for the upcoming Monday seminar that's going to be given by an Italian guy, the author of PROJECT1.
+- He will talk about verb frames and domain adaptation.
+- The ASR system needs to adapt to different accents.
+- The recording segmentation is that the thing PERSON1, PERSON15, PERSON3, PERSON18 and PERSON8 need to record the experience from ORGANIZATION7 and ORGANIZATION1.
+- They need to make sure the system is understandable and regularly tested by others in the team.
+- The system needs users, and the more diverse users, the PERSON18 explains to PERSON15 and PERSON3 how to set up a call with PERSON8 to discuss how to make the configuration cleaner.
+- PERSON16 wants to add some parameters to limit the number of languages on the subtitling platform.
+- PERSON14's rainbow worker was better in speed, but not in performance.
+- PERSON18 thinks it's a good idea to have multiple word, multiple, multiple replicas of the same PERSON15 and PERSON16 are unhappy with the performance of PROJECT3.
+- They are going to discuss it in the devel at ORGANIZATION5 mailing list.
+- PERSON18 was working with PROJECT3.
+- She had some problems with part conflicts.
+- She is working on the shortening and extending models.
+- She's running out of storage quota.
+- PERSON16 wants to know how much space there is available on Troja to store data.
+- The organization takes 50 gigabytes of space per language model.
+- People need to estimate how much more space they need and ask for more.
+- People can use Command DF to check the quota.
+- People PERSON15 will have called at half past three with PERSON14 and PERSON24.
+- There will be a call at two thirty Prague time with PERSON6 to discuss some issues around the SLTS capability of downloading files.
+- The deadline for applying for PHD is at the end of the year.
+- PERSON3 will have a call with PERSON7 later to discuss the script that automates the ASR evaluation.
+- After that, PERSON3 will call PERSON7 to discuss all the things that he put in the script and then PERSON7 will take it up from that.
+- During the last week sessions, PERSON15 and PERSON3 learned two important lessons.
+- First, they need to make sure they have the important people around the globe available.
+- Second, they have to focus on the long-term focus.
+- PERSON15, PERSON3 and PERSON12 are looking for someone to help with the immediate domain adaptation of the data crunching.
+- The domain adaptation is for the PERSON17 toolkit, but it's not visible in the results of the hybrid ASR.
+- PERSON15, P, PERSON3 and PERSON16 are working on developing a fully neural ASR.
+- One suggestion is to have two ASR running at the same time.
+- The other is to use the data from Organisations 3 and 4.
+- PERSON15, who is in touch with someone such as PERSON1, is asking for help with profanity and then the positive speak.
+- PERSON3 will help with sentiment analysis.
+- There was a cable competition where people had to make models to detect the tweets or like sentences which were harmful in some ways.
+- The setting is slightly different from these competitions.
+- People do not expect speakers to use abusive language, they expect them to say only the nice things.
+- People are not PERSON1, PERSON15 and PERSON3 are going to ask elderly students who are studying in Prague for the first or second year if they would be interested in doing research.
+
+
+Minuted by: Team Synapse

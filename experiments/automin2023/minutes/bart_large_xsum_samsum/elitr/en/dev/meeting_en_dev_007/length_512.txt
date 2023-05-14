@@ -1,0 +1,35 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON2, PERSON3, PERSON5
+
+
+SUMMARY
+- PERSON1 and PERSON2 are working on ORGANIZATION1 data set.
+- The deadline for the data is November 30th.
+- The proposal should look good with all the components and the annotators should be ready by the end of the week.
+- Today they will discuss the annotations and PERSON1 wants the shared task to be as simple as possible.
+- PERSON2 wants to keep the main focus on the summarization part of the task.
+- PERSON3 wants to involve annotators.
+- PERSON1 and PERSON2 are discussing the alignment tool for the investigation this desert.
+- They want to make it part of shared tasks and then show it to all of them based on the automatic evaluation metrics that they have.
+- PERSON2 wants to know what she should do to be as effective as possible.
+- PERSON1 needs to prepare data in the form like PROJECT1 meetings.
+- PERSON2 and PERSON1 are discussing how to organize annotators.
+- PERSON2 wants to begin work with annotators now, but PERSON6's tool is not working for the shared task.
+- PERSON1 wants to transfer the task to PERSON5 and explain her how to work with anno PERSON2 and PERSON3 need someone to help them with their task.
+- They need to know how to work within the tool and how to use it.
+- PERSON1 and PERSON4 have a strong intuition that it could help by aligning minutes and transcripts.
+- They want to leverage on that.
+- PERSON1 supports the idea to have smaller pieces of transcripts and a correspondent summary line.
+- PERSON2 thinks it's better to have many, many pieces of transcript and corresponding lines of summary.
+- The tool is ready, but there is some connection missing.
+- People need to agree on the details PERSON1 and PERSON2 had a meeting on Friday.
+- PERSON1 will join them within a week.
+- PERSON2 wants to start the work from September.
+- PERSON5 and Thirtankar are comfortable with it.
+- PERSON2 wants to start the annotation work as soon as possible, because it's going to take 130 minutes for English and 110 minutes for Czech.
+- Before giving the minutes to the annotators, PERSON2 needs to make sure that which transkripts or minutes are part of the PERSON1 and PERSON2 will have answers to all of this by the end of this week.
+- They will have a call with annotators and session with your annotators to show them how to do it.
+- PERSON4 will join them when they discuss the evaluation, but PERSON2 didn PERSON2 and PERSON1 will have the data for ORGANIZATION1 and an annotators tool by the end of the week.
+
+
+Minuted by: Team Synapse

@@ -1,0 +1,74 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON3, PERSON4, PERSON5, PERSON6
+
+
+SUMMARY
+- PERSON6, PERSON3, PERSON4, and PERSON10 are meeting today.
+- They are going to organize ORGANIZATION1 session.
+- They need to test the subtitling of the ORGANIZATION1 session.
+- PERSON4 is getting her visa this Friday.
+- She has an appointment at the embassy.
+- PERSON3, PERSON10 and PERSON6 need to prepare summaries for the share task.
+- They need to use transcripts from ORGANIZATION1 and create their own summaries from ORGANIZATION2.
+- They have to prepare 100 hours of data for the task.
+- PERSON10, PERSON3 and PERSON6 are going to a training.
+- The data set for the training is too small for the full training.
+- They will divide the data into two parts: test set and development set.
+- The development set will retain half of the data and the other half will be given to the participants for their own use.
+- PERSON10, PERSON6, PERSON3 and PERSON10 are going to use ORGANIZATION1 to collect data on speech training.
+- They will use the corpus from 2006 to 2011 and add the transcripts and minutes to it.
+- It will take about 5 to 10 minutes.
+- PERSON10 wants to prepare a web page on ORGANIZATION5 lab with a list of links to the minutes of a meeting that PERSON5 exerupted.
+- The meeting took place on October 6th, 2011 at 11:00.
+- The minutes are available on the web.
+- PERSON3 and PENPON10 are discussing how to organize the minutes of the meetings.
+- They want to change the format of the minutes to make it easier to search them.
+- It will take more time for them to prepare it formally in a good form.
+- It is not the correct year for the minutes.
+- PERSON6 found some hyperlinks in the ORGANIZATION1 corpus that should not have been there.
+- PERSON10 proposes a shared task assignment with 3 underlying data sets as the 3 test sets without much training data provided to the participants.
+- PERSON6, PERSON10 and PERSON3 agree on this.
+- PERSON10 suggests repackaging the transcripts automatically and providing them as the training data for the participants.
+- It's better to repackage it than to download it.
+- The chapters are quite long, so they probably may repeat.
+- There was only one session in that period found in those five years.
+- PERSON3 and Beca want to create a downloader for the training data.
+- They need to find someone who will do it automatically.
+- PERSON1 is working on a fix now on consense.
+- He could be the person who could do the downloading in.
+- PERSON5, PERSON3, PERSON6 and PERSON10 are discussing how to organize ORGANIZATION1 in the share task.
+- The first step is to download the transcripts and the minutes for all the sessions that are there and prepare it for the participants to make it easy.
+- PERSON5 wants to create a transcript summarization corpus for the ORGANIZATION1 sessions summaries corpus.
+- It will be the transcript and the, and the minutes to that, and it will be on a large set of topics.
+- PERSON5 doesn't want to spend money on annotating the minutes.
+- PERSON10, PERSON6, PERSON5 and PERSON3 are going to take part in a data sharing task.
+- They will have 3 different tracks: summarization, training data, multilingual submissions and cross-training.
+- They need to find a person familiar with Wget to prepare the ORGANIZATION1 minutes corpus.
+- PERSON6 is on vacation this week, so he can't help PERSON10 with downloading the transcripts and summaries.
+- PERSON8 is probably still at home.
+- PERSON10 will ask him for a session where he could walk him through the way he downloads the speech part of that.
+- PERSON6 and PERSON10 are reporting on the current downloading of ORGANIZATION1 data.
+- They need to have the ASR and the corresponding minute in one format.
+- The presentation by the colleague of ORIZATION5 who is developing PROJECT3 was on in Hnanice.
+- PERSON3 and PERSON10 discuss the format of the corpora.
+- They agree that the format should be consistent with the XML format that they already have.
+- The speaker diarization should be converted to angle brackets instead of square brackets.
+- The format is not a zero question.
+- PERSON10, PERSON3 and PERSON6 are going to work on organizing the ORGANIZATION1 corpus.
+- They need someone to work with Czech data.
+- PERSON1 has a lot of work to do.
+- PERSON6 is going to create an automatic script to get the transcript and get the minutes.
+- PERSON3, PERSON5, PERSON6 and PERSON10 are going to organize the data into a flat structure for PERSON6 to organize it according to the dates and the names of the sessions and then complement it with the minutes.
+- PERSON6 is going to work with the data.
+- PERSON6 and PERSON3 need to share the ORGANIZATION1 data once more.
+- The next job is to have the corresponding minutes for each of the transcripts.
+- The minutes are from 2006 to 2011.
+- The source is from the MT dot.
+- It is the one that was released as part of the parl corpora for machine translation.
+- PERSON6 and PERSON10 are going to meet with PERSON3 and PERSON1 tomorrow.
+- It's about five degrees in LOCATION2.
+- PERSON3 is in the forest and it's really cold in the place he's in now.
+- It can be heated but it's not heated now.
+
+
+Minuted by: Team Synapse

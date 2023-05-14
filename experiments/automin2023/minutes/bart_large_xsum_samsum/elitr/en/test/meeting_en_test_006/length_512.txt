@@ -1,0 +1,60 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON11, PERSON13, PERSON15, PERSON16, PERSON4, PERSON8
+
+
+SUMMARY
+- PERSON11 is at home.
+- The Czech Republic government has lifted the rules.
+- People can go out even if it's not necessary.
+- People are allowed to go to the forest.
+- PERSON11, PERSON8, PERSON4, PERSON3, PERSON14 and PERSON7 will have to postpone one of their regular meetings in September.
+- There will be at least one more meeting before the summer, one in May and one in June.
+- They will have some deliverables due PERSON8, PERSON1, PERSON11, PERSON16 and PERSON13 are going to do the summarization review of the ASR system.
+- They need to ask for an extension for this deliver because Congress has not taken place.
+- PERSON8, PERSON13, PERSON11, PERSON3 and PERSON4 are going to write a project management guide for ORGANIZATION3.
+- Organized 1 is not keen on reading it as she would rather read about ASR systems.
+- PERSON11 will write a project management guide for PROJECT2.
+- QT21 doesn't have one.
+- PERSON8, PERSON1 and PERSON11 want the internal reviews to be ready by mid June at the latest, so that they have two weeks to finish them before the end of June.
+- The first draft of the projects should be complete and ready by the 8th of June There will be one more deliverable in the PROJECT1 test set due in the end of August and one more in December.
+- PERSON8 has started a PROJECT1 test set.
+- He wants to have it populated and described by the August date so that the project can be ready to submit as a deliver.
+- The layout of the test set is as follows:.
+- The annotators are searching for poll documents and in many of the languages.
+- PERSON12 is slow and doesn't have time to co-ordinate annotators.
+- PERSON8 and PERSON1 have short-term agreements with them, but PERSON12 doesn't feed them with the prepared automatically paralyzed files PERSON8 explains to PERSON1 how the file lists should be organized.
+- PERSON1, PERSON8 and PERSON15 want to extend sacrebleu PROJECT1.
+- They want to limit the public use of test sets to 3 at most 3 file lists.
+- For the evaluation of the tool, they are working on the SLTF.
+- PERSON8 explains the evaluation of spoken language translation to PERSON1 and PERSON15.
+- PERSON15 has to send the source code of the python code to PERSON8 and PERSON1.
+- According to PERSON8, it is risky with the lock files, because people can misinterpret what time stamps should be used.
+- The forced alignment, which finds the words in the sound is not reliable for us, so sometimes it is really shifted towards the ends of the words.
+- PERSON8 and PERSON1 do both finding and curating the translations and translating them back to Czech.
+- They make progress in getting the translations out of the auditing websites.
+- The project was started when the EU still existed.
+- Irish was not a big priority for the project.
+- The Irish supreme auditor translates a lot of things into Irish.
+- PERSON6 is finishing the overview of the audible SLT test set.
+- PERSON13 is not sure if he's here.
+- Person PERSON8 would like someone to manage and make sure that the demo is delivered.
+- ORGANIZATION7 has been working on the retranslation approach for the past years and the users prefer a delay.
+- PERSON8 would like the project to be evaluated on humans towards the end of the project.
+- PERSON1 would like it to be done at the beginning.
+- The project is in the middle of the middle.
+- It's a trade-off between end-to-end ASR and PERSON1, PERSON15 and PERSON8 are talking about ASR and translation support.
+- PERSON1 explains the difference between partial sentences and complete sentences admitted in the end-to-end ASR.
+- PERSON8 and PERSON1 are discussing the integration of the ASR and MT.
+- They are trying to run GPT tool to predict the tail of the sentence, but it doesn't work at all.
+- The demo should be on 14th May 17th.
+- ORGANIZATION5 should supervise the organization of the demo.
+- PERSON13 will set up the Doodle, send it to in both partners and then ask PERSON5.
+- PERSON8, PERSON4 and PERSON1 discuss how to present the results of the Czech talk to the project officer.
+- The presentation should include both the ORGANIZATION2 representation and the sub OrganizationIZATION5 subtitles.
+- PERSON1, PERSON4 and PERSON8 didn't understand the topic they were talking about.
+- PERSON15 will propose some German talks as a primer language and they will test the whole set up via English into all the languages.
+- PERSON8, PERSON4, PERSON15 and PERSON11 are going to send an e-mail to the PERSON5 towards the end of the next week.
+- Before that, they should run the demo for them.
+
+
+Minuted by: Team Synapse

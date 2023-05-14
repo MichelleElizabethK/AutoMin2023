@@ -1,0 +1,31 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON12, PERSON13, PERSON2, PERSON4, PERSON5, PERSON6, PERSON7, PERSON8, PERSON9
+
+
+SUMMARY
+- PERSON5, PERSON8, PERSON9 and PERSON6 are on a conference call.
+- The purpose of the meetings is for everybody to say what they are working on and for me to collect credits.
+- PERSON5 wants everyone to give a summary of what they have been working on this week.
+- Next Wednesday, there will be an open day, for which they will do domain adaptation and domain adaptation.
+- On the 12th of February, they will give a dry run of the workshop on PERSON8's main goal is to get ORGANIZATION4 models used in the pipelines.
+- PERSON3 successfully managed to run these models and he is using them for the paraphrasing.
+- PERSON5's main project is multi-source spoken language translation research until 6th of March.
+- PERSON PERSON9 is working on the PROJECT1 thing this week.
+- PERSON5, PERSON8 and PERSON9 are going to take any of the Monday seminar revised transcript and use it as a test set to check the quality of the compression.
+- PERSON2 is working on the framework or test set for evaluation of simultaneous translation.
+- PERSON8 is in India until the end of January and is arriving in early February.
+- He will provide PERSON8 with some output files as transcribed so that they can test the tool.
+- PERSON12 has sent two PDF files to PERSON5 and PERSON7.
+- They need to download all the PDF documents and convert them to corpus styles.
+- They also need to synchronize the tools they use.
+- PERSON10's job is to have an overview of all the data that they use for the ORGANIZATION1 Congress.
+- PERSON10 supervises and supervises the creation of test sets.
+- PERSON8 should collect the numbers from the evaluation tools.
+- PERSON6 is working on onlinez PERSON5 asks PERSON8 to process the dry run of the talk of PERSON1 in Czech and translate it into English in preparation for Wednesday.
+- The tool should be ready next week.
+- PERSON2, PERSON8, PERSON4, PERSON5 and PERSON6 are available on Thursday and Friday, but not on Friday.
+- PERSON8 will use this week to train a new segmenter.
+- PERSON4 and PERSON5 will meet on Thursday to
+
+
+Minuted by: Team Synapse

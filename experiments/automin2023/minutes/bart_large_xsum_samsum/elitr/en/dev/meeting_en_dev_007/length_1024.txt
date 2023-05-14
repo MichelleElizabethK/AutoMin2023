@@ -1,0 +1,20 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON2, PERSON3, PERSON5
+
+
+SUMMARY
+- PERSON1 and PERSON2 are working on organizing the ORGANIZATION1 data set.
+- The deadline is November 30th, so they need to have it ready by the end of the week.
+- The proposal should look good with all the components.
+- They will discuss the annotations and PERSON1 and PERSON2 are going to have a meeting at the end of November to discuss alignment and evaluation of the shared task.
+- PERSON2 and PERSON1 are discussing how to organize annotators.
+- PERSON2 needs someone who understands how the tool works.
+- PERSON1 is busy until November 30th working on the shared task proposal.
+- PERSON1 and PERSON2 want to start the alignment thing with their annotators, but there are still many questions unanswered.
+- PERSON2 wants to start the annotation work as soon as possible, because they have a lot of data.
+- PERSON5 and Thirtankar will meet on Friday to discuss the technical details.
+- PERSON1 and PERSON2 are going to make a conference call with annotators by the end of the week.
+- They are also going to discuss the proposal that data for ORGANIZATION1 and a tool for annotators should be ready.
+
+
+Minuted by: Team Synapse

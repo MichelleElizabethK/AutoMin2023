@@ -1,0 +1,65 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON11, PERSON12, PERSON15, PERSON16, PERSON19, PERSON2, PERSON20, PERSON21, PERSON23, PERSON3, PERSON5, PERSON6, PERSON9
+
+
+SUMMARY
+- PERSON5 and PERSON23 are on a conference call.
+- PERSON4 will join them a little bit later.
+- They are trying to get everything running on their side so that they have more interchannels.
+- They need to go through the topics in the PROJECT2 document and PERSON5 wants to see the full workload today.
+- The presentation platform available is not yet updated.
+- PERSON5 wants PERSON9 to do the switching by killing off the -lines and using the bridge workers to select the different path.
+- The voice quality is not perfect.
+- Wednesday is also available for the full guesting at South Premises.
+- PERSON5 invites PERSON9, PERSON4, PERSON4 and PERSON2 to come at Tuesday lunchtime.
+- They will do the testing in the second booth.
+- PERSON5 wants to provide the interpreters with the immediate feedback.
+- They need to connect more laptops to the PERSON5, PERSON3, PERSON9 and PERSON12 are going to discuss how to set up the interpreters' booths so that the network load is not duplicated again.
+- PERSON5 and PERSON9 want to collect feedback from the participants.
+- They want to set up a little path out from the main path, which goes through the translation and all that to direct the participants to the presentation platform.
+- They have a lot of questions regarding the user interface.
+- PERSON5 wants to record a video with a PhD student journalist.
+- Organized 3 will decide on Monday if they allow him to go to the premises and record the video.
+- ORGANIZATION4 needs to approve that he can enter the building and what he can record.
+- PERSON5 wants to record some parts of the video, but someone has to confirm that he can be there with the equipment.
+- The room is different from the normal premises of ORGANIZATION3 and you need an ID card to enter it.
+- The interpreter's microphone is not working PERSON5 wants to record the setting and what they do there, so they can make a video.
+- They will have a nondisclosure agreement for the interpreter and a code of conduct for the journalist.
+- They need the interpreter to sign the same thing as the interp.
+- PERSON5, PERSON2, PERSON9, PERSON4, PERSON11 and PERSON3 are going to conduct an experiment.
+- There are concerns from participants that the participants will talk too much and leak too much data.
+- Some of the sessions should be close and some should be like close.
+- PERSON5, PERSON3, PERSON20 and PERSON11 are working on a project.
+- They need to keep connected to the call and do the debugging at various places.
+- The project is going to be published.
+- PERSON3, PERSON11, PERSON5, PERSON9 and PERSON13 are trying to solve a problem with the presentation platform.
+- PERSON11, PERSON5, PERSON3 and PERSON21 are trying to solve a technical problem with their presentation.
+- The presentation is stuck and the Romanian subtitles don't work.
+- The last published message is three minutes old and the ASR workers are unavailable.
+- PERSON9, PERSON3, PERSON5, and PERSON11 are on a conference call.
+- The ASR is not working.
+- Two ASR workers from English are available, but one of them doesn't work.
+- PERSON5 is trying to reach the people on Skype, but it doesn't work.
+- They run out of segmenters.
+- There is only one English segmenter and two German ones available, so they switch for German input only.
+- PERSON3, PERSON5 and PERSON9 are trying to pass the translation system from ORGANIZATION1 to CSEU, but it's not working.
+- They have German to Polish English subtitles, but they don't know which part of the system they should use.
+- They PERSON5 is trying to talk to the worker, but it's difficult because PERSON7 is not here today for medical reasons.
+- PERSON10 didn't receive doodle any more so she didn't know about the private call and the regularer.
+- PERSON5 wants to make sure PERSON11 is the LG-code now from ORGANIZATION1.
+- The first agenda is metaphorum.
+- There is a lot of traffic hitting the translation servers.
+- There are no requirements for user authentication, but at the moment the HTTPS should work.
+- PERSON20, PERSON3 and PERSON15 are having problems with connecting the Internet.
+- There is a problem with managing user's data for the GDPR.
+- In the previous version of the presentation platform there was no need to store any data.
+- There was also no need for username and password PERSON9 informs PERSON2 that it's easy to do things we already reason about it and it's available for the, okay?
+- PERSON11 will not be in touch with PERSON2 and PERSON9 for an hour or two.
+- PERSON2 is going to prepare a microtest script with a test case and upload it to the crise control repo.
+- They are waiting for pre-voice to be there PERSON9 and PERSON2 are going to check the source language in the presentation platform.
+- They will come back in the afternoon to do it.
+- PERSON2 will write a script to test the ASR + segmenter.
+- PERSON3 will send the script to the control repo.
+
+
+Minuted by: Team Synapse

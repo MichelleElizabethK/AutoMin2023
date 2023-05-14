@@ -1,0 +1,30 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON12, PERSON13, PERSON14, PERSON5, PERSON7
+
+
+SUMMARY
+- PERSON13 is back to work after the New Year holidays.
+- He is staying in Mannheim in a private apartment.
+- He has to figure out his sound settings first.
+- His project is the Holocaust survivor's session.
+- His electricity is back.
+- PERSON12 is going to the PROJECT6 tomorrow.
+- The second event will have two parts: online, pre-recorded and a live discussion.
+- PERSON14 will be available as a back-up person for the second part.
+- PERSON7 will put up simple HTML tables that would be auto PERSON12 is working on the demo paper submission, which is due next Friday.
+- PERSON7 wants to know what is missing from the deliverables and what people were happy or unhappy with.
+- PERSON7 asks PERSON1 to extract the delay scores for PROJECT10, PROJECT1 and PROJECT7 from the IWPROJECT10 Dev set.
+- PERSON5 is trying to train a model on common voice for the experiment.
+- Most papers are not using a common voice data set.
+- There are non native speakers in the project.
+- PERSON13 wants to start working on the project immediately.
+- PERSON10 is busy and not available on Friday, so it will probably be on Monday or Tuesday.
+- PERSON5 would like to participate in the call with the person who has already understood some of the traces that PERSON11 left, Before Christmas, PERSON14 released the PROJECT11 corpus for PERSON3.
+- This week, he implemented or trained speech language identification model for Czech, German and English.
+- It works in online mode, with three seconds delay.
+- He is going to integrate it into the Mediator and create one PERSON12 asks PERSON7 and PERSON16 to explain to him how to improve the quality of their work.
+- PERSON7 explains to PERSON12 and PERSON13 that direct bilingual models are better than direct models based on English or synthetic corpora.
+- PERSON7 will record his suggestion about how to use the language ID in theirs that we have.
+
+
+Minuted by: Team Synapse

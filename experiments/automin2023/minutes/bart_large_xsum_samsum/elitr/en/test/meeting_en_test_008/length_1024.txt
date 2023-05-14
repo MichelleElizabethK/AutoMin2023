@@ -1,0 +1,21 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON5, PERSON7, PERSON8
+
+
+SUMMARY
+- PERSON8 is preparing the link into the web interface.
+- PERSON5 is looking for some reference to the evaluation.
+- PERSON7 is trying to upload the ORGANIZATION3 sources.
+- PERSON5, PERSON7 and PERSON8 are trying to access the minutes from ORGANIZATION3's website, but the index does not correspond to the index for the transcripts.
+- PERSON5 shows them a snapshot of the web application for annotation of the valuation tool.
+- PERSON8 proposes to build a web-based interface for manually evaluation of a paper from 2020 September.
+- PERSON5 and PERSON7 are not expecting specific details.
+- PERSON8 will send PERSON7 and PERSON5 a draft of the interface for the annotators to review.
+- PERSON5, PERSON7 and PERSON8 are going to prepare the transcript and two different minutes.
+- They are not going to align the alignment thing.
+- PERSON8 is working on the papers.
+- PERSON5, PERSON7 and PERSON8 will prepare a draft for the 6 years of Europarl minutes and transcripts.
+- They will link them in 5 minutes and send the automatic evaluation.
+
+
+Minuted by: Team Synapse

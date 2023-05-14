@@ -1,0 +1,50 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON2, PERSON3, PERSON5
+
+
+SUMMARY
+- PERSON1 will send the ORGANIZATION1 data set by the end of the week.
+- The data deadline is November 30th.
+- Today they will discuss the annotations and the alignment tool by PERSON6.
+- The proposal should look good with all the all the components.
+- They should start the annotators work by end of November.
+- PERSON1 would like the fast shared task to be as simple as possible.
+- PERSON2 would like to keep the major focus on the summarization part of the task.
+- PERSON3 has already prepared a manual evaluation of the evaluation metrics.
+- PERSON1 and PERSON2 think using the alignment could give them a little more than when at the community.
+- PERSON1 and PERSON2 need to prepare the data set the alignment tool gated accepted by the community.
+- They need to get manual and automatic evaluation metrics for the shared task and compare them to each other.
+- PERSON2 wants to discuss it with PERSON4 before.
+- PERSON1 and PERSON2 need to prepare the ORGANIZATION1 data set for the PROJECT1 meetings before the end of November.
+- PERSON1 will start writing the components from tomorrow.
+- PERSON2 will prepare the data in the form like the basics sample form.
+- PERSON1 and PERSON2 are discussing how to organize annotators' work.
+- PERSON1 wants to start working with annotators now, but PERSON2 wants to wait until the end of November.
+- They decide to transfer the task to PERSON5, who can explain it to PERSON2.
+- PERSON1 and PERSON2 need someone to help them with the installation of a tool in Python.
+- They need to know how to work within the tool and how to use the alignment tool.
+- They also need to discuss the output of the tool, which should be manual score or metric.
+- PERSON1 and PERSON4 want to align minutes and transcripts to improve the evaluation.
+- They want to create a structured transkript into pieces where one line of summary corresponds to a piece of transcripts.
+- They also want to leverage on the current output to improve it further.
+- PERSON1 and PERSON2 want to start the alignment thing with their annotators soon.
+- They want to have smaller pieces of transcripts and a correspondent summary line.
+- The tool is ready, but some connection is missing.
+- They need someone to explain how to download the meeting, what to click to make it work, and where to put the data.
+- PERSON1 and PERSON2 want to work on ORGANIZATION1's alignment toll and starting align transript summarize.
+- PERSON5 and Thirtankar will join them to discr and discuss the technical details on Friday.
+- The annotators will start annotating the annotated data next Monday.
+- PERSON1, PERSON5, PERSON2 and PERSON6 are going to annotate the minutes of some meetings.
+- The work will take 130 minutes for English and 110 minutes for Czech.
+- The guidelines for annotating the minutes were created by a PERSON6 and his girlfriend and are available here.
+- PERSON1 and PERSON2 will have answers to all of this by the end of the week.
+- They will also have a session with their annotators to show them how to do it.
+- PERSON5 will help them with some of the things they need to do.
+- PERSON4 will join them when they discuss the evaluation.
+- PERSON1, PERSON2 and PERSON5 have to prepare a proposal for ORGANIZATION1 data and a tool for annotators.
+- The deadline is the end of the week.
+- PERSON2 is eager to see the data and the tool.
+- PERSON1 will see them tomorrow.
+
+
+Minuted by: Team Synapse

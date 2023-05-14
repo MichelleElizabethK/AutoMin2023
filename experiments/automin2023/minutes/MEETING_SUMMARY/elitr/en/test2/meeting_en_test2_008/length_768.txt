@@ -1,0 +1,46 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON4, PERSON9
+
+
+SUMMARY
+- PERSON9 and PERSON10 were about to have a meeting.
+- PERSON13 was supposed to join them, but he stopped responding to their messages.
+- This means that they will lose a person to prepare the data.
+- PERSON4 and PERSON10 are discussing the annotation of an online document.
+- The annotation was done at the type level, but there is still work to be done on the second round for many of the words, the annotators.
+- They need to get in touch with PERSON7 to double PERSON10 explains the annotation process to PERSON9 and PERSON4.
+- PERSON10 wants to have the full collection of documents with all named entities replaced by place holders.
+- PERSON4 and PERSON10 are working on a project.
+- The project is going well, but there are some problems with the quality of the annotation.
+- PERSON4 doesn't think the program included all the words beginning from cPROJECT4tal.
+- PERSON10 thinks it's better to preserve the identity of speakers and project names only for the sake of time.
+- PERSON4, PERSON10 and PERSON9 agree to ignore tracing other people who were mentioned in the meeting.
+- They also agree to leave it as is.
+- PERSON14 is working on de-identification from the beginning of January.
+- She needs to read the regulations.
+- She has to align the transcript with the minutes and she has to delete the names of languages from the documents.
+- PERSON10 is waiting for PERSON14 to finish.
+- She needs to read the regulations and agree on a timeline.
+- She also needs to check if the procedure that they are already running is in line with the guidelines and if anything else needs to be added.
+- PERSON10 and PERSON4 are working on two consent forms: one for processing data and one for publishing it.
+- PERSON10 proposes to focus on the second form only for the purpose of the release of the corpus and forget about the first form for the collection of data.
+- PERSON10 wants to know who was participant of what meeting.
+- PERSON4 has just made a sample.
+- PERSON9 thinks they should create a master sheet and extract the names of participants from each of the minutes.
+- PERSON11 and PERSON8 think it's better to collect the names from the PERSON9 and PERSON10 discuss the details of the project they are working on.
+- The project will be ready by the end of February or early March.
+- The trial data will be 16 March, the training data first April.
+- PERSON9 wants to have the data de-identification from the participants by the end of February.
+- PERSON10 wants it by the first week of March.
+- PERSON9 has created a lot of different things during Christmas holidays.
+- PERSON9 has sent the email template to the prospective members of the Scientific Committee.
+- There are at least half of them master's students and PhD students.
+- PERSON10 and PERSON9 are working on a project.
+- They have to prepare a proposal within the next 7-8 days and then divide the people involved in the project into a scientific committee.
+- PERSON10 wants to finish the call now and keep working on the request to participate in the Scientific Committee.
+- PERSON10 will send the proposal to ORGANIZATION7 by January 10th and to ORGNIZATION2 by January 15th.
+- PERSON4 will come to ORNGENIZATION4 on Thursday and will write to PERSON14 and PERSON7.
+- He will also write PERSON10 and PERSON4 will meet in English this afternoon.
+
+
+Minuted by: Team Synapse

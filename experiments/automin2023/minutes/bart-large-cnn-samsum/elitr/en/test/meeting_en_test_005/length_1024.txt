@@ -1,0 +1,72 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON11, PERSON12, PERSON3, PERSON6, PERSON7, PERSON8, PERSON9
+
+
+SUMMARY
+- PERSON12, PERSON7, PERSON11, PERSON9, PERSON4, PERSON10 and PERSON12 are on a call.
+- The microphone was muted, but the voice level of the amplification should be reasonable.
+- There is no true German speaker at the moment, and PERSON4 is not available for this call, because he has another meeting, and he hasn't heard from PERSON3 this morning.
+- The presentation platform is only directly when the worker at the client at PERSON11's notebook is talking on Pexip.
+- They need to share the screen.
+- PERSON11, PERSON7 and PERSON6 are having problems with their presentation.
+- They are short of German interpreters for the workshop.
+- The German signal will be available only for 20 minutes at a time, then 20 minutes for a break, and 20 minutes again for the last 20 minutes.
+- They will try to fix the problem with the other microphone.
+- PERSON12 asks everyone to share their observations from the test with the Google doc at the end of today's blog.
+- Pexip screensharing is broken, so someone is highlighting the screen sharing icon and taking a screenshot of it for the next call.
+- PERSON11, PERSON3, PERSON12 and PERSON7 are discussing the multiple input request functionality of the client.
+- They are getting the same request multiple times, sometimes four to five times the same input.
+- PERSON4 shared with him a Python script that manages the ASR output, filtering out the final hypothesis.
+- PERSON12, PERSON7 and PERSON3 are having problems with the presentation platform.
+- The empty worker cannot distinguish between January repetition and regular repetition.
+- The ASR worker double checks it's output and never sends the same string twice.
+- If a longer sound segment leads to the same text hypothesis, the update should not be sent to the subsequent empty worker.
+- PERSON3 and PERSON12 are working on a presentation platform.
+- The German ASR is not working, so they need to use the English machine translation and publish an English subtitle.
+- They need to create a simple client and present it to the client.
+- It's a prototype, but if it works in two weeks it will be perfect.
+- PERSON3, PERSON11 and PERSON12 are working on a project.
+- They need to send the screencast to the project repository of PROJECT1.
+- They are still working on the integration.
+- There are some problems with characters and coding, but the English subtitle is working well.
+- They want to set up a Slack channel to share files.
+- PERSON11 connected English and German screenshare.
+- It's not working in the presentation platform yet.
+- It works in Chrome on Linux but not in Windows.
+- There's still some problem with browsers and Windows.
+- It is not clear if it's related to the multiple publication.
+- PERSON12, PERSON3, PERSON11, PERSON4, PERSON6, PERSON7, PERSON8, and PERSON10 are going to have a test call on Monday from 11 to 3 on Monday to check the quality of their work.
+- On Friday they will have another test call.
+- They are also going to meet on Friday at 10.
+- PERSON3 prepared an M3U8 starting from VLC and asked PERSON12 to copy and paste the same format as the one in the Google doc.
+- It works exactly in this way.
+- The configuration page where you are able to set the and the stream provided for each language is not available to each user.
+- PERSON4 is available on Slack.
+- PERSON3 shares his screen with PERSON12 to show him how to change the default available languages in the front page of the application.
+- PERSON3 will share his screen so that they can verify if he's doing it right.
+- PERSON3 will save the snapshot of the Google Doc to Hungarian.
+- PERSON12, PERSON11, PERSON3 and LOCATION1 need a map of all the fingerprints used by the different workers.
+- They need it before the 27th of June meeting.
+- PERSON11 created a bridge worker to specify the fingerprints arguments and disconcert the bridge between workers.
+- PERSON3, PERSON9 and PERSON12 are having problems with the presentation platform.
+- They need the full list of languages that the platform responds to you next to the object you create.
+- The presentation platform reloads the home page and introduces new languages.
+- PERSON12 wants to change the set of languages and add Spanish to the front page, but he's still sharing the screen.
+- The presentation worker, ORGANIZATION6, needs to be configured to emit the Spanish Spain pub fingerprint.
+- PERSON9's PC does not have a microphone, so he's not able to hear the presentation.
+- He's running Windows 10, but his PC is running Linux.
+- PERSON12 and PERSON9 have problems with the presentation for the workshop in two weeks.
+- They would like the stream video to take more space from the screen.
+- They want it optimized for the desktop rather than for the mobile phone.
+- PERSON3 is working on the presentation.
+- PERSON3 wants to share the code for the presentation platform with the rest of the team.
+- The most important thing for now is to prepare the map of the fingerprints.
+- They need to make sure the set of languages is there.
+- They will discuss it today at 1.
+- PERSON12, PERSON3 and PERSON4 are on a conference call on Monday, 17 6.
+- The goal for Monday was to test more languages in the presentation platform.
+- On Friday they have to check the multiple language fingerprint path selection, the multiple publishing system and custom different video streams.
+- PERSON12 needs to clean up the Google document.
+
+
+Minuted by: Team Synapse

@@ -1,0 +1,61 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON12, PERSON19, PERSON20, PERSON3, PERSON9
+
+
+SUMMARY
+- PERSON20 and PERSON12 are going to go to LOCATION1.
+- The winter is coming and people are talking about the intensity of the pandemic may rise during the winter.
+- The situation in India is very bad.
+- There are almost one hundred thousand new cases per day.
+- People There was a marriage that was supposed to be scheduled, but the groom suddenly wasn't doing well, so the family members went ahead with the marriage.
+- The next day the groom died and almost three hundred people got infected.
+- The family members didn't report it to the authorities.
+- PERSON9 wants to know if a named entity recognition model for English and Czech meetings works.
+- PERSON12 thinks it should be possible to transfer common names that are repeating from English to Czech meetings.
+- PERSON9 and PERSON12 are going to ask PERSON3 about named entity recognition models for their project.
+- They need to remove some of the names from the document.
+- PERSON9 and PERSON12 are arguing about the removal of some of the markers from the transcript.
+- The markers are important for summarization.
+- Some of them are unrecognized.
+- They need to be renamed.
+- PERSON9 and PERSON12 are discussing how to mark the names of the participants in the transcript.
+- The only person who can be marked is PERSON3.
+- PERSON9 will ask him if he wants to join them.
+- PERSON9 wants to make sure that proper nouns do not end with dash.
+- PERSON9 and PERSON12 discuss the grey cases for named entities in the transcript.
+- PERSON3, PERSON12, PERSON9 and PERSON14 agree that the named entities should be located automatically.
+- PERSON11 is probably name, then ORGANIZATION2 is already something that they want to replace.
+- PERSON6 is surely a name, so they should do a fair bit PERSON3 and PERSON9 agree on the two step manual annotation.
+- PERSON3 proposes to label all the clear names in the data.
+- PERSON9, PERSON12 and PERSON20 are discussing how to annotate the transcripts.
+- PERSON9 doesn't know about their name tag and asks about Czech and named entity recognition.
+- PERSON3 and PERSON12 discuss the system of abbreviation of named tag.
+- They agree that the system is too fine grained for their purpose, but they agree that it can be useful for annotators.
+- PERSON9 will use named entity recognition for English meetings and also for Czech meetings.
+- PERSON9 is preparing the interface for the annotators.
+- PERSON3 explains to PERSON9 how to process the corpus from top to bottom.
+- The easiest way of doing this is to replace the lines with suspected named entities number fourty three, fourty four and fourty five.
+- In some cases the named entities are not a named entity PERSON3 explains to PERSON9 and PERSON12 how the word MOG can be annotated.
+- PERSON3 wants to discuss in the transcripts diarizations the name of the speaker.
+- PERSON3 explains to PERSON12 how to connect people in the transcript and how to anonymize them.
+- PERSON3 suggests that when doing the anonymization, one should preserve the full name like PERSON10 here on line one.
+- In the final post-processing, the IDs should be the same ID as in the anonymized version.
+- PERSON9 got the proper nouns for each meetings.
+- PERSON3 saw partial names like PERSON17 and PERSON17.
+- There are some misunderstandings in the transcript.
+- The annotator would know only at the token level that the annotator's PERSON17 is actually PERSON17, but PERSON3 wants PERSON15, who is starting his Phd.
+- on speech recognition in Slovakia, to limit his involvement in the minuting and the tool for that.
+- He will transfer it to PERSON20, who will be the technical support person.
+- He should also be more responsive to PERSON12 and PERSON9 will take a leave today.
+- They will work on the mock annotation and the test evauation of summaries.
+- PERSON19, PERSON12, PERSON20 and PERSON3 have to divide themselves as two annotators and two evaluators.
+- They have to select some of the meetings and work as both summarizers and assessors.
+- PERSON12 wants PERSON19 to choose the number of meetings and send them to her and PERSON20.
+- PERSON8 has already prepared some evaluation form, so they will discuss it and they will evaluate them.
+- The minutes are already there, annotators have already created them.
+- PERSON19, PERSON20 and PERSON12 are going to annotate and then evaluate twenty minutes of transcripts for one of the annotators.
+- The annotator needs a week to prepare a transcript and a minu nad a week for one minu for one meeting.
+- The PERSON12 and PERSON20 will meet tomorrow.
+
+
+Minuted by: Team Synapse

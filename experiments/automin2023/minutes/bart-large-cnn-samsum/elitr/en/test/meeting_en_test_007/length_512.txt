@@ -1,0 +1,42 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON10, PERSON2, PERSON5, PERSON6
+
+
+SUMMARY
+- PERSON10, PERSON2, PERSON3 and PERSON6 are meeting on Thursday at 5 pm at LOCATION2.
+- They are waiting for someone to join them, but it's not necessary.
+- The meeting will be about organizing the organizational call on Thursday.
+- PERSON10 will check if she is in the mailing list.
+- PERSON6 and PERSON1 want PERSON10 to come visit them for 4 days and 1 hour in LOCATION1 time from 1 hour from now and 4 days from now.
+- PERSON1 is busy with other things and doesn't hear about it from PERSON1.
+- PERSON1 wants to come in person to enter a proper work contract and prepare the hosting agreement and other paperwork as soon as possible.
+- He would prefer to stay remote, if possible, but it's negotiable.
+- The ORGANIZATION4 is still closed and he didn't receive the letter.
+- PERSON10 is applying for a visa.
+- LOCATION1 can't apply as the ORGANIZATION4 is closed.
+- Other people who want to come from India can't either.
+- PROJECT3 is still in progress.
+- PERSON2 and PERSON9 are still waiting for the progress with PROJECT3.
+- PERSON6 and PERSON2 will discuss the communication issues on the Thursday call.
+- The communication is not completely perfect.
+- The certificate on the server of the plane who does the work has expired.
+- The state is that, PERSON9 is preparing the leaflets and he would be handing them out to participants.
+- PERSON6, PERSON2 and PERSON7 are working on PROJECT4.
+- There are 40 jobs on the cluster.
+- Every job takes 2 hours.
+- If they secure their own job in 2 hours, it will be on.
+- There were no updates to PROJECT4 for now.
+- PERSON6 is sceptical about machine-learned evaluation methods, because they might be sensitive to domain shift.
+- The method might be useful, but it's not clear if it can be implemented into the pipeline yet.
+- The argument is that the PROJECT5 creates semantically rich representations.
+- PERSON6 and PONP10 are discussing a new evaluation for MT.
+- They discuss how to use a blurred metric to measure similarity between two sentences to guarantee a semantic similarity.
+- They also discuss how many constraints can be added to a model to make it more precise.
+- PERSON6, PERSON2 and PERSON10 are going to work on an addition to PROJECT4 until they have new ideas.
+- They will have a meeting for the task next week together with PERSON1 and they will try to come up with an alternative to the current idea.
+- PERSON6, PERSON2 and PERSON10 have discussed everything they needed and are going to wrap it up.
+- They will see each other next week and will discuss the task further.
+- They will shift to another research direction depending on how the task develops.
+
+
+Minuted by: Team Synapse

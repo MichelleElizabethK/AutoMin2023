@@ -1,0 +1,40 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON17, PERSON19, PERSON21, PERSON8, PERSON9
+
+
+SUMMARY
+- It's the deadline for adding new content to the book.
+- The text is there, the pictures are there, but the multilinguality is missing.
+- People have to comment on text that is not finished.
+- PERSON8, PERSON9 and PERSON17 are discussing how to extract an image from a paper and put it into a book.
+- They need to specify the creative comments at the end of the document and cite the source.
+- In PERSON9's chapter, there are many subsections with no content.
+- PERSON8's chapters are more detailed and have more pictures.
+- PERSON9 has it much easier in the attentions.
+- PERSON8 and PERSON19 discuss grammatical errors and event fractuality.
+- PERSON19: GPT and attentions.
+- There is a hidden one with PROJECT1.
+- PERSON9: We need to regenerate the text in a smaller font.
+- PERSON21: The text needs to be rewritten.
+- PERSON9, PERSON17, PERSON8, PERSON21 and PERSON21 are working on a project.
+- They have a problem with the colour scheme of the FastText embeddings.
+- PERSON21 has written a chapter about debiassing and is going to put the chocolates in the box tonight.
+- He needs to finish the text 4.1, 4.2 and 4.3 and then he will rewrite the chapters.
+- PERSON17's figure is ugly PERSON9 will delete figure 4.1.
+- PERSON21 will generate a tix file for the big cloud.
+- PERSON17 will replot the bit map so it has the same font as a book.
+- PERSON21, PERSON9, PERSON14, PERSON16, PERSON17, PERSON25 and PERSON8 are working on a book.
+- They need to add PCA and ICA, reorder the chocolate, write a summary and add the reviewers.
+- They also need to write an introduction PERSON21 brought some books to PERSON9 to have a look at how they are structured.
+- The summary in English must be in every Czech book.
+- If the book is too short, they can write a summary in Czech.
+- The longest book in the series is the light lexikons PERSON9 is going to fix some of the missing citations from the table.
+- The next meeting is in two weeks on Monday, 13th July.
+- The meeting starts at 2 p.m.
+- There will be a project 2 meeting at 12:30 and a project 3 meeting at 2 PERSON8 is not registered for ORGANIZATION1.
+- There are prerecorded presentations and live QA sessions.
+- People who are registered can ask questions live on the organiser's website.
+- PERSON19, PERSON8 and PERSON17 wish each other a nice day.
+
+
+Minuted by: Team Synapse

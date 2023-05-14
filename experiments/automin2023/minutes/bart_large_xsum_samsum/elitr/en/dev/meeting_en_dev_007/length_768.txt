@@ -1,0 +1,30 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON2, PERSON3, PERSON5
+
+
+SUMMARY
+- PERSON1 and PERSON2 are working on organizing the ORGANIZATION1 data set.
+- The deadline for the data is November 30th.
+- The proposal should look good with all the components.
+- The annotators should be ready by the end of November.
+- The fast shared task should PERSON1 proposes to skip the fast shared task.
+- PERSON2 proposes to make the alignment tool part of shared tasks and to get the people on exceptive somewhere.
+- PERSON2 wants to know what she should do before the end of November to be effective.
+- She needs to prepare data in the form like the PROJECT1 meetings.
+- She also needs someone to help her with annotators.
+- PERSON1 will transfer the task to PERSON5 after the end of November.
+- PERSON2 will explain to her how to work within the tool.
+- PERSON1 and PERSON4 have strong intuition that the alignment tool or alignment metric helps for the evaluation, but they are not sure if it is a good idea to include evaluation as part of the shared task.
+- PERSON2 and Thirtankar started work an hour earlier than usual today.
+- The tool is ready, but there is some connection missing.
+- The annotators will do the annotations from Monday on worse.
+- PERSON2 wants to transfer the work to PERSON5.
+- PERSON5 is comfortable with PERSON2 wants to start the annotation work as soon as possible, because she has a lot of data.
+- She will ask the annotators to make the alignment.
+- The guidelines for the alignment were created by a PERSON6 and his girlfriend, who is an annotator.
+- PERSON1 has to schedule a session with PERSON5, because she has too many things on her plate.
+- PERSON2 didn't speak to PERSON4 about the evaluation, so they don't have concrete topic to ask him about.
+- The deadline is the end of the week.
+
+
+Minuted by: Team Synapse

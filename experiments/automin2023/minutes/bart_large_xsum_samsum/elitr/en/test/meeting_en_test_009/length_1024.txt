@@ -1,0 +1,37 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON10, PERSON2, PERSON3, PERSON6, PERSON7, PERSON9
+
+
+SUMMARY
+- PERSON1 and PERSON10 are waiting for PERSON13 to join the call.
+- There is a problem with multiplexing in the platform.
+- People participating in the event are allowed only one user, which is the administration one, and he is allowed to assist to settings.
+- Organizer 3 PERSON9 is listening on another machine than PERSON1.
+- There are not enough ASR workers for the PROJECT1 project.
+- PERSON1, PERSON7 and PERSON9 are trying to solve the problem of the machine translation workers not working properly.
+- PERSON2 can't help them, because he's going on holiday.
+- PERSON1, PERSON5, PERSON6, PERSON9 and PERSON13 are working on a presentation.
+- They are having problems with the presentation platform.
+- PERSON1, PERSON6 and PERSON10 are going to test the presentation platform on local network.
+- PERSON14 will join them around the 16 or 17.
+- PERSON1, PERSON9 and PERSON10 are working on a presentation platform.
+- They are going to test it tomorrow.
+- They want to have the English subtitles presented from the main round table and the translations from the respeakers.
+- PERSON1 and PERSON10 are going to meet on Wednesday.
+- PERSON10 will provide his support during his travel.
+- ORGANIZATION2 will add them this afternoon.
+- PERSON1 wants to have machine translation as immediate as possible, translating incomplete sentences as well.
+- The segmentation worker from the ASR does not have access to the continuous stream, so they need to test it this afternoon.
+- PERSON9 is worried about the availability of workers.
+- There is a delay in the admin interface.
+- PERSON11 has a problem connecting to the pexip.
+- PERSON12 will be available tomorrow morning.
+- PERSON3 wants to be there as much as possible and to restart the workers as possible, but he can't guarantee that he will be here at every minute.
+- PERSON1 wants to set up a CGI script or PHP script so that they can ping fixed URL and tell it the session PERSON1, PERSON3 and PERSON9 are discussing a problem with the way the ASR workers are resetted.
+- PERSON1 is going to compile a script to solve the problem.
+- PERSON1 and PERSON3 are having problems with their presentation platform.
+- They need PERSON11 to help them solve the problem.
+- PERSON1, PERSON3 and PERSON9 are having problems with the call.
+
+
+Minuted by: Team Synapse

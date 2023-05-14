@@ -1,0 +1,31 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON10, PERSON2, PERSON5, PERSON6
+
+
+SUMMARY
+- PERSON10, PERSON2, PERSON3, and PERSON6 are having a meeting on Thursday at 1 p.m. LOCATION1 time.
+- They are waiting for someone to join them, but it's not necessary.
+- The meeting will take place at 5 p.M. of their LOCATION2 time.
+- PERSON1 wants PERSON10 to come and visit them as soon as possible, because the travel restrictions are going to go down and they need him to enter a proper work contract.
+- He will have to come for the paperwork and then he can return and work remotely.
+- PERSON1 advises LOCATION1 to apply for a visa.
+- The paperwork will come from PERSON8.
+- ORGANIZATION4 is closed, so LOCATION10 can't apply.
+- PROJECT3 is getting better, but there are still issues with the quality estimation and communication.
+- PERSON5, PERSON9, PERSON2, PERSON6, and PERSON10 are working on PROJECT1.
+- The certificate on the server of the plane who does the work has expired.
+- PERSON9 is preparing the leaflets, he would be handing them out to participants.
+- PROJECT4 does not have any updates.
+- PERSON6 is sceptical about machine-learned evaluation methods, because they might be sensitive to domain shift and other issues.
+- He thinks the blurred metric might be useful for the paraphrasing and for distinguishing between different sentences.
+- PEN1 and PEN2 think it's useful for this purpose.
+- PERSON6, PERSON2 and PERSON10 are going to focus on the constraint decoding this week.
+- They are also going to have a longer meeting this week about PROJECT4.
+- PERSON10 will try to come up with an alternative to the current approach.
+- PERSON6 and PERSON2 have discussed everything they needed and they can wrap it up.
+- They will see each other again next week.
+- They are going to meet in person next week, so they don't need to talk about anything else.
+- They say goodbye.
+
+
+Minuted by: Team Synapse

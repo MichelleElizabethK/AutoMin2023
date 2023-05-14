@@ -1,0 +1,55 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON11, PERSON14, PERSON15, PERSON2, PERSON3, PERSON4, PERSON7, PERSON8
+
+
+SUMMARY
+- PERSON2, PERSON7 and PERSON3 are on ORGANIZATION12 call.
+- They are trying to synchronize the group, and the date and time of the week.
+- The kids have taken all the children's computers, so PERSON3 can't share the ORGANIZATION2 doc.
+- The call is being recorded.
+- The ORGANIZATION7 conference is less than a month away.
+- The conference will serve as a test for the organization.
+- The next year's conference will be the main demo event for the PROJECT5 project.
+- It will be attended by MLT researchers.
+- The monolingual data that they can use for the project is needed for the rainbow models.
+- PERSON11 wants to create a parallel corpus of spoken data from ORGANIZATION6corpus.
+- The free version of the free version has some limitations.
+- PERSON11 will write to PERSON13 as soon as possible to get in touch with him about this matter.
+- PERSON11 and PERSON3 need monolingual data for, domain adaptation.
+- They need to create synthetic data based on that data.
+- They also need parallel data as much as possible.
+- The ORGANIZATION6corpus that was started by PERSON13 last year never got to finish.
+- PERSON3 wants to test the evaluation using PROJECT5 test set and PROJECT3.
+- PERSON12 couldn't attend the call because he had a problem with ORGANIZATION5, so he wrote his report there.
+- The PROJECT5 is completely finished.
+- PERSON8 created a new index for PROJECT2.
+- He wants to run PROJECT2 on data for around one hour and make minor changes.
+- PERSON3 wants to make PROJECT5 test set and PROJECT2 the standard evaluation tool for spoken language translation.
+- He wants to publish it finally at a conference in January.
+- He also wants to fix bugs and get numbers and repeated measurements so that the number stabilize.
+- PERSON8 will come to ORGANIZATION3 to work on the paper next week.
+- PERSON14 is lost and doesn't know what to do, so she will work with PERSON3.
+- They have eight minutes left to finalize the paper.
+- PERSON3, Ebrahim, PERSON8, PERSON12, PERSON14, PERSON10 and perhaps PERSON15 will have a technical call on the design of the censorship pipeline.
+- The censorship tool is to allow to immediately hide the outputs and then show them again.
+- PERSON4 has worked on multi-target machine translation for his master thesis.
+- Now he is working on PROJECT5 to develop multi-source models.
+- He will get access to the system and cluster soon to do some experiments on the ORGANIZATION3 cluster.
+- PERSON3, PERSON10, PERSON7, PERSON15 and Umar are working on a data augmentation project for PROJECT4.
+- They need to do itterative back translation on Czech German news to have some higher quality in German-Czech news corpus.
+- They want to use ORGANIZATION1 as a model for offline processing.
+- PERSON3, PERSON7, PERSON15, PERSON16, PERSON10, PERSON5 and PERSON16 will train as a comparin comparison in using the exact same training data.
+- PERSON4 will try some transfer learning on of double encoder model on GPus.
+- PERSON7 is working on ORGANIZATION11 Common voice project.
+- He's trying to improve the robustness of the PROJECT4 by using more non-native speakers.
+- He got the data from the ORGANIZATION14 challenge.
+- He doesn't know if he can use the data.
+- PERSON7 is using the ORGANIZATION11 Common voice data set to train PROJECT7 in English PROJECT4.
+- The main objective is to train a robust PRO PROJECT4.
+- Next week, PERSON7 will start to work on multi-lingual PRO project4.
+- PERSON7 and PERSON15 need to use the same data for ORGANIZATION13 evaluations as for PROJECT4.
+- They need to check if they can use the data from the ORGANISATION14 challenge.
+- Common voice is the best option as most papers that work with accented speech are working with the Common voice data set.
+
+
+Minuted by: Team Synapse

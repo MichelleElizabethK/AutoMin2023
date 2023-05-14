@@ -1,0 +1,28 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON2, PERSON3, PERSON5
+
+
+SUMMARY
+- PERSON1 will send the ORGANIZATION1 data set by the end of the week.
+- The data deadline is November 30th.
+- The fast shared task should be as simple as possible.
+- It should focus on summarizing the data.
+- It shouldn't lose the evolution metrics.
+- PERSON1 and PERSON2 need to prepare an alignment tool for the investigation this desert before the end of November.
+- They need the data set the alignment tool gated accepted by the community, the minutes from all the participants, the sample form, and some other evaluation metrics.
+- PERSON1 and PERSON2 are discussing how to organize annotators work.
+- They need someone who understands how the PERSON6's tool works.
+- They also need someone to explain to the annotators how to use the alignment of transcripts and minutes.
+- They decide to start working on the shared task proposal after the end of November.
+- PERSON1 and PERSON2 want to start the alignment thing with their annotators soon.
+- They want to create a structured transkript into pieces where one line of summary corresponds to a piece of transcripts.
+- They also want to leverage on the current output and create a better training data.
+- PERSON1, PERSON2, PERSON5 and Thirtankar will discuss the technical details of the annotating work on Friday.
+- They will discuss it on Friday and start on Monday.
+- The annotators will do the alignment of the transkripts and annotate the data set.
+- PERSON1 has to schedule a session with PERSON5 to discuss the proposal that data for ORGANIZATION1 and a tool for annotators.
+- The deadline for the annotators is by the end of the week.
+- PERSON2 is eager to see the data for ORGANIZATION1.
+
+
+Minuted by: Team Synapse

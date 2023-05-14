@@ -1,0 +1,42 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON10, PERSON2, PERSON3, PERSON6, PERSON7, PERSON9
+
+
+SUMMARY
+- PERSON1 and PERSON10 are waiting for PERSON13 to join the call.
+- There is only one administration user at the moment.
+- The authentication fees have been reintroduced so that only people participating in the event are allowed subtitles.
+- The presentation platform now requires password.
+- There are problems with multiple PERSON9 will share the screen where the launch of ten workers at the same time happened.
+- The log file from EB client shows that the English ASR or English sound is being converted while a to, one of the target languages, and then another line says the same English sound, PERSON9 tried to launch the ASR workers, but they didn't receive any output.
+- The machine translation workers are working well, but the text only pipeline is not available.
+- There are three ASR crashed from the seven available, so three people were released.
+- The solution is to PERSON1, PERSON9, PERSON9 and PERSON7 are working on a project.
+- They need to implement the C code the EB client, modify to do the multiplexing internally, and find a worker who can do the work.
+- Organizer3 is away on holiday PERSON9, PERSON1, PERSON5, PERSON6 and PERSON13 are working on a presentation.
+- The presentation platform is not working properly.
+- The participants notebooks will all be connected to the same wired network and they need the URL with RTMP protocol with the stream subtitles to work from PERSON1 and PERSON14 will arrive on Wednesday around the 16 or 17.
+- They will join PERSON6 and PERSON10 in ORGANIZATION1.
+- PERSON1 has sent a message to PERSON10 about a technical issue with the presentation platform.
+- PERSON1, PERSON10 and ORGANIZATION3 are preparing the final setup for delivering subtitles to interpreters booth.
+- They need to prepare the X1, X2, X3, X4, X5, X6, X7, X8, X9, X10, PERSON10 and PERSON1 discuss a problem with the presentation platform's handling of the partial hypothesis output.
+- PERSON1, PERSON10, PERSON9 and PERSON12 are meeting to discuss the implementation of the segmentation system.
+- They are going to test it this afternoon.
+- PERSON9 restarted workers on her request.
+- She has connected one to nine, nine workers but only seven of them are taken here.
+- There is a delay in the information about the availability of two workers, so that when she runs the test she gets updates every two seconds.
+- She PERSON11 tried to connect the, but he failed.
+- PERSON12 will be available tomorrow morning.
+- PERSON3 will not be able to make it to LOCATION1.
+- PERSON3 is trying to create a website for people to access over the internet, but he doesn't know how to do it.
+- He has no experience in coding in any web server package, he's looking at the logs right now and can't see easily from the logs where were PERSON1, PERSON3 and PERSON9 are complaining about the amount of effort it takes to change the way the system works.
+- They want to make it easier to restart the workers with just one command.
+- PERSON1 asks PERSON11 to recompile a worker with one print.
+- It will speed up the restarts.
+- PERSON1 and PERSON3 are trying to reach each other via SSH, but it doesn't work.
+- PERSON1 suggests restarting the other workers, but that will also load the other servers.
+- PERSON1 will have to run now.
+- PERSON9 and PERSON10 will keep debugging with PERSON9.
+
+
+Minuted by: Team Synapse

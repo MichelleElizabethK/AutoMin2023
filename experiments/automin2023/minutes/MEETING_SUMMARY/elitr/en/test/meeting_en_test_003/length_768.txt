@@ -1,0 +1,21 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON12, PERSON4, PERSON6, PERSON8
+
+
+SUMMARY
+- PERSON8, PERSON12, PERSON7 and PERSON10 are on the call.
+- They are discussing the development of a translation system.
+- PERSON6 had a problem with the internet connection.
+- PERSON8's guess is that the worker should work well with timestamps and hide them from the Python server.
+- PERSON8 and PERSON6 discuss the presentation of platform on Monday.
+- They agree that part of the message that the platform is receiving is an indicator, whether to replace the current text field with a new one or scroll the history up.
+- They also agree that the first prototype should be PERSON8 suggests to switch to the ORGANIZATION2 platform after this part of the call to see how it works.
+- PERSON8, PERSON3, PERSON4 and PERSON11 discuss the organization of the workshop.
+- They agree that it would be better to have two sides providing the workers.
+- They also discuss a bug in the work that one worker can handle several sessions, but then it doesn't return any PERSON8 recommends a script to solve the problem of offline ASR.
+- The production client is different from the simple one by default parameters and comment send documentations and I removed Windows version from it.
+- The text client is the same as in the sample.
+- PERSON11 is responsible for MT PERSON8 is going to reboot the Organizing Committee and lodge the ORGANIZATION2.
+
+
+Minuted by: Team Synapse

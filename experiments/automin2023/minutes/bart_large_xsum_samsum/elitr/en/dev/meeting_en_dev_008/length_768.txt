@@ -1,0 +1,24 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON5, PERSON7
+
+
+SUMMARY
+- PERSON7 is trying to fix the program in Overleaf, but it doesn't compile for him.
+- Overleaf has some serious troubles, so he's trying to use it as a plain text editor.
+- PERSON7, PERSON3, PERSON5 and PERSON1 are discussing the structure of the deliverable and how to share the internals of the presentation.
+- PERSON5 will email all of the people involved in developing a web-based publishing platform for ORGANIZATION7 and ask them for help with the preparation.
+- ORGANIZATION7 needs to be internally reviewed in two weeks, but they don't have anyone to do it.
+- ORGANIZATION5 will ask ORGANIZATION7 PERSON5, PERSON7 and PERSON1 should have their full content ready by Wednesday.
+- They should also prepare the ORGANIZATION4 paper and the template.
+- The deadline is in a week, so they have just a week.
+- PERSON7 is writing requests for requests.
+- They need the internal review, the link to the document and some notes regarding the user interface.
+- The document doesn't compile, but it compiles outside of Overleaf.
+- PERSON5, PERSON7 and PERSON1 are going to prepare a deliverable for ORGANIZATION4.
+- PERSON7 explains to PERSON5 how to make a document compile and how to commit to Git.
+- PERSON1 and PERSON5 are trying to install a package manager, but they don't know how to do it.
+- PERSON5 is going to install Overleaf for the paper.
+- PERSON1 will work on it over night and then put in some more details.
+
+
+Minuted by: Team Synapse

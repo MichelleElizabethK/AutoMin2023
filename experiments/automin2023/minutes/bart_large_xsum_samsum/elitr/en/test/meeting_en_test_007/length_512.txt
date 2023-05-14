@@ -1,0 +1,33 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON10, PERSON2, PERSON5, PERSON6
+
+
+SUMMARY
+- PERSON2, PERSON3, PERSON10 and PERSON2 are going to have a meeting on Thursday at 5 PM.
+- There will be a call with the project partners.
+- They are waiting for someone to join them, but they are ready to start.
+- PERSON10 is having dinner with her family.
+- They want her to come visit them for a limited time, but she needs to think about the cost first.
+- PERSON1 wants to come to the Czech Republic in person to enter a proper work contract.
+- PERSON10 didn't receive the letter from PERSON1.
+- PERSON1 wants to apply for a visa for LOCATION1, but she can't apply because the ORGANIZATION4 is closed.
+- She needs to check the status of the application with PERSON8 and with PERSON10.
+- PERSON9 is preparing the leaflets and handing them out to participants.
+- The communication is not completely perfect.
+- The certificate on the server of the plane who does the just expired.
+- There is an objective problem with the quality estimation.
+- The bullet point in PROJECT1 is quite explanatory.
+- The There are 40 jobs on the cluster.
+- They are minus one hundred priorities.
+- If you secure your own job in two hours, it will be on.
+- There are no updates for PROJECT4.
+- PERSON6 and PERSON10 are sceptical about machine-learned evaluation methods.
+- They agree that PROJECT5 is creating semantically rich representations.
+- PERSON6 and PERSON10 discuss how to improve the pretrain model and develop a new evaluation for MT.
+- PERSON2, PERSON10 and PERSON6 agree to work on the PROJECT4 until they have new ideas.
+- PERSON1 will try to arrange a meeting for the task next week together with him.
+- PERSON2, PERSON6 and PERSON10 have finished their meeting.
+- They will see each other next week.
+
+
+Minuted by: Team Synapse

@@ -1,0 +1,41 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON2, PERSON3, PERSON4
+
+
+SUMMARY
+- PERSON3, PERSON2 and PERSON1 are taking part in a meeting today.
+- The agenda for the meeting is to discuss ORGANIZATION4's status.
+- They want to split the budget for the project among other parties.
+- They don't want to get any money from this project.
+- PERSON1 and PERSON2 are working on the integration work package for the presentation application development for the ORGANIZATION9 congress.
+- They need to identify the final platform for the delivery of the translation.
+- The text to speech doesn't add so much information to the text and makes it harder to digest.
+- The application to provide the subtitle would be the ORIZATION6 application for remote meetings.
+- PERSON3 wants ORGANIZATION4 to make sure there are enough events for the ORGANIZATION9 congress, dry-run workshops, and follow-up workshops for the project.
+- The main congress is in the middle of the project, before that there could be some dry runs workshops, or there will be some, and after that, other events again, workshop style events mainly.
+- The workshop style is a live meeting of up to twenty people, and each of them strives to speak other languages.
+- PERSON1 would like to create a task for ORGANIZATION4 events.
+- It would be one dry run, one main and two follow-up experiments.
+- The integration work package is the one that delivers the software and the tool to that to those events.
+- The other task is for OTHER2, which is a language-based ASR.
+- PERSON3 needs to advertise for a person to work on the ASR work package.
+- ORGANIZATION4 needs to estimate how many person months should they allocate in the data collection work package and how many hours per speaker per speaker do they need for to be able to adapt to the speaker.
+- PERSON3 is going to create a model for the adaptation of the language for the ORGANIZATION3 project.
+- The main conference is four days long.
+- There will be three days of dry run, and five for main conference.
+- For OTHER1, PERSON3 is in touch with the OTHER1 radio and they should be able to provide them with a considerable number of hours.
+- PERSON3 will prepare a table with the hours needed to record and adapt at re-spoken events.
+- He wants to get hold of the actual interpreters, who will be interpreting at the ORGANIZATION9 congress, and get some re-speakers for the sessions.
+- The project is uncertain at the moment.
+- PERSON3, PERSON1 and PERSON4 have to prepare a proposal for the organization.
+- They have 14 days to finish the proposal.
+- They need some equipment for the equipment and devices for the re-speaker adaptation.
+- They also need to integrate all the parties involved in the project.
+- PERSON3, PERSON1 and PERSON4 are discussing the design of deliverables for the integration work package 2.
+- They want to have a few months between the software and the report and the integration, so that the organisation is taken over by the individual prototypes and the releases.
+- They also want to make progress visible in the tasks.
+- PERSON3 will merge the ORGANIZATION7 doc with the Overleaf doc of PERSON1.
+- They will talk again on Thursday and keep exchanging e-mails to get the text created quickly, as they want it to get created quickly.
+
+
+Minuted by: Team Synapse

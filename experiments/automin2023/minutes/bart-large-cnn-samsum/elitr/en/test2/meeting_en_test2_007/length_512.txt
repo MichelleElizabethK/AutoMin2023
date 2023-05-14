@@ -1,0 +1,94 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON13, PERSON15, PERSON16, PERSON2, PERSON3, PERSON6, PERSON7, PERSON8
+
+
+SUMMARY
+- PERSON7 is trying to recover from missed sessions.
+- Yesterday's experience was disastrous again.
+- It was badly recognised and it was also slow.
+- Yesterday, the problem was that the files were too big to be uploaded to PROJECT3.
+- Today, they had a call with PERSON12 last night.
+- PERSON16 is looking for a way to upload a link file to the PROJECT13 archive.
+- It is for the preparation for the domain adaptation.
+- PERSON14 is collecting text data for the text files for the dominetration.
+- PERSON4 needs to check if the ORGANIZATION1 server is up again.
+- PERSON16 will explain to him the difference between PROJECT13 Archive, which is the interviews with the survivors of World War II of the Holocaust and some conferences about that, and the historical evidence, the recordings, and then the historical papers and presentations by historians.
+- PERSON3, PERSON6 and PERSON2 will be here after the call.
+- PERSON6, PERSON13 and PERSON15 will have a call in the afternoon to discuss the alignment based thing.
+- PERSON6 has an appointment in fourty five minutes, so he has to go.
+- PERSON13 will explain everything in detail in one email to PERSON6 in detail.
+- PERSON13 wants to ask PERSON15 to help him with revising the PROJECT12 demo paper, but he doesn't have access to the reviews.
+- He will send him a link to a file with the reviews of the project.
+- It's called Reviews ORGANIZATION8.
+- PERSON13 suggests that the PROJECT14 quality is bad for all remotely handled sessions, especially if people are wearing face masks.
+- The idea is to pass all training data through PROJECT8 and other systems in an automated way so that they get the data distorted, in the same way as these platforms distort it, and also to use a frequency filter to cut down on the hate.
+- The data would be sent to ORGANIZATION2 and they would train their system.
+- PERSON16 should focus on the evaluations first and fore.
+- PERSON15 is continuing with data preparation of ORGANIZATION5 corpus.
+- PERSON7 will process all the files that PERSON8 has for English, training data they need, and will get in touch with PERSON7 to process the files in Czech.
+- PERSON5 has started to write the summary of the experiment.
+- PERSON7 is writing a pipeline preparation tool.
+- He will make a script that will make sure that everything is corrected as it was specified.
+- PERSON13 needs Czech only in February, whereas they need English on the 25th of February.
+- PERSON7 will start a paper on the study.
+- PERSON7 is going to provide life subtitles and transcription for PROJECT13 at the conference next Friday.
+- He wants to get feedback from non-native English speakers about the quality of the subtitles they are providing for the conference.
+- PERSON13 adds that the pipeline will be defined in terms of an abstract graph and compiled to a batch launcher.
+- PERSON15 has a simple tool that she could adapt, but she needs a description of how to use it.
+- She needs to get in touch with PERSON18 to prepare very simple instructions for the participants.
+- The event is on the twenty fifth on January.
+- The quality of the output is bad.
+- The participants need to give feedback.
+- PERSON3 needs to focus on the stand alone one shot of things.
+- If PERSON11 and PERSON16 find out some PROJECT13 data in the public domain, they need to add them to the public part of PROJECT12 test set.
+- PERSON16 needs to evaluate the systems on everything and choose the best set up.
+- PERSON1 developed a shortening of PROJECT1, English to Czech.
+- He made the output 80 percent of the input length and the bleu score is lower.
+- PERSON16 wants to make it a new evaluation campaign in the PROJECT12 test set evaluations.
+- PERSON8 is working on the chopped training.
+- The idea is to create more robust PROJECT14 that is not for refitting any speaker we can read.
+- The big corpora the are the corpora, the speech corpora have limited, ss text then.
+- If we use another text, we can train on more texts and the implicit language model inside the PRO Project can be more robust.
+- PERSON8 wants to use a rolling buffer on the disks so that each recording is seen by the neural network only once.
+- PERSON13 wants to be paid from the PROJECT5 tool, but he doesn't know how much he should be paid.
+- He will ask the person who is giving a talk about the PRO PROJECT5 today.
+- PERSON13 wants to talk to PERSON6 and PERSON2 about the PROJECT7.
+- He wants to know the exact amount from PROJECT5s.
+- He will share his screen with them to show them the formula he has sent to them.
+- They will talk to each other again next Thursday.
+- PERSON6 and PERSON13 discuss the problem of translating German into English.
+- The German sentence will say "Ich habe" and then something very long here, and something vey long and "gezacht" there.
+- If the PROJECT1 system decides to obey the standard English grammar, it will emit all the words at once.
+- PERSON6 and PERSON13 need to increase the maximum of the alignment and the proportional values.
+- They need to maximize the previous words in the sentence.
+- PERSON13 will write a paper as if they are doing this already and will write the maximum instead of the current one.
+- PERSON13 and PERSON6 are looking for an example to replace the.
+- Alignment file.
+- They don't want to max it with the proportional value as it's not correct.
+- They want to follow the alignment based thing and not follow the linear order progress of the maximisation.
+- PERSON13 explains to PROJECT2 how the evaluation would be different if we were producing a spoken output.
+- The differences between the differences between each pair of the words are not the same, so he's confused by the numbers in the numbers.
+- He will fix the problem.
+- PERSON6 and PERSON13 have a problem with their calculations.
+- They need to make a formula based on the number of characters and the proportion of the characters in "Oh das ist" and the time stamp of the T-shirt to arrive at the correct formula.
+- PERSON6 and PERSON13 are confused about the formula they are following.
+- It is based on characters at the end time of, of the word and based only on those time stamps in C. PERSON6 will check the formula carefully.
+- If it is correct, he will write details in an email.
+- PERSON6 and PERSON13 have a problem with a calculation based on partial numbers.
+- The solution is not based on characters at all, but on the C segment and the number of characters.
+- PERSON6 will let PERSON13 keep his solution as it is, as it works better.
+- PERSON13 and PERSON6 are working on a paper.
+- They need to find an example with the reordering and the code towards the maximization.
+- They will finish the paper today after PERSON17e, because it is easy.
+- PERSON13 will email PERSON6 in the afternoon if he still needs help.
+- PERSON6 needs to log in to the PROJECT12 test set, manage access, invite and share the screen.
+- He needs to double-check the wording of the last comment from PERSON13.
+- PERSON13 will add PROJECT3 account to the test set and write permission.
+- He will also write permission on PROJECT6.
+- He might not be available in January or February.
+- PERSON6 is adding PROJECT7 to ORGANIZATION9 teams.
+- PERSON13 is adding PERSON16 and PERSON7 to integrate profanity filtering themselves.
+- PERSON6 is going to work on the paper now and will see PERSON13 later.
+
+
+Minuted by: Team Synapse

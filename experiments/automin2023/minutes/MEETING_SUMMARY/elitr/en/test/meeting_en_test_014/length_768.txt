@@ -1,0 +1,42 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON12, PERSON13, PERSON2, PERSON4, PERSON5, PERSON6, PERSON7, PERSON8, PERSON9
+
+
+SUMMARY
+- PERSON5, PERSON8, PERSON9 and PERSON6 are on a conference call.
+- The recording has already started.
+- The connection is slow.
+- People can't see each other, but they can hear each other.
+- The conference call is being recorded and will be released publicly.
+- The purpose of the meetings is for everybody to say what they are working on and what they have in mind for the upcoming weeks, and to collect credits.
+- PERSON5 wants to know what people have been working on this week.
+- PERSON7 wants them to bring a chair.
+- PERSON8 wants to make a summary of activities.
+- PERSON8 is working on transcribing the YouTube videos, preparing the transcript for the Monday seminar, working on the empty models and doc translation and integrating office and text additions from PERSON4.
+- He is also working on getting ORGANIZATION4 models used in the pipelines.
+- PERSON4 downloaded new corpora of interpret spoken language.
+- He's downloading all plenary session from your parliament since July 2018 and 1.7 terabytes of audios, videos interpreting in 22 languages.
+- His main project until 6th of March is multi-source spoken language translation research PERSON9 is working on the PROJECT1 thing this week.
+- PERSON9 has already collaborate with PERSON8 for the compression thing.
+- This week, he was working on other things.
+- He didn't have time to deal with the current audio compression because he was busy preparing for the Monday PERSON9 will be working on things that will directly help the Organizing Committee1 Congress.
+- PERSON2 is working on the framework or for example test set for evaluation of simultaneous translation.
+- PERSON5 wants PERSON2 and PERSON8 to set up a testing booth to prepare a tool to evaluate submissions in the shared task at IWSLT.
+- PERSON8 is in India until the end of January and is arriving in early February.
+- PERSON12 and PERSON5 are going to work on a project together.
+- They need to scan websites, download PDF documents and convert them to corpus styles.
+- They also need to synchronize on the tools.
+- PERSON5 needs help with her bachelor thesis.
+- PERSON10's job is to have an overview of all the data that they use for the ORGANIZATION1 Congress.
+- PERSON8 should regularly process the test sets with pipelines and use the evaluation tool by E PERSON2.
+- PERSON10 PERSON6 has done the forced alignment of his ASR.
+- Now he's working on onlinezation of the ASR, because as you may know, he has problems with transcribing.
+- He is also working on back translation of the Czech to English ASR into all the target languages PERSON8 will process the dry run of PERSON1's talk in Czech to English on Monday.
+- On Tuesday, PERSON4 will fine tune the system and on Wednesday morning, they will decide which one to deploy for the event.
+- PERSON8 wants to use European data to train the segmenter, like English and Czech segmenter and use PERSON2's evaluation tool to see how they are doing.
+- The tool should be ready next week.
+- PERSON2 is available next week and so is PERSON4.
+- PERSON5 is
+
+
+Minuted by: Team Synapse

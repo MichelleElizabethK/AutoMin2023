@@ -1,0 +1,50 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON4, PERSON9
+
+
+SUMMARY
+- PERSON9 and PERSON4 are having a meeting today.
+- They are going to discuss the webpage.
+- PERSON13 is not joining them.
+- PERSON4 wants to finish the annotation, but the annotator has stopped and he didn't finish it.
+- The annotation was done at the type level and the second round for many of the words, the annotators should have indicated, that it depends on the context.
+- If the annot PERSON10 explains the annotation process to PERSON9 and PERSON4.
+- PERSON10 and PERSON4 are working on a project.
+- They need to remove all named entities from the collection and replace them with place holders.
+- They have to do it at two levels, first at the word type level and then the word token level.
+- PERSON4 doesn't understand the code.
+- The annotation is still going on.
+- There are a lot of typos in the list.
+- Most of the output is not a named entity.
+- PERSON4, PERSON10 and PERSON11 are working on a project.
+- There are some problems with the program.
+- The program does not include all the words beginning from cPROJECT4tal.
+- There is a problem with co-referencing the names of the speakers.
+- PERSON4, PERSON10 and PERSON9 agree not to trace other people who were not speakers in the meeting.
+- PERSON14 is working on de-identification from the beginning of January.
+- She needs to read the regulations.
+- She has to delete the names of languages from the document and align the transcript with the minutes.
+- PERSON10 is waiting for PERSON14 to finish.
+- She needs to read the regulations and agree on a timeline.
+- She also needs to discuss the consent forms.
+- PERSON10 and PERSON4 are working on a project.
+- They need to create two consent forms, one for working with data and one for publishing it.
+- The consent forms are not perfect, but they are signed by thirty percent of participants.
+- PERSON10 proposes to forget about the first form for the purpose of the release of the corpus and focus on the second form to have the permission to publish the data in the anonymous form.
+- PERSON10 and PERSON4 are going to make a list of participants from the minutes of the meetings.
+- They will create a master sheet, extract the names of the participants from it and send a consent form based on it.
+- PERSON9 and PERSON10 discuss the de-identification procedure and the consent form.
+- They agree that the end of February or end of March would be a good date for the participants to get their consents.
+- PERSON9 wants to have the data de-identification from the participants by the end of February and the consent from their end by the first week of March.
+- PERSON9 has created a mock scientific committee, but it's not finalised yet.
+- PERSON4 is unsure if they should invite all of the participants to the Scientific Committee, because more or half of them are master's students.
+- PERSON9 forwarded the email template to PERSON4.
+- Person PERSON9 is responsible for editing the document with the C, F, P. They need to submit the proposal within the January 7th or 8th.
+- PERSON10, PERSON9 and PERSON4 want to form a Scientific Committee.
+- They want to ask the experienced people from the 2006 event, the ORGANIZATION8 corpus, and the key note speakers for summarization.
+- PERSON10 will send the proposal to ORGANIZATION7 on January 10th.
+- PERSON4 will send it to PERSON14 on January 15th.
+- PERSON4 and PERSON10 will meet this afternoon to talk in English.
+
+
+Minuted by: Team Synapse

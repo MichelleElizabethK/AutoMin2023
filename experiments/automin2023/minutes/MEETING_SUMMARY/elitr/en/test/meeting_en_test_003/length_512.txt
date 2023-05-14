@@ -1,0 +1,33 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON12, PERSON4, PERSON6, PERSON8
+
+
+SUMMARY
+- PERSON8, PERSON6, PERSON4, PERSON12, PERSON7 and PERSON10 are on a conference call.
+- They are discussing the development of a project.
+- PERSON8 thinks that for partial sentences, the ORGANIZATION1 worker should send every segment to PROJECT3 for translation.
+- There are two timestamps for the presentation: the beginnig and end of the sentence and the beginning of the segment.
+- There are no finer information on how to present partial translations and partial output.
+- The presentation platforms update the text incoming messages.
+- PERSON8 needs to discuss with PERSON6 on Monday whether the textfield should be replaced or scrolled up.
+- The first prototype should be ready at the 15th of June.
+- PERSON6 and PERSON8 would like to finish the prototype sooner.
+- PERSON8 wants to know if they plan to run any of the ORGANIZATION2 workers in LOCATION1.
+- PERSON11 thinks it would be a good idea to start as many workers there as possible.
+- PERSON8 suggests to switch to the ORGANIZATION2 platform.
+- ORGANIZATION3 will prepare an image and ORGANIZATION4 will try to get it running.
+- ORGANIZATION10 needs to limit the number of workers to 16.
+- The presentation for the workshop is ready.
+- There are two sides providing the workers.
+- Sometimes one worker can handle several sessions, but then it doesn't return any output.
+- PERSON4 has a problem with offline ASR.
+- PERSON8 advises him to create a script that will replicate the problem.
+- PERSON4 is working on it.
+- PERSON4 will resend the email.
+- The text client is the same as in the sample.
+- There are up to four calls and the workshop.
+- PERSON6 won't be able to help PERSON8 and PERSON4 today.
+- PERSON8 will reboot and lodge the ORGANIZATION2.
+
+
+Minuted by: Team Synapse

@@ -1,0 +1,42 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON12, PERSON13, PERSON2, PERSON4, PERSON5, PERSON6, PERSON7, PERSON8, PERSON9
+
+
+SUMMARY
+- PERSON5 is collecting credits for the Surge 2020 organization.
+- The call is being recorded because she's collecting various meetings.
+- She would like to release this publicly, but with some delay it's not interesting.
+- She sends a link to google form, where people will fill in, that they agree, what this to be used and specify the limit.
+- PERSON5, PERSON8, PERSON7, PERSON5 and PERSON12 are going to give a workshop on natural language processing tools for the ORGANIZATION1 congress on the 12th of February.
+- The workshop will be two and half hours of hands on experience with NLP technologies.
+- PERSON8 has been working on transcribing YouTube videos and preparing the transcript for the Monday seminar.
+- PERSON8's goal is to get ORGANIZONATION4 models used in the pipelines.
+- PERSON3 has already managed to do that.
+- PERSON4's main goal is multi-source spoken language translation research until 6th of March.
+- PERSON6 has problems with hear to hear.
+- PERSON5, PERSON4, PERSON8 and PERSON9 will take the Monday seminar revised transcript as a test set.
+- They will do uncompressed and compressed pipeline and again check the word error rate.
+- They want to do the evaluation without a mediator.
+- It's for the ORGANIZATION1 Congress.
+- PERSON2 is working on the framework or test set for evaluation of simultaneous translation.
+- He wants to prepare a reliable tool to evaluate submissions in the SLT shared task.
+- The task is aimed to help PROJECT2 in the ORGANIZATION1 Congress.
+- PERSON8 is in India until the end of January and is arriving in early February.
+- PERSON5 wants to set up regular evaluation of the pipelines.
+- PERSON5 and PERSON12 need to convert PDF documents for their bachelor thesis.
+- They need to download all the PDF documents in 7 languages and use different tools to do it.
+- They will use Tokenizer and a text-converter to do the job.
+- PERSON10's job is to have an overview of all the data, we use for the ORGANIZATION1 Congress, to create test sets, test sets using them.
+- PERSON10 is mainly working on the IWSLT test set, that's spoken language translation from English into two languages only into Czech and German.
+- PERSON8 should regularly process the test sets with pipelines and use the evaluation tool by E PERSON2.
+- PERSON6 has done the forced alignment of his ASR.
+- PERSON5, PERSON8, PERSON4 and PERSON13 are going to translate a speech by PERSON1 from Czech to English on Wednesday morning.
+- They need to choose the best translation tool for the event.
+- They have a source audio of the talk, but they don't have the reference translation.
+- On Monday, they want to evaluate the existing systems.
+- PERSON2, PERSON8, PERSON4 and PERSON5 are going to meet next week to discuss the development of a data analysis tool.
+- They will meet on Thursday and have a training session on Wednesday.
+- The tool should be ready next week, but it's not ready all the time.
+
+
+Minuted by: Team Synapse

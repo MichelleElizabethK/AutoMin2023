@@ -1,0 +1,60 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON10, PERSON12, PERSON14, PERSON17, PERSON19, PERSON20, PERSON22, PERSON3, PERSON4, PERSON8, PERSON9
+
+
+SUMMARY
+- PERSON10, PERSON12, PERSON9, PERSON14, PERSON22 and PERSON3 are going to a conference.
+- They need to organize a panel, have a pre-recorded summary of the results, presentation and a podcast.
+- The conference will take place in the European time zone.
+- PERSON10, PERSON14, PERSON16, PERSON11, PERSON22 and PERSON7 are going to a meeting.
+- The deadline for the decisions was 3 days ago.
+- The review will be postponed till September.
+- There will be workshop workshops sessions of 1 or each 1 evaluation session.
+- PERSON10, ORGANIZATION5 and PERSON2 will prepare the financial tables for the official submission to the EU in September.
+- The EU gives them 2 months to finalize these numbers.
+- ORGANIZATION5 will get the estimate numbers from ORGANIZATION6.
+- Organizer 20 will get an estimate from ORGANIZATION5.
+- Organisation 6 will get it from Organizer 5.
+- ORGANIZATION5 will send the final versions of these to Organizer20 in mid July or late July.
+- Organiser 20 will send them to ORGANIZATION6 and ORGANIZATION2.
+- ORGANIZATION6 will send it to ORGANIZATION2 and Organizer 10.
+- Organisation 5 will have to prepare the final version of the report until the end of August.
+- Organisation PERSON10, PERSON14, PERSON22, PERSON4 and PERSON20 need more information about the workshop that didn't take place.
+- They need to collect all the information from the dissemination activities remote or in person into the continuous reporting table and put it into the Google sheet.
+- PERSON10, PERSON19, PERSON11, PERSON14, PERSON22, PERSON21, PERSON6 and PERSON19 have to prepare a spread sheet with all the documents related to the project.
+- They need to convert the Bibtech file into spreadsheet and send it to the EU system.
+- PERSON12 will review the report on NLP technologies workshop.
+- The workshop is for people not familiar with NLP.
+- The new Congress date is from 30th of May to the 3rd of June 2021, and the workshop itself will be on the 1st of June.
+- Some of the deliverables have not started yet, and there will negotiate with the respective reviewer to buy some time for them.
+- PERSON10, PERSON3, PERSON20 and PERSON15 are preparing an internal pole for the new date with the project officer.
+- The demo will take place on 1 of the days of the 2nd half of June.
+- All the components of the demo should be replicated.
+- PERSON22 proposed a dockerisation.
+- PERSON19, PERSON10, PERSON17, PERSON8, PERSON1, and PERSON4 will try to package their systems and get back to PERSON22 and PERSON6 for this system.
+- The ASR systems for Czech, that's PROJECT2 based, are not integrated yet because of the missing segmentation.
+- The punctuator is CPU based.
+- PERSON9 needs to create a virtual machine with the GPU configuration.
+- The only open point for him is the, GPU configuration, but it's hard for him to access.
+- He needs to have a staging in a production and development setup.
+- He also needs to avoid updating the systems before the demo.
+- He asks all the partners to avoid doing any updates to their workers shortly before it.
+- PERSON4 has a text-to-text translation system for MT.
+- The current model is based on German to English translation.
+- The system is tested under research conditions only.
+- There is no worker that does this yet and the system is not ready for a demo yet.
+- PERSON10 wants regular testing of the systems integrated in the pipeline.
+- For the demo and other important things, they will have frozen fingerprints and for the research, workers, which are not path parts of the path, of the frozen fingerprints, for testing.
+- They will be regularly running different set-ups.
+- PERSON10, PERSON19, PERSON14, and PERSON22 are discussing the presentation of the demo.
+- They want to make use of the Covid crisis to get an extension of the project.
+- They need to write the final deliverables in December.
+- They will have a number of demo sessions.
+- PERSON10, PERSON14, PERSON19, PERSON3, PERSON8, and PERSON10 are going to ask for a 2 or 3-month extension of the project.
+- They will have a discussion on the IWSLT on June 8th and ask for the extension before June 15th.
+- The deadline for the recorded, demo is the 17th of June.
+- The idea is that probably PERSON8 will present with a screen sharing with his head in the corner of the slide.
+- A number of doodle pools is to come, for the, for offering slots to the project officer for the demo and for dry run sessions.
+
+
+Minuted by: Team Synapse

@@ -1,0 +1,62 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON2, PERSON6, PERSON7
+
+
+SUMMARY
+- PERSON6 explains to PERSON7 how the ORGANIZATION2 link works.
+- They can use it for all their coffee meetings.
+- The output of the link is manually corrected minutes and manually corrected transcript.
+- PERSON6 and PERSON7 will wait for someone else to connect before they do.
+- PERSON6 and PERSON7 have problems with ORGANIZATION2.
+- They want to make it free for one hour, but they have to pay for it beginning next month or so.
+- They have the paid version of ORGNOVATION2 for their faculty.
+- PERSON6 wants to know if ORGANIZATION2 is a good option for their coffee meetings.
+- PERSON7 is not sure if it's a good idea as it's difficult to hear in the organization.
+- The annotator corrects the transcripts with bad quality and sends them to the professor.
+- PERSON6 and PERSON7 are working on the PROJECT1 minutes.
+- They are trying to create a presentation with the original minutes of PROJECT1 meetings.
+- The documents contain original agenda of the meeting, which was created by PERSON6 or PERSON3 before the meeting and partially extended during the meetings.
+- PERSON6 sends the ASR via file sender, and they send it back the manually corrected ASR.
+- PERSON7 sends it to the server.
+- It works the same, but after the team changes it, it doesn't work the same.
+- The annotators will send the data to the team via GateHub.
+- PERSON2, PERSON7 and PERSON6 want to create new teams.
+- They need another meeting with PERSON6 to discuss it.
+- PERSON7 doesn't know how to control the communication between the annotators and the technical people, so she prefers sending the data manually.
+- PERSON6, PERSON7, PERSON2 and PERSON6 will not do the team for the moment.
+- PERSON7 would prefer to have the contact with annotators, but he would rather use the alignments.
+- PERSON6 wants to know why they need the alignment.
+- PERSON6 and PERSON7 need to come up with a measure for alignment in evaluation within the first week of November.
+- They have some experience with other tasks where such alignment helped and they have the intuition based on some experiments with other data, that it would help.
+- PERSON6, PERSON7, PERSON4, PERSON2 and PERSON6 are discussing a problem with summarising a shared task.
+- They need to come up with a manual evaluation measure, before the shared task, to make sure it's good quality.
+- There are many automatic measures for summarisation, but none of them works as PERSON4 realised.
+- PERSON2 wrote a protocol for the evaluation of the meeting.
+- The protocol is based on the most common and easy way to do it.
+- If they don't come up with the alignment based manual evaluation measure, they will go with the other energy task entries.
+- PERSON2 and PERSON7 want to use alignment annotation for summarisation, but they have little time and probably they don't have to prepare this alignments.
+- In this case, they follow variant B, which is using human evaluation like readibility and so on, not using the alignment.
+- PERSON6 wants the proposal for variant B to be very strong.
+- PERSON7 wants to discuss the format of the basic sample trial before PERSON1 appears and discuss it with him.
+- PERSON2 explains the data format: the first section is meta-data, the second and third are crossed in the summary and the bullets are left out.
+- PERSON7 and PERSON2 are going to change the data storage from Sorbow to GateHub repository.
+- They are centralizing it and making server as one of mocking versions of GateHub.
+- PERSON2 will have to rename the folder structure when they do it.
+- PERSON7 needs to rename all the names in the GateHub cluster before pushing to GateHub.
+- For each annotator, the name has to be changed form ANNOTATOR2 to ANNOTator2 before pushing.
+- The full names of the annotators have to be recorded in the list.
+- PERSON7, PERSON2, PERSON6 and PERSON2 will meet today in person to discuss renaming the files.
+- They will also have a meeting tomorrow morning in the morning to discuss the team that he's proposing and some other things that they disagree on.
+- PERSON2, PERSON7 and PERSON6 are going to repeat the meeting today.
+- They need to wait for PERSON1 to create an annotation tool for a new idea.
+- PERSON4 needs to install ORGANIZATION2 again.
+- He needs a password to his lock.
+- PENPERSON6 sends the password to the lock to PERSON4.
+- The meeting didn't finish today.
+- PERSON7 wants to return to him, but he wants to keep going.
+- He is not willing to do that, so he will have to go back to him.
+- He will go back when he feels he is ready to do so.
+- He has to go now.
+
+
+Minuted by: Team Synapse

@@ -1,0 +1,26 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON4, PERSON5, PERSON6, PERSON7, PERSON9
+
+
+SUMMARY
+- PERSON9 will do some probing on transformer networks.
+- PERSON5 explains to PERSON7 how to prepare a paper on attention and compution scores and how to do the tactogrammar.
+- PERSON7 wants to have a skype call with the people in LOCATION1 in two weeks.
+- PERSON1 explains to PERSON7 and PERSON9 the structure of their training on syntactic corelations.
+- They discuss the differences between the different types of balustrades.
+- PERSON1 is in LOCATION2 until the 15th December.
+- PERSON7 will be taken in the beginning of December.
+- PERSON5 would like to write a master thesis.
+- PERSON6 will add PERSON5 to their doctor Who group.
+- PERSON7 will put PERSON3 in seminar.
+- PERSON5 is reworking the manual hewit paper.
+- PERSON9, PERSON5 and PERSON6 are working on a project.
+- They are trying to solve a difficult problem involving a Transformer and a yellow paper.
+- PERSON5 is working on his master thesis.
+- He will present it tomorrow.
+- He was supposed to present it on 8th of December, but he will be back in December for 2 weeks after New Year's.
+- PERSON9 has to prepare a paper for at least one month.
+- PERSON6 and PERSON5 will have some experiments.
+
+
+Minuted by: Team Synapse

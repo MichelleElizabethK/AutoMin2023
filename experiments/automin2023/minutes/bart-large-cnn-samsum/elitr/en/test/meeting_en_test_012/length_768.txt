@@ -1,0 +1,65 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON12, PERSON19, PERSON20, PERSON3, PERSON9
+
+
+SUMMARY
+- PERSON12 and PERSON20 are going to LOCATION1 to meet up.
+- The winter is coming and the pandemic is rising in the Czech Republic.
+- In India there are almost one hundred thousand new cases per day.
+- The situation in India is very bad.
+- People don't report because they are afraid of panics.
+- There was a marriage that was supposed to be scheduled and the groom died.
+- PERSON9 wants to change the names of the proper nouns in English and Czech meetings.
+- He wants to use a named entity recognition model for English meetings and a different model for Czech ones.
+- He asks PERSON12 for his opinion on the matter.
+- He also wants to talk about consents.
+- PERSON9 and PERSON12 have problems with named entity recognition.
+- They need manual annotation to remove some of the words from the document.
+- They also need to change the name of the speaker to a different type of bracket to make it easier for summarizing the data.
+- PERSON9 and PERSON12 are going to change the way the transcripts are written.
+- They want to replace some words with their real names.
+- The only thing that could be kept is PERSON3, because he is talking about 80% of the meeting.
+- He is mostly marked as "PERSON3".
+- PERSON9 and PERSON12 are sharing their screen.
+- They are trying to figure out if the words that end with dash should be removed from the transcript or removed from their proper nouns.
+- They also need to check if the word didn't finish and if it appeals no information.
+- PERSON9 and PERSON12 are struggling with the grey cases for named entities under GDPR.
+- They are going to use a two-step manual identification.
+- They will use a list with a list of the words and their context, and a token-by-token list with the context.
+- PERSON3, PERSON9 and PERSON12 agree on the two-step manual annotation.
+- PERSON3 proposes to assign annotators to annotate the RNNs that are clearly not named entities and to replace them with a special token in the data with the named entity ID.
+- PERSON3, PERSON9, PERSON20 and PERSON12 are going to create a list of named entities.
+- They will use the system of name tag.
+- PERSON9 asks about Czech and named entity recognition.
+- PERSON3 shares the link to the latest version of ORGANIZATION1 with PERSON12.
+- PERSON3, PERSON12 and PERSON9 are going to create a list of the months, years and names.
+- They will send the list to the annotators.
+- The list should be processed through copy paste thing by name tag.
+- It will immediately label the names for them.
+- PERSON9 will use named entity recognition for Czech meetings and for English meetings.
+- The interface for the annotators will be as simple as possible so that next time they do the same thing, the annotation is So you don't touch these anymore.
+- PERSON9 and PERSON3 are discussing how to label the unique words in the corpus.
+- They discuss the issue of annotating the names based on the level of the word type and the question mark used to indicate them as a suspicious word or as a proper noun.
+- PERSON9, PERSON3 and PERSON12 have less than a minute to prepare the transcript diarizations.
+- They need to provide a table for the speakers, map them to specific names, use abbreviation for that name and use angle brackets to unify all of them.
+- PERSON3 explains how to preserve the full name like PERSON10 on line one of the transcript.
+- The hash include should be a hash so that you cannot reverse the value.
+- The annotator should know only at the at the token level, not at the type level.
+- If you use MT five sum, it's okay to use python hashing.
+- PERSON3 wants to limit PERSON15's involvement in the minuting and the tool for that, because he is starting his Phd.
+- on speech recognition.
+- He wants him to transfer the tool to PERSON20 probably, so that PERSON20 would be the technical support person who would do the changes.
+- PERSON3 is making good progress with the anonymization.
+- He talked to PERSON19 today about the mock annotation.
+- Two people will do a test evauation of the summaries.
+- Everyone will take notes and write down what was the most problematic thing.
+- They will read the transcripts and produce summaries, the minutes and then the evaluators will evaluate them using the procedure the manual procedure.
+- PERSON12, PERSON19 and PERSON20 are going to create minutes for one hour long meetings.
+- They need to devolve the roles and choose the number of meetings and send them the minutes.
+- PERSON8 has already prepared some evaluation form and they will discuss it and evaluate them.
+- PERSON12, PERSON19 and PERSON20 will annotate and then evaluate one-hour-long meetings.
+- The annotator needs a week to prepare a transcript and a minu for one meeting and a week for one-minute-long one-on-one with the annotator.
+- PERSON3 is in the office now.
+
+
+Minuted by: Team Synapse

@@ -1,0 +1,34 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON12, PERSON19, PERSON20, PERSON3, PERSON9
+
+
+SUMMARY
+- PERSON20 and PERSON12 are talking about the pandemic in India and the situation in Czech Republic.
+- There are almost one hundred thousand new cases per day.
+- People don't report their deaths because they are afraid of panics.
+- PERSON9 wants to know if it's possible to change the names of English and Czech meetings to their proper names.
+- PERSON12 thinks it should be possible.
+- PERSON9 and PERSON12 discuss how to organize the speakers' names in the transcript.
+- PERSON12 will send the link to the meeting to PERSON3.
+- PERSON9 wants to make changes to the transcript.
+- PERSON3, PERSON12, PERSON9 and PERSON18 agree that all named entities should be located automatically.
+- They also agree on two step manual identification.
+- PERSON9 and PERSON12 discuss the organization's procedures for annotating transcripts.
+- They agree that the names of geographical entities should be clearly defined and the country names should be replaced with another country.
+- PERSON3, PERSON12 and PERSON9 discuss the implementation of the name tag system.
+- They agree that the system of abbreviation of named tag is fine grained, but it's not precise enough.
+- In the first phase of the project, the name tag will pre-annotate this list.
+- If it's a person's name, it will automatically make all occurrences of this in the data as the confirmed anonymized name and all these occurrences will be automatically confirmed in the training data.
+- PERSON3 explains to PERSON9 and PERSON12 how to annotate a transcript.
+- They discuss how to map the names of speakers to their proper names and how to anonymize them.
+- PERSON3 explains to PERSON9 how to preserve the full name of a person in an anonymized version of the transcript.
+- PERSON15 is starting his Phd.
+- He is in Slovakia and working there.
+- PERSON3 wants him to limit his involvement in the minuting and the tool for that.
+- PERSON20 will be the technical support person for the tool.
+- PERSON19 and PERSON9 will do the test annotation PERSON19 explains to PERSON12 and PERSON20 how they should divide themselves into two groups, one for annotators and one for evaluators, who will take twenty twenty-minute meetings and annotate them, and the rest for summarizers who will imitate the evaluation part.
+- PERSON19, PERSON12 and PERSON20 are going to annotate one hundred and twenty one-minute-long transcripts for the annotator.
+- The annotator needs a week to prepare a transcript and a minu nad minutes for one meeting, and a week for one
+
+
+Minuted by: Team Synapse

@@ -1,0 +1,54 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON14, PERSON17, PERSON28, PERSON5, PERSON6
+
+
+SUMMARY
+- PERSON14 submitted the paper to PROJECT5 and wrote an article in the journal.
+- The group hasn't read their book for the last week.
+- PERSON6, PERSON5, PERSON14, PERSON17 and PERSON10 are working on their papers.
+- PERSON6 is still missing the introduction, but the rest of the book or chapters should be ready for comments.
+- PERSON5, PERSON27, PERSON6 and PERSON14 are writing a book on historical research.
+- They have to prepare the manuscript for a doubleblind review and then comment on it.
+- PERSON17 and PERSON14 think it's wrong to present your own papers as if they were someone else's.
+- PERSON6 thinks it's better to present hers as if it were her own paper.
+- In the multilinguality paper, they claim that the evaluation of the mult PERSON17, PERSON14 and PERSON6 agree that the citation and the reference should be there.
+- They also agree that they should write the book first.
+- PERSON14, PERSON17 and PERSON5 discuss the Neural Language Modeling Project.
+- They agree that the section about the neural language models should be merged to the previous chapter or deleted.
+- PERSON6 wants to use PCA and other quantitative methods to identify the gender biass component.
+- PERSON5 doesn't want to use them.
+- PERSON17 doesn't know the difference between unsupervised and supervised probing.
+- PERSON17 wants to add a section after the unsupervised methods entitled "Hidden states only" to the file "Interpretation".
+- He has notes from the tutorials entitled "Behaviour" and "Interaction".
+- The tutorial is almost 3 hours long.
+- PERSON17 explains to PERSON5 and PERSON6 the interactive visualisation they can share.
+- PERSON17, PERSON6 and PERSON14 discuss the differences between unsupervised methods of learning and supervised methods.
+- They also discuss the difference between the two.
+- PERSON6, PERSON14 and PERSON17 are going to write comments on comments for the virtual task they are working on.
+- PERSON5 and PERSON17 are arguing about the meaning of interpretation in machine learning and NLP.
+- PERSON17, PERSON6 and PERSON14 are discussing the structure of the book they are discussing.
+- PERSON6, PERSON17 and PERSON14 discuss the structure of the book they are reading.
+- They agree that there should be two parts, one of which should be called summary and the other conclusion.
+- They also agree that the limit for pages is 50 and there are almost 150 PERSON6, PERSON14 and PERSON17 are discussing the structure of the book they are discussing.
+- The book has a summary but it does not have a summary index.
+- It has a glossary but it is not numbered.
+- PERSON6, PERSON14 and PERSON17 are working on a project.
+- They need to make changes to their chapters.
+- PERSON6 will check the list of figures and add or remove some.
+- PERSON14, PERSON17 and PERSON6 are meeting on Tuesdays.
+- The next meeting is on July 21st.
+- They have promised to do all the things they have promised.
+- They can't write the report at home because they have to sit at home and comment on the PERSON14 wants to participate in the book discussion on the 21st of July at 11.
+- She wants to have it finished before the 28th of July.
+- She needs to find the reviewers.
+- She will ask doctor PERSON4 from LOCATION2.
+- PERSON14 is an assistant professor.
+- There are four professors in the group: PERSON12, PERSON13, PERSON14, PERSON17 and PERSON26.
+- They are all professors.
+- PERSON24 was invited to a meeting at 2 pm today.
+- PERSON14, PERSON6 and PERSON17 are looking for a reviewer to read the book and write a review.
+- PERSON17 wants to write a book.
+- PERSON14 would like to see many comments there.
+
+
+Minuted by: Team Synapse

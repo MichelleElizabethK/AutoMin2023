@@ -1,0 +1,52 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON11, PERSON3, PERSON5, PERSON6, PERSON8
+
+
+SUMMARY
+- PERSON3, PERSON8, PERSON6, PERSON11, PERSON5, and PERSON6 are going to talk about the PROJECT3.
+- They will start with PROJECT5.
+- PERSON6 is preparing the paper for PROJECT1.
+- There will be no big paper with ORGANIZATION7.
+- PERSON6, PERSON3, PERSON5, PERSON11 and PERSON8 are running an experiment.
+- Only two people finished the project.
+- They decided to focus on organizing the ideas and writing a paper.
+- The ORGANIZATION6 deadline has been moved to 7th October.
+- PERSON3 sends a link to the ORGANIZONATION1 Calendar to help PERSON11 prepare for the conference.
+- PERSON8 needs to access the data set that has multip multi-reference.
+- It's November the deadline for ORGANIZATION6, which is North American.
+- PERSON5 will send a data set of Czech reference translations to PERSON8.
+- The data set is made up of 50 source English source sentences with as many references as people could come up with.
+- There are also evaluations from PROJECT6, where the German was translated directly into Czech.
+- PERSON3, PERSON5, PERSON8 and PERSON11 are discussing the weekly meetings for the task 3.4.
+- PERSON5 is going to dig out the data sets for PERSON8.
+- The daily reports and calls for PROJECT7 are going to stay as they are.
+- PERSON3 will talk to PERSON11 about the progress of the experiment with ORGANIZATION3 later this week.
+- PERSON5 had a meeting with PERSON10, PERSON7, PERSON1 and PERSON1's colleagues on Friday.
+- They are looking for translators to do the post-editing, and the overall budget available is lower than they were hoping for, but they will come up with some number of translators and estimate the total number of sentences they can edit.
+- PERSON6 will write a proposal on how to divide the documents into s into the annotation like recipes again.
+- PERSON5, PERSON6 and PERSON3 are waiting for the ORGANIZATION7 to confirm the number of unique people and the funding for the experiment.
+- They are also waiting for them to tell them if they can afford it.
+- They don't have any native English speakers on their faculty.
+- They will use foreigners that speak English not natively for the 2B experiment.
+- PERSON4 is taking care of the project and he's leaving the project.
+- The advertisement for the PROJECT3 wasn't available last week.
+- The website advert for the project is old, but the issue is that they already agreed to do the writing and so on.
+- PERSON6 wants to write a paper on PROJECT3, but there are already ten people working on it, so he doesn't know what to write into the paper.
+- The project is still not ready, because many people started to do experiments on GPUs, so it's slowed down.
+- PERSON11 will have all the data translated in 2-3 days.
+- The AC ORGANIZATION6 deadline has been shifted to October 7th, so there is still time to finish it.
+- PERSON2's contribution is still lower.
+- He will be leaving for ORGANIZATION7 next week.
+- The web page for the call for demos in ORGANIZATION6 is still empty.
+- PERSON5 wants to use PROJECT4 demo p submission for PROJECT3, but doesn't know the deadline yet.
+- PERSON11 wants to make a shorter version of the PROJECT1 paper.
+- PERSON3 thinks the demonstration should focus more on the framework and less on the experiment results.
+- PERSON11 and PERSON3 are dissatisfied with the recruitment of new employees for PROJECT4.
+- They would like to have a piece of their work published.
+- They are looking for native English speakers, but they need someone who doesn't know any Czech, Estonian or Slovakian.
+- PERSON11 has emailed PERSON12.
+- PERSON5, PERSON3, PERSON11, PERSON8 and PERSON3 will see each other in a week and thank each other for their good wishes and good luck wishes.
+- They are all going to meet in a few days.
+
+
+Minuted by: Team Synapse

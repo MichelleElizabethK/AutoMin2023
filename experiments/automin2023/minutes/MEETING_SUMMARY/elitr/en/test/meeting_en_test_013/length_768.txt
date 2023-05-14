@@ -1,0 +1,27 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON14, PERSON15, PERSON4, PERSON8, PERSON9
+
+
+SUMMARY
+- PERSON8 is going to work.
+- PERSON14 is watching a lecture on PROJECT2 ORGANIZATION5.
+- The lecture has already been live streamed.
+- PERSON9 wants to test the script first.
+- PERSON8 asks PERSON14 to get the input files for the evaluation.
+- PERSON14 is processing audio files.
+- He needs to create a support director for them.
+- PERSON8 explains to PERSON14 how to version the files.
+- PERSON15 is still on the call.
+- PERSON8 asks PERSON4 to synchronize with PERSON14 on the on the audible SLT test set and depth set forced alignment files.
+- The OSTP files are what the SLTF should be, and the ASS files are the subtitles for preview.
+- The WAV files should be PERSON8 asks PERSON4 to prepare all the lines, all the English lines until 16.
+- PERSON4 will do it tomorrow.
+- PERSON14 created AAS file using a software OTHER.
+- PERSON9 is finishing the paper about subtitler for the deadline of 25th.
+- PERSON14 is working on 3 languages Polish, Polish, German and Russian.
+- PERSON15 is preparing WSLT for the Antrecorp test.
+- PERSON4 hasn't seen Antrecorp yet.
+- PERSON14 will send him the files he needs and he will create a script for it.
+
+
+Minuted by: Team Synapse

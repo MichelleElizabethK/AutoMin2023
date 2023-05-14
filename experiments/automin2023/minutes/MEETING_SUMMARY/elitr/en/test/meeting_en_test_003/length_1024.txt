@@ -1,0 +1,24 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON12, PERSON4, PERSON6, PERSON8
+
+
+SUMMARY
+- PERSON8, PERSON12, PERSON7 and PERSON10 are on a call.
+- They are discussing the development of a translation system.
+- There are two timestamps for the presentation: the beginning and the end of the sentence.
+- There is a textfield content that can be updated several times as an update.
+- The history of the textfield can be scrollied up or down depending on the timestamp.
+- The first prototype should be ready at the 15th of June.
+- ORGANIZATION3 will prepare an image and ORGANIZATION4 will try to get that running.
+- ORGANIZATION2 is still in implementation.
+- ORGANIZATION3 has enough workers to provide 16 workers.
+- ORGANIZATION4 has too many workers, so PERSON11 PERSON8, PERSON3, PERSON5, PERSON6 and PERSON4 discuss the organization of the workshop.
+- PERSON8 suggests to set up a backup of the ASR workers.
+- PERSON11 suggests to create a script that will replicate the problem with offline ASR.
+- PERSON4 will resend the email.
+- The text client is the same ebclient as in the sample.
+- PERSON11 is responsible for MT clients on PERSON8's side.
+- There are up to four calls per week and there is a workshop every Friday.
+
+
+Minuted by: Team Synapse

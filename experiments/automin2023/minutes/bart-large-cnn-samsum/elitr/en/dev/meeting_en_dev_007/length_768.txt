@@ -1,0 +1,40 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON2, PERSON3, PERSON5
+
+
+SUMMARY
+- PERSON1 will send the ORGANIZATION1 data set by the end of the week.
+- The data deadline is November 30th.
+- The proposal should look good with all the all the components.
+- Today they will discuss the annotations and the alignment tool by PERSON6.
+- The fast shared task should be as simple as possible.
+- PERSON1 and PERSON2 want to create an alignment tool for the shared task.
+- They want to get manual and automatic evaluation metrics for the tool.
+- They also want to use the data set the alignment tool gated accepted by the community.
+- PERSON2 wants to evaluate some meetings based on the based on automatic metrics.
+- PERSON1 and PERSON2 are going to work on the annotators project together.
+- They need to prepare the data in the form like PROJECT1 meetings minutes and align the transcripts and minutes with the trasncripts before the end of November.
+- PERSON2 needs someone to help him organize the project.
+- PERSON1 wants to transfer a task to PERSON5 after the end of November.
+- PERSON2 wants to wait until December.
+- PERSON5 was also working on integrating something into the tool and she knows how to do it.
+- PERSON1 and PERSON2 need to discuss how to use the tool.
+- PERSON1 and PERSON4 want to start the alignment thing with their annotators soon.
+- They want to create a structured transkript into pieces where one line of summary corresponds to a piece of transcripts.
+- PERSON2 doesn't know if it's a good idea to include the evaluation part of the shared task.
+- PERSON2 wants to transfer the data to PERSON5.
+- She wants to discuss the technical details of the project with PERSON5 and Thirtankar.
+- They will discuss it on Friday and start on Monday.
+- PERSON1 is worried about the ORGANIZATION1 corpus creation.
+- PERSON2 wants to start the annotating work as soon as possible.
+- He needs to create a double summarize for meetings that are already minuted.
+- He will start with imaging center of the shore.
+- By the end of the week, he will have answers to all of this to connect to the annotators and session with annotators.
+- PERSON1 has a lot of work to do.
+- He needs help with ORGANIZATION1 data and a tool for an annotators tool.
+- The deadline is the end of the week.
+- PERSON5 will help him with that.
+- PERSON2 is looking forward to seeing the ORGANization1 data.
+
+
+Minuted by: Team Synapse

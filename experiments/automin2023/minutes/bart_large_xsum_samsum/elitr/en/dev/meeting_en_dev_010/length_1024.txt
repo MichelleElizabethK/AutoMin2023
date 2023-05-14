@@ -1,0 +1,36 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON10, PERSON12, PERSON14, PERSON17, PERSON19, PERSON20, PERSON22, PERSON3, PERSON4, PERSON8, PERSON9
+
+
+SUMMARY
+- PERSON10, PERSON12 and PERSON14 are discussing organization of the IWSLT presentations.
+- PERSON14, PERSON10 and PERSON16 have to organize workshop workshops sessions of 1 or each 1 evaluation.
+- The deadline was already 3 days ago.
+- The review will be postponed till September.
+- PERSON10 and PERSON20 are going to prepare the financial tables for the official submission in September.
+- They want to have the final versions of the reports in mid July or late July.
+- They will send the reports to their respective financial departments.
+- PERSON10, PERSON14, PERSON20 and PERSON4 are working on a report about the workshop that didn't take place.
+- They need more input in the scientific dissemination part of the report.
+- PERSON10, PERSON19 and PERSON22 didn't put their papers into the table.
+- They need to put them into the Biblio, which is their bibliographical system.
+- PERSON21 has put the paper is here, and PERSON6 has is putting the I PERSON10 will review the report on NLP technologies workshop.
+- The workshop is from 30th of May to the 3rd of June 2021 and the workshop itself will be on the 1st of June.
+- The deadline for the deliverables is on the last of June, at the latest PERSON10, PERSON3, PERSON20 and PERSON22 are going to have a demo in the second half of June.
+- PERSON15 will prepare an internal pole with a large number of dates, so that they can email the options to the project officer.
+- PERSON3 will PERSON19, PERSON10, PERSON17 and PERSON4 are discussing how to package their systems and get them to run in a docker-friendly environment.
+- PERSON9 asks PERSON10 and PERSON19 for help with setting up a production system and a development system before the demo.
+- PERSON4's submission to IWSLT is text based.
+- The system is tested under research conditions only.
+- It is not ready for this demo.
+- PERSON10 wants to start regular testing of the systems integrated in the pipeline, so that they are starting a pipeline.
+- He wants to separate the diploid versions of the modules.
+- For the demo and research, they will have frozen fingerprints and for the research, there will be also PERSON10, PERSON19 and PERSON22 are working on a project.
+- They need to present the videos twice, once with the devset chosen system and the second time with the test set chosen system.
+- They will have a number of demo, dry run sessions and the date for PERSON10, PERSON14, PERSON19, PERSON3, PERSON8 and PERSON8 are going to ask for 2 or 3 months extension of the project.
+- They will have a technical call on the IWSLT, results.
+- The deadline for the recorded, demo is the 17th of June.
+- In one of the dry run sessions, they will record what they are delivering and include it in the IWSLT, presentation.
+
+
+Minuted by: Team Synapse

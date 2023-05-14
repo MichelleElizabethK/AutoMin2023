@@ -1,0 +1,27 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON11, PERSON12, PERSON14, PERSON17, PERSON2, PERSON5, PERSON7
+
+
+SUMMARY
+- PERSON14, PERSON8, PERSON2, PERSON7, PERSON9 and PERSON1 are in a meeting.
+- They are trying to record the call to see if they are able to summarize it automatically.
+- PERSON9 will give her presentation on PROJECT2 on the Monday seminar on the On Wednesday of the 12th of February there will be a dry run of the NLP workshop.
+- The final workshop will be held in English.
+- The students' firm fair is taking place on the 17th and 18th February.
+- The participants will be non-native speakers of English.
+- PERSON11 and PERSON14 are working on a profanity filter.
+- The idea is to train empty systems on corpora which are refind to contain only higher frequency words.
+- PERSON14 and PERSON10 are working on the paper for exceptement.
+- PERSON17 has finished evaluation framework and it's ready but he needs complete files to test it.
+- PERSON2 is on the call.
+- PERSON7 has been working on the adaptation of czech ASR for PERSON4 talk that took place yesterday.
+- He was happy with the results.
+- He is preparing the next version of the ASR system that should be trained on even more data.
+- He has a problem with sound segment PERSON11 is coming back to back to LOCATION5 on the weekend.
+- PERSON8 has already worked on the project last june and he was helping to put all the byplan together and TEE was cashing its output.
+- PERSON14 wants to know if there is code for that is available as code.
+- PERSON5 is from LOCATION4, but is not from Kos.
+- She will try to come to LOCATION5 for one week after her exams period ends.
+
+
+Minuted by: Team Synapse

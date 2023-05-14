@@ -1,0 +1,37 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON4, PERSON5, PERSON6, PERSON7, PERSON9
+
+
+SUMMARY
+- PERSON9, PERSON4, PERSON6, PERSON5, and PERSON7 are trying to talk to each other on the phone, but only one of them can hear them.
+- PERSON5 wants to do some probing on transformer networks.
+- PERSON7 wants to probe on projects PROJECT5, PROJECT8, OTHER8 or GPT tool.
+- PERSON5 suggests to use the ORGANIZATION1 and to use SL the word the read the context word and PERSON5 explains to PERSON7 how the paper works.
+- The paper is about automatic dependencies and the stuff I don't know of the freement.
+- PERSON7 is going to help PERSON5 and PERSON1 prepare for a collaboration.
+- They want to come to LOCATION1 for two weeks and collaborate on something with the people in LOCATION3.
+- They need to create an organized call with the leader here.
+- PERSON1, PERSON7 and PERSON10 are studying attention matrices.
+- PERSON1 explains to PERSON7 the structure of the syntactic tree.
+- PERSON9, PERSON7 and PERSON1 are doing experiments on ORGANIZATION3 translation.
+- They are trying to generate something similar to balustrades.
+- The results are different depending on the settings of the transformer.
+- PERSON1 is in LOCATION2 until the 15th December.
+- PERSON7 will be taken in the beginning of December.
+- PERSON5 will send the paper with the links to the tactogrammatic and the treebank to PERSON7 and PERSON5.
+- They will see each other in 14 days.
+- PERSON5 is working on the manual hewit paper.
+- He will try the experiment tactogrammer and OTHER10s.
+- He wants to get the semantic score.
+- People who don't have access to the project will get invitation e-mail to join.
+- PERSON5, PERSON6 and PERSON9 are working on a project.
+- They are trying to solve a connection problem between PROJECT5 and PROJECT4.
+- PERSON9, PERSON1 and PERSON5 are trying to solve the translation problem.
+- Transformer trained for machine translation would be more syntactic and PROJECT5 less syntactic.
+- PERSON9 wants to set up some meetings with model one-on-one with PERSON2 like model one on one in order to prepare his master thesis.
+- PERSON9 and PERSON2 will send the paper to the dean.
+- They will also send it to PERSON6 and PERSON4.
+- They need at least one month to prepare it.
+
+
+Minuted by: Team Synapse

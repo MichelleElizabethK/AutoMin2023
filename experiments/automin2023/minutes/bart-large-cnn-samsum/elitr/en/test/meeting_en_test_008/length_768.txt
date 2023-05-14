@@ -1,0 +1,34 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON5, PERSON7, PERSON8
+
+
+SUMMARY
+- PERSON5, PERSON7 and PERSON8 are discussing how to implement the negotation.
+- PERSON8 prepared some crieteria, so the guidelines for the evaluation, but they are not fully ready yet, so they will share them with the rest of the group.
+- PERSON7 managed to upload the ORGANIZATION3 sources and made the alignment script, but he doesn't understand how to collect the minutes.
+- PERSON5, PERSON7 and PERSON6 are looking for the minutes of a meeting from 2011.
+- They are in the ORGANIZATION3 website within the corpus created for machine translation purposes.
+- On the agenda, they have shown a snapshot of the interface which they have done for the annotation tool.
+- PERSON5 is sharing his screen with PERSON8.
+- They are discussing the fact-based content weighting and the evaluation session collection.
+- They discuss the implementation details of the web application for the user rating and the summary based system which is different from the one in the paper.
+- PERSON5 and PERSON7 want to create a web-based evaluation system for a shared task.
+- They want to use it to help annotators with the summarisation of a paper from 2020 September.
+- PERSON5 will create the airdraft and send it to PERSON8.
+- PERSON7, PERSON8 and PERSON5 want to build an interface for their shared task.
+- They want to use a rating scale to help annotate the training data.
+- PERSON8 will send a draft to the group and they will discuss how to add constant values in the equation.
+- PERSON5, PERSON7 and PERSON8 will all annotate a single minute and they will all judge it.
+- They will get transcripts and two different minutes and judge them.
+- They are not going ahead with the alignment thing.
+- PERSON7 wants to keep everything as simple as possible for the first task.
+- PERSON7 and PERSON5 will draft a draft for the 6 years of the Europarl.
+- They will use the europarl data with the transcript and the minutes to create a data set of all the meetings from the EuroParl.
+- If they can align minutes and transcripts automatically, it will not be a big difference to make more data from the years.
+- PERSON5, PERSON7 and PERSON8 have to find the minutes for each transcript.
+- They are going to finish it for today.
+- PERSON8 will send the automatic evaluation and they will discuss it offline.
+- He will link the implementation he's done on the cluster in 5 minutes.
+
+
+Minuted by: Team Synapse

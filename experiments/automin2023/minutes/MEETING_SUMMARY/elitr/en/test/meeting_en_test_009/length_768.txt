@@ -1,0 +1,41 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON10, PERSON2, PERSON3, PERSON6, PERSON7, PERSON9
+
+
+SUMMARY
+- PERSON1 is waiting for PERSON13 to join the call.
+- The authentication fees have been reintroduced so that only people participating in the event are allowed subtitles.
+- The presentation platform now requires password.
+- There is only one administration user at the moment.
+- Organizer3 doesn't have anyone from PERSON9 will share the screen where the launch of ten workers at the same time.
+- PERSON9 is going to test the ASR workers.
+- There are six of them.
+- Three of them crashed.
+- PERSON1, PERSON9, PERSON2, PERSON3, PERSON4, PERSON5 and PERSON6 are working on an audio-assistant listening system (ASR) for organiser.
+- Organizer12 is away on holiday, so they need someone to implement the C code PERSON1, PERSON9 and PERSON5 are trying to set up a platform to stream slides, but it's not working.
+- They are also having problems with the authentication in the presentation platform.
+- PERSON6 and PERSON1 are trying to set up a presentation platform for an event.
+- They are using the real ORGANIZATION2 presentation platform and the subtitles are coming from the Internet while the stream is only copied locally.
+- PERSON6 can run the exact configuration on the local network PERSON1 has sent the contact details for PERSON14 to the chat.
+- The release also implementing the feature, which will allows to select the source stream, but on Friday there were problems with debugging.
+- It will be impossible at the moment to describe which English is coming from which microphone at PERSON1, PERSON10 and PERSON5 are preparing the platform for delivering subtitles to interpreters booth.
+- They are also preparing the ASR workers and streaming the slides from the presentation notebook into the local network.
+- On Wednesday PERSON5 and PERSON9 will be travelling and PERSON10 will be PERSON10 and PERSON1 discuss a presentation platform's implementation of ASR.
+- PERSON10, PERSON1, PERSON12 and PERSON9 are going to test the machine translation this afternoon.
+- PERSON9 and PERSON1 are running a test with English as the preferred language.
+- There is a delay in the information about availability of two workers.
+- There are empty workers in the pipelines.
+- PERSON1, PERSON9, PERSON12, PERSON13 and PERSON11 were on the pexip call.
+- PERSON1 expects to be translating mainly from English.
+- There are problems with the non multiplexing in the mediator and the unreliability of ASR workers.
+- PERSON3 PERSON3 is trying to create a website for you over the internet, but he doesn't know how to do it.
+- He has no experience in coding in any web server package, he's looking at the logs but can't see easily from the logs where were the session IDs are PERSON1 wants to know how to deal with the problem of restarting all the ASR and segmentation workers at once instead of doing it several times a day or even every week.
+- PERSON1 wants PERSON11 to recompile a worker.
+- It will speed up the restarts.
+- PERSON3 has not tried recompiling.
+- PERSON1 and PERSON3 are trying to connect to each other via SSH but it's not working.
+- PERSON1 needs to prepare a script.
+- If it doesn't work, they will keep testing everything.
+
+
+Minuted by: Team Synapse

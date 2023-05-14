@@ -1,0 +1,35 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON12, PERSON13, PERSON14, PERSON5, PERSON7
+
+
+SUMMARY
+- PERSON13 is back to work after the New Year holidays.
+- She is staying in Mannheim in a private apartment.
+- The electricity is back.
+- She got it one and half or two months ago.
+- PERSON12 is going to the PROJECT6 tomorrow for a technical meeting.
+- The second part of the project will be online, pre-recorded and interleaved with a real live discussion.
+- PERSON14 will be available as a back-up person in case of sickness or something.
+- PERSON7 will prepare simple HTML tables that will be auto generated and put them on the web.
+- She will create a conversion from the tables into HTML and put it on her webpage.
+- PERSON7 asks PERSON12 to prepare a manual translation dictionary for PROJECT13 domain.
+- PERSON7 has a test tomorrow.
+- They need to improve their segmenter.
+- They also need to get some delay scores for some of the files from the PROJECT2.
+- They will talk about it with partners next Wednesday.
+- PERSON7 has done a lot of work towards the end of the year.
+- PERSON12 is happy with the tables that they put into the deliverables.
+- PERSON5 has finally managed to compile the data set and train the model on common voice.
+- PROJECT13 is going to be in PERSON12 asks for more datasets, common voice and links to the data.
+- PERSON5 is the only one who is training PROJECT3 system.
+- PERSON13 wants to work on a non native speech, automated system for some languages as part of her masters thesis.
+- She will work with PERSON5 on PROJECT5 PROJECT3.
+- PERSON12 is happy that they have not missed the opportunity for sunchro.
+- PERSON4 is going to replace PERSON10.
+- PERSON14 has trained a speech language identification model for Czech, German and English.
+- They are aiming for the end of the month deadline with a subtitler PERSON12 asks PERSON14 to write down in the briefing summary what is needed for a two second window.
+- PERSON12 and PERSON7 discuss the differences between a multilingual model and a direct bilingual model.
+- PERSON12 will try to record her suggestion about how to use the language ID in theirs and record it in the document.
+
+
+Minuted by: Team Synapse

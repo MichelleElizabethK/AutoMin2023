@@ -1,0 +1,24 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON2, PERSON3, PERSON4
+
+
+SUMMARY
+- PERSON3, PERSON2 and PERSON3 are having a meeting today.
+- The meeting is being recorded and there is a small agenda for the call.
+- There is no overlap between Organisations6 and ORGANIZATION2 in this week, so PERSON3 will try to do PERSON1, PERSON3 and PERSON2 are working on an integration work package for the organiser of the ORGANIZATION9 congress.
+- They need to make sure that participants have some devices that can display subtitles in some form, and that each of the participants will be PERSON3 wants Organizing4 to make sure there are enough events for the main ORGANIZATION9 congress, dry-run workshops and follow-up events.
+- PERSON1, PERSON3 and PERSON2 are going to have one dry run, one main and two follow-up experiments.
+- They need to prepare a task for ORGANIZATION4 events for three years.
+- The integration work package is the one that delivers the software and the tool PERSON1 and PERSON3 are going to use the most accurate OTHER2 speech recognition system in the project.
+- They need to make it clear in the proposal and in the ASR work package that they want to use it.
+- They also need to know how many hours per speaker they need PERSON3, the organiser of the OTHER4 conference, needs to estimate the full duration of the event, three full days of dry run, and five days of main conference.
+- PERSON3 is in touch with the OTHER1 radio and they should be able to provide them with a PERSON3 and PERSON1 will prepare a proposal for the dry-run of the conference.
+- They want to get interpreters, who will be interpreting at the conference, as well as some re-speakers for the adaptations sessions.
+- PERSON1 will make a separate line for one Organization for recording and PERSON3 will copy that for themselves.
+- They have 14 days to finish the proposal.
+- They need to integrate ASR essential from multiple partners into the ORGANIZATION2's platform, so everyone is involved in there PERSON3, PERSON4 and PERSON1 discuss the design of deliverables and milestones for the project.
+- PERSON3 would like the timing of the deliverables to be in line with the work packages.
+- PERSON3 will merge the ORGANIZATION7 doc into the Overleaf.
+
+
+Minuted by: Team Synapse

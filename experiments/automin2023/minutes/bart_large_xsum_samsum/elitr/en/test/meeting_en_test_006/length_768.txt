@@ -1,0 +1,49 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON11, PERSON13, PERSON15, PERSON16, PERSON4, PERSON8
+
+
+SUMMARY
+- PERSON4 is at home.
+- The Czech Republic government has lifted the rules.
+- People can go out even if they don't need to, and they can go to the forest, if they are in the city.
+- Organisations 3, 4 and 14 can't join the call.
+- PERSON11, PERSON7, PERSON1, PERSON8 and PERSON16 will have to postpone one of their regular meetings in September.
+- They have a couple of deliverables due in June.
+- They haven't decided who will be their internal review person for any of them.
+- They need to PERSON8, PERSON13, PERSON11 and PERSON3 are writing a project management guide for ORGANIZATION3.
+- They need to cross-review what ORGANIZATION3 wrote and what they wrote.
+- ORGANIZATION3 has coordinated a number of projects.
+- ORGANIZATION1 is not keen on reading the project PERSON11, PERSON8 and PERSON1 will manage the project.
+- QT21 doesn't have the project management guides.
+- PERSON11 will write something and someone will review it.
+- The due date is the end of June, so the internal reviews should be ready by mid PERSON8 has started building the PROJECT1 test sets some time ago.
+- He wants to have them populated and described by the end of August so that they can be ready to submit as a deliverable.
+- The test sets consists of raw documents, curated to serve well, linebay PERSON8, PERSON15 and PERSON1 discuss how to organize the test sets and file lists.
+- PERSON8 is working on a tool for the evaluation of spoken language translation.
+- The SLTF is a private repository, but it is now under testing for the audible SLT share task evaluation.
+- PERSON15 has to send the source code for the translation task.
+- It's python code.
+- People can misinterpret the time stamps for the lock files and the forced alignment of the translations is not reliable.
+- People's results can be shifted in bad ways.
+- People should review the PROJECT1 PERSON8, PERSON11 and PERSON1 are talking about the costs of finding and curating.
+- The project was started when the EU still existed.
+- There are four languages represented in the project: Czech, English, English and Irish.
+- PERSON12 is still sleeping.
+- PERSON6 is finishing the overview of the audible SLT test set.
+- PERSON8 is supervising and managing the annotators for the PROJECT1 test set if PERSON12 doesn't start.
+- PERSON5 has just answered and they have also provided some feedback PERSON8 would like the project to be evaluated on humans towards the end of the project.
+- PERSON1 would like it to be done a bit earlier.
+- The project is in the middle of the middle.
+- There is a trade-off between end-to-end ASR and PERSON8 and PERSON1 are talking about ASR and MT.
+- They discuss the problems with the integration of the two.
+- PERSON13, PERSON8, PERSON4 and PERSON8 are going to have a demo on 14th May 17th.
+- Organized 5 will supervise the organization of the demo.
+- They will set up a Doodle and send it to both partners.
+- The demo will take place PERSON1, PERSON8 and PERSON15 are working on a demo for ASR.
+- The demo should include both translation and transcription and should be in both English and French.
+- They are going to test the demo in German.
+- PERSON8, PERSON4, PERSON15 and PERSON11 are going to send an e-mail to the PERSON5 towards the end of the next week.
+- Before that, they should run the demo for them.
+
+
+Minuted by: Team Synapse

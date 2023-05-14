@@ -1,0 +1,38 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON2, PERSON3, PERSON4
+
+
+SUMMARY
+- PERSON3, PERSON2 and PERSON1 are taking part in a meeting today.
+- There is a small agenda for the call today.
+- PERSON3 wants to split the budget for the project among other parties.
+- People will get their own funding for person months.
+- PERSON3 will make sure that in the project, there is no promise on speech to speech translation.
+- He will also make sure the platform produces subtitles and sends them to ORGANIZATION6.
+- PERSON3 asks for the integration work package for the presentation application development.
+- ORGANIZATION6 will not be involved in the live meetings.
+- ORGANIZATION4 should contribute to the integration task.
+- ORGANIZATION2 should develop a task for the ORGANIZATION9 congress.
+- ORGANIZATION3 wants to make sure that PERSON3 wants ORGANIZATION9 to have at least one dry-run workshop before the main ORGANIZATION9 congress and two follow-up workshops after the main congress.
+- PERSON1 and PERSON3 are going to create a task for ORGANIZATION4 events.
+- They will have one dry run, one main and then two follow-up experiments.
+- They need to plan four events in total.
+- The integration work package is the one that delivers the software and the tool PERSON1 and PERSON3 are looking for a speech recognition system for the OTHER2 language.
+- ORGANIZATION2 is active in the ASR field and provides ASR for other languages.
+- ORGANIZATION3 has a partner who has the best OTHER2 recognition system in the world.
+- ORGANIZATION4 has a PERSON3 explains to PERSON2 and PERSON2 how to prepare the budget for the re-speaker data.
+- They need to estimate the full duration of the event and how many hours per speaker they need to adapt to them.
+- PERSON3, PERSON1, PERSON3 and PERSON4 are going to prepare an adaptation model for the language.
+- The adaptation starts from an already existing acoustic model.
+- For OTHER1 and OTHER4, they need to have a baseline acoustic model to start with the adaptation.
+- For PERSON3 and PERSON1 want to collect real re-speaking sessions in order to model the voice during a real life session.
+- They also want to get hold of the interpreters, who will be interpreting at the sa ORGANIZATION9 congress, and get them for the PERSON3, PERSON1 and PERSON2 have 14 days to prepare a proposal.
+- PERSON3 wants to create some ORGANIZATION3-handled re-speakers for each of the languages.
+- PERSON1 has started checking the availability of specific hardware, especially for the re PERSON3 and PERSON1 discuss the tasks in the integration work package.
+- The tasks 6.1 is the integration of ASR essential from multiple partners into the ORGANIZATION2's platform, task 6.4 is the development of the plot of the publishing platform of the PERSON4 and PERSON3 discuss the implementation of the project milestones.
+- They discuss the differences between the deliverables and the milestones.
+- PERSON3 will do the minuting integration only in the middle of the project.
+- He will upload a Word document to ORGANIZATION7 doc and merge it into the Overleaf.
+
+
+Minuted by: Team Synapse

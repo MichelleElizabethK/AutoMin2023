@@ -1,0 +1,38 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON4, PERSON7, PERSON9
+
+
+SUMMARY
+- PERSON4 hasn't heard from PERSON2 yet.
+- PERSON1 has forwarded to PERSON4 the email that PERSON2 sent them.
+- PERSON2 was in Prague at the time.
+- PERSON4 started working in the middle of the year.
+- PERSON7 is already in Iran and is considering moving to New Delhi.
+- PERSON4 is looking for a student to work on the project.
+- PERSON2 is busy with his master thesis and has to finish it soon.
+- PERSON7's semester has already started, so she can't help.
+- PERSON4 will try to reach out to another CS student.
+- PERSON4 explains to PERSON7 that some of the words are not named entities in all the contexts, so they need to be decided by the by instances.
+- PERSON7 needs to prepare some format for the annotators to annotate them.
+- PERSON4 and PERSON9 discuss how to annotate documents.
+- PERSON4 and PERSON7 discuss how to prepare a document for the workshop.
+- PERSON4 suggests that PERSON1 should copy and paste a remark of hers into the main text of the document to prevent it being lost.
+- PERSON4 and PERSON1 discuss how to present the full documents to the annotators and how to upload them to ORGANIZATION4 Word.
+- PERSON4, PERSON7 and PERSON1 discuss how to mark non-perpetual entities that are not named.
+- PERSON9 will make the website ready within one or two hours and let PERSON4 and PERSON7 know when it's ready.
+- PERSON4 wants to submit PROJECT2 to the committee.
+- PERSON1 wants to know about the Russians.
+- PERSON9 will host the PROJECT3 in some conference.
+- The project needs to be ready by February mid.
+- PERSON9 is going to meet with PERSON1 to talk about the proposal.
+- It's snowing outside.
+- PERSON1 and PERSON9 discuss the vaccine safety and efficacy.
+- They discuss the details of the project.
+- PERSON9 will put her website on PERSON1's.
+- PERSON1 will do the same.
+- They need to submit all proposal submission stuffs by January tenth, so that they can focus on the research part.
+- PERSON4 has suggested a suggestion on the website, so PERSON4 will make PERSON9 and PERSON1 agree to skip tomorrow and keep on working.
+- They will contact each other if they need to discuss something.
+
+
+Minuted by: Team Synapse

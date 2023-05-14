@@ -1,0 +1,27 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON3, PERSON5, PERSON6, PERSON9
+
+
+SUMMARY
+- There was a live workshop dry run at the LOCATION2 on Wednesday and all the presentations went well for people who could understand OTHER3, but for those who couldn't, they got lost.
+- The technology is only working technically, so the next session with PERSON5 will be watching some There is a current layout for static slides for the Monday seminars.
+- There is one more person who just came, and he's going to leave back for LOCATION2.
+- PERSON11 is studying in ORGANIZATION3.
+- PERSON10 is studying also computer science.
+- PERSON6 is studying PERSON3 will get in touch with PERSON5 to make sure he has some files ready for the Monday talk.
+- PERSON6 will be in the mountains on the weekend, but he will be back on Sunday night.
+- He will be able to provide something on Monday morning or Sunday late night.
+- PERSON9 will send some language model data related to her talk on Monday.
+- PERSON10 worked on three different things this PERSON5 will email the scripts to test the ASR.
+- PERSON3 will train the paraphrasing model today.
+- PERSON10 wants to know if there is an open neural network exchange format.
+- There is one called PROJECT4, but it's not safe to use for purposes like paraphrasing or other use cases.
+- There are models in PROJECT5, but they are trained in a different PERSON3, PERSON10 and PERSON11 are working on a project.
+- They are collecting monolingual data in order to create synthetic parallel data.
+- PERSON8 sends the path to the source files to PERSON11 and PERSON11 will apply the models and they will get the first follow synthetic, very much in domain corpus, across these six main languages and then redo this also with all the other 30 something languages.
+- PERSON5 wants to get some LOCATION3 in domain data.
+- PERSON6 and PERSON10 want to make a Wiki page with all the data that they are using and what they plan to use.
+- PERSON3, PERSON10 and PERSON3 are on the phone.
+
+
+Minuted by: Team Synapse

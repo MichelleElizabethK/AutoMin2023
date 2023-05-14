@@ -1,0 +1,37 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON12, PERSON3, PERSON4, PERSON6, PERSON7
+
+
+SUMMARY
+- PERSON7 and PERSON12 will meet on Monday the 20th of May at 10 on a technical call to discuss the development of the presentation platform.
+- The first prototype should be ready on the 7th of June.
+- PERSON4 is going to start coding next week and he hopes to have a prototype within a couple of weeks.
+- PERSON7 is translating sentences into English, German and Czech.
+- The ASR does not close sentences at all.
+- PERSON6 and PERSON7 explain to PERSON4 and PERSON5 how the segmentation worker works.
+- PERSON7 is translating partial sentences and more sentences in one go.
+- ORGANIZATION6 needs to improve the segmentation worker so that it emits timestamps.
+- According to PERSON7, the baseline for the workshop would be to follow the segmentation worker and translate sentences like this even if it damaged the tail of the sentence.
+- PERSON4 will synchronize with PERSON3 to re-implement PROJECT4.
+- PERSON4 will train the models to be ready to accept partial sentences, even inputs that started at the middle of sentence.
+- PERSON6 will train MT and fine tune send level models to gracefully handle badly segmented PERSON6 will ask ASR people if they can send plain text files with relevant well slide.
+- PERSON3 wants to know next week if there will be any ASR adaptation to the text at PROJECT3.
+- PERSON7 wants to collect more data on the machine translation models.
+- The workshop runs in English.
+- There will be one interpretation of from English into Czech and one interpretation from Czech PERSON7 is collecting data for machine translation systems.
+- He will try to get some data from PERSON8.
+- He knows how to train PROJECT4, but it doesn't work for him.
+- The main input to the system will be the English ASR.
+- PERSON12, PERSON7, PERSON3 and PERSON6 are working on a project.
+- The project consists of German ASR, German to English machine translation, English to anything machine translation and the presentation platform at the end.
+- The presentation platform consists of ORGANIZATION6 German English PERSON3, PERSON6, PERSON7, PERSON10 and PERSON4 are planning to conduct a text to speech ASR workshop at the end of June.
+- They need to run OrganizationIZATION6 ASR on the docks, record the locks and timestamps, and then f PERSON7 wants someone from the project to come in person to see it in practice.
+- Organizing6 is running age ASR workers for English that don't emit any output.
+- PERSON12 has a question regarding the note in presentation platform the PERSON7 experiments.
+- They are to be discussed on Monday.
+- Some of the ASR clients are not working.
+- There is a risk that the worker might not be available.
+- PERSON6 reminds PERSON7 that next time they would like to make of such failure to debug thats.
+
+
+Minuted by: Team Synapse

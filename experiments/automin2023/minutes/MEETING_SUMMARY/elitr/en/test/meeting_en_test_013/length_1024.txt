@@ -1,0 +1,23 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON14, PERSON15, PERSON4, PERSON8, PERSON9
+
+
+SUMMARY
+- PERSON8 is going to work.
+- PERSON14 is watching a lecture on PROJECT2 ORGANIZATION5.
+- PERSON9 wants to run the ASR and the segmenter separately.
+- PERSON14 needs to get all the input files for the evaluation.
+- The problem is that there are not enough people on the call to process them.
+- The most up to date OST versions are in the repositor, which you do not have access to.
+- PERSON8 is preparing the files for Austrian OST and Antrecorp.
+- PERSON8 wants PERSON14 to synchronize with PERSON4 on the SLT test set and depth set forced alignment files.
+- PERSON14 should prepare OST files to OSTP and ASS files to SLTF.
+- PERSON4 is writing a case.
+- PERSON8 is preparing a path.
+- PERSON9 is writing the paper about subtitler.
+- PERSON14 is working on a caraoke.
+- PERSON8 forrest asked PERSON14 to process the Antrecorp test.
+- PERSON14 has a Python script.
+
+
+Minuted by: Team Synapse

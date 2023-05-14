@@ -1,0 +1,68 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON10, PERSON2, PERSON3, PERSON6, PERSON7, PERSON9
+
+
+SUMMARY
+- PERSON1, PERSON10 and PERSON9 are waiting for ORGANIZATION3 to join the call.
+- They need someone from ORGANIZATION3 to join them.
+- The presentation platform requires a password.
+- PERSON10 is going to create a new password for a new user.
+- PERSON1 and PERSON9 are having problems with the execution of a project.
+- They need to share the screen between workers to solve the problem.
+- The problem is that the mediator doesn't work in the correct way.
+- The log file from the EB client shows that the English ASR or English sound is being converted while a to, one of the target languages and then another line, which says the same English sound, converted to another machine translation output.
+- PERSON9 is trying to launch ASR workers, but there are not enough of them.
+- The machine translation workers seem working well, but they are not feeding them with the input.
+- The solution is to use text communication, so that the EB client would ship the audios to the mediator and get the segment output from the segmenter mediator.
+- PERSON1, PERSON9, PERSON6, PERSON7 and PERSON2 are working on a project.
+- They need to implement the C code the EB client, modified to do the multiplexing internally.
+- Organizer4 is on holiday and can't help them.
+- PERSON9 and PERSON1 are having connection issues with the presentation platform.
+- They are trying to stream the slides, but they are not working properly.
+- They need to set up a platform running locally within sol Wired Network.
+- PERSON13 will be arriving on Wednesday evening.
+- PERSON6 and PERSON14 will probably arrive at some point on Wednesday around the 16 or 17.
+- They will join PERSON1 and PERSON10 in ORGANIZATION1.
+- They are going to run the configuration on the local network.
+- The subtitles are coming from the Internet while the stream is only copied locally.
+- PERSON1 has sent the contact for PERSON14 to the chat.
+- The presentation platform is not working properly.
+- It is impossible to distinguish which English is coming from which microphone at the present platform level.
+- PERSON1 suggests to choose the preferred the English stream at the beginning.
+- PERSON1 and PERSON10 are preparing the platform for the delivery of subtitles to interpreters booths.
+- They need to prepare the X1 configuration, X1 X2, X3 and X4 this afternoon.
+- ORGANIZATION2 will add them this afternoon, ORIZATION3 will add X4 tomorrow.
+- The critical things to fix today and tomorrow are test streaming of slides and debug ASR workers.
+- PERSON10 will be travelling on Wednesday.
+- PERSON10 and PERSON1 discuss how the presentation platform should handle the partial hypothesis output of the ASR.
+- They agree that the segmentation worker should take care of this before the subtitle arrives to the publication worker.
+- The presentation platform will simply show the present instead of the full text.
+- PERSON1, PERSON10, PERSON9 and PERSON12 will meet tomorrow to discuss the solution to the problem of machine translation.
+- They will test the solution this afternoon and decide which solution they prefer.
+- They need to confirm availability for tomorrow's call on slack.
+- PERSON9, PERSON1, PERSON10 and PERSON13 are running a test with English as the top priority source language.
+- If they change the test, the subtitles will not be published at all even if there is no English available.
+- PERSON11 has a problem connecting to the pexip.
+- PERSON1, PERSON10, PERSON9, PERSON11, PERSON12 and PERSON13 are working on a project.
+- They are having problems with the non multiplexing in the mediator and the unreliability of the workers.
+- They need to restart the workers as much as possible.
+- PERSON3 will be available for Wednesday, Thursday and Friday.
+- PERSON3 is trying to create a website for the company.
+- He doesn't know how to map the workers to session IDs.
+- He has no experience in coding in any web server package.
+- The ASR workers are the problem as they have to restart all the time.
+- PERSON1 and PERSON3 want to change the way the ASR workers are restarted.
+- They want to know how to tell a dead worker from a working one.
+- PERSON9 is going to test all of ASR and segmenters right now to make sure they are working.
+- PERSON1 asks PERSON11 to help him find the source code of his workers.
+- The workers are running on different services, so they need a function call that would extract the session ID from the data XML.
+- The session ID is written in each pocket, written in the receipt mediator.
+- PERSON1 and PERSON3 are trying to access the SSH port 22 4443 and 4444 on the machine belonging to PERSON11, but it's not working.
+- They need to restart the other servers to access it.
+- The session ID in the log would be very useful for them.
+- PERSON1 needs to modify worker so that it shows session ID.
+- If he runs the script on the wrong machine, the worker will tell him to run on the other machine.
+- He needs someone to keep working with PERSON9 and speak to him on slack tomorrow.
+
+
+Minuted by: Team Synapse

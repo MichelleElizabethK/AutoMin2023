@@ -1,0 +1,28 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON12, PERSON13, PERSON14, PERSON5, PERSON7
+
+
+SUMMARY
+- PERSON13 is back to work after the New Year holidays.
+- She is staying in Mannheim in a private apartment.
+- She has a new sound system built on during the holidays.
+- The project for PROJECT13 is the Holocaust survivor's session, which has been postponed by a month.
+- PERSON12 is going to the PROJECT6 technical meeting tomorrow.
+- PERSON14 will be available as a back-up person.
+- PERSON7 will prepare simple HTML tables that would be auto generated and put them on the Web.
+- PERSON12 is working on the demo paper submission, which is due on Friday.
+- She is also preparing the documents for the two sessions.
+- PERSON7 wants to know what is missing from the deliverables and what should be included in the report.
+- PERSON12 and PERSON7 will ask PERSON1 to extract the delay scores for some of the files from the PROJECT2.
+- They need to do it before the Wednesday call with partners.
+- PERSON5 is trying to train a model on common voice for the experiment.
+- PERSON13 and PERSON5 will have a call with the person who has already written some of the traces that PERSON11 left.
+- They will meet on Monday or Tuesday to discuss the replacement for PERSON10, who is busy and not available on Friday.
+- PERSON12 and PERSON14 are aiming for the end of the month deadline with a subtitler study paper.
+- PERSON12 asks PERSON7 and PERSON13 to explain to her how the project should be managed.
+- PERSON7 explains to PERSON12 that direct bilingual models are better than models based on English-based data set.
+- PIVoted is a multi lingual model.
+- The book will be out in the middle of the year.
+
+
+Minuted by: Team Synapse

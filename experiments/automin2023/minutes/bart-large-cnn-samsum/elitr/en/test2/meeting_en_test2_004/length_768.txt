@@ -1,0 +1,52 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON12, PERSON13, PERSON14, PERSON5, PERSON7
+
+
+SUMMARY
+- PERSON5 needs to figure out his sound settings before he can talk to PERSON13.
+- PERSON13 is back to work after the holidays.
+- He is staying in a private apartment in Barbican city, Mannheim.
+- The electricity is back.
+- The session on PROJECT13 is the Holocaust survivor's session.
+- PROJECT6 has been postponed by a month.
+- PERSON12, PERSON7, PERSON13 and PERSON14 will prepare data for the two events.
+- The PROJECT6 will have two parts.
+- One will be online, pre-recorded and the other will be live.
+- PERSON12 is going to the PRO PROJECT6 tomorrow for a technical meeting.
+- He wants to plug bear ringers and record the sound on the site.
+- PERSON12 will do the recording of the PROJECT13 event.
+- PERSON7 will prepare simple HTML tables that would be auto generated and put them up on the web.
+- PERSON7 will create a conversion from the tables into HTML and put the results regularly to his webpage.
+- PERSON7, PERSON12 and PERSON10 will have a call with PERSON10 next Monday to discuss the details of the project.
+- PERSON7 wants to get an idea about the conversion, like the world ratio of two languages for a given transcript.
+- PERSON12 suggests profanity filtering, evaluation and rare words evaluation.
+- PERSON7 and PERSON12 need to improve their segmenter.
+- They need to talk about a PROJECT10 style of evaluation next Wednesday.
+- PERSON7 will get some delay scores for some files from the PROJECT2 from the IWPROJECT10 Dev set.
+- PERSON7 has done a lot of work on the deliverable towards the end of the year.
+- PERSON12 is happy with the tables that they put into the deliverables.
+- For both of the sessions, PROJECT13 and PROJECT6, PERSON12 wants to choose the system the Pipeline from some choices, and this has to be based on some numbers.
+- PROJECT7 is going to be in Czech.
+- PERSON5 is training PROJECT3 system, at ORGANIZATION4.
+- He needs to choose more datasets and common voice for the system day.
+- He should use more frequently used datasets.
+- The links to the data are in the PROJECT4 documents.
+- PERSON13 would like to work with PERSON5 on PROJECT5 PROJECT3.
+- He wants to build a non native speech, automated system for some languages as a part of his masters thesis.
+- PERSON7 will have a call with PERSON10 on Monday or Tuesday.
+- PERSON5 will join them.
+- PERSON7 wants to know when the replacement for PERSON10 will be chosen.
+- Before Christmas, before Christmas, PERSON14 released the PROJECT11 corpus for PERSON3.
+- This week, he implemented or trained speech language identification for Czech, German and English.
+- The study paper for the subtitler study is due by the end of the month.
+- PERSON12, PERSON7, PERSON16, PERSON13, PERSON14, and PERSON7 need to figure out the best way to handle different languages in different PROJECT3s.
+- They need a tool that can separate the output into the three language channels and produce either silent or correct PRO PROJECT3.
+- PERSON12 and PERSON7 are going to write a book on multilingual models.
+- They will meet in the middle of the year and start writing after the subtitler study.
+- PERSON12 will try to find a reference to the general statement that direct bilingual models are better than models that are pivoted.
+- PERSON12 will try to record his suggestion about how to use the language ID in theirs that they have.
+- He will talk to you next Thursday and be in touch with the preparations for the for the events and the continuous evaluation.
+- The ladder climbing is the most urgent thing now.
+
+
+Minuted by: Team Synapse

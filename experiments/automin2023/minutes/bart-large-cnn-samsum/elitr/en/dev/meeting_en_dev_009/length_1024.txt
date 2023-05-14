@@ -1,0 +1,32 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON2, PERSON6, PERSON7
+
+
+SUMMARY
+- PERSON6 and PERSON7 are having a coffee meeting.
+- They need to use the ORGANIZATION2 link for all their meetings.
+- It's free for one hour, but they have to pay for the paid version of the organization.
+- They have problems with the organization, because it's much bigger than ORGANIZATION2 meet.
+- PERSON6 wants to know if Organisation2 is a good option for their coffee meetings.
+- PERSON7 is not sure if it's a good idea as it's difficult to hear.
+- The original minutes created by PERSON6 and PERSON3 are just for reference of the annotators and they are not as good as the original minutes.
+- PERSON6 sends the ASR via file sender and sends back the manually corrected ASR.
+- PERSON7 sends the minute to the server.
+- PERSON6 suggests that annotators send the data via GateHub, but PERSON7 is not sure how it should be organised.
+- PERSON6, PERSON7, PERSON2 and PERSON6 are going to do an alignment evaluation.
+- They need a measure or a by-product by which they can use the alignment to produce something.
+- They have to submit the proposal within the first week of November.
+- PERSON6, PERSON7, PERSON4, PERSON2 and PERSON6 are trying to come up with an alignment based on a manual evaluation measure before the shared task.
+- The manual measure is based on the transcript, the minute, the summary and a human evaluation.
+- PERSON7 wants to discuss the format of the basic sample trial before discussing it with PERSON1.
+- PERSON6 is worried about what the proposal should look like.
+- The data format is almost the same as the one PERSON2 and PERSON6 discussed.
+- PERSON7 and PERSON2 are going to change the data storage from Sorbow to GateHub repository.
+- They are centralizing it and making server as one of mocking versions of GateHub.
+- They need to rename all the names of the annotators before pushing.
+- PERSON2, PERSON7, PERSON6 and PERSON6 will meet today in person to discuss the team that he's proposing.
+- They will also meet with PERSON6 tomorrow morning.
+- They need to wait for PERSON1 to install ORGANIZATION2 again and let them know if something goes wrong.
+
+
+Minuted by: Team Synapse

@@ -1,0 +1,42 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON12, PERSON15, PERSON16, PERSON18, PERSON24, PERSON3, PERSON7
+
+
+SUMMARY
+- PERSON1, PERSON15, PERSON7, PERSON12, PERSON16, PERSON24, and PERSON25 are meeting to discuss the work on PROJECT3.
+- PERSON15, PERSON12 and PERSON3 are going to have a separate call tomorrow at 2 pm or 3 pm to test the multi-source technology.
+- PERSON10 will finish the language model checking of ASR outputs.
+- PERSON15 has sent a message to PERSON3 about profanity filtering and spasm detection and removal.
+- The profanity filter has been tested on locks, but it needs to be tested on the life pipelines as well.
+- PERSON3 has a call with PERSON6 later today.
+- PERSON3 has a call with PERSON10 later today.
+- PERSON1 is preparing for the upcoming Monday seminar with an Italian speaker.
+- PERSON1, PERSON15, PERSON18, PERSON3 and PERSON8 need to record the experience of the training pipeline.
+- PERSON10 will be leaving the organization.
+- Yesterday, the pipeline had to be started by PERSON10 and PERSON8, who didn't know how to do it properly PERSON15, PERSON18 and PERSON3 want to set up a call with PERSON8 to discuss how to implement PERSON5's worker.
+- PERSON16 wants to limit the number of languages to one.
+- PERSON16, PERSON15, PERSON18, PERSON3 and PERSON24 are working on a project.
+- The project is slow, because it was trained using tensor to tensor.
+- It is better optimised for PROJECT3, but it takes longer to train the shortening models PERSON12, PERSON15, PERSON18 and PERSON24 are working on learning PERSON14's model.
+- PERSON16 is working on the shortening and extending of the models.
+- PERSON15 is going to apply for PHD one at the end of the year.
+- The deadline is very soon.
+- There is a command to check the quota in the document.
+- It's called DF minus age for human redo.
+- There are 50 gigabytes of data on Troja PERSON15 is trying to send an invitation to the ORGANIZATION2.
+- They haven't had the call last week.
+- They need the evaluation of all systems, all files, in the PROJECT5 test set automated.
+- PERSON3 will have a call at two thirty Prague time During the last week sessions, PERSON15, PERSON12, and PERSON3 talked about the management of people.
+- They need to make sure that they have the right people available for important sessions.
+- PERSON10 is learning how to do domain adaptation in the PROJECT2 set up.
+- PERSON1 PERSON15, P, PERSON3 and PERSON16 are working on a project.
+- They need the transcribed version of the Monday talks to improve their models.
+- They also need to develop a fully neural ASR and do experiments on fine tuning.
+- PERSON1, PERSON3 and PERSON15 are going to use sentiment analysis to filter profanity and negative sentiment on social media.
+- PERSON3, PERSON15 and PERSON1 will ask elderly students who are already in Prague for the first or second year if they would like to supervise a student.
+- They will also ask them if they are Czech citizens.
+- PERSON1, PERSON15, PERSON12 and PERSON3 are going to Prague.
+- They will meet again on the 7th of January.
+
+
+Minuted by: Team Synapse

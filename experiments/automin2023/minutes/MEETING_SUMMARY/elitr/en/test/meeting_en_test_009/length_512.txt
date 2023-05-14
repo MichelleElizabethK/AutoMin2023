@@ -1,0 +1,67 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON10, PERSON2, PERSON3, PERSON6, PERSON7, PERSON9
+
+
+SUMMARY
+- PERSON1 is waiting for PERSON13 to join the call.
+- The authentication fee has been reintroduced so that only people participating in the event are allowed subtitles.
+- The presentation platform now requires password.
+- PERSON10 is going to register credentials and just being, yeah.
+- PERSON9 will share the screen where PERSON9 launched ten ASR workers at the same time.
+- PERSON9 is listening to a lecture on another machine than PERSON1.
+- The log file from EB client shows that the English ASR or English sound is being converted while a to, one of the target languages and then another line says the same English sound, converted to another machine translation PERSON9 has tried to launch the EB client and it failed, because there are not enough ASR workers.
+- PERSON10 will reason about this problem, because for the PROJECT1 project they need to find a common route to find the kind of data structures.
+- The machine translation workers are not working properly.
+- PERSON1 will keep pinging ORGANIZATION3 for help.
+- PERSON9 is going to test the ASR workers.
+- PERSON1 needs to rewrite the script to implement the C code the EB client to do the multiplexing internally.
+- PERSON12 is away on holiday.
+- PERSON7 will be around on Wednesday, Thursday and Friday but not tomorrow.
+- PERSON1, PERSON9 and PERSON5 are trying to fix a problem with subtitles in the presentation platform.
+- PERSON1 wants to know how to set up a presentation platform running locally within the Wired Network.
+- The participants notebooks will all be connected to the same wired network and they need the URL with RTMP protocol with the stream subtitles to work from for their notebooks.
+- The server has to run within PERSON6 and PERSON1 are going to test the configuration posted by PERSON6 on the local network.
+- PERSON1 restarted the browser and it works.
+- PERSON1 and PERSON14 will arrive on Wednesday around the 16 or 17.
+- PERSON10 will join them in ORGANIZATION1.
+- The presentation platform, except for logging parts and implementing the feature, was released on Friday.
+- There are ten streams concurrent.
+- PERSON9 has shared the scheme of the microphones with others.
+- It is possible to have the English subtitles presented from the main round table and the translations from the respeakers.
+- PERSON1 and PERSON10 are working on the presentation platform.
+- They have to prepare the X1 configuration, X1 X2.
+- They also have to deliver the subtitles to interpreters booth and the streaming off the stream of slides from the presentation notebook.
+- On Wednesday PERSON1 will be PERSON1 will arrive on Wednesday.
+- ORGANIZATION2 will add the slides X1 till X4 this afternoon.
+- ORGANIZATION3 will test streaming of slides and debug ASR workers tomorrow.
+- There was a lot of repetition in the subtitles.
+- PERSON1 and PERSON10 agree that the presentation platform should show two lines of text at the same time.
+- PERSON10, PERSON1 and PERSON12 will disable the segmentation for now and test it during the afternoon.
+- PERSON9 and PERSON1 are experiencing some problems with the ASR worker.
+- They are waiting for PERSON12 to restart the workers.
+- There is a delay in the admin interface.
+- The empty workers are not being used, but they are already in use by the pipelines.
+- English is the preferred language for output.
+- If people switch to German or Czech, the subtitles will not be published.
+- PERSON1, PERSON10, PERSON11, PERSON12, PERSON13 and PERSON3 are on a pexip call.
+- PERSON11 tried to connect the but it didn't work.
+- The fallback mechanism is not complete yet.
+- PERSON1 expects to be translating mainly from English.
+- PERSON3 will try to set up a simple CGI script to restart ASR workers that are not working properly.
+- When workers start, they emmit the session ID.
+- To create a webpage that would be accesible for us, it depends on your setup but in principle you could also run a small webserver such as Python or Parallel on the machine where the workers are and save their process ID PERSON3 explains to PERSON1 and PERSON1 how to restart the workers.
+- PERSON1 wants to know how to create a remote killing.
+- PERSON9 is going to test all of ASR and segmenters.
+- PERSON1 asks PERSON11 to look at the code of the worker.
+- It is necessary to recompile the worker with one print.
+- It will speed up the restarts.
+- PERSON1, PERSON11 and PERSON3 are trying to access the source code of their workers.
+- The workers use precompiled library.
+- They need a function call to extract the session ID from the cloud packet.
+- They cannot run 20 ASR and 20 segmenters because they are running on PERSON1 and PERSON3 are having problems with their university firewall.
+- One of the servers is not accessible and the other one is not published, so they need to restart it.
+- PERSON1 needs to prepare a script.
+- If it doesn't work, they will keep testing everything.
+
+
+Minuted by: Team Synapse

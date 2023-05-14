@@ -1,0 +1,22 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON10, PERSON2, PERSON5, PERSON6
+
+
+SUMMARY
+- PERSON10, PERSON2, PERSON3, and PERSON6 are having a meeting on Thursday at 1 P.M. at LOCATION1 time.
+- They are waiting for someone to join them, but they are ready to start.
+- There will be a call with the other project partners PERSON1 wants to come to the Czech Republic and work remotely.
+- Organisations 3, 4 and 5 want her to come in person.
+- ORGANIZATION10 wants her to apply for a visa, but ORGANIZATION4 is closed.
+- PERSON2, PERSON9, PERSON6, PERSON5 and PERSON2 are on a conference call.
+- The communication is not completely perfect.
+- There is a problem with the quality estimation.
+- The certificate of the person who does the training has expired.
+- There are 40 jobs on the PERSON6 and PERSON10 are sceptical about machine-learned evaluation methods.
+- They are considering adding a non-standard metric for evaluation.
+- The metric can be used either for paraphrasing or for the evaluation.
+- PERSON6, PERSON2 and PERSON10 are going to meet this week to discuss the PROJECT4.
+- They will try to have a meeting for the task next week together with PERSON1.
+
+
+Minuted by: Team Synapse

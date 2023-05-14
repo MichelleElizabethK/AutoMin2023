@@ -1,0 +1,31 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON3, PERSON5, PERSON6, PERSON9
+
+
+SUMMARY
+- PERSON3, the head of the particle division of the ORGANIZATION1, explains to the audience that the technology is not usable for people who don't speak OTHER3.
+- They had a dry run at the LOCATION2 on Wednesday and all the presentations went well for the people PERSON10 is studying at ORGANIZATION3.
+- PERSON11 is studying in LOCATION2.
+- PERSON7 is visiting a master student.
+- PERSON9 is studying also computer science.
+- PERSON3 is giving a talk on Monday at 2.
+- PERSON3 will get in touch with PERSON5 to make sure he has some files ready for the Monday talk.
+- PERSON3 will be in the mountains on the weekend and will be back on Sunday night.
+- He will be able to give a talk on Monday morning or late night.
+- PERSON9 will send him some language model data related to his talk.
+- PERSON10 worked on three different things this week PERSON5 will email the scripts to test the ASR.
+- PERSON10 is going to train the paraphrasing model today.
+- PERSON10 wants to use an open neural network exchange format.
+- PERSON3 doesn't think it's safe for the purpose of the project, but it can be safely used if the project is serving.
+- The project is mostly running PROJECT5 models, which are trained in a similar PERSON8 is collecting monolingual data.
+- PERSON11 will finish in this week.
+- PERSON10 will make a model where he will throw away the lower source languages and use the main ones.
+- PERSON3, PERSON8, PERSON11, PERSON10 and PERSON5 are working on a project.
+- They are going to create a synthetic model on all this translation.
+- PERSON12 helped with integrating buffer in the LOCATION3 segmenter.
+- PERSON5 wants to get some LOCATION3 in domain data.
+- PERSON6 will get in touch with the data ambassador, PERSON2, who is on vacation this week, to organize a Wiki page of all the data that they are using, or they plan to use.
+- PERSON3 and PERSON10 are on the phone.
+
+
+Minuted by: Team Synapse

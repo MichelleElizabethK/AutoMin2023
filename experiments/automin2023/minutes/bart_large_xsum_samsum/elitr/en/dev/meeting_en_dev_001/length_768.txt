@@ -1,0 +1,51 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON3, PERSON4, PERSON5, PERSON6
+
+
+SUMMARY
+- PERSON4 is getting her visa this Friday.
+- She has an appointment on visa embassy.
+- She's gathering all the documents now.
+- PERSON3, PERSON10, PERSON5, PERSON6, and PERSON4 are going to a meeting of ORGANIZATION2 today.
+- They need to collect data for the share task.
+- ORGANIZATION2 has one paragraph abstracts of coherent texts.
+- ORGANIZATION1 has a presentation in different languages.
+- Organization PERSON3, PERSON6 and PERSON10 are discussing the data set for the training.
+- The data set is acceptable for the full training, but too small for the development set.
+- The participants should be allowed to keep half of the test set and the other half for whatever purpose they want PERSON10, PERSON6 and PERSON3 are going to use ORGANIZATION1 data from 2006 to 2011.
+- PERSON10 wants to know if it is possible to prepare a web page with a list of links to the minutes and annotate them with the transcript.
+- The minutes are on the web.
+- The annotator shows a screen with a summary of the session and a 1000-word summary of PERSON3, PERSON10 and PERSON5 are discussing the differences between the summary and the minutes of the meeting.
+- The minutes are for the whole kind of meeting and the summary is for the summary.
+- The IDs of the ORGANIZATION1 corpus are not of parliament, so PERSON6, PERSON10 and PERSON3 discuss the organization's project.
+- They agree on 3 test sets and 3 tracks.
+- The first test set would be the organiser's corpus, the second would be their aligned meetings and transcripts, the third would be ORGANIZATION2 and PERSON10 wants to repackage the transcripts automatically and provide them as the training data for the participants.
+- PERSON6 and PERSON3 have problems with summarizing the transcripts.
+- PERSON3 doesn't know the date of the session.
+- PERSON10 and PERSON3 are trying to solve the problem.
+- They need someone who will do the downloading in order to separate the training data set from the evaluation data set.
+- PERSON5, PERSON3, PERSON6, and PERSON10 are discussing organization 1's share task.
+- ORGANIZATION1 is very different in size and a participants.
+- They need to divide it into 3 parts, short meetings, long meetings and decide how to divide them themselves.
+- ORGANIZATION1 is PERSON5 wants to create a corpus of summarization corpora.
+- PERSON10 and PERSON3 decided to take the whole ORGANIZATION1 corpus and to pack it with the existing minutes and publish it as a separate corpus.
+- PERSON10, PERSON6 and PERSON3 are going to do a share task.
+- They need to find a person who is familiar with Wget and who can download and prepare the corpus.
+- They will take a small portion of the corpus as the test set for their shared task PERSON6 is on vacation this week.
+- PERSON8 is still at home.
+- PERSON10 asks him for help with downloading the speech part of the transcripts and the summaries.
+- PERSON3 hasn't seen the presentation by the remote colleague of ORGANIZATION5 who is developing PROJECT3.
+- PERSON3 and PERSON10 discuss the format and speaker diarization details of corpora they are working on.
+- PERSON10, PERSON3 and PERSON6 are working on a project.
+- They are trying to solve a problem of organization.
+- PERSON5 downloaded the whole corpus to the server.
+- PERSON6 needs to organize it into the directory structure according to the dates and names of the sessions and then complement it with the minutes.
+- PERSON3 forwarded the ORGANIZATION1 data once more to PERSON6.
+- PERSON5 shared the link to the source of the data with her.
+- PERSON6 downloaded it.
+- PERSON3 is in the forest.
+- It's cold.
+- PERSON6 and PERSON1 will join him tomorrow.
+
+
+Minuted by: Team Synapse

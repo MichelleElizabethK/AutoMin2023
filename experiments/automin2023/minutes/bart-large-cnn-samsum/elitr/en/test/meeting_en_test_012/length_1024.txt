@@ -1,0 +1,54 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON12, PERSON19, PERSON20, PERSON3, PERSON9
+
+
+SUMMARY
+- PERSON12 and PERSON8 are going to LOCATION1.
+- They will be hosted by PERSON20.
+- The winter is coming and the pandemic is rising in the Czech Republic.
+- There are almost one hundred thousand new cases per day in India.
+- The situation is very bad.
+- There was a marriage that was supposed to be scheduled and the groom died.
+- PERSON9 wants to change the names of English and Czech meetings.
+- He wants to use a named entity recognition model for English meetings and a different model for Czech ones.
+- It's possible for the common names that are repeating from English to Czech to be transferred, but there are some problems with it.
+- PERSON9 and PERSON12 are going to change the names of the speakers in the data set that they want to publish.
+- They need to rename the brackets to A, B, C and rename the letters to their real names.
+- They also need to create a map that maps the letters with the names that they are replacing with real names to the real ones.
+- PERSON3 is not coming today.
+- PERSON9 and PERSON12 are trying to figure out how to remove the words with dash from the transcript and remove them from the proper nouns.
+- They are also trying to find out if the words that end with dash should be removed from the text.
+- PERSON3, PERSON12 and PERSON9 agree on two step manual identification of named entities.
+- PERSON3 would like to improve the way they collect the list so that they also know the surrounding three, four words on each side of the list.
+- PERSON9 proposes to hide the ID of a named entity in the data.
+- PERSON9, PERSON3, PERSON12 and PERSON20 are going to assign annotators to annotate the transcripts for the meetings.
+- The annotators will use the system of name tag.
+- The names will be anonymized and replaced with some other country.
+- PERSON9 asks about Czech and named entity recognition.
+- PERSON3, PERSON12 and PERSON9 are going to create a list of names for the months January, February, March, April, May, June, July, August, September, October, November, December and January.
+- They will use name tags to organize the list.
+- PERSON9 and PERSON3 are going to create an interface for the annotators.
+- They will create a line for each occurrence of a named entity from the corpus.
+- The annotators will label these lines with the decisions.
+- The lines will be replaced with suspected named entities number fourty three to fourty five.
+- PERSON3, PERSON9 and PENPERSON12 are going to discuss how to organize the transcript diarizations.
+- They need to create a table for the speakers, map them to specific names, and use abbreviation for that name.
+- They want to use angle brackets to unify all of them.
+- PERSON3 explains to PEN9 how to preserve the full name like PERSON10 on line one of the anonymization tool.
+- PEN12 asks about the person who is supposed to work on the tool and asks about his or her role in the process.
+- PERSON15 is starting his Phd.
+- on speech recognition.
+- He will transfer the tool to PERSON20 probably.
+- Ondra wants to limit his involvement in the minuting and the tool for that, because it's like disturbing him from the topic.
+- PERSON9 and PERSON12 will take a meeting with Ondra today.
+- They will discuss the agenda.
+- PERSON19, PERSON12, PERSON20 and PERSON3 are going to work on a project together.
+- They are divided into two groups: annotators and evaluators.
+- The annotators will annotate the transcripts and produce the summaries, the minutes and the scores.
+- They will also choose the number of meetings and send them to PERSON12 and PERSON20.
+- PERSON19, PERSON12 and PERSON20 will annotate transcripts and create minutes from one-hundred-one-minute-long meetings.
+- They will discuss it with PERSON3 who is in the office now.
+- They are going to meet tomorrow to discuss it further.
+
+
+Minuted by: Team Synapse

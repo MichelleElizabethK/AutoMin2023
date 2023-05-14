@@ -1,0 +1,49 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON2, PERSON6, PERSON7
+
+
+SUMMARY
+- PERSON6 explains to PERSON7 how the ORGANIZATION2 link works.
+- People can use it for all their meetings.
+- PERSON6 and PERSON7 have problems with ORGANIZATION2.
+- They want to make it free for one hour, but they have to pay for it for the next month or so.
+- PERSON6 and PERSON7 are going to have a coffee meeting with ORGANIZATION2.
+- They need to have something to do while nobody else is available.
+- ORGANIZATION2 needs to be able to hear what is being said in order to decide if it's a good idea to have the meeting outside PERSON6 and PERSON3 created the agenda for the PROJECT1 minutes.
+- The documents contain original agenda of the meeting, which was created by PERSON6 or PERSON3 before the meeting and partially s extended during the meetings, or sometimes after the meetings.
+- Some of the minutes are very short PERSON7 sends data via file sender and sends back the manually corrected ASR and the minute for.
+- PERSON6 proposes that annotators send data via GateHub.
+- PERSON7 doesn't know how to organise it.
+- PERSON2 interposes.
+- PERSON2, PERSON7 and PERSON6 had a meeting.
+- PERSON2 wants to change the teams.
+- PERSON7 doesn't want to do it at the moment, because he doesn't know how to control over annotators.
+- PERSON7 and PERSON6 agree not to do the team at the moment.
+- PERSON7 would prefer to have the contact with annotators and if needed build it on the existing system.
+- PERSON6 needs the alignment, but he needs a measure by which they can use the alignment to produce PERSON6 and PERSON7 discuss how to use the alignment in evaluation.
+- They have some experience with other tasks where such alignment helped and they have the intuition that it would help.
+- They need to come up with a manual evaluation measure within the first week of November.
+- There are many automatic measures for summarisation but none of them works as PERSON4 realised.
+- PERSON2 proposed an evaluation method similar to how most of the like evaluations are done in the community, in the literature.
+- PERSON2 and PERSON7 want to use alignment annotation for summarisation.
+- They have little time and they don't have to prepare alignments.
+- For the past shared task, they follow variant B, which is using human evaluation like readibility and so on, not using the alignment.
+- PERSON7 wants to discuss the format of the basic sample trial with PERSON1 before they go on.
+- PERSON2 explains the data format.
+- PERSON2 and PERSON7 discuss the format of their project.
+- The format is stable, but there are still some details to be worked out.
+- They need to prepare a list of annotators, their real full names and their annot01, annot02, annot03 and annot04 PERSON2 does all the pushes in GateHub.
+- For the GateHub it's only pushes.
+- PERSON2 and PERSON7 have to rename the names in the cluster, all the names.
+- For each annotator, PERSON2 has to change the name form ANNOTATOR2 to AN PERSON7's task is to rename the files.
+- He has to keep the names of the annotators recognisable.
+- He is not sure if he can do it at the moment.
+- PERSON2 and PERSON6 agree to meet today in person to discuss things.
+- PERSON2, PERSON7 and PERSON6 are going to repeat the meeting of today.
+- They have to wait for PERSON1 to finish an annotation tool composed for new idea.
+- PERSON4 is writing.
+- He needs a password to access it.
+- The password is already in the meeting According to PERSON7, wanting is like, yes, in this case it is he.
+
+
+Minuted by: Team Synapse

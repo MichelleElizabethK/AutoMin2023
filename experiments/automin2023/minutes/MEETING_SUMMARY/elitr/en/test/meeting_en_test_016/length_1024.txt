@@ -1,0 +1,27 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON3, PERSON5, PERSON6, PERSON9
+
+
+SUMMARY
+- There was a live workshop dry run at the LOCATION2 on Wednesday.
+- It went well for the people who could understand OTHER3, but not so much for those who couldn't.
+- The technology is not usable for people who don't speak OTHER3.
+- The presentation machine takes screenshots to PERSON7 will join them for the surge.
+- PERSON9 will work on domain adaptation.
+- On Monday at 2, PERSON3 will give a talk on the Monday seminar.
+- PERSON3 will be in the mountains on the weekend and will be back on Sunday night.
+- He will be able to give a talk on Monday morning or late night.
+- PERSON9 will send some language model data related to PERSON9's talk.
+- PERSON10 worked on three different things this week PERSON3 and PERSON10 are working on two machine translation projects.
+- One of them is called PROJECT4 and the other one is PROJECT5.
+- It was trained with TPU, but it's not possible to export it.
+- PERSON3 and PERSON10 are running Tensorflow models on PROJECT5 instead of PROJECT1.
+- They are trying to improve the performance of their models.
+- The parallel data extraction will be done by ORGANIZATION2.
+- The languages can be used.
+- PERSON10 sends the path to all the source files.
+- PERSON11 has access to the to the clusters and PERSON11 can run all the competition.
+- PERSON5 helps with implementing the segmenter PERSON3, PERSON5, PERSON6, PERSON10 and PERSON6 want to create a Wiki page with all the data that they use or they plan to use.
+
+
+Minuted by: Team Synapse

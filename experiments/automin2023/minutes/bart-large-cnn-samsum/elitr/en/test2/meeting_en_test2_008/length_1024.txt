@@ -1,0 +1,60 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON4, PERSON9
+
+
+SUMMARY
+- PERSON9 and PERSON4 are working on an online document.
+- The annotator has stopped working on it.
+- The other person who was supposed to help them, PERSON13, stopped responding to their emails after the Christmas holidays.
+- They will have to work without him.
+- PERSON4, PERSON9 and PERSON10 are going through the Coffee Meetings agenda.
+- They need to write down the annotations on the agenda for the first shared task on automated minuting.
+- The process is documented to the finest level and follows a sequence of steps.
+- PERSON4 and PERSON10 are working on a project.
+- They need to remove all named entities from the documents and replace them with place holders.
+- They are working at the two levels: the word type level and the word token level.
+- PERSON4 is not sure if they will have PERSON7 as the system operator.
+- PERSON4 and PERSON10 are discussing the quality of the list of candidates that was created by PERSON7.
+- The list has a lot of typos and typos in the names of the annotators.
+- There are also multi-word NEs.
+- The last stage is the actual removal of the original text from the documents.
+- PERSON10 and PENPERSON4 agree to ignore tracing of the identity of the people and focus on the persons.
+- The main worry is to preserve the identities and not to leak the data.
+- They need to put an outline on a time frame.
+- PERSON9 and PERSON10 are going to have a de-identification session with PERSON4.
+- They need to align the transcript with the minutes.
+- PERSON14 is going to read the regulations and decide what data should be de-identified.
+- If they have to delete the names of languages, they should leave them.
+- PERSON10 is waiting for PERSON14 to finish reading the regulations and agree on a timeline with her.
+- PERSON14 needs to discuss with her the de-identification of personal data and the consent forms.
+- PERSON4 and PERSON9 are in a time pressure.
+- PERSON10 and PERSON4 are going to prepare the first form for the release of the corpus.
+- The first form will be on the content to process the data and deidentify it with the forcing goal of publication.
+- The second form is to have the permission to publish the data in the anonymous form.
+- The third form is for the new meetings.
+- PERSON10 and PENPERSON9 will create a master sheet with the names of participants from the minutes of the meetings.
+- They will send personalised emails to all of the participants.
+- It will be a little bit of work extra, but it should not take much time.
+- PERSON9 and PERSON10 need to prepare a timeline for the de-identification of the participants of the task.
+- They need to have the data ready for them by the end of February and have the consent from the participants by the first week of March.
+- The trial data is 16 March, but training data first April.
+- PERSON10 will prepare the text for an email to prospective members of the Scientific Committee.
+- It should be sent by the end of by the mid of February at the latest.
+- It is not finalised, as PERSON9 has just put the names in the mock.
+- The Scientific Committee should be made up of at least PhD students.
+- PERSON9 and PERSON10 need to create a list of people they want to invite to serve on a scientific committee.
+- They need to submit the proposal within ten days.
+- The deadline is January 7th or 8th.
+- PERSON9 will contact some of the people and PERSON10 will contact others.
+- PERSON10 transferred the data questions to PERSON9, but not the modelling questions.
+- PERSON4 will send the three prepared letters to his candidates.
+- They will ask the experienced people from the 2006 ORGANIZATION8 corpus for the summarization.
+- They should ask them with the two questions for these three people and then ask Ian if he would agree or have someone else to suggest.
+- The proposal should be sent by January 10th and January 15th.
+- PERSON10 has privilege because he has points for cooperating with foreigners and he's not a foreigner enough.
+- It's a financial question.
+- If they get an email from PERSON4 PERSON3, it's too Russian.
+- They will do it this afternoon in English as it's better in English.
+
+
+Minuted by: Team Synapse

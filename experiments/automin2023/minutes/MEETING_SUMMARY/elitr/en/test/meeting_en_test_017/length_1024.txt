@@ -1,0 +1,43 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON11, PERSON3, PERSON6, PERSON7, PERSON9
+
+
+SUMMARY
+- PERSON6, PERSON3, PERSON11, PERSON9, PERSON14 and maybe PERSON8 are going to meet in LOCATION4 today to record the start project.
+- The problem with the sound coming out of the speakers is that the left speaker is to the right.
+- It will be PERSON6 is preparing a book for PERSON5.
+- He wants to send it to him before the end of June so that he can start looking for reviewers.
+- There is a callish deadline on July the first.
+- PERSON6 would like to submit the paper to PROJECT11 and the paper they haven't - they sent to ORGANIZATION3.
+- PERSON9 will be here from the thirteenth to the nineteenth.
+- PERSON11 will be PERSON6, PERSON9 and PERSON3 are going to have a project meeting on the 13th of July.
+- There will be regular meetings on Tuesdays from now until then.
+- The deadline for the book is the end of June.
+- There are several deadlines: one for stopping adding new content, second for stopping comments to others' content and third for having all the comments at rest or deleted.
+- People will meet in the middle of June and work on the book until PERSON6, PERSON9, PERSON11, PERSON12 and PERSON13 have finished the book.
+- The next meeting is on July thirteenth.
+- PERSON6 noticed some differences between PROJECT8 heat maps and PROJECT9 heat maps.
+- PERSON7 and PERSON9 used the same data set as PERSON6.
+- PERSON6 needs to review the first part of the chapter five.
+- PERSON7 needs to work on the section about self-attentions.
+- PERSON11 needs to write a few more paragraphs.
+- PERSON14 needs to prepare a paper.
+- PERSON11 will write a new chapter on the topic of the new generative language models.
+- PERSON9 has restructured the introduction to organize the papers according to the structure of the chapters.
+- He plans to change the introduction and reorganize the sections.
+- PERSON9 will re-split the text assignment into several smaller sections.
+- PERSON9 has a typic problem.
+- She has a lot of work to do.
+- She wants to cover some abstractions, but not all of them.
+- She also wants to report on multilinguality paper she submitted to PROJECT4.
+- PERSON7, PERSON6, PERSON9 and PERSON3 are writing dissertations.
+- They want to prepare abstracts for PROJECT9, PROJECT6 and PROJECT10.
+- PERSON3 is writing a survey about syntax in, neural networks.
+- PERSON3 has done 4 pairs of comparisons on the task of predicting part of speech, type.
+- He has also done a comparison between language models and machine translation.
+- Machine translation is better than language models.
+- PERSON6 and PERSON7 should make sure that all the visualisations look at least similar.
+- They have just two weeks to prepare them.
+
+
+Minuted by: Team Synapse

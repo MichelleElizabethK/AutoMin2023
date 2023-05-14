@@ -1,0 +1,21 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON3, PERSON5, PERSON6, PERSON9
+
+
+SUMMARY
+- The presentation that was run at the LOCATION2 on Wednesday went well for people who could understand OTHER3, but not so well for those who couldn't.
+- The head of the particle division of the ORGANIZATION1 was angry about it.
+- The presentation was run in OTHER3 On Monday at 2 PM PERSON3 is giving a talk on computational linguistics and asks people to help him prepare the slides for the seminar.
+- PERSON7 will join them for the surge.
+- PERSON9 will work on domain adaptation.
+- PERSON3 will be in the mountains on the weekend and will be back on Sunday night, so he will be able to give a talk on Monday morning or Sunday late night.
+- As soon as the presentation platform and how it could be used, PERSON9 will send the files to PERSON PERSON3, PERSON10 and ORGANIZATION2 are working on a project.
+- The project is called PROJECT4.
+- It was trained with TPU, but it's not possible to export it.
+- PERSON3 is running PROJECT5 models.
+- PERSON10 is working on data collection in PROJECT2.
+- PERSON3, PERSON10, PERSON11 and PERSON11 will apply the models to the source files and they will get the first follow synthetic, very much in domain corpus, across these six main languages and then redo this also with all the other 30 something languages.
+- PERSON5 helped PERSON3, PERSON5, PERSON6, PERSON10 and PERSON11 are going to make a Wikipedia page with all the data sets they are using, or they plan to use, so that when someone has a new one, they can always add it there.
+
+
+Minuted by: Team Synapse

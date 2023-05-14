@@ -1,0 +1,33 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON10, PERSON11, PERSON14, PERSON5, PERSON9
+
+
+SUMMARY
+- PERSON10's system froze for 30 seconds as soon as the Zoom waiting to start.
+- The easiest way to solve the problem is to replay a lockfile and feed it to the AB client and to the presentation workers.
+- PERSON9, PERSON14, PERSON10 and PERSON11 are going to stream a video on ORGANIZATION3's Zoom US link.
+- They need a simple set up so that they don't have to share a screen.
+- PERSON9, PERSON1, PERSON10, PERSON5 and PERSON11 are working on a project.
+- They need to stream video, audio and machine translation on a web server.
+- PERSON14, PERSON11 and PERSON9 are going to meet on Thursday and Friday to discuss a TEDx talk.
+- PERSON9 is explaining to PERSON14 how to set up the presentation platform.
+- PERSON1's personal Youtube account is not able for streaming yet, so he cannot test the plan C. The plan C is to demo the system transcribing and translating our speech as the meeting goes and recording the subtitling of the meeting to show how it handles non-native PERSON10 was running the pipeline yesterday.
+- The sound was coming from the service architecture, but it was not related to the videos.
+- The project officer agreed to invite PERSON3 for the next test on Thursday, tomorrow afternoon.
+- On Friday there is a national holiday in the Czech Republic.
+- PERSON9 and PERSON11 are going to work on technical set up.
+- PERSON14 is disconnecting from the meeting.
+- PERSON11 is going to translate a 10-11 languages audio file into German ASR and English ASR.
+- PERSON9 is going to explain to PERSON10 and PERSON1 how to stream the video on the ORGANIZATION5's web server and how to write the M3U8 playlist to the publicly exposed directory.
+- PERSON9 and PERSON10 are working on a project to improve performance.
+- PERSON9 and PERSON10 are working on a presentation platform.
+- The project officer will see both online text flow and the subtitles of the presentation through the screen.
+- They can put the video in the presentation platform which has the box, or they can ask the participants to connect to the PERSON10, PERSON9 and PERSON11 are going to have a meeting tomorrow at 11.
+- They will be able to access the published to the public server and fix Audax.
+- PERSON9 will prepare the call link for the call for all the participants.
+- PERSON10 will show him how to pipe the text into the presentation platform.
+- The source language for the video file will be German.
+- The next test session is tomorrow at half past 10.
+
+
+Minuted by: Team Synapse

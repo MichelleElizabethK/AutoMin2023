@@ -1,0 +1,42 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON3, PERSON4, PERSON5, PERSON6
+
+
+SUMMARY
+- PERSON4 is getting a visa to Australia this Friday.
+- She has an appointment at the embassy.
+- She is gathering all the documents.
+- She will join her colleague, PERSON10, in the meeting.
+- PERSON3, PERSON5, PERSON6, PERSON4, and PERSON10 are going to share the data for the share task.
+- The data set is small for the full training, but it is acceptable for fine tuning and evaluation.
+- PERSON10, PERSON6 and PERSON3 are going to use ORGANIZATION1 data from 2006 to 2011 for speed summarization.
+- PERSON10 wants to know how to access the minutes of the previous sitting.
+- ORGANIZATION1 will share the screen with her.
+- ORGANIZATION3 will show her a summary of the session, a transcript and the name of the chapter.
+- PERSON10, PERSON3, PERSON5 and PERSON6 are working on a project.
+- The project should be organised into 3 test sets: ORGANIZATION1, ORANIZATION2 and PROJECT1.
+- PERSON10, PERSON3 and PERSON6 are discussing what data they should provide as training data for ORGANIZATION1, ORGANIZATION2 and ORGANIZATION3.
+- PERSON3, PERSON10 and PERSON5 are trying to figure out how to download the data from the meeting.
+- PERSON1 is on vacation this week, so he probably won't be able to help.
+- PERSON5, PERSON3 and PERSON10 are discussing how to prepare the data set for ORGANIZATION1 in the share task.
+- PERSON5's proposal is to take the whole ORGANIZATION1 corpus and aggregate the subset to the existing data and create a more diverse data PERSON10, PERSON5, PERSON6 and PERSON3 are going to prepare a summarization corpus for their project.
+- They will also prepare an ORGANIZATION1 minutes corpus and a small portion of it will be used as a test set for their shared task.
+- PERSON10 wants to know how to download the transcripts and the summaries.
+- PERSON6 is on vacation this week, so he can't help.
+- PERSON10 suggests to ask PERSON8 who is still at home.
+- PERSON10, PERSON3, and PERSON6 are discussing the downloading of ORGANIZATION1 data.
+- They agree on having the ASR and the corresponding minute in one format.
+- They also agree on speaker diarization details in the transcripts.
+- PERSON10, PERSON3, PERSON6 and PERSON10 are working on organizing the data of ORGANIZATION1.
+- PERSON10, PERSON6, PERSON3, PERSON5 and PERSON6 are working on organizing the ORGANIZATION1 corpus.
+- They need to organize it according to the dates and the names of the sessions.
+- They also need to prepare the minutes for each of the transcripts.
+- They PERSON5, PERSON6, PERSON3 and PERSON1 are going through the source material.
+- The source is 2006 till 2011.
+- There is a pdf file with the description of the corpus somewhere.
+- PERSON3 is in the forest.
+- PERSON6 is in LOCATION2.
+- It's cold
+
+
+Minuted by: Team Synapse

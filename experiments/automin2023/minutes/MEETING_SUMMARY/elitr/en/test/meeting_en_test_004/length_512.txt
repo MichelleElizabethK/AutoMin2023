@@ -1,0 +1,62 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON13, PERSON14, PERSON3, PERSON7
+
+
+SUMMARY
+- PERSON10, PERSON15, PERSON6, PERSON8 and PERSON13 are on a conference call.
+- They are discussing the presentation platform by PERSON15 and colleagues.
+- PERSON3 is working on a presentation platform.
+- PERSON10 wants to know if there is a text only client or text only version that can emit the subtitles to standard output.
+- PERSON2 also proposes another option for the main stage presentation problem.
+- PERSON13, PERSON10, PERSON7 and PERSON14 are working on a project.
+- PERSON14 wants them to write a text client to send text to text worker for testing.
+- The KT translation platform doesn't handle batching very well.
+- PERSON5 is the only person left who can fix it.
+- PERSON3, PERSON14, PERSON6 and PERSON10 worked together this week to find better workarounds.
+- PERSON5 needs to test machine translation by looking at the output of the online ASR.
+- PERSON10 wants to send the audio files from the ASR to PERSON5 so that he can check the segmentation.
+- The offline ASR is different from the online one.
+- The segmentation is fine, but the moduls are not trained on it.
+- PERSON10, PERSON13 and PERSON14 are working on an ASR integration project.
+- They are trying to create a command line file that resembles the output of the ASR.
+- There are offline ASR systems and online mediator.
+- The machine translation quality is not affected by mismatching segmentation between the training mode and the operation mode.
+- The models for the mediator are not trained on ASR, on actual ASR output at all.
+- It is hard to get a large enough sample of online ASR to fine tune PERSON14 explains to PERSON13 and PERSON10 that they have to get parallel data.
+- They have 15000 minds of lecture that were manually translated.
+- They need to update and redo the segmentation worker.
+- They also need to check if the line oriented output is similar to PERSON10 is trying to set up the microphone level.
+- The chat is filling up with messages but the ASR worker is not available.
+- There is a bug in the batch mode.
+- The debugger is still on the list for downloading the document.
+- People will focus on the batch operation PERSON7 created a text to text client, but it didn't work.
+- The segmentation workers expect data of type unsegmented text.
+- The CTM is the word level output of ASR.
+- The ASR workers are reliable to debug it.
+- The segmentation workers in ORGANIZATION5 do not work with the CTM client.
+- Therefore, in order to test the machine translation, they always have to rely on some ASR worker being available.
+- ORGANIZATION5 needs to solve the problem before next Friday.
+- PERSON3 will be back next week and they will arrange some hands-on debugging session so that he can help with fixing the bug.
+- The ASR output in chat does not have any tags other than words.
+- There is also the ORGANIZATION2 platform mediator which performs most of the processing.
+- Organization ORGANIZATION2 handles unsegmented text only after it comes out of the segmentor.
+- PERSON14 explains the structure of the SLT ORGANIZATION5 to PERSON10 and PERSON3.
+- PERSON5, PERSON10, PERSON13, PERSON14 and PERSON7 are going to have a session, session with and PERSON15 next week to discuss the bugs in the project.
+- Everyone will be speaking their non-native English.
+- There will be four cabins with interpreters, students of interpretation, and one floor signal, which will be the original signal, will have 1 or 2 re-speakers, into Czech and from that will have interpretation into German.
+- PERSON3 explains to PERSON10 how to improve the presentation platform.
+- Killing the client is useful only to keep all the clients up and running and streaming audio.
+- If the presentation platform already had a man in the middle, then it would be possible to turn off the stream of input.
+- If it does not, then the source would be killed.
+- For June there will be no preview of the subtitle.
+- The selection of the stream should be available.
+- There will be more people monitoring the presentation platform at the same time, so they could simultaneously make decisions.
+- PERSON3 explains to PERSON10 how the presentation platform works.
+- PERSON10 is the integrator of the project.
+- PERSON3 is a software developer.
+- ORGANIZATION1 can order whatever devices they want for the people, but they don't believe 400 people can receive the signal of their WiFi reasonably well.
+- ORGANIZATION2 can organise the people by language, but PERSON3, PERSON10 and PERSON13 will talk again next Friday.
+- They will ship PROJECT1 models to PERSON5 and then or they should test the PERSON5 workers with their PROJECT2 model.
+
+
+Minuted by: Team Synapse

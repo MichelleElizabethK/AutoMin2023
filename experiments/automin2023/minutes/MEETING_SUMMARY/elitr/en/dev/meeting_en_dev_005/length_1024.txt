@@ -1,0 +1,26 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON11, PERSON12, PERSON14, PERSON17, PERSON2, PERSON5, PERSON7
+
+
+SUMMARY
+- The Monday seminar on the 17th of February is going to be held.
+- PERSON9 will give a presentation on PROJECT2 on the Monday seminar.
+- The goal of the office is to describe the pipeline and to invite more people to join.
+- On the 12th of February there will be the first dry run of the NLP workshop.
+- The second dry run will be held on the 17th.
+- There will be non-native speakers of English present at the final workshop.
+- Profanity filtering is going to be an important part of PERSON11 and PERSON14 are working on a project concerning profanity filtering.
+- PERSON14 and PERSON10 are working on the paper for exceptement.
+- PERSON17 has finished evaluation framework and it's ready but he needs to do some small changes to test it.
+- They have the recorded from MI Corporas where your forced alignment fails.
+- PERSON7 has been working on the adaptation of czech ASR for PERSON4 talk that took place yesterday.
+- He was happy with the result.
+- He is preparing a next version of the c Czech ASR system.
+- He also trained the transformer converting the phonings into graphians and PERSON8 has already worked on the project last June when he was helping to put all the byplan together and he helped to rescue the project because TEE was cashing its output.
+- PERSON11 is coming back to back to LOCATION5 on the weekend and he won't be PERSON14 wants to know if there is code for Fastspeech available as code.
+- PERSON5 hasn't tried it yet.
+- PERSON5 is from Kos.
+- She would like to come to LOCATION5 for one week, but she's from LOCATION4.
+
+
+Minuted by: Team Synapse

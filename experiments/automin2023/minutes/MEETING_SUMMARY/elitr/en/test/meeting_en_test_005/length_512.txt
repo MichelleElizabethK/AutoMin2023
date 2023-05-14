@@ -1,0 +1,79 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON11, PERSON12, PERSON3, PERSON6, PERSON7, PERSON8, PERSON9
+
+
+SUMMARY
+- PERSON12, PERSON7, PERSON4, PERSON10, PERSON11 and PERSON9 are on a conference call.
+- The microphone was muted, but now it's working properly.
+- There are some technical problems with the call: the microphone is not working properly, the presentation platform is not PERSON11 wants to start a third worker that would do both the ASR worker and the machine translation into Czech and German at the same time.
+- There is only one English segmenter and two segmenters, so they can only run two of them at once.
+- PERSON12 wants to There are no German interpreters for the workshop.
+- PERSON12 will get a second mike and run the German ASR.
+- PERSON11 is going to change the translation from English to German.
+- PERSON11, PERSON12 and PERSON7 are trying to communicate on a computer.
+- They are having problems with the quality of the translations and with the segmentation of sentences.
+- PERSON12 asks PERSON7 and PERSON9 to write the critical observations from the test at the end of today's blog and put it in the Google doc.
+- There is a problem with screensharing.
+- When following the screen presented by PERSON11, PERSON11 are still presenting the screen, whereas when following the page shown by Pexip, you will see an update of whole page every one or two seconds, whereas in the case of screens PERSON11 will connect one more headset for PERSON11 and one more laptop for PERSON12 so that they can hear each other.
+- They will also test the multipol input stream request.
+- PERSON11 confirms that before the trade fair, they had one empty One ASR and one recorder and it worked.
+- PERSON11 will try to implement the multiplexing functionality.
+- PERSON3 has talked about this behavior yesterday with PERSON5 and PERSON4.
+- PERSON3, PERSON11, PERSON12 and PERSON7 are trying to solve a problem with repetitive input to machine translation.
+- PERSON7, PERSON12 and PERSON11 are having problems with the ASR worker.
+- It's sending the same string twice.
+- People are not getting any more translation.
+- PERSON3 runs a test with the English ASR and fixes the problem.
+- PERSON12 and PERSON3 want to test the presentation platform.
+- The German ASR is not working, so they need to use one of the workers for themselves.
+- PERSON3 wants to share his screen with PERSON12 so he can see his demo and share with presentation.
+- PERSON3 doesn't have a presentation button, so PERSON12 will share the platform instead of him.
+- PERSON3 wants to test the presentation platform to connect to the streaming and display the provide thing.
+- PERSON12 wants to get access to the source code of the video client so that they can test the integration.
+- PERSON12 wants to move to UTF8.
+- PERSON11 has the workers running and if you are following PERSON11's screen as well, but PERSON11 is not sharing.
+- PERSON11 connected English and German screenshare in order to show the output in English.
+- PERSON3 can't perform his test.
+- It doesn't work even if he runs it in Chrome on his Linux desktop.
+- It works in Windows, but not in Firefox.
+- PERSON12 wants to test it on a Linux machine with Google Chrome.
+- PERSON3 is working on the complete pipe, segmentation, translation and publication.
+- Next Monday he will perform a massive test.
+- PERSON12 will be available from 11 to 3 on Monday.
+- PERSON4 is not available on Friday, so they will have the same type of test call on Friday the same time again.
+- PERSON2 will be away next week, and PERSON10 will be absent.
+- PERSON12 wants Pexip to check the work load.
+- PERSON3 wants to improve the segmentation quality for the workshop.
+- PERSON7 wants someone to help him with that.
+- PERSON12 and PERSON9 are going to mimic a real-time streaming video on M3U8.
+- PERSON12 is trying to troubleshoot issues with the presentation platform.
+- The configuration page where you can set the stream provided for each language is not available to each user.
+- PERSON3 explains to PERSON12 how the administration interface works.
+- PERSON3 is able to display it on his desktop, but can't share it.
+- PERSON3 and PERSON12 are trying to connect to ORGANIZATION6.
+- They need the credentials to do it.
+- ORGANIZATION6 is planning to change the default language configuration to Czech.
+- PERSON12 and PERSON11 agree that there should be a big map of all the fingerprints you are use through all the process.
+- PERSON12, PERSON11 and PERSON3 are working on a fingerprint map before the 27th of June meeting.
+- They need it to be compatible to other workers.
+- PERSON3 is going to LOCATION1 for the workshop.
+- PERSON9 found a shortcut to paste the full list of languages that the presentation platform responds to.
+- PERSON12 explains to PERSON3 how the presentation platform works.
+- PERSON12 wants to change the set of languages and add Spanish and French organiser on the front page.
+- PERSON3 explains that in order to have the publication for the Spanish language it is necessary for the mediator to be registered with it.
+- PERSON9 doesn't want to PERSON9 can't connect to the presentation platform on both Windows 10 and Windows 7, because the microphone is not working.
+- It works on Chromium on his mobile device, but it doesn't work on Windows 10.
+- PERSON12 and PERSON9 complain about the presentation they are going to share for the workshop.
+- They want the full screen mode of the web browser to be optimized for desktop instead of mobile phone.
+- PERSON9 asks why the same code adapts to the size of the screen on the desktop as it does for the mobile phone.
+- He also asks for the subtitle to be displayed and for at least 2 languages to be available.
+- PERSON12 wants PERSON3 to share the code for the bare bones of the presentation platform with them.
+- They need it for the purposes of video mixing.
+- PERSON12 wants to know if it's possible to register the worker that feeds the presentation platform.
+- PERSON3, PERSON12 and PERSON4 are on a conference call.
+- The goal for Monday was to test more languages in presentation platform.
+- On Friday they have to check the audio and video inputs and all target languages.
+- person12 is about to leave the conversation.
+
+
+Minuted by: Team Synapse

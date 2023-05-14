@@ -1,0 +1,26 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON11, PERSON14, PERSON15, PERSON2, PERSON3, PERSON4, PERSON7, PERSON8
+
+
+SUMMARY
+- PERSON2 can't hear what is being said.
+- The organiser of the ORGANIZATION2 conference apologizes for the delay.
+- The conference is less than a month from now.
+- The goal is to synchronize the group, and the date and time, the so the day and time of the week is chosen, so that it PERSON11 and PERSON3 are working on a project.
+- They need monolingual data to train the rainbow models.
+- ORGANIZATION6corpus released a data and a model for mining parallel data in one hundred languages, but only one third of it is English-centric.
+- ORGANIZATION10 PERSON11 has discovered that on some of the testing data sets from PROJECT6, the models are not much better than the best Edinburgh models.
+- PERSON8 wants to make PROJECT5 test set and PROJECT2 the standard evaluation tool for spoken language translation and also for machine translation.
+- PERSON3, PERSON8 and PERSON14 will meet next week to discuss the evaluation of the PROJECT5 test set.
+- PERSON4 has worked on machine translation for his master thesis.
+- He is also part-time employed on PROJECT5 to develop multi source, models.
+- His task so far has been to generate synthetic multi-source train set.
+- PERSON3, PERSON10, PERSON11, PERSON15, PERSON7 and PERSON15 are working on multilingual PROJECT4 systems.
+- They are going to use the extended cascaded model from PERSON3's thesis for offline processing and the ORGANIZATION1, which translates phon PERSON3, PERSON10, PERSON11, PERSON14, PERSON15 and PERSON16 are taking part in a conference call.
+- PERSON15 and PERSON7 are working on the same task as the Organizing14 challenge.
+- The task is to train a robust system in English PROJECT4.
+- The data set is partially non-native, partially native and contains information about age and gender.
+- PERSON7 and PERSON15 are going to use the same data set as PROJECT4 from ORGANIZATION14 for ORGANIZATION13 evaluations.
+
+
+Minuted by: Team Synapse

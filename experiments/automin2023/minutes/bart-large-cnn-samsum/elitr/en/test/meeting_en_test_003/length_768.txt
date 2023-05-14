@@ -1,0 +1,35 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON12, PERSON4, PERSON6, PERSON8
+
+
+SUMMARY
+- PERSON12, PERSON8, PERSON6, PERSON4, PERSON7 and PERSON10 are on the call.
+- They are discussing the development schedule for the project.
+- The plan is for ORGANIZATION1 to be responsible for preprocessing and sending sentences to PROJECT3 for translation.
+- PERSON6 had a problem with the internet connection.
+- He wants to know about the handling of timestamps and how to present partial translations and partial output.
+- The basic unit that you send to the presentation platform is called a textfield content.
+- Textfield content can be sent several times as an update.
+- It can be replaced or scrolled up depending on the message.
+- PERSON8 and PERSON6 are discussing the presentation platform.
+- The first prototype of the platform is expected to be ready by the 15th of June.
+- There is no prototype available at the moment.
+- The development team has something close to be fine advertial to use as a prototype.
+- PERSON8 wants to switch to the ORGANIZONATION2 platform for the live subtitling of the organiser's calls.
+- PERSON11 wants to know if it's possible to set up a clone of the Organizer's platform in LOCATION1.
+- PERSON8, PERSON3, PERSON4, PERSON11 and PERSON5 are discussing the presentation of the platform.
+- The presentation will be tested with ORGANIZATION2 after this call.
+- The platform is ready.
+- The ASR workers have one by one died out during the session yesterday.
+- PERSON11 will create a script that will replicate the bug.
+- PERSON4 has a problem with ASR.
+- The production client is different from the simple one.
+- The script is supposed to be used as an input fingerprint and stress test a single worker.
+- It didn't work for PERSON4 this week, so she wrote to the production clients and asked them for help.
+- PERSON4 will send the email to the MT clients.
+- PERSON8 is going to reboot and try to lodge the ORGANIZATION2.
+- He will be in touch and speak to you next week next Friday about the workshop scheduled for LOCATION1.
+- PERSON6 won't be there as he will be checking blogs and checking blogs in Trento.
+
+
+Minuted by: Team Synapse

@@ -1,0 +1,57 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON11, PERSON14, PERSON15, PERSON2, PERSON3, PERSON4, PERSON7, PERSON8
+
+
+SUMMARY
+- PERSON3 had a conference call with ORGANIZATION12 this morning, but it didn't work.
+- ORGANIZATION12 wants to synchronize the group, and the date and time, so that it is fits to most of the participants.
+- Even if someone can't come to the call, it is not a problem as long as they enter their details in the shared document before the call.
+- PERSON3 will later ask PERSON11 to give a summary of what he has been working on for the past months.
+- The call is being There is an ORGANIZATION7 conference in early December.
+- The conference will serve as a test event for the Organizing Committee as they want to be as prepared as they would be for the main ORGANIZATION16 Congress.
+- If the conference is cancelled, they will use the next year's PERSON11 has been working since on the calls.
+- She was working on the rainbow model for paraphrasing for PERSON1.
+- She has also been working on collecting monolingual data for the rainbow models.
+- PERSON11 will write to ORGANIZATION15 to get their data.
+- ORGANIZATION15 released a data and a model for mining parallel data in one hundred languages.
+- On some of their testing data sets from PROJECT6, the models were not much better than the best Edinburgh model.
+- PERSON3 wants to know if the evaluation works.
+- He wants to use monolingual data for, domain adaptation.
+- He also wants parallel data as much as possible and more work on ORGANIZATION6corpus, which was started by PERSON13 last year, but never got finished.
+- PERSON3 is not working on the PROJECT5 test set.
+- PERSON9 is moving more towards system integration.
+- PERSON6 will join them only from December.
+- PERSON8 created a new index for PROJECT2 and wrote a report on behalf of it.
+- The goal of the PROJECT5 project is to make it the standard evaluation tool for spoken language translation.
+- PERSON8 wants to publish the evaluation of the PROJECT2 system at a conference in January.
+- PERSON3 wants to have both versions of the evaluation tool at the same time.
+- PERSON8 and PERSON3 have a conference call to discuss ORGANIZATION17 and ORGANIZATION8's work.
+- They also discuss ORGANIZATION3's working procedures.
+- Next week will be better for PERSON8 as it will be shorter.
+- PERSON3 asks PERSON14 to work with PERSON10 on the evaluation of the cruise control.
+- PERSON3, PERSON4, PERSON9, PERSON12, PERSON14, PERSON15 and maybe even PERSON15 will have a conference on the design of a censorship tool.
+- PERSON4 has worked on multi-target machine translation for his master thesis.
+- Now he is working on PROJECT5 to develop a synthetic multi-source train set.
+- He needs access to the system and cluster to train it.
+- The paperwork is still in the process.
+- PERSON10, PERSON3, PERSON4, PERSON15 and PERSON7 are waiting for the cluster to be ready.
+- They need to prepare a multi-source synthetic corpus, translate the German and Czech news into English and create a data augmentation system for PROJECT4.
+- PERSON3, Umar and PERSON15 will work on the same data and keep training the ORGANIZATION1 model.
+- PERSON3, PERSON10, PERSON11 and PERSON4 will continue training the double encoder model on small GPus.
+- PERSON11 wants to know what models they are working on and how to start.
+- PERSON3 is making PERSON7 the host of the call.
+- PERSON14 has to leave, her lecture is ongoing.
+- PERSON15 wants to talk to PERSON7 for a while.
+- PERSON7 is working on a task similar to the ORGANIZATION14 challenge.
+- The task is to train PROJECT7 in English.
+- PERSON7 is working on a project to train a robust English PROJECT4.
+- He is using ORGANIZATION4 Toolkit.
+- Next week he will be in Prague and he will start to work on the multi-lingual project.
+- PERSON7 was using the English and Czech PROJECT4 during his master thesis.
+- He fine tuned the model to recognize phonemes exe, rather than graphemes.
+- PERSON15 wants to know the data set of ORGANIZATION13.
+- PERSON7 doesn't have it.
+- PERSON15 will leave a message for him on e-mail.
+
+
+Minuted by: Team Synapse

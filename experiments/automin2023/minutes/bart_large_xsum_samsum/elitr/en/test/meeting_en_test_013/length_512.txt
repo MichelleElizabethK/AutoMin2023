@@ -1,0 +1,40 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON14, PERSON15, PERSON4, PERSON8, PERSON9
+
+
+SUMMARY
+- PERSON8 is going to work.
+- PERSON14 is watching the lecture on PROJECT2 ORGANIZATION5.
+- The lecture was live streaming.
+- The transcript is processing.
+- PERSON8 wants to run the byplan and for the audible cell ties before the segmentor and after the segmenter, and then submit the locks after the segmentser.
+- PERSON14 wants to open a lot of directed today.
+- PERSON8 doesn't have the input files for PERSON14 needs to get all the input files for the evaluation.
+- The input files are in VDD format, one sentence per line.
+- Some of them are too long, so they need to be broken down into smaller chunks by PERSON13 and PERSON4.
+- PERSON13, PERSON12, PERSON11, PERSON4, and PERSON3 are not on the call.
+- There is some inconsistency of names now.
+- The most up to date OST versions are in the repositor.
+- PERSON8 asks PERSON14 to put the path of the files that they are processing here.
+- PERSON8 is copying the Antrecorp with the texts and the test files.
+- The depth set is - Depth set - Since set.
+- The OST files are here and the WAVs are here.
+- PERSON8 wants to know if PERSON15 has started pushing anything into the new repository for PROJECT2 test set.
+- PERSON14 doesn't know yet.
+- PERSON4 asks him to check the SLT test set and depth set forced alignment files.
+- There is a deadline for EMT tomorrow PERSON8 wants PERSON4 to review the part that she has just highlighted.
+- The WAV files should be also from the 16 kilohertz WAV file and they should use the new names, not PERSON12 but Austrian and not Dutch.
+- PERSON8 asks PERSON4 to prepare all the lines, all the English lines, until 16.
+- PERSON4 will do it tomorrow.
+- PERSON8 is disorganised at this point, because of the extra workload with the remote lecturing.
+- People should update the Doodle poll.
+- PERSON14 is working on a caraoke as timeview.
+- He didn't use CTM, he created an AAS file using a software.
+- The forced aligner is doing the what level timestamping and the word level alignments.
+- PERSON9 is finishing the paper about subtitler.
+- The deadline is 25th, so he doesn't have to do anything with audible SLT.
+- PERSON15 is working on 3 languages Polish, Polish, German and Russian.
+- He collected 3000 sentences for 3 languages and almost cleaned them PERSON4 will create a Python script for the subtitles for this test.
+
+
+Minuted by: Team Synapse

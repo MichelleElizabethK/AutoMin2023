@@ -1,0 +1,57 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON13, PERSON15, PERSON16, PERSON2, PERSON3, PERSON6, PERSON7, PERSON8
+
+
+SUMMARY
+- PERSON7 missed two sessions yesterday.
+- The recognition quality was bad and the files were too big to be uploaded to PROJECT3.
+- PERSON16 will upload a link file for one folder and then they will do the rest.
+- PERSON14 is collecting the text files for the domain specific data.
+- PERSON4 has set up PROJECT4.
+- PERSON13 will explain to him that there is a clear distinction between the PROJECT13 Archive, which are the interviews with the survivors of World War II of the Holocaust, some conferences about that, historical evidence, the recordings, and then the historical papers and presentations by historicians.
+- PERSON13 asks PERSON6 to take a look at the PROJECT2 environment in the PRO PROJECT7 paper and explain in two cases, German to English and English to German what is probably happening according to the description in the paper and what should be happening to give more time to the PERSON13 wrote most of the PROJECT12 demo paper.
+- PERSON15 doesn't have access to the reviews.
+- PERSON13 will e-mail a link to the review.
+- PERSON13 wants to do experiments.
+- ORGANIZATION2 is not keen on that idea.
+- PERSON16 should focus on the evaluations and getting the systems ready.
+- PERSON15 is continuing with data preparation of ORGANIZATION5 corpus.
+- PERSON5 has started to write the summary of the experiment, but he is busy with exams.
+- PERSON7 will get in touch with PERSON8 and process all the files that PERSON8 has for, English, PERSON7 is writing a tool that will allow operators to prepare a pipeline for some event.
+- Next Friday there is going to be a conference about PROJECT13 and they are going to provide life subtitles and transcription for non native English speakers.
+- PERSON13 wants PERSON18 to handle the soft, soft things with the participants and also with the organisers.
+- PERSON15 has a simple tool that you could adapt.
+- PERSON18 should prepare very simple instructions that the participants could follow.
+- It's on the twenty fifth on January.
+- If the PERSON3 has sent the files to PERSON13 and PERSON16.
+- PERSON3 wants them to focus on the stand alone one shot of things.
+- PERSON16 is going to rerun the transcript late, so that she has a clean set of transcripts.
+- PERSON13 wants PERSON16 to make a new evaluation campaign in the PROJECT12 test set evaluations.
+- PERSON1 is the last person mentioned in the report.
+- He has developed a system for shortening PROJECT1, English to Czech.
+- PERSON8 is working on the chopped, training method.
+- The idea is that, for English, and for other languages, she aligns the training data that they have with the recordings.
+- She's able to generate the recordings, but is struggling to optimize the pipeline.
+- PERSON13 wants to be paid from PERSON19's PROJECT5 tool, but she doesn't know how much she should be paid.
+- She is giving a talk this afternoon.
+- PERSON13 asks for the same amount from the two PROJECT5s.
+- PERSON8, PERSON15, PERSON6 and PERSON2.
+- PERSON13 explains to PERSON6 the problem with the translation from German to English.
+- PERSON13 will write the paper as if they are doing this already.
+- PERSON13 and PERSON6 are looking for an example so that they can replace the.
+- PERSON2 will look for examples like the one in PROJECT2 case.
+- PERSON13 will do the segmentation strategies.
+- PERSON6 and PERSON13 have a problem with the number of characters in the text.
+- They need to divide the text into words based on their length.
+- PERSON13 explains to PERSON6 and PERSON2 that the formula is based on characters at the end time of the word and not on C. PERSON6 explains to PERSON13 how the partial numbers are calculated.
+- It is based on the C segment and the number of characters.
+- PERSON13 wants to keep the paper as it is.
+- There is nothing in the paper that would allow people to calculate the alignment information, but there is a formula based on the formula.
+- People will finish the paper after PERSON17e.
+- PERSON13 will add PROJECT3 account to the PROJECT12 test set and on PROJECT6 also, so she can do the evaluation.
+- The restrictions are over from the 5th of January.
+- PERSON6 will be added to PROJECT7.
+- PERSON13 will probably also add her to ORGANIZATION9 teams.
+
+
+Minuted by: Team Synapse

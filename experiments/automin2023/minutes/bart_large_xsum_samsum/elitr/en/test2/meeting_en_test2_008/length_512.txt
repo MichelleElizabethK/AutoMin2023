@@ -1,0 +1,73 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON4, PERSON9
+
+
+SUMMARY
+- PERSON9 and PERSON4 are going to a meeting today.
+- PERSON10 was about to join, but he was caught in a call.
+- PERSON13 is also going to join.
+- PERSON4 sent a list of named entities to the annotator.
+- The annotator stopped responding and he didn't finish it.
+- PERSON10 will send the link to the Virtual Coffee agenda to PERSON4 and PERSON9.
+- They will write it to the agenda.
+- PERSON10 will get in touch with PERSON7 to discuss the procedure for de-identifying, procedure for annotating documents.
+- PERSON4 made a copy of his document.
+- PERSON10 would like the name of the document to be more descriptive.
+- PERSON10 and PERSON4 are working on a project.
+- They need to remove all named entities from the collection of documents and replace them with place holders.
+- They want to do this at the word type level and then the word token level.
+- After that they will do something with contexts PERSON4 doesn't understand the code.
+- PERSON7 was supposed to be the system operator, but he's not available.
+- PERSON4 is worried about it.
+- PERSON4 is getting into the list.
+- There are many typos in named entities.
+- Most of the output is not a named entity.
+- The program does not include all the words beginning from cPROJECT4tal.
+- PERSON10 and PERSON11 are discussing how to preserve the identity of NEs, co-referencing of chains and how to prevent leaks.
+- PERSON10 and PERSON4 agree that for the sake of time they should ignore the identity or tracing of the identity of people and projects.
+- They should not ignore it for speakers and for people referred to in the text.
+- PERSON4, PERSON10 and PERSON7 need to get in touch with PERSON7 to find out if he can confirm the identity of the speaker.
+- PERSON10 wants to de-identify the corpus.
+- She will have a session with PERSON4 with the data.
+- PERSON14 started working on it yesterday.
+- PERSON4 and PERSON10 are discussing how to de-identify the data of a meeting.
+- She needs to read the regulations.
+- She has to decide what should be anonymised.
+- She should also decide if she has to delete the names of the languages.
+- If she doesn't, PERSON10 is waiting for PERSON4 to finish reading the document and agree on a timeline with her.
+- The document is any text, in the collection that is important.
+- All personal data must be removed and the data set must be free of personal data.
+- PERSON4 and PERSON10 need to decide how to de-identify the data.
+- They need to create two consent forms, one for working with the data and one for publishing it.
+- They have to give all participants of all meetings the consent forms at the same time.
+- PERSON4 and PERSON10 are working on a new consent form.
+- They want to focus on the second form which is the consent to publish the data.
+- PERSON4 and PERSON10 are going to give everyone access to the full dataset and send them the consent form.
+- They will prepare the data set as a directory with documents which people could browse.
+- PERSON9 will prepare a web page in 2 hours.
+- PERSON4 will collect the names of the participants from the meeting minutes.
+- PERSON4, PERSON9 and PERSON10 are going to create a master sheet, extract the names of participants from the minutes and send them personalised emails.
+- PERSON9 asks PERSON10 to prepare a sample document, one meeting or two meetings at most, so that they can put it online as to the prospective participants of the task at the beginning of February.
+- PERSON9 and PERSON10 agree that the participants should have their consent to de-identify by the end of February.
+- They should have the data ready for them to browse in March or April.
+- It depends on whether PERSON4 will be finished with the work type level annotation in 2 PERSON9 has created a lot of different things during Christmas holidays.
+- The coding of the Xml should be done by the end of by the mid of February at the latest.
+- The remover of the text from the document should not be done later than in mid February.
+- PERSON9 forwarded the email template that they would be sending to the.
+- PERSON4 is unsure if they should invite all of the PhD students to the Scientific Committee or leave it open.
+- PERSON9 suggests putting the list down and putting to be determined or in preparation in the in the Scientific PERSON9 is responsible for preparing the text for an email to the prospective members of this organisation.
+- She didn't get a reply to her previous e-mail.
+- She needs to send it again.
+- She also needs to divide the people in the organization into separate groups.
+- PERSON9 and PERSON10 need to submit the proposal for the PROJECT1 project within the January 7th or 8th.
+- They need to contact people from a list and put their names in the ORGANIZATION9sheet so that they can put them in the proposal.
+- PERSON10 wants to have a Scientific Committee with at least 15 people in it.
+- They will send them e-mail with the list of people to contact and they will aim for the deadline two days from now.
+- PERSON10, PERSON9 and PERSON4 are going to send the proposal to ORGANIZATION7 on January 15th.
+- They are also going to ask the experienced people from the 2006 event as the key note speakers.
+- PERSON4 wants PERSON10 and PERSON3 to send three prepared letters to his candidates.
+- He wants them to cooperate with him from the financial point of view.
+- PERSON10, PERSON4 and PERSON9 will meet this afternoon.
+
+
+Minuted by: Team Synapse

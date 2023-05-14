@@ -1,0 +1,45 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON13, PERSON15, PERSON16, PERSON2, PERSON3, PERSON6, PERSON7, PERSON8
+
+
+SUMMARY
+- PERSON7 is trying to recover from his past missed sessions.
+- Yesterday's experience was disastrous again.
+- It was badly recognised and it was also slow.
+- Yesterday, the files were too big to be uploaded to PROJECT3.
+- Today, PERSON16 is supposed to address this problem.
+- PERSON13 explains to PERSON16 that there is a clear distinction between the PROJECT13 Archive and the ORGANIZATION10 Archive.
+- PERSON3 is joining the call.
+- PERSON6 has a dentist's appointment in one hour, so he can't join the meeting.
+- PERSON13 needs help with revising the paper for PROJECT12 multilingual life subtitling.
+- PERSON15 can't help as he doesn't have access to the reviews.
+- The idea is to pass all training data through PROJECT8 and other systems in an automated way so that they get the data distorted.
+- PERSON7 is writing a pipeline configuration tool for a conference next Friday.
+- PERSON15 suggests to move more priority to the write up of the experiment with ORGANIZATION5.
+- PERSON8 will process all the files that PERSON8 has for English training data in Czech.
+- PERSON13, PERSON15, PERSON6, and PERSON16 are going to a seminar on the twenty fifth on January.
+- They need to prepare instructions for the participants and get feedback from the participants.
+- The speaker of the last week's has not sent the transcripts yet, so PERSON3 will have to do it again.
+- PERSON16 wants to include a new evaluation campaign in the PROJECT12 test set evaluations.
+- PERSON8 is working on the chopped, training.
+- PERSON8 has a job running on the cluster that is constantly rewriting new versions of the text of each recording.
+- PERSON13 needs to find out how the training pipeline on the PROJECT9 works.
+- PERSON15 wants to be paid from PROJECT5 tool, but it's not the same as what PERSON13 is asking for.
+- PERSON13 wants to talk to PERSON6 and PERSON2 about PROJECT7.
+- PERSON6 and PERSON13 are trying to solve a problem with the alignment of sentences in German and English.
+- They need to find a solution that maximizes the value of the previous word in the sentence rather than just the value from the proportional alignment.
+- They also need to increase the maximum of the alignment.
+- PERSON6 and PERSON13 have a problem with the division of work between text and speech.
+- They are trying to solve the problem in the seminar room, but it's not as simple as they thought.
+- They have problems with the segmentation strategies and with the delay calculation.
+- PERSON6 and PERSON13 are trying to work out a formula based on characters at the end time of a word and the time stamp of the T-shirt.
+- The formula is based on C, not on C. It considers partial words and takes some estimation for the first word, second word, third word, Frourth, fifth and sixth word.
+- PERSON13 and PERSON6 are trying to solve a difficult problem.
+- The solution is based on the C segment and the number of characters, but there is another type of calculation which is only based on C. The problem is that there is nothing in the paper that would allow people to calculate this.
+- They will finish the problem today.
+- PERSON6 and PERSON13 will work on PROJECT12 evaluation and PROJECT7.
+- They need to push the people to do the job and integrate the profanity filtering themselves.
+- They will probably add PERSON6 to ORGANIZATION9 teams as well.
+
+
+Minuted by: Team Synapse

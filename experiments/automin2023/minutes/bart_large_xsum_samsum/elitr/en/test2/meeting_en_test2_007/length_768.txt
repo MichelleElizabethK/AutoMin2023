@@ -1,0 +1,44 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON13, PERSON15, PERSON16, PERSON2, PERSON3, PERSON6, PERSON7, PERSON8
+
+
+SUMMARY
+- PERSON13 and PERSON7 came late.
+- Yesterday, the experience was disastrous.
+- The recognition quality was also slow.
+- The files were too big to be uploaded to PROJECT3, so PERSON16 had to address that.
+- PERSON14 wants to collect the text data from the PROJECT4 archive.
+- He has applied for direct access to it, but the data that ORGANIZATION10 has is just viewable, read only, and there are videos that you can't get unless you apply for it.
+- PERSON13 PERSON6 and PERSON13 have a meeting in the afternoon.
+- PERSON6 has to go to the dentist in fourty five minutes.
+- PERSON13 will explain to PERSON6 and PERSON15 what is going to happen in the PROJECT2 environment.
+- PERSON15 doesn't have access to the PERSON13 is looking for PROJECT12 multilingual life subtitling paper.
+- The paper is supposed to be six pages long.
+- There are reviews in plain text file.
+- PERSON15 is busy with data preparation of ORGANIZATION5 corpus.
+- PERSON16 is working on the evaluations.
+- PERSON13, PERSON15 and PERSON7 are going to prepare a paper on the study.
+- PERSON8 will get in touch with PERSON5 to process all the files that PERSON8 has for, English, training data.
+- PERSON13, PERSON15 and PERSON18 are going to provide life subtitles and transcription for PROJECT13 at a conference on the twenty fifth of January.
+- They need feedback from non native English speakers.
+- PERSON3, PERSON13, PERSON11 and PERSON16 are going to collect feedback on the quality of the project on the twenty-fifth.
+- They want to choose the best set up for the seminar.
+- The speaker of the last week's seminar hasn't manually transcribed the transcripts yet PERSON13 wants PERSON16 to make a new evaluation campaign in the PROJECT12 test set evaluations.
+- PERSON8 is working on the chopped, training data.
+- PERSON8 is struggling to generate the recordings.
+- The training pipeline is too slow for the big corpora like Czech.
+- PERSON13 is not sure if he should be paid from PERSON19's PROJECT5 tool.
+- PERSON13 wants to talk to PERSON6 and PERSON2 about the PROJECT7.
+- PERSON13 and PERSON6 are working on a project.
+- The system is monotonically aligned to the English language, but if the PROJECT1 system decides to obey the standard English grammar, it will emit all the words at once.
+- Therefore, they need to increase the maximum PERSON6 and PERSON13 are arguing about the speed of the translation and the segmentation strategies.
+- PERSON6 and PERSON13 have a problem with the number of characters in the text they have to divide by the length of the text.
+- PERSON13 explains to PERSON6 how the formula works.
+- It is based on characters at the end time of the word and on the time stamps in C. There is another type of calculation which is only based on the C and the number of characters.
+- PERSON13 will add acc, my PROJECT3 account to the PROJECT12 test set and the code towards the maximization.
+- PERSON2 is sharing the screen with PERSON13.
+- PERSON13 is adding PERSON6 to PROJECT7.
+- PERSON6 will probably be added to ORGANIZATION9 teams.
+
+
+Minuted by: Team Synapse

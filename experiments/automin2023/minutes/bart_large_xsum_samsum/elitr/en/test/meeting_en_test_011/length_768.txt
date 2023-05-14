@@ -1,0 +1,26 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON4, PERSON5, PERSON6, PERSON7, PERSON9
+
+
+SUMMARY
+- PERSON9 will do some probing on transformer networks.
+- PERSON5 and PERSON7 are talking about a paper they did.
+- The paper is interesting in the sense that in their 60 internet use try to use sentences and test on harder, weirder constructions to see if the attention and compution scores would be interesting.
+- PERSON PERSON7 and PERSON5 want to have a skype call with the people in LOCATION3.
+- They want to come to LOCATION1 for two weeks and collaborate on something with them.
+- PERSON1 explains to PERSON7 and PERSON9 the structure of the syntactic tree.
+- They discuss the differences between the different types of balustrades.
+- PERSON1 is in LOCATION2 until half of December.
+- PERSON7 will be taken in the beginning in December.
+- PERSON5, PERSON9 and PERSON6 are going to meet in 14 days to work on the project.
+- They will get invitation e-mail to join.
+- PERSON9, PERSON5, PERSON6, and PERSON1 are working on a project.
+- They are trying to solve a problem involving Transformer, which is a model trained in neuromantee by PERSON4.
+- Transformer trained for machine translation would be more syntactic PERSON5 and PERSON9 are working on their master thesis.
+- The deadline for the presentation is the 8th of December, but he was supposed to come back in the beginning of December and stay there for 2 weeks after New Year's.
+- They need to set up some more frequent PERSON9 and PERSON2 will send the paper to the dean.
+- They will also send it to PERSON6 and PERSON4.
+- They need at least one month to prepare it.
+
+
+Minuted by: Team Synapse

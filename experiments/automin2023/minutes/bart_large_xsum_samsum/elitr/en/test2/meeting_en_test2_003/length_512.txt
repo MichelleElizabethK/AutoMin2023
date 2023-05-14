@@ -1,0 +1,59 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON4, PERSON7, PERSON9
+
+
+SUMMARY
+- PERSON4 hasn't heard from PERSON2 yet, so she's not sure if PERSON2 will be joining.
+- He's in Prague.
+- PERSON7 is already in Iran for a month or two.
+- PERSON9 is moving to New Delhi for the visa and stuffs.
+- PERSON9 is afraid to go to New Delhi.
+- The way in which they are paying her has legal limits, which will probably run out in the middle of the year.
+- If they wanted to pay her for the full year, the limits amount to half a year, which would be PERSON2, the student of PERSON4, didn't respond to his e-mail three hours ago.
+- He needs to finish his master thesis.
+- He will not be able to work on the project, because he needs to focus on developing a tool.
+- He is already being paid for PERSON4 and PERSON7 are short of people to prepare, annotate and polish the data set.
+- PERSON4 will try to reach out to a CS student to do it over the weekend.
+- PERSON7 and PERSON4 are working on a project.
+- They need to prepare a format for the annotators.
+- It is up to PERSON4, PERSON7 and PERSON1 to decide what to do about annotating the documents.
+- PERSON4, PERSON9 and PERSON7 have sent a link to a document.
+- PERSON4 is sharing the de-identification procedure with PERSON7.
+- The annotators cannot edit the HTML files without opening them in an editor.
+- PERSON7 will look for someone to do that on weekends.
+- PERSON1 will copy and paste a comment from the markup into the main text of the minutes so that we do not lose it.
+- PERSON4 explains to PERSON7 how to prepare a custom XML markup.
+- PERSON4 suggests a presentation to the annotators in ORGANIZATION4 Word.
+- People should be able to skip quickly through the text.
+- PERSON1 thinks that individual sentences are not sufficient.
+- PERSON4 votes for showing the full documents.
+- PERSON1, PERSON4, PERSON9 and PERSON7 are discussing how to upload documents to ORGANIZATION1 Docs.
+- PERSON4, PERSON7 and PERSON1 discuss how to mark non-per non-named entities.
+- PERSON4, PERSON7 and PERSON1 will prepare a test document.
+- They will do the bolding, italicisation and extraction.
+- PERSON4, PERSON9 and PERSON1 are going to submit the web page to the Scientific Committee.
+- They need it to be ready within one or two hours.
+- The website is already in the PROJECT1, GitHub.
+- The way to roll it out to the web is PERSON4 hasn't written to the Russians yet.
+- PERSON9 will do that once the webpage is ready.
+- PERSON5 is not on the call.
+- PERSON7 needs a reference letter for Calgary.
+- PERSON9 is in the process of submitting the PROJECT3 proposal to two places.
+- They need to have all the data processed by February mid.
+- PERSON7 and PERSON9 are going to meet at the end of this week to prepare the first sample for the project.
+- PERSON9 and PERSON7 are going to send a PROJECT2 proposal next week.
+- PERSON4 wants the sample data, at least, some files, to be uploaded on the website as soon as possible.
+- PERSON1 and PERSON9 are having a conversation about the new variant of comorbidity.
+- PERSON1 wishes he was there, but he had to stay here.
+- PERSON9 and PERSON1 are waiting for the mass immunisation program.
+- They hope it will slow the spread of the disease.
+- The vaccines are more than 90% accurate and can stop the spread.
+- PERSON1 and PERSON9 have to submit a PROJECT3 proposal today.
+- PERSON1 wants to put a link to her website in the website, but she didn't find the source of the link, so she sent it to PERSON9.
+- PERSON9 wants to get all proposal submission stuffs done by January tenth, so that they can focus back on their research part.
+- PERSON1 didn't hear back from PERSON5.
+- PERSON1 and PERSON9 have to submit something.
+- They will meet tomorrow at half past one.
+
+
+Minuted by: Team Synapse

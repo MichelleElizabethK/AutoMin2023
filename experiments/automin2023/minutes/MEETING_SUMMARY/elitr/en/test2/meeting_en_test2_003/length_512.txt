@@ -1,0 +1,63 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON4, PERSON7, PERSON9
+
+
+SUMMARY
+- PERSON4 hasn't heard from PERSON2 yet.
+- PERSON2 is in Prague.
+- PERSON1 sent an email with a photo of him to PERSON2.
+- PERSON7 is in Iran for a month or two and is considering moving to Canada.
+- PERSON9 is in New Delhi.
+- PERSON9 is afraid to go to New Delhi.
+- The way in which they are paying PERSON4 has legal limits.
+- PERSON4 started working in the middle of the last year.
+- PERSON9 will talk to Professor PERSON4 about it.
+- The student of PERSON4 needs to finish his master thesis in order to be able to join the project.
+- PERSON2 didn't respond to the e-mail I sent him three hours ago, so he can't join.
+- PERSON4 doesn't want to pay him because he won't be PERSON4 and PERSON7 are short of people who can prepare, annotate and polish the data set.
+- PERSON4 will try to reach out to another CS student.
+- PERSON4 explains to PERSON7 that some of the words are not named entities in all the contexts, so they need to be decided by the by instances.
+- PERSON7 needs to prepare some format for the annotators to annotate them.
+- PERSON4 suggests bolding and italicising the text to make it easier for people to annotate documents.
+- PERSON7 suggests taking the list from PERSON1.
+- PERSON4, PERSON9 and PERSON7 are working on a document.
+- PERSON4 is sharing the link again.
+- The de-identification procedure is as follows: create an HTML file, make a span, open it in LibreOffice, or ORGANIZATION4 Word, and do the bolding, do the italicisation, and save it in XML PERSON1 will copy and paste a remark from PERSON4 into the main text of the minutes.
+- According to PERSON4, the XML markup should be clear about the stages of the processing.
+- According to PERSON7, it should be possible to show them only the sentences with the with those words and some words in it.
+- PERSON4 would like to show the full documents to the annotators.
+- PERSON1 thinks that individual sentences are not enough.
+- PERSON1, PERSON4, PERSON9 and PERSON7 are discussing how to upload documents and keep track of their transcripts.
+- PERSON1, PERSON4 and PERSON7 agree that it would be better to mark non-per non-named entities as such.
+- PERSON4 and PERSON7 will prepare a test document for the annotators.
+- They will do the bolding, the italics, and the red and green marking.
+- Then they will test the document in Word and HTML.
+- PERSON9 will make the website ready within one or two hours.
+- PERSON4 and PERSON9 will submit it to the Scientific Committee.
+- They are running short on time for PROJECT2.
+- PERSON4 hasn't written to the Russians yet.
+- PERSON9 can do that once the webpage is ready.
+- PERSON1 was unsure about the table, getting it updated.
+- PERSON5 is not on this call.
+- PERSON9 wants to arrange a meeting with PERSON6 to talk about the PROJECT3 proposal.
+- They need to submit it to two places, PROJECT2 or ORGANIZATION2 and have all the data processed by February mid.
+- PERSON7 will try to have the first sample of the project ready by the end of this week.
+- PERSON1, PERSON9 and PERSON7 will meet on Monday to catch up.
+- PERSON9 wants to see the sample data so that she can help with the work on the proposal.
+- PERSON4 wants to upload the files to the website as soon as possible.
+- The proposal is almost done.
+- It will be ready next week.
+- Once the review is done, it will PERSON1 and PERSON9 discuss the organization's documents.
+- It's in the ORGANIZATION1 document.
+- People with comorbidities are at an increased risk of dying as a result of it.
+- PERSON9 and PERSON1 hope that once the vaccine, mass immunation program starts, it will slow the spread and once the once the spread, goes a townward trajectory, then it is going to end.
+- The vaccine's accuracy is more than 90%.
+- PERSON1 and PERSON9 have to submit a PROJECT3 proposal today.
+- PERSON1 will paste the website link to the review committee's website.
+- PERSON9 wants to get all the proposal submission stuffs done by January tenth, so they can focus back on the research part.
+- PERSON1 is bad at organisational things, she's good at personal things and bad at group things.
+- PERSON1 and PERSON9 have to submit something.
+- They have a meeting tomorrow at half past one.
+
+
+Minuted by: Team Synapse

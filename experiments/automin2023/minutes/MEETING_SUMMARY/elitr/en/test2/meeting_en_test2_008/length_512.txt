@@ -1,0 +1,69 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON4, PERSON9
+
+
+SUMMARY
+- PERSON9 and PERSON10 were about to join the meeting, but PERSON13 wanted to keep it to himself.
+- PERSON4 will drop PERSON10's message over the phone as they are already online.
+- PERSON10 is worried that PERSON7 won't be able to help them prepare the data as he stopped responding to their messages.
+- He was about to move to Canada.
+- PERSON4 needs to finish the annotation at the type level and double check with PERSON7 to make sure he can do the processing.
+- The second round of annotation depends on the context.
+- The agenda is in the master document.
+- The last one is from the middle of December.
+- PERSON4 will be back in 30 seconds.
+- PERSON10 will write down the steps for de-identifying, de-annotating and annotating documents.
+- PERSON4 made a copy of PERSON7's document.
+- PERSON10 would like the name to be more descriptive.
+- PERSON10 explains to PERSON4 how to sort out the named entities from the documents.
+- PERSON10 is worried about the availability of PERSON7, who was supposed to be the system operator to do the bulk processing of the documents and the insertion of the annotations into the Xml.
+- There are a lot of mistakes in named entities.
+- Most of the output is not a named entity.
+- There are also problems with the edition of new documents.
+- PERSON10 explains to PERSON11 and PERSON4 how to preserve the identity of NEs, co-referencing of chains, and how to prevent leaks.
+- PERSON10 and PERSON4 agree that for the sake of time they should ignore the identity or tracing of the identity of projects and people.
+- However, they should not ignore it for speakers.
+- PERSON4, PERSON10 and PERSON13 are working on a project.
+- They need to create an outline of the project.
+- PERSON10 suggests to get in touch with PERSON7 to find out if he has any information about the speaker.
+- PERSON10 is worried about de-identifying the corpus.
+- PERSON9 thinks it's doable.
+- PERSON14 is working on it.
+- PERSON10 explains to PERSON4 and PERSON9 how to de-identify the data.
+- They agree to leave English, German, Czech and Romanian as the main languages and to align the transcript and minutes of the meeting.
+- PERSON10 is waiting for PERSON4 to finish reading the regulations.
+- They need to make sure the data set is free of personal data.
+- ORGANIZATION6 does not go through the same procedure as PERSON14.
+- PERSON4 and PERSON10 need to prepare the de-identification and consent forms.
+- They need to create two consent forms: one for working with data and one for publishing it.
+- PERSON4 and PERSON10 are working on a new consent form for the collection of data.
+- The consent forms are about publishing and deidentifying the data.
+- PERSON4 and PERSON14 will prepare the consent forms for every participant.
+- They will also prepare a directory with documents which people could browse.
+- PERSON9 will prepare a web page in 2 hours.
+- PERSON4 has just made a sample of meta data from the meeting minutes.
+- PERSON9 is recording the meeting.
+- PERSON10 is preparing personalised emails for the participants.
+- PERSON9 and PERSON10 discuss the details of the project they are working on.
+- They want to have the full dataset by the end of March, trial data 16 March, training data first April.
+- PERSON9 thinks the end of February would be a good date for the participants, for the meeting participants to get their consents.
+- Two months later they should have the data ready for them to browse.
+- PERSON10 wants the coding of the Xml and the removal of the text from the document to be done by the end of February or mid February.
+- PERSON9 forwarded the email template that they would be sending to the.
+- PERSON4 is unsure if they should invite all master's students and PhD students to the Scientific Committee.
+- PERSON9 suggests that they should leave it open.
+- PERSON9 forwarded the text for an email to the prospective members of the application.
+- PERSON10 asked him to prepare the text.
+- PERSON9 added column F in the ORGANIZATION9sheet to divide the people and invite them personally.
+- PERSON10 wants to submit the proposal for the project within the next 7-8 days.
+- He wants to make several copies of the invitation email, personalise it and cancel some of the participants' applications.
+- He also wants to put their names in the organization's list.
+- PERSON10 wants to have a Scientific Committee of at least 15 people in order to finish the call and keep working on the request to participate and on the list of people to contact.
+- PERSON10, Ian, PERSON9 and PERSON4 are going to ask the experienced people from the 2006 organiser's event to give them the background knowledge from the past.
+- They will also ask them to be on the committee.
+- They should send the proposal to ORGANIZ PERSON4 wants PERSON10 and PERSON14 to send three prepared letters to his candidates.
+- He wants them to feel better about being on the Committee.
+- PERSON10, PERSON4 and PERSON9 will meet this afternoon.
+
+
+Minuted by: Team Synapse

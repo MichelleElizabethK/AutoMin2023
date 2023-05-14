@@ -1,0 +1,39 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON12, PERSON3, PERSON4, PERSON6, PERSON7
+
+
+SUMMARY
+- PERSON12 and PERSON7 will meet on Monday the 20th of May at 10 am to discuss the development of the presentation platform.
+- The first prototype should be ready on the 7th of June.
+- PERSON4 is going to start coding next week and hopes to have a prototype within a couple of weeks.
+- The training diverged, so they need to try a few more times to complete the translation of the corpus of incomplete sentences.
+- The ASR does not close sentences at all.
+- PERSON6 and PERSON7 are trying to work out how to train the segmentation workers to work on complete sentences instead of incomplete ones.
+- PERSON7 is working on a project that requires a lot of segmentation.
+- The segmentation worker doesn't emit timestamps with the individual tokens from the ASR.
+- ORGANIZATION6 wants to improve the worker to do that.
+- PERSON3, ORGANIZATION6 and PERSON7 are working on a project.
+- They have some sample data.
+- They need to verify the timestamps of the ASR workers.
+- The baseline for the workshop would be to follow the segmentation coming from the segmentsation worker and PERSON4, PERSON7 and PERSON3 need to synchronize their code.
+- They need to train the models to be ready to accept partial sentences, even partial sentences and even inputs that started at the middle of sentence.
+- They also need to fine tune send level models to gracefully handle PERSON6 and PERSON7 spoke yesterday about the language model adaptation.
+- PERSON6 is not sure how detailed the text has to be.
+- PERSON7 will ask back ASR people.
+- PERSON3 wants to know next week what will be supported at PROJECT3.
+- The workshop runs in English.
+- There will be one interpretation of from English into Czech and one interpretation from Czech into German.
+- The integration and segmentation worker for Czech is working hard to get the pipeline ready.
+- PERSON7 is preparing a machine translation system for a project.
+- He needs the data from PROJECT4 to train the machine translation systems.
+- The project starts on Wednesday, June 19th.
+- PERSON12, PERSON7, PERSON3 and PERSON6 are working on a project.
+- The project is German ASR, German to English machine translation, English to anything machine translation and the presentation platform at the end.
+- They have a corpus of two million words, about one thousand documents PERSON3, PERSON6, PERSON10 and PERSON7 are planning a workshop on ASR from docks.
+- They need to run ORGANIZATION6 ASR on the docks, record the locks, timestamps, and then fiddle with the alignments and segment PERSON7 wants someone from the project to come in person to see the presentation platform in practice.
+- There are problems with broken workers while starting a client.
+- PERSON12 and PERSON7 will meet this afternoon in order to be more prepared on Monday.
+- PERSON7, PERSON6 and PERSON12 will talk in 5 minutes about the general PROJECT2 call.
+
+
+Minuted by: Team Synapse

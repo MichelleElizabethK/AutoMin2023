@@ -1,0 +1,58 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON13, PERSON14, PERSON3, PERSON7
+
+
+SUMMARY
+- PERSON10, PERSON7, PERSON14, PERSON15, PERSON6, PERSON8 and PERSON4 are going to have a presentation workshop next week.
+- The presentation platform is slowly taking its form.
+- There is no way to switch off the webcam in the ORGANIZATION2.
+- PERSON10, PERSON3, PERSON5, PERSON13, PERSON14 and PERSON7 are working on a text client for the presentation.
+- It works with PROJECT1 server, ORGANIZATION7 worker and in between a Python server which handles translation.
+- There is still a bug with the KT translation platform.
+- PERSON3, PERSON14, PERSON5, and PERSON7 are working together to find a solution to the problem of batch processing.
+- The main priority is to have the online mode working.
+- PERSON5 needs to test machine translation by looking at the output of the online ASR.
+- PERSON10, PERSON14, PERSON13 and PERSON6 discuss how to test the integration of the PROJECT1 worker connection between the ASR and the text-only client for the mission translation.
+- They decide to use the offline ASR mode of operation.
+- PERSON14 will run a command on his command line to produce text that resembles the output of the ASr.
+- PERSON10, PERSON5, PERSON7, PERSON13 and PERSON14 are concerned about the quality of the online ASR and machine translation system.
+- They are trying to find a solution to the problem of the mismatch of the segmentations between the training mode and the operation mode.
+- PERSON13, PERSON14, PERSON10, PERSON13 and PERSON7 are working on a demo.
+- They are trying to improve the quality of the segmentation.
+- They need to send the TED files with their translations to ORGANIZATION5, who will send them to PERSON5.
+- PERSON5 will test the PROJECT1 worker.
+- PERSON7 needs to raise the microphone level a bit.
+- There is no ASR worker available.
+- The debug bug kills all the workers.
+- PERSON7 created a text to text client, but it didn't work with the segmentation workers in ORGANIZATION5.
+- The segmentation worker shares a lot of the code with MT worker and will probably have the same problem as the text client for the MT worker.
+- The CTM is the word level output of ASR.
+- There is no immediate plan to have a client that can digest CTM and send it to segmentation.
+- PERSON10, PERSON5, PERSON13, PERSON15, and PERSON6 are trying to fix a bug in Organisation5's ASR workers.
+- The ASR worker is not working properly.
+- PERSON5 will be back next week and they will arrange a hands-on debugging session.
+- PERSON10, PERSON15, PERSON14 and PERSON3 are confused about the delay in voice recognition.
+- They need to reverse engineer the system to find out why there is a delay in the translation of unsegmented text.
+- The presentation platform only handles the text as it comes out of the segmentor.
+- PERSON10, PERSON7, PERSON13, PERSON14 and PERSON15 will meet next week to discuss the problems with ORGANIZATION5 segmentation and MT.
+- They will do PROJECT1 test next week, PERSON5 will do PROJECT1 next week.
+- Everybody will be speaking non-native English.
+- There will be four cabins with interpreters, students of interpretation, and will have one floor signal, one re-speaker into Czech and one into German.
+- The presentation platform will receive all the streams and choose the main the selected stream for each languages.
+- If the main stream dies for some reason, the presentation platform would keep checking for the various sources.
+- PERSON3, PERSON10 and PERSON15 discuss the functional requirements for the presentation platform.
+- They discuss the monitoring of the re-speakers cabins and the machine translation of the audio streams.
+- They also discuss the possibility of all audio streams being translated into all target languages at all times.
+- PERSON10 and PERSON3 discuss the setup of the presentation platform for the June conference.
+- There will be a man monitoring the platform, a man watching logs from the ASR workers and logs from MT systems, and a man doing the choice in the platform blind.
+- PERSON10 and PERSON3 are planning a project for next year.
+- There are 4000 people connected on the same WiFi network.
+- The current user are expected to be at June.
+- The integration has asked PERSON3 to report PERSON10.
+- They need to organize the people by the language and put screens in front of the group that wants to read Polish subtitles.
+- They have a year to find a better solution.
+- PERSON10, PERSON7, PERSON3, PERSON5 and PERSON13 will talk to each other again next Friday to resolve some bugs and ship their PROJECT1 models to PERSON5.
+- They should also test the PERSON5 workers with their PRO PROJECT1 model.
+
+
+Minuted by: Team Synapse

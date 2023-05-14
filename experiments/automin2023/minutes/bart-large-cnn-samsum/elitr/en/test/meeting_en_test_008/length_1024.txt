@@ -1,0 +1,30 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON5, PERSON7, PERSON8
+
+
+SUMMARY
+- PERSON5, PERSON7, PERSON8 and PERSON3 are meeting today to discuss organizing the negotation.
+- PERSON8 is preparing the link into the web interface.
+- PERSON7 is starting the search for minutes in the ORGANIZATION3 website to collect the minutes.
+- PERSON5 and PERSON7 are looking at the minutes of a meeting.
+- They are within the corpus created for machine translation purposes.
+- The index of the minutes does not correspond to the index for the transcripts.
+- On the agenda, they have shown a snapshot of the interface for the annotation tool for the valuation.
+- It is based on the fact-based.
+- PERSON5 and PERSON7 are going to create a web-based evaluation system for a shared task.
+- They want to use it for training data for both the training and for the train test.
+- They will have the transcript and the reference in the interface.
+- The annotators will give a rating to it and the awaited score is calculated automatically.
+- PERSON7, PERSON8, PERSON5 and PERSON5 are going to create an interface for the annotator's task.
+- They need to create a rating scale, a coherence and read ability, and a constant value in the equation.
+- PERSON8 will share the draft with the rest of the group.
+- PERSON5, PERSON7 and PERSON8 will all judge the minutes.
+- They will get transcripts and two different minutes and they will judge them.
+- They are not going to go ahead with the alignment thing.
+- PERSON8 hasn't made any progress on the automatic part of the paper yet.
+- PERSON5, PERSON7 and PERSON8 are working on a project about aligning minutes and transcripts between the transcript and the minutes.
+- The project is about to end in two minutes, so they need to finish it for today.
+- PERSON8 will link the implementation of the project to the cluster in 5 minutes.
+
+
+Minuted by: Team Synapse

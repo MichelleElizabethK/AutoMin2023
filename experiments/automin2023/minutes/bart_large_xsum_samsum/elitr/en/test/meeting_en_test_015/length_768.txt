@@ -1,0 +1,44 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON17, PERSON19, PERSON21, PERSON8, PERSON9
+
+
+SUMMARY
+- PERSON9, PERSON17 and PERSON8 are working on a book.
+- The deadline for adding new content to the book is today.
+- The text is there but the multilinguality is missing.
+- The introduction is to do.
+- The paper that cited the person 5 for multiling PERSON9 and PERSON8 have 13 hours to arrange the chocolate in the box.
+- PERSON8 is not good at taking pictures, so he has to extract some pictures from the paper and put them there.
+- PERSON9 suggests that they should check the licence of the paper.
+- PERSON9 and PERSON17 want to include the creative comments atribution 4.0 international licence for Proceedings of something on ORGANIZATION1 web in their book.
+- PERSON9 and PERSON8 talk about event fractuality.
+- PERSON19 explains to them how to organise information about the experiments.
+- PERSON19, PERSON8 and PERSON9 are discussing how to improve the text of the book they are working on.
+- PERSON9 and PERSON21 are working on a project.
+- Some parts of it need to be rewritten and others need to improve.
+- They need to train FastText embeddings and Word2vec files.
+- PERSON21 and PERSON17 are arguing about the colour scheme of the Glove and the structure of the FastText.
+- PERSON17 and PERSON21 are arguing about the differences between their figures.
+- PERSON17's figure is ugly.
+- PERSON21 wants to make the figure better.
+- PERSON9 and PERSON17 are going to edit a bit map.
+- PERSON21 is going to generate a tix file for the big cloud.
+- PERSON9, PERSON21 and PERSON8 are working on a project.
+- The deadline is today at midnight.
+- PERSON9 wants to make sure that the lines in the PROJECT3 schůzky document are green and that the chocolate is reordered in the box PERSON9, PERSON8 and PERSON17 want to have a preface and a summary of their book.
+- The summary is obligatory in the books series.
+- The introduction should be in English and the book summary in Czech.
+- There are no rules on the difference between the two.
+- PERSON9, PERSON17 and PERSON21 are writing a summary for a book.
+- They want to write it in Czech, in English, in German and in French.
+- The book is almost the same size as the other books.
+- The longest book in the series is the light PERSON9 has written all the citations for the project.
+- The next meeting is in two weeks on Monday, 13th July.
+- The meeting is at 2 p.m. in the office.
+- There is some missing citation.
+- There will be a lunch, PROJECT2 meeting, PRO PERSON8, PERSON9 and PERSON17 are planning to watch the ORGANIZATION1 lectures during the next week.
+- PERSON21 will watch the interpretability and analysis tutorial on Sunday.
+- PERSON8 will be on the train at 3 p.m. when the session starts.
+
+
+Minuted by: Team Synapse

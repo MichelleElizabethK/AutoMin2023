@@ -1,0 +1,41 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON3, PERSON5, PERSON6, PERSON9
+
+
+SUMMARY
+- There was a live workshop dry run at the LOCATION2 on Wednesday.
+- The presentations went well for people who could understand OTHER3, but for those who couldn't, they were totally lost.
+- The head of the particle division of the ORGANIZATION1 was angry about it.
+- The PERSON3, OTHER6 and PERSON10 are going to watch a talk in OTHER6.
+- They will try to rely on live generated translations into OTHER3, and they will see how bad the translations are.
+- If anybody can join them, they will do it as a joined watching.
+- PERSON10 is studying at ORGANIZATION3.
+- PERSON6 is studying also computer science.
+- PERSON7 agreed to join them for the surge, depending on his availability.
+- PERSON9 will work on domain adaptation to feed in computational linguistics language model for the talk on Monday at 2.
+- PERSON9 has a question about the technical process for using the dictionary.
+- PERSON9 will get in touch with PERSON5 and make sure that he has some files ready for the Monday talk.
+- PERSON3 wants to synchronize with PERSON9 and provide some data related to her talk on Monday.
+- The seminar is on LOCATION3 or OTHER3.
+- PERSON10 worked on three different things this week.
+- The visualization tool on the old realization tool, the server in C that reads the microphone signal and sends it over web socket to the client, a JavaScript piece of code that can be included in any webpage even on a remote machine.
+- The PERSON3, PERSON10 and PERSON5 are working on two machine translation models.
+- PERSON3 is going to train the many to many machine translation model.
+- PERSON10 will train the paraphrasing model.
+- PERSON10 had to do it just in, because of the TPU support, so he will probably have to export it as.
+- There is an open neural network exchange format called PROJECT4, but it's not the same as PROJECT5.
+- It can be safely used if PERSON3 and PERSON10 are running PROJECT5 models, which are trained in the same way as PROJECT1, but they don't have the connection to the OTHER3 LOCATION3 model.
+- PERSON10 worked on data collection this week.
+- The best corpus is the one word they are talking about the cat and drawing the animals.
+- PERSON8 is collecting monolingual data and needs to translate it to create synthetic parallel data.
+- PERSON3, PERSON10 and PERSON11 are going to do offline translations of large data.
+- PERSON8 will send the path to all the source files to PERSON11 and PERSON11 will apply the models, and they will get the first follow synthetic, very much in domain This week PERSON5 spent most of his time preparing for the dry run and organizing the ORGANIZATION1 event.
+- PERSON12 helped him with integrating buffer in the LOCATION3 segmenter.
+- They worked on implementing the segmenter worker on the mediator and the installation was succes PERSON5 is looking for a data set for LOCATION3 in domain data.
+- PERSON10 proposes to make a Wikipedia page with all possible data sets or all possible purposes.
+- PERSON2 is on vacation this week.
+- PERSON10 has processed data that he collected and wants to send it somewhere.
+- PERSON3 will email everybody again, at the latest on Wednesday, when are they meeting next week and there is a Doodle.
+
+
+Minuted by: Team Synapse

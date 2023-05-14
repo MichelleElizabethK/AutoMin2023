@@ -1,0 +1,65 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON11, PERSON12, PERSON15, PERSON16, PERSON19, PERSON2, PERSON20, PERSON21, PERSON23, PERSON3, PERSON5, PERSON6, PERSON9
+
+
+SUMMARY
+- PERSON5 is trying to get everything running on his side so that they have more interchannels.
+- The goal for today is to get all money on the full workload.
+- The real video mixer is ordered and will be there.
+- The logistics are ready for Wednesday.
+- PERSON5 wants to see the full workload of imputs and target languages in the presentation platform.
+- He wants to switch the -line during someone's talk.
+- The presentation platform available is not yet updated.
+- A working copy will be deployed next week.
+- Wednesday is available from the morning and Tuesday afternoon.
+- PERSON5, PERSON9 and PERSON2 are going to meet on Tuesday lunchtime.
+- They will discuss how to improve the quality of the interpreter's performance.
+- PERSON5 wants to know if more laptops can be connected to the Internet and if they can provide the interpreters with the feedback.
+- PERSON5, PERSON3, PERSON9, PERSON12 and PERSON23 will discuss how to set up a little path out from the main path, which goes through the translation and to the presentation platform.
+- They will collect feedback from the participants and create a feedback form.
+- PERSON5 wants to record a video from a PhD student journalist.
+- He is waiting for the confirmation from ORGANIZATION3 whether they have no objections against this.
+- The journalist needs to confirm that he can enter the building and can record and what he can record.
+- PERSON5 needs to suggest the content of the video.
+- PERSON5 wants to record the setting and what they do there, so the wires and an empty room, or interpreter's booth or maybe to watch their participants from behind.
+- Organizers have to confirm that they are fine with that, and they double-check that PERSON5 doesn't have any knives, and all the security gates.
+- There were concerns from the participants that the talk they will be talking about will be talked about too soon.
+- There will be someone disclosure for from the journalists, because he will be there, and he will hear stuff.
+- PERSON5, PERSON9, PERSON4, PERSON11, PERSON3 and PERSON20 are listening in on the experiment.
+- They are trying to fix a problem with the audio quality of the broadcast.
+- They have only two English segmenters, so they can only run at most two languages at once.
+- PERSON3 switched off English and started German.
+- He struggled with the two languages at once, so he rummaged them separately.
+- He used Romanian instead, because there is only his Romanian.
+- There is a way to flush the cash within the presentation platform, but there is still incremental transcription problem to be solved.
+- PERSON5, PERSON3, PERSON21 and PERSON11 are having a problem with the ASR.
+- The last published message is three minutes old and no one is publishing.
+- The ASR is not working at the moment.
+- Two ASR workers from English are available, but they don't produce anything.
+- PERSON5, PERSON3 and PERSON9 are trying to connect with ASR workers, but one of them is not working.
+- There are only two segmenters for English and two for German.
+- The German segmenter is not available, so they have to switch for German input only.
+- PERSON17 is out of the office.
+- PERSON3, PERSON5, PERSON9 and PERSON10 are trying to pass the translation system from ORGANIZATION1 but it's not working.
+- They need to go form German to English and English to other languages.
+- The input is from audio, so they have German to Polish English.
+- The publisher, PERSON22, is going to run the workers right now.
+- PERSON7 is not here today for medical reasons.
+- PERSON5, PERSON10, PERSON7, PERSON11, ORGANIZATION1, PERSON20 and PERSON9 are on a conference call.
+- They are discussing the security of the presentation interface and managing user's data in light of the new GDPR law.
+- PERSON9 explains to PERSON15 and PERSON2 that there is a problem with storying a used data in the presentation platform.
+- The first version of the platform didn't store any data.
+- It doesn't need a participant username and password.
+- It only needs a password for the whole call.
+- It's easy to reason about it and available for the platform developer.
+- PERSON11 and PERSON19 are having problems with their project.
+- They are going to meet on Wednesday in the evening.
+- They want to change the publishing workers.
+- They also need to check the bridge fingerprints.
+- They need to find the right language to populate the presentation platforms.
+- PERSON9 and PERSON21 will come back in the afternoon to check the source language in the presentation platform.
+- PERSON3 will write a script to test the ASR and send it to the control repo for PERSON9 and PERSON2.
+- They will meet soon.
+
+
+Minuted by: Team Synapse

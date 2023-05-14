@@ -1,0 +1,34 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON12, PERSON19, PERSON20, PERSON3, PERSON9
+
+
+SUMMARY
+- PERSON20 and PERSON12 are going to go to LOCATION1.
+- There is a pandemic in India and in Czech Republic.
+- People don't report it because they are afraid of panics.
+- There was a marriage that was supposed to be scheduled, but the groom suddenly wasn't PERSON9 wants to know if a named entity recognition model for English and Czech meetings works.
+- PERSON9 and PERSON12 are going to remove some of the markers from the transcript to keep the information that the speakers changed.
+- PERSON3 isn't coming today.
+- PERSON9 and PERSON12 are discussing how to annotate the transcript of a meeting.
+- They are discussing whether to remove the words with dash from the transcript or not.
+- PERSON3, PERSON12, PERSON9 and PERSON14 agree that all the named entities have to be located automatically and that the manual validation should be done at the level of word types.
+- PERSON13, PERSON1, PERSON16, PERSON18 are clear names, so they can be PERSON3, PERSON9 and PERSON12 discuss how to deal with annotators annotating transcripts.
+- They agree that the names of geographical entities should be named and the country names should be replaced with some other country.
+- PERSON3, PERSON12 and PERSON9 are discussing the system of abbreviation of named tag.
+- The system is fine grained, but it's grained on several levels.
+- PERSON3 suggests using the web interface instead of reading the manual.
+- PERSON3 and PERSON9 are working on the interface for the annotators.
+- PERSON3 explains to PERSON9 and PERSON12 the procedure for annotating the word MOG.
+- They discuss how to map the names of the speakers to their proper names and how to anonymize them.
+- PERSON3 suggests that when doing the anonymization, one should preserve the full name like PERSON10 here on line one.
+- PERSON10 should be identified as a name, at the type level.
+- PERSON17 and PERSON18 should be annotated at the level of tokens.
+- PERSON9 suggests PERSON15 is starting his Phd studies in Slovakia, so he will not be involved in the minuting and the tool for speech recognition.
+- PERSON20 will be the technical support person for the tool.
+- Two people will do a test evauation of the summaries and two people PERSON12, PERSON19, PERSON20 and PERSON3 are going to divide themselves into two groups, one for annotators and one for evaluators.
+- They need to decide how many meetings they want to take, who should take them and how long they should be.
+- PERSON12, PERSON19 and PERSON20 are going to annotate transcripts and create minutes from one hour long meetings.
+- They will meet tomorrow.
+
+
+Minuted by: Team Synapse

@@ -1,0 +1,80 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON11, PERSON14, PERSON15, PERSON2, PERSON3, PERSON4, PERSON7, PERSON8
+
+
+SUMMARY
+- PERSON7's cell phone doesn't work.
+- The kids took all his computers, so he can't share the ORGANIZATION2 doc.
+- The goal is to synchronize the group and the date and time, so that the day and time of the week is chosen.
+- PERSON3 is organizing a team meeting.
+- If someone can't come, they can enter their details in the shared document before the call.
+- This call is being recorded.
+- It will be used for the meeting summarization.
+- The data will be processed within the team.
+- The ORGANIZATION7 conference takes place in early December.
+- The conference will serve as a test for the organization.
+- If the conference is cancelled, the next year's conference will be the main demo event for the PROJECT5 project.
+- This year they will only be able to connect to their conference.
+- PERSON11 is trying to collect monolingual data that they can use for the paraphrasing for the rainbow models.
+- The free version of ORGANIZATION6corpus has some limitations, so he only obtained to scrape a small data set like one hundred thousand sentences.
+- PERSON11 needs to get in touch with ORGANIZATION15 about an algorithm for mining parallel data in one hundred languages.
+- Organisation15 released a data and a model.
+- The algorithms are not much better than the best Edinburgh model.
+- It takes up to a minute to translate just one hundred sentences.
+- The data would be useful to adapt their data collection for spoken data.
+- PERSON3 needs monolingual data for, domain adaptation.
+- He needs parallel data as much as possible.
+- He also needs to finish the ORGANIZATION6corpus that was started last year, but it was never finished.
+- He wants PERSON15 to test the evaluation using PROJECT5 test set and PROJECT3.
+- PERSON11 wants to know the status of the PROJECT5 test set and the connection to PROJECT2.
+- The PRO PROJECT2 is completely finished and it's working with alignment.
+- PERSON8 created a new index for PRO project 2 called ORGANIZATION6.
+- PERSON3 wants to make PROJECT5 test set and PROJECT2 the standard evaluation tool for spoken language translation and machine translation.
+- They are doing a stress test within the consortium to find a way in which this tool will work for all of them.
+- PERSON8 wants to publish the evaluation of PROJECT2 on PROJECT5 test set as a demo paper for the conference in January.
+- The current version works off-line, but only with the files inside the PROJECT 5 test set.
+- The previous version works independently, without any.
+- PERSON8 will come to ORGANIZATION3 next week to discuss the paper with PERSON3.
+- PERSON14 doesn't know what to work on and feels disconnected from the goal of the project.
+- They have eight minutes left to make the meeting short.
+- PERSON3 wants to talk to PERSON10 to help him with the evaluation of PROJECT5 test set.
+- The most urgent thing is to get the cruise control of all the systems.
+- This is what PERSON10 is also working on.
+- It conflicts with regular lectures.
+- PERSON8, PERSON4, PERSON9, PERSON12, PERSON14, PERSON10 and perhaps PERSON15 will have a technical call on the design of a censorship tool.
+- The goal is to allow to immediately hide the outputs and then show them again.
+- PERSON8 will attend the call.
+- PERSON4 has worked on multi-target machine translation for his master thesis.
+- Now he is working on PROJECT5 to develop multi source, models.
+- His task is to generate synthetic multi-source train set.
+- The paperwork is still in the process.
+- He will double check if it's processed enough today.
+- PERSON10, PERSON3, PERSON4 and PERSON15 are waiting for their cluster.
+- They need to do a back translation on Czech German news to have some higher quality in German-Czech news corpus and combine it with English Czech.
+- The models have to be of comparable quality so that the multi-source has a chance to be useful.
+- PERSON3, Umar, PERSON7, PERSON10, PERSON15 and PERSON16 are going to train on the same augmented data set and evaluate the CTC end-to-end model for PROJECT4 and ORGANIZATION1 for PERSON4.
+- PERSON10 recommends transfer learning on of double encoder model on small GPus.
+- PERSON4 is interested and can contact him by e-mail.
+- PERSON11 wants to know what models they are working on.
+- The purpose of the meeting was fulfilled, so PERSON3 is leaving the call.
+- PERSON7 is working on ORGANIZATION11 Common voice project.
+- He wants to chop the utterences and recreate new sentences using the words itself.
+- PERSON14 has to leave because his lecture is ongoing and he has said his part.
+- PERSON7 will stay for a while.
+- PERSON7 is working on the same task which was due to the ORGANIZATION14 challenge.
+- The task is to train PROJECT7 in English.
+- The data from the challenge is partially non-native, partially native.
+- There are twenty-three percent United States English, eight percent England English, five percent India and South Asia accent, four percent Australian English, three percent Canadian, two percent Scottish, one percent Irish, and one percent Southern African and New Zealand English.
+- PERSON7's main objective is to train a robust PROJECT4.
+- He is using the ORGANIZATION4toolkit.
+- Next week he will be in Prague and he will start to work more hard on multi-lingual PRO PROJECT4, but he doesn't have much time.
+- PERSON7 and PERSON15 need to check if they can use the data from the ORGANIZATION14 challenge.
+- They need to use the same data for ORGANIZATION13 evaluations.
+- Common voice is the best option as most papers that work with accented speech work with the Common voice data set.
+- PERSON7 will share the data set of ORGANIZATION13 with PERSON15.
+- They will train the set and test it.
+- Then they will compare the systems.
+- If they don't have anything, they will leave a message for PERSON15 on mail and whenever they have time.
+
+
+Minuted by: Team Synapse

@@ -1,0 +1,46 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON10, PERSON11, PERSON14, PERSON5, PERSON9
+
+
+SUMMARY
+- PERSON10, PERSON14, PERSON9, PERSON5 and PERSON1 are trying to start a Zoom session.
+- The first path of the Zoom US link they are using is the ORGANIZATION3 path.
+- The easiest way is to replay a lockfile and feed it to the AB client and to the presentation workers.
+- It should be in English or in all languages.
+- PERSON9, PERSON10, PERSON11 and PERSON14 are trying to set up a video streaming system for the project officer and other guests.
+- They need a simple set up so that they will not share a screen, because they cannot broadcast.
+- The idea is to bypass the Mtray M3U8 URL and put the frame in the ORGANIZATION5 server which exposes also the SSL certificate.
+- They upload the video file and provide the inputs to an AB client.
+- PERSON9, PERSON1, PERSON10, PERSON5, PERSON11 and PERSON14 will focus on the technical aspect of the demo.
+- They need to stream both video, audio and AB clients to the web server.
+- The most critical part is to identify the video file and to start performing test of the machine translation.
+- The German segmentation is not as good as the English one, but it was ok for the TEDx talk.
+- PERSON9, PERSON14 and PERSON10 are going to meet on Thursday and Friday to set up the presentation and fix the quality.
+- They will use the standard Youtube iFrame within the presentation platform.
+- The iFrame will only show the video, the pre-recorded one that they want to subtitle and the subtitles will show instructions.
+- They want to start the show at the same time on their side where it the recognition will start and participants will be suppose to click the play button when the instruction says so.
+- PERSON9, PERSON14, PERSON1, PERSON12, PERSON5, and PERSON11 are going to try out a new system for transcribing and translating their speech and showing the subtitling of the meeting.
+- It's not working yet, so they have to change the plan.
+- They will try to use the system on Thursday and Friday only.
+- PERSON9, PERSON14, PERSON5 and PERSON11 are going to work on the technical set up for the conference.
+- They need to test restarts, the online text flow and the presentation platform, and how to recover from a failure.
+- PERSON10 has the scripts to run multiple translations simultaneously for PERSON11.
+- PERSON10 will be using 2 machines during the demo.
+- One machine will run the set up and the other one will inter to talk with VS.
+- The idea is to log in on the ORGANIZATION5's web server and upload the video file.
+- Then run FFM peg in order to create the M3U8 playlist which is a standard to for web streaming videos and provide on standard output the samples to be pasted in input to AB client.
+- In order to practice they should be able to write the video playlist file to the public directory.
+- PERSON9 is running apache on his laptop and he is able to reach the expose directory through the web browser.
+- The project officer will see the demo through the screen so they will be able to present both online text flow and the subtitles of the presentation.
+- If they go for plan C, they will transmit the video to the guest.
+- PERSON9, PERSON10, PERSON5, and PERSON11 are trying to set up a live streaming system for a conference call.
+- They are having problems with the presentation platform and online text flows.
+- They need to fix the problem with audax.
+- They arrange a meeting for tomorrow at 11.
+- PERSON9 is responsible for preparing the call link for the call for all the participants.
+- PERSON7 needs to book the Zoom meeting slot.
+- PERSON1 will have the next test session tomorrow at half past 10.
+- The source language for the meeting will be English or German.
+
+
+Minuted by: Team Synapse

@@ -1,0 +1,45 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON12, PERSON3, PERSON4, PERSON6, PERSON7
+
+
+SUMMARY
+- PERSON7, PERSON12 and PERSON4 will meet on Monday the 20th of May at 10 o'clock to discuss the development of the presentation platform.
+- The first prototype should be ready on the 7th of June.
+- The integration with PROJECT4 is the big question mark.
+- PERSON7 is trying to translate incomplete sentences into sentences for PROJECT4 client.
+- The ASR does not close sentences at all.
+- The segmentation worker can change the order of the sentences and fix them before the end of the sentence.
+- The system will be judged by the final translation.
+- PERSON7, PERSON4, PERSON6 and PERSON3 need to change their training data for the MT systems so that they would gracefully handle the input like this.
+- They need to train normal sentence to sentence models and find out how to deal with the strange segmentation.
+- PERSON7, PERSON3, PERSON4 and ORGANIZATION6 are working on a translation workshop.
+- They need to create reliable locks from the ASR workers.
+- The baseline for the workshop would be to follow the segmentation coming from segmentation worker and translate sentences like this.
+- PERSON6 and PERSON7 are working on the integration of PROJECT4.
+- They need to train the models to be ready to accept badly segmented input.
+- The language model adaptation is also a problem.
+- The project is no longer labor prototype and it's being tested in dry runs.
+- PERSON3, PERSON6 and PERSON7 are going to a workshop next week.
+- They are collecting data on machine translation models based on monolingual include files.
+- The workshop runs in English.
+- There will be one interpretation of from English into Czech and one interpretation from Czech into German.
+- PERSON7, PERSON4, PERSON6, PERSON3 and PERSON12 are working on a German to English machine translation.
+- The German ASR is probably the best translation system transform model, but it needs to get better.
+- They are going to test a new method of pivoting.
+- If it works, they will replace the project 4 worker.
+- PERSON6, PERSON7, PERSON3, PERSON4, PERSON10 and PERSON6 are planning a workshop at the end of June.
+- They are planning to train on real ASR from docks.
+- They will let people know the results next week.
+- They need someone from the project to discuss the presentation platform.
+- PERSON7 and PERSON12 are discussing how to fix problems with their presentation platform.
+- They discuss the use of age ASR workers for English and other issues related to the platform.
+- The solution to the problem will be discussed on Monday.
+- PERSON3 would like to press some of the ASR clients.
+- PERSON3, PERSON7, PERSON9, and PERSON12 are having problems with their project.
+- They are not receiving any output from the worker.
+- They will try to investigate the problem.
+- The worker is still all work after three weeks.
+- There is a mechanism, WiFi something, where the worker is hearing.
+
+
+Minuted by: Team Synapse

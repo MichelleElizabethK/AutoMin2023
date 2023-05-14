@@ -1,0 +1,27 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON12, PERSON3, PERSON4, PERSON6, PERSON7
+
+
+SUMMARY
+- PERSON7 and PERSON12 will meet on Monday the 20th of May at 10 on a technical call to discuss the development of the presentation platform.
+- The first prototype should be ready on the 7th of June.
+- PERSON7 explains to PERSON3 how to handle the corpus of incomplete sentences.
+- PERSON7, PERSON4, PERSON6 and PERSON3 are working on a project.
+- They need to improve the segmentation worker and train sentence to sentence models for MT systems.
+- According to PERSON4, the baseline for the workshop would be to follow the segmentation and translate sentences like this even if it damages the tail of the sentence.
+- PERSON4 and PERSON6 are working on the integration of PROJECT4.
+- PERSON7 wants to train the models to be ready to accept partial sentences and even inputs that started at the middle of sentence.
+- As a fall back, they will train MT or fine tune send level models to PERSON3 will let PERSON6 know next week if she wants to do any ASR adaptation to the text.
+- If she doesn't, they will fine tune the machine translation models based on the monolingual files.
+- PERSON7 wants to fine tune the system before the event on Wednesday, June 19th.
+- PERSON3 confirms that the German ASR works.
+- PERSON6, PERSON7, PERSON3, PERSON10 and PERSON5 are going to have a text to speech ASR workshop at the end of June.
+- The workshop will be held in LOCATION1.
+- PERSON7 and PERSON12 are unhappy with the quality of work of ASR workers used by ORGANIZATION6.
+- They propose a variety of solutions to solve the problem.
+- PERSON3, PERSON7, PERSON9 and PERSON12 are having problems with connecting to the worker.
+- The worker is still all work after three weeks.
+- PERSON3 will let them know if they can fix the problem.
+
+
+Minuted by: Team Synapse

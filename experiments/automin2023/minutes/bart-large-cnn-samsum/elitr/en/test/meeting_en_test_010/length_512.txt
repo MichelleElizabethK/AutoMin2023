@@ -1,0 +1,78 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON2, PERSON3, PERSON4
+
+
+SUMMARY
+- PERSON3, PERSON2 and PERSON1 are having a meeting today.
+- The agenda for the call is to discuss ORGANIZATION4's status.
+- They are also discussing splitting the budget allocated for ORGANIZATION4 among other parties.
+- The meeting is being recorded.
+- PERSON1 doesn't want any money, so they will modify the budget without her.
+- They will allocate person months to her, but she will be assumed to have her own funding for those months.
+- The speech to speech translation is something that ORGANIZATION6 does not want to have in the project, because they don't want to ship translated audio to the partners parties in the, remote conference calls.
+- They don't have experience with shipping voice to individual cell phones.
+- PERSON1 and PERSON3 need to identify the platform for the delivery of the translation.
+- The text to speech doesn't add so much information to the text.
+- The ORGANIZATION2 integration should translate from the single speech signal that comes in to a into the many target languages and ship those subtitles to the different users at the workshop.
+- The application to provide the subtitle would be the ORIZATION6 application.
+- PERSON1 will create the integration work package for the presentation application development for the ORGANIZATION9 congress.
+- PERSON2 will create a task in the work package 7 in the integration.
+- ORGANIZATION4 will contribute to the integration task some person-month on agreeing on the interface.
+- There will be the main ORGANIZATION9 congress, dry runs workshops and workshop style events.
+- ORGANIZATION4 should make sure that there is enough events happening and that they know about them and connect to them.
+- Organizer2 should be ready to organize the dry runs and follow-up events.
+- PERSON1, PERSON3 and PERSON2 agree that at least one event per project a year should be important.
+- In the first year there should be a dry-run workshop before the main ORGANIZATION9 congress.
+- The main congress should take place in the second year.
+- There should be one more congress in the same year or two more in the third year.
+- The follow-up workshops should be more practical and focus on non-native speech.
+- It's not decided yet what forum the other events will be in.
+- PERSON3 and PERSON1 are planning the ORGANIZATION4 events for the three years.
+- They will have one dry run, one main and two follow-up experiments.
+- The integration work package is the one that makes sure that everything runs.
+- The work package 7 dissemination helps to promote the project.
+- The ORGANIZATION6 is not providing anything any remote platform into these events.
+- The ORGANIZATION2 would like OTHER2.
+- OTHER2 is the mother tongue language of Organisation2.
+- Organizer2 is active in the ASR field and provide ASR for not only for OTHER2 language but for thirty language.
+- Depending on the availability of the data, the person-months required for training and dedicated the OTHER2 model can vary from three to six months for maximum.
+- PERSON1 has been competing for the OTHER2 parliament.
+- It is considered the most accurate OTHER2 speech recognition system.
+- OTHER2 is not one of the big languages of ORGANIZATION4, but it's still one of official languages.
+- ORGANIZATION4 has a partner with the best ASR system for OTHER2 in the world.
+- The ORGANIZATION4 needs to prepare the budget for the re-speaker data collection work package and the detailed accounting on how many hours per speaker do they need for to be able to adapt to the speaker.
+- The number of hours depends on the ASR system.
+- The ability to record the forty hours of speech is a lot of work.
+- PERSON3 is going to organize a conference.
+- Organizer needs to estimate the duration of the event, three full days of dry run, and five for main conference.
+- The main conference is four days long.
+- The hours per speaker should be also like the total hours, so we need to cover 70 hours.
+- PERSON1 and PERSON3 have to have an acoustic model for the language for OTHER1, OTHER4 and OTHER5.
+- For OTHER4, the model will be provided by ORGANIZATION5 or ORGANIZATION1 or ORGANIZATION2.
+- For OTHER1, the radio should be able to provide a lot of hours of data.
+- The project will create its own model.
+- PERSON1 suggests to collect real re-speaking sessions in order to model not only the voice, but also the way it is during a real life session.
+- PERSON3 will make sure that they have the transcription of these.
+- They will create a table with the hours by the different languages and the red sub-table summarises these person-months by a partner.
+- PERSON3 wants to get some ORGANIZATION3-handled re-speakers for each of the languages.
+- The project is uncertain at the moment, but they hope to get hold of the actual interpreters, who will be interpreting at the ORGONATION9 congress, for the speaker adaptation sessions.
+- PERSON1 will check the availability of specific hardware for the re-speakers, especially for the headset.
+- PERSON1 will make a separate line for ORGANIZATION5 for recording.
+- They will have a next call without ORGANIZATION2 on Thursday.
+- They have 14 days to finish the proposal.
+- The other parties need to integrate.
+- PERSON3 wants to comment on the tasks in the integration work package.
+- The tasks 6.1 is the integration of ASR essential from multiple partners into the ORGANIZATION2's platform, 6.2 is automatic minuting and 6.4 is the development of the plot of the publishing platform of the Organization.
+- PERSON3, PERSON1 and PERSON4 are discussing the deliverables of the ORGANIZATION9 congress and the integration work package 2.
+- The deliverables will probably promise reports only and not all the prototypes will be ready for starting the integration thing.
+- PERSON4 is not sure if all prototypes should be deliverables.
+- PERSON3 would like to have progress visible also in the tasks for his multilingual mission translation.
+- The current tentative plan is to focus on multi-target and then multi-source and then flexible mult-source.
+- The delivery dates should be in line with the timing of the work packages.
+- PERSON3 wants to have a few months between the software and the report and the integration work package, work package number 6.
+- He prefers ORGANIZATION7 doc as it's faster than Microsoft Word.
+- He will merge the text into the Overleaf.
+- They will talk again on Thursday.
+
+
+Minuted by: Team Synapse

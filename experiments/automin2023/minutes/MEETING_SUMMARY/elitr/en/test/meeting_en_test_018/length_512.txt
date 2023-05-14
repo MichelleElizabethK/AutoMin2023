@@ -1,0 +1,56 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON12, PERSON3, PERSON4, PERSON6, PERSON7
+
+
+SUMMARY
+- PERSON7 and PERSON12 are going to have a technical discussion on the presentation platform on Monday morning at 12:00 on the 7th of June.
+- PERSON7 and PERSON12 will meet on Monday the 20th of May at 10.
+- They will discuss the platform.
+- Then they will work on the presentation.
+- PERSON4 will start coding next week and should have a prototype within a couple of weeks.
+- PERSON7 explains to PERSON3 how to handle the corpus of incomplete sentences.
+- PERSON7 is working on PROJECT4.
+- They need to create segmenters for all ASR languages.
+- They should train their empty systems to work on the individual lines of the segmented output.
+- PERSON6, PERSON7 and PERSON4 are working on a system that translates English sentences into computer code.
+- They need to change training data for the MT systems to handle input like this.
+- PERSON7 is working on a project.
+- He's translating partial sentences and sentences in one go.
+- The first segmentation is fine, but the second one is off the mark.
+- There's a problem with the timestamps coming out of the ASR.
+- PERSON7 would like ORGANIZATION6 to improve the segmentation worker so that it emits the timestamps.
+- PERSON3 or someone from ORGANIZATION6 would like to validate the locks from the ASR workers to help them create a reliable baseline for the workshop.
+- PERSON3 and PERSON4 need to synchronize the code for the empty worker to make sure it works properly.
+- PERSON4, PERSON6 and PERSON7 will try to train the models to be ready to accept partial sentences and even inputs that started at the middle of sentence.
+- They will fine tune send level models to gracefully handle badly segmented input.
+- As a fall back they will train MT PERSON6 and PERSON7 are working on a different connector for the production client.
+- The main message is that the main connector will now be called the production connectors.
+- The language model adaptation is taking place.
+- PERSON6 will ask back ASR people.
+- The workshop runs in English.
+- There will be one interpretation of from English into Czech and one interpretation from Czech into German.
+- PERSON6 and PERSON7 will continue deploying for the main client.
+- They have the install and test scripts, and they run them every now and then.
+- They are doing the test manually, but it is not critical.
+- They will try to get some data from PERSON8.
+- PERSON7 will work back from Wednesday, June 19th to send the data that will be used for fine tuning the system.
+- The system is based on a German to English empty system.
+- PERSON7 wants to know if the platform supports pivoting.
+- PERSON12 and PERSON3 confirm it does.
+- PERSON6 wants to test it again next week.
+- PERSON6 tried to fine tune the model on sub sentence window of size three to fifty words, but it didn't work.
+- He has a paralel subsentence corpus of two million words, about one thousand documents.
+- He wants to run ASR on this and train on PERSON6 wants to postpone the workshop until after PROJECT3.
+- PERSON7 wants to train on real ASR from docks.
+- PERSON6 is in LOCATION1.
+- PERSON7 wants someone from the project to come and see it in practice.
+- ORGANIZATION6 is running age ASR workers for English that don't emit any output.
+- ORGANIZATION12 wants a ban of not working workers.
+- PERSON12 explains to PERSON7 that it's not possible at the moment, but it's possible in the future.
+- PERSON7 has a question regarding the note in presentation platform the PERSON7 experiments.
+- PERSON7 is going to share her experiment with PERSON12 this afternoon in order to be more prepared for Monday.
+- Some of the ASR clients are not working, so they need to be pressed to tell if they are, and if so, what can be done about it.
+- There PERSON6 reminds PERSON3 to let them know if they can have a general PROJECT2 call.
+
+
+Minuted by: Team Synapse

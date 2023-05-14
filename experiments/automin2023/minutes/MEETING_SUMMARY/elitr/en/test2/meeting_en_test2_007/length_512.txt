@@ -1,0 +1,56 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON13, PERSON15, PERSON16, PERSON2, PERSON3, PERSON6, PERSON7, PERSON8
+
+
+SUMMARY
+- PERSON7 missed two sessions yesterday.
+- The recognition quality was bad.
+- The files were too big to be uploaded to PROJECT3.
+- PERSON13 and PERSON16 want PERSON14 to collect the text files for the domain adaptation and set of target languages.
+- PERSON16 wants to upload a link file for one folder and then they will do the rest.
+- PERSON13 explains to PERSON16 that there is a clear distinction between the PROJECT13 Archive, which are the interviews with the survivors of World War II of the Holocaust and the conferences about that, historical evidence, the recordings, and then the historical papers and presentations by historicians.
+- PERSON13 asks PERSON6 and PERSON15 to take a look at the PROJECT2 environment and explain in two cases, German to English and English to German what is probably going to happen in PROJECT7 paper.
+- PERSON13 wants to give more time to the system.
+- PERSON6 PERSON13 wants PERSON15 to help her with revising the PROJECT12 demo paper as she didn't have time to do it.
+- PERSON13 wants to conduct experiments.
+- ORGANIZATION2 doesn't want to train their system on PROJECT14.
+- PERSON13 proposes a different approach.
+- PERSON15 wants to work on the evaluations first.
+- PERSON16 wants to focus on getting the systems ready.
+- PERSON15 is continuing with data preparation of ORGANIZATION5 corpus.
+- He is also running the first alignments on the manually revised Dev test and rerunning the analysis on the interpreters.
+- PERSON5 has started to write the summary of the experiment, but he is busy with PERSON7 is writing a tool to prepare a pipeline for some event.
+- Next Friday there is going to be a conference about PROJECT13 and they are going to provide life subtitles and transcription for non native English speakers.
+- PERSON15 has a simple tool that you could adapt.
+- PERSON18 should prepare very simple instructions that the participants could follow.
+- The meeting is on the twenty fifth on January.
+- If the organisers say it is reasonable to ask for feedback from the participants, it should be done within a week and PERSON3, PERSON13 and PERSON16 have to prepare a stand alone one shot of the PROJECT13 interview and a summary of PROJECT14 systems and PROJECT1 systems.
+- The speaker of the last week's seminar hasn't manually transcribed the transcripts yet.
+- PERSON1, the last person mentioned in the report, has developed a system for shortening PROJECT1, English to Czech.
+- The shorter the outflow, the lower the bleu score.
+- Therefore, the evaluation campaign should be committed to the PROJECT12 test set evaluations.
+- PERSON8 is working on the chopped, training data for English.
+- He's able to generate the recordings, but the pipeline is too slow, so he needs to figure out how to improve it.
+- PERSON8 wants to make sure that each recording is seen by the, by the neural network only once.
+- The problem is with Czech, because, the PROJECT11 speech has less than three hundred thousands texts.
+- PERSON17 has like fifty or millions of recordings.
+- PERSON13 wants to PERSON13 wants to know the same amount from PROJECT5 as PROJECT8.
+- He also wants to talk to PERSON6 and of course PERSON2.
+- PERSON13 explains to PERSON6 the problem with translation from German to English.
+- PERSON13 will write the paper as if they are doing this already.
+- PERSON13 and PERSON6 are looking for an example so that they can replace the.
+- PERSON13 explains to PROJECT2 and PERSON6 how the evaluation would be different if they were producing a spoken output.
+- PERSON6 and PERSON2 have a problem with the number of characters in "Oh das ist" and "T-shirt".
+- The difference between the two numbers is not proportional.
+- PERSON13 thinks the current description is excessively detailed and confusing.
+- PERSON13 explains to PERSON6 and PERSON2 that the formula is based on characters at the end time of the word and time stamps in C. PERSON6 explains to PERSON13 how the partial numbers are calculated.
+- It is based on the C segment and the number of characters.
+- PERSON13 is confused about the number of words in the paper.
+- There is no formula to explain the alignment of the words.
+- People will finish the paper today after PERSON17e.
+- PERSON13 will add PROJECT3 account to the PROJECT12 test set and PROJECT6, so she can do the evaluation.
+- She will send an e-mail to confirm if she can be available from January to February.
+- PERSON6 is going to work on the paper.
+
+
+Minuted by: Team Synapse

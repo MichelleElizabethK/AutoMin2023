@@ -1,0 +1,55 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON12, PERSON15, PERSON16, PERSON18, PERSON24, PERSON3, PERSON7
+
+
+SUMMARY
+- PERSON1, PERSON12, PERSON16, PERSON10, PERSON24, and PERSON15 are talking about the multi-source research in the text domain.
+- They need to complete the GPU test and to know that one version, one new version of PROJECT3 really works.
+- PERSON15, PERSON12, PERSON24 and PERSON12 will have a separate call tomorrow at 2 pm or 3 pm to talk about text multi-source technology.
+- They will also talk about the integration of some of the tasks of PERSON10, who is leaving the call.
+- PERSON3, PERSON15 and PERSON8 need to integrate profanity filtering.
+- They need to test it on the life pipelines and explain it to PERSON6 so that he can do it for himself.
+- The new ASR, the end to end ASR also suffers from the spasm issues.
+- PERSON15, PERSON3, PERSON10, PERSON6, and PERSON15 will have a call with PERSON10 later today.
+- PERSON1 is preparing for the upcoming Monday seminar that's going to be given by a famous Italian guy.
+- The domain adaptation is another thing that will land on PERSON3 only.
+- The current idea is to create new sentences by concatenating words from different sentences.
+- PERSON1, PERSON15, PERSON18, PERSON10 and PERSON8 failed to start the training pipeline yesterday.
+- They need to record the experience from the ORGANIZATION7 and as the one sessions.
+- The system needs users, and the more diverse users, the more different users the better.
+- PERSON15, PERSON18 and PERSON3 need to discuss how to make the configuration cleaner for the rainbow worker.
+- They need to remove the scripts with different parametres and create one script with different parameters.
+- They also need to limit the number of languages and improve the speed.
+- PERSON15, PERSON16, PERSON3, PERSON18, PERSON15, and PERSON24 are going to meet at ORGANIZATION5 mailing list to discuss how to improve the performance of the PROJECT3.
+- The problem with the PRO PROJECT3 is that it's not properly optimised.
+- PERSON12, PERSON15, PERSON16, PERSON3, PERSON18, PERSON9 and PERSON15 are going to help PERSON16 with learning a model.
+- They are also going to use PROJECT5 dash ORGANIZATION5 for the technical issues.
+- PERSON15 has 50 gigabytes of data on Troja.
+- The deadline for applying for a PhD is at the end of the year.
+- A man from Zabrican is interested in joining the group.
+- He should email his PHD application to ORGANIZATION5.
+- PERSON15 is trying to send an ORGANIZATION2 invite tomorrow at 2 pm.
+- They haven't had the call last week.
+- They need to do the evaluation of all systems, all files, in the PROJECT5 test set automated.
+- PERSON3 has started today and will be done with it by the end of the day.
+- He has a call at 2:30 pm with PERSON6 to discuss SLTS capability of downloading files.
+- After that, he will have a call with PERSON7 to discuss all the things that he put in the script.
+- PERSON15, PERSON12 and PERSON3 are responsible for the domain adaptation for the PROJECT2 toolkit.
+- PERSON15 wants to see the benefit of that domain adaptation in the PRO PROJECT2 set up.
+- She also wants to know which components they are using and who are the people behind them.
+- PERSON15, PERSON3 and PERSON16 want to create a training set for a new ASR.
+- They need the transcribed version of a Monday talk from PROJECT5 to test the new model.
+- They want to steal the data from ORGANIZATION3 and use it to create the training set.
+- PERSON15, PERSON1, PERSON3 and PERSON16 are going to use sentiment analysis to filter profanity and positive speak.
+- They will use neural networks based on the movie review task.
+- PERSON16 will send a link to the document with the examples to help them.
+- PERSON3, PERSON15, PERSON1, PERSON16, PERSON11, and PERSON21 are going to discuss the tasks they need to do today and discuss them next week.
+- They need more people to do the task of profanity filtering and shortening MT.
+- The elderly students who are already in Prague for the first or second year could supervise a student.
+- PERSON15 wants to be the first one who makes it to Prague.
+- They will have one more Thursday call next week.
+- There will be Christmas Day and New Year's Eve break and then two weeks of a break from Thursday calls.
+- Next week they will meet again and then in January.
+
+
+Minuted by: Team Synapse

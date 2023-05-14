@@ -1,0 +1,75 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON11, PERSON3, PERSON6, PERSON7, PERSON9
+
+
+SUMMARY
+- PERSON6 will do the submission for the start project this week.
+- The left speaker is to the right and the right tester speakers are to the left.
+- It's not a problem now, but if they want to screen a film or something it will be strange because the sound will PERSON9 submitted the camera diversion, PROJECT12.
+- PERSON11 will send the table of contents of the book to the principal investigator of the grant.
+- PERSON6, PERSON7 and PERSON9 are going to send the book to PERSON5 so that he can start searching for reviewers.
+- PERSON9, PERSON6, PERSON7 and PERSON3 are working on the book.
+- They have only two weeks on to the deadline but it's not much time.
+- They will send it to PERSON5 at the end of this week.
+- After they have it, they will discuss with There is a callish calling deadline on July the first.
+- PERSON6 will submit the paper to PROJECT11 and the paper they haven't sent to ORGANIZATION3 to the deadline at the end of June.
+- PERSON11, PERSON6 and PERSON9 are going to have a meeting on July 13th or 14th to discuss the Black box deadline.
+- PERSON6, PERSON9 and PERSON7 will have a meeting on the 13th of July.
+- They will have regular meetings on Tuesdays.
+- PERSON6, PERSON9 and PERSON3 have a meeting on the thirtieth.
+- There will be another one on the 14th.
+- The deadline for submitting a paper to calling is on the third, but nobody submits anything.
+- PERSON6 suggests that they should finish writing the book by the end of June and have the meeting in the middle of June.
+- The meeting will take place in July.
+- The deadline for stopping adding new content, stopping adding comments to others' content and having all the comments at rest or PERSON6 would like to submit it officially the end of July.
+- PERSON9 and PERSON11 want to postpone it for six months.
+- They want to use the money from the project for some conferences that happen in the first half of 2021.
+- PERSON6 will ask the organiser if they can postpone the conference to the 31st of January.
+- If they can't postpone it, they can use the money for conferences next year.
+- PERSON6, PERSON7, PERSON3 and PERSON4 have finished the book.
+- The next meeting is on July thirteenth.
+- PERSON6 is working on the attention, attention metrices and different patterns for the PROJECT9.
+- PERSON3 sent her the visualisations of the PRO PERSON6 and PERSON7 are discussing the differences between their balustrades paper and the one by PERSON9.
+- PERSON6 and PERSON7 are working on a project.
+- One of the parameters from PROJECT1 was changed and the heat maps look slightly different.
+- It will be difficult to change the parameters without changing the parameters.
+- The heat maps are also different between PROJECT9 and PROJECT5 PERSON6 needs to review the first part of chapter five of the book.
+- He needs to add some details to it and rewrite some sections.
+- It went better for PERSON6.
+- The book is one hundred and thirty pages long.
+- PERSON11 has written a few paragraphs since he started.
+- PERSON11 and PERSON7 will focus on visualisations of embeddings and comparing visualisations inside them.
+- They will redo the visualisations.
+- PERSON11 is writing a book.
+- A lot of the content in her book is missing.
+- She wants to talk about the data and what to do the visualisations on, but she wants to let that discussion to ORGANIZATION7.
+- PERSON11 needs to go through at least the first two articles mentioned in the chapter three and rewrite them to make sense.
+- She restructured the section so it should be more readable.
+- PERSON9 wants to change the structure of the chapters.
+- She also wants to rewrite the introduction.
+- PERSON9 is organizing the text according to the individual papers.
+- He needs to add some more to the text and reorganize the structure of the text.
+- He is still missing some key papers.
+- PERSON9, PERSON7 and PERSON6 discuss semantics and coreference in LOCATION3.
+- PERSON9 wants to re-split the syntax into smaller sections.
+- PERSON6 thinks it's better for reading.
+- PERSON9 is working on a typic problem.
+- The abstractions that people look for are in Morphology, Syntax, Context and Pre-Training.
+- There is a visualisation but it doesn't fit to the linguistic abstractions.
+- PERSON9 has a lot of work to do.
+- The multilinguality paper that they submitted to PROJECT4 is still missing.
+- They want to report on it somewhere.
+- PERSON9, PERSON6 and PERSON7 want to copy the related work from the paper and remove the sentence level representations from the introduction.
+- PERSON6 wants to organize the sections so that she can send it to PERSON5.
+- She wants to send it maybe on Thursday.
+- PERSON3 is writing a survey about, syntax in, neural networks and wants to submit it to PROJECT10.
+- He should have it ready next PERSON3 has done 4 comparisons of different papers on the task of predicting part of speech, type.
+- Each dot corresponds to one pair of results from one paper.
+- PERSON3, PERSON6 and PERSON9 are writing papers about machine translation and part of speech.
+- PERSON6 is not good at creating visualisations.
+- PERSON7 suggests generating them as in, in, as PGF.
+- If you have a look in deep learning images, you'll see how to set up LaTeX format.
+- PERSON6, PERSON7 and PERSON9 are going to meet in two weeks.
+
+
+Minuted by: Team Synapse

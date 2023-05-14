@@ -1,0 +1,52 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON2, PERSON3, PERSON4
+
+
+SUMMARY
+- PERSON3, PERSON2 and PERSON1 are taking part in a meeting today.
+- The meeting is being recorded and there is a small agenda for the call today.
+- There is no overlap between Organisations6 and ORGANIZATION2 in this week, so PERSON3 will try to PERSON1 and PERSON3 don't want any money.
+- They will modify the budget without them, but at the same time they will allocate person months to you.
+- The organization doesn't want to ship translated audio to the partners parties in the remote conference calls.
+- They don't have experience PERSON1, PERSON3 and PERSON2 are discussing how to improve the quality of the translation.
+- They agree that text to speech is not an effective platform for the delivery of translation and it makes it harder to digest.
+- PERSON1 will ask the integration work package for the presentation application development.
+- PERSON2 will create a task in the work package 7 in the integration.
+- PERSON3 will ask ORGANIZATION6 to present at the conference at the ORGANIZATION9 congress.
+- ORGANIZATION4 should contribute to the integration There will be a main ORGANIZATION9 congress in the middle of the project.
+- There will be some dry runs workshops and some workshop style events.
+- Organizer4 should make sure that there are enough events happening and that they know about them and connect to them.
+- They should also PERSON3 thinks there should be at least one dry-run workshop per project a year.
+- There should be one main congress in the first year and two follow-up workshops in the second and third years.
+- There is a clear distinction between the plenary and the workshops.
+- PERSON1 and PERSON3 are going to create a task for ORGANIZATION4 events.
+- They will have one dry run, one main and then two follow-up experiments.
+- The work package 7 is the one that delivers the software and the tool to the events.
+- PERSON3 wants to know more about the level of OTHER2.
+- Organizing6 is not providing any remote platform into these events.
+- ORGANIZATION2 is active in the ASR field and provides ASR for not only for OTHER2 language but also for thirty language.
+- PERSON1 and PERSON3 have been competing for the OTHER2 parliament and they reached the accuracy up to ninety eight percent of accuracy.
+- They need to perform the tests also on the on a speech recognition system that is considered the most accurate in the world.
+- The ASR work package is PERSON3 explains to PERSON2 and PERSON2 how to prepare the data on the re-speaker data and how many hours per speaker do we need to adapt to them.
+- PERSON3 explains to PERSON2 and PERSON1 how much time is needed per speaker for the dry run and the main conference.
+- The adaptation starts from an acoustic model for the language.
+- It's mandatory for OTHER1, OTHER4 and OTHER1.
+- For OTHER4 the model will be given to or provided to the project by ORGANIZATION5 or possibly even organizesation1 or 2, while for OTHER PERSON1, PERSON3 and other people involved in the project want to collect real re-speaking sessions in order to model the voice and the way it is during a real life session.
+- They also want to record or adapt at re-spoken events.
+- PERSON3 and PERSON1 will create a spreadsheet with the needs for OTHER3.
+- They want to get interpreters who will be interpreting at the ORGANIZATION9 congress and some re-speakers speaking OTHER3, French.
+- PERSON1 has started checking the availability of specific hardware, especially for the re-speakers.
+- PERSON3 wants PERSON1 to make a separate line for one organiser for recording and PERSON1 will copy that for themselves.
+- They have 14 days to finish the proposal.
+- PERSON3 wants to know the details of the tasks in the integration work package.
+- The tasks 6.4 and 6.1 are the integration of ASR essential from multiple partners into the ORGANIZATION2's platform.
+- The development of the plot of the publishing platform is task PERSON1, PERSON3 and PERSON4 want Organized4 and Organized2 to be present at all the ORGANIZATION4 events.
+- PERSON4 wants to comment on the design of deliverables and the integration work package 2.
+- PERSON3 would like to have some progress visible in the tasks for his multilingual mission translation.
+- He would like the timing of the deliverables to be in line with the work packages.
+- PERSON3 wants to have a few months between the software and the report and the integration.
+- She wants to see the tasks running through all the project duration graded.
+- She doesn't have Microsoft Word, so she will upload a Word document to ORGANIZATION7 doc and merge it
+
+
+Minuted by: Team Synapse

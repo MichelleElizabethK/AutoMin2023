@@ -1,0 +1,47 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON11, PERSON12, PERSON3, PERSON6, PERSON7, PERSON8, PERSON9
+
+
+SUMMARY
+- PERSON12, PERSON7, PERSON10, and PERSON9 are on a conference call.
+- The microphone was muted.
+- They don't have a true German speaker.
+- They have only one English segmenter, so they have to run two ASR workers and one machine translation into Czech.
+- PERSON11 is starting another mike.
+- They are short of German interpreters for the workshop, so they are going to use the ASR instead.
+- The ASR runs for 20 minutes, 20 minutes and then 20 minutes again, because there is only one person attending the last 20 There is a problem with Pexip screensharing.
+- When following the screen presented by PERSON11, people can't hear what is being said.
+- PERSON11, PERSON3, PERSON4, PERSON7 and PERSON12 are working on a project.
+- They are trying to solve a problem with multiplexing.
+- They need to send one audio for each output language.
+- PERSON3, PERSON7 and PERSON12 are trying to solve a presentation issue with ASR workers.
+- The workers are sending the same string twice even if there is a genuine repetition.
+- PERSON3 prepared a presentation, but the German ASR is not working.
+- PERSON12 will share the screen with PERSON9 to test it.
+- PERSON3, PERSON12 and PERSON11 are going to send a screencast to an EU pub this weekend.
+- There are some problems with characters and coding, so they need to test it through Linux machine or through the VLC in Linux.
+- They also need to set up PERSON11 connected English and German screenshare on PERSON11's and PERSON12's devices, but it doesn't work in the presentation platform.
+- PERSON3 can't see the text on his Windows laptop even though he's running Chrome on his Linux desktop.
+- PERSON3 is working on the complete pipe.
+- He will be on vacation for a couple of days, so he will be available from 11 to 3 on Monday.
+- PERSON12 wants to test it with a whole load with full number of inputs.
+- PERSON4 is not available on Friday, PERSON12 and PERSON4 are trying to stream a video on M3U8 from VLC.
+- It's confusing to PERSON12 as it's not a live stream.
+- PERSON3 explains how it works.
+- PERSON3 and PERSON12 are working on the administration interface.
+- PERSON3 is able to share his screen, but PERSON12 can't.
+- PERSON12, PERSON11 and PERSON3 need a map of all the fingerprints to make sure they are connected to the overall network.
+- PERSON12 will create a new Google drawing document and share it with the others.
+- PERSON12 and PERSON3 are having problems with the presentation platform.
+- They need the full list of languages they need to cover in order for it to work properly.
+- PERSON12 wants to change the set of languages and add Spanish to the front page, but she doesn't know how to do it.
+- PERSON9 doesn't have a microphone, so he can't talk to people on the phone.
+- PERSON9 and PERSON3 are working on a presentation for the workshop in two weeks.
+- They want to make sure it's better optimized for the desktop rather than for the mobile phone.
+- PERSON3 will share the code for the presentation platform with the rest of the team.
+- They will discuss it on the call today at 1.
+- PERSON3 will not be available for part of the week, so PERSON3 and PERSON12 will try to check everything they have to check on Friday.
+- PERSON2 and PERSON4 will be absent.
+
+
+Minuted by: Team Synapse

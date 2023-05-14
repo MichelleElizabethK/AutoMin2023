@@ -1,0 +1,34 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON4, PERSON9
+
+
+SUMMARY
+- PERSON9 and PERSON10 were supposed to have a meeting with the annotator, but he stopped responding to their messages.
+- They are worried about it.
+- PERSON4, PERSON9 and PERSON10 are discussing the annotation process for the Coffee Meetings.
+- They need to collect, annotate and de-annotate documents.
+- PERSON4 made a copy of his document not to delete the lists.
+- PERSON10 would like the name to be more descriptive for someone.
+- They need to have the full collection of documents with all named entities replaced by place holders.
+- The process of the named entity removal has to be PERSON10 explains to PERSON4 that creating a list is easy, but there are problems with the quality of the list.
+- PERSON10 and PERSON4 agree to ignore tracing of the identity of the projects and speakers.
+- PERSON10 wants to de-identify the corpus, but she doesn't know how to do it.
+- She will have a session with PERSON4 with the data.
+- PERSON10 is waiting for PERSON14 to finish her work on the PROJECT1 data.
+- ORGANIZATION6 doesn't go through this at all.
+- PERSON4 and PERSON14 need to discuss the de-identification and the consent forms.
+- PERSON10 and PERSON4 are discussing the consent forms for the data collection.
+- They agree to skip the first form and focus on the second one.
+- PERSON10 and PERSON4 are discussing how to sort out the meta data from the meeting minutes.
+- They agree to collect the names of participants from the minutes and send them to the annotators.
+- PERSON9 and PERSON10 are discussing the timeline for the de-identification of participants.
+- They want to have the data ready for them by the end of February and the consent from their end by the first week of March.
+- PERSON10 will put a comment to point six and seven in the agenda document.
+- PERSON9 will send the email template that we would be sending to the members of the Scientific Committee.
+- PERSON9 is responsible for editing the document with the C, F, P. They need to submit the proposal within the January 7th or 8th.
+- PERSON10, PERSON9 and PERSON4 are going to ask the experts from the 2006 event as the key note speakers for the summary of the proposal.
+- They will send it to ORGANIZATION7 on January 15th.
+- PERSON10 and PERSON4 are going to meet this afternoon to discuss a financial issue.
+
+
+Minuted by: Team Synapse

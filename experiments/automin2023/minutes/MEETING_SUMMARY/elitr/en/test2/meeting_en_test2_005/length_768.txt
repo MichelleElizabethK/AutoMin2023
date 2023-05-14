@@ -1,0 +1,33 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON2, PERSON3, PERSON8
+
+
+SUMMARY
+- PERSON2 is in the office today.
+- PERSON8 and PERSON3 are waiting for PERSON3 to join them.
+- PERSON2 missed their calls.
+- They have to replan everything now.
+- PERSON3, PERSON2, PERSON4 and PERSON8 are planning a satellite workshop.
+- The workshop is independent of ORGANIZATION11.
+- If they don't get accepted by ORG2 or ORG11, they will apply to ORG13.
+- PERSON3, PERSON2 and PERSON8 are discussing organisational procedures for organising a workshop.
+- Organizing a workshop with ORGANIZATION11 is difficult.
+- People have to make a proposal for the workshop, submit it by February, get an ISC endorsement and write a The deadline for submitting the proposal for the satellite event is February twenty eight, but before that, they have to submit the proposal any time as soon as possible and get endorsement.
+- If they accept them both to Organizing Committee 2 and ORGANIZATION11, it will be by January fifteenth.
+- PERSON3, PERSON8 and PERSON2 need to take institutional membership to submit the proposal.
+- They need to invite the program committee and make a website for their shared task.
+- They have to study some satellite events that PERSON2 got accepted to an ORGANIZATION11 last year.
+- PERSON2, PERSON3 and PERSON8 discuss organising a conference on machine translation in the ORGANIZATION8 journal.
+- The journal was published in 1964.
+- It is not indexed.
+- PERSON2, PERSON3 and PERSON8 discuss organising a workshop on machine translation.
+- The workshop is better than ORGANIZATION11 workshop, but it is less work.
+- It is indexed in ORGOVATION5.
+- It will be published in the proceedings of PROJECT PERSON8 has read a lot of papers on PROJECT2.
+- The quality of the paper is good.
+- It is open access and indexed.
+- The only thing that is wrong with the project is that it is double work.
+- PERSON2 will help PERSON3 with writing some chapters to the
+
+
+Minuted by: Team Synapse

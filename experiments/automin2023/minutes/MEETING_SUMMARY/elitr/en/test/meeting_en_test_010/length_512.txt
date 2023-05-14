@@ -1,0 +1,52 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON2, PERSON3, PERSON4
+
+
+SUMMARY
+- The meeting is being recorded.
+- There is a small agenda for the call today.
+- ORGANIZATION3 wants to split the budget for ORGANIZATION4 among other parties.
+- ORGANIZATION4 hasn't responded to their requests for information yet.
+- PERSON1 and PERSON3 agree that they don't want any money.
+- They will modify the budget without consulting it.
+- Organizer3 will allocate person months to PERSON1, but at the same time he will make it clear in the tables that PERSON1 will have his own funding for PERSON1, PERSON2 and PERSON3 discuss the organization's work on translation.
+- ORGANIZATION4 should make sure that participants have some devices that can display subtitles.
+- ORGANIZATION6 should send subtitles to remote meetings.
+- ORGANIZATION9 should send them to the plenary session of the ORGAN PERSON1 will ask the integration work package for the presentation application development.
+- PERSON3 will ask for the ORGANIZATION6 platform to be used for live meetings.
+- PERSON2 will create a task in the work package 7 in the integration, and this task should be completed within a There will be a main ORGANIZATION9 congress in the middle of the project.
+- There will be some dry runs and workshop style events before that and after that there will be also other events.
+- Organizer4 should make sure that there are enough events happening and that they know about There should be at least one event per project a year.
+- There should be one dry-run workshop in the first year.
+- In the second year there should be main congress, and then maybe one more in the same year, or two in the third year, depending on organiser.
+- PERSON1 and PERSON3 discuss the organization of organisational events.
+- They agree to create one task for each of the three years of the project.
+- PERSON3 explains to PERSON1 and PERSON2 that the ORGANIZATION6 is not providing any remote platform into these events.
+- They need some additional resources for OTHER2.
+- PERSON1, PERSON2 and PERSON3 have been competing for the OTHER2 parliament and they reached the accuracy up to ninety eight percent of accuracy.
+- Organisations 4, 5 and 6 consider using the most accurate speech recognition system for OTHER2.
+- Organizing 5 wants to make it clear PERSON3 explains to PERSON2 and ORGANIZATION4 how to prepare the data on the re-speaker data.
+- They need to prepare a detailed accounting on how many hours per speaker do they need to be able to adapt to the speaker and record it.
+- PERSON3 explains to PERSON2 and PERSON1 how much time is needed per speaker for the main conference.
+- The main conference is four days long and there are three full days of dry run and five days for main event.
+- There are also re-speakers who need to be counted The adaptation starts from an already existing acoustic model for the language.
+- For OTHER1 and OTHER4, the baseline acoustic model will be provided by organization5 or ORGANIZATION1 or possibly even ORGANIZATION2.
+- PERSON3 is in touch with OTHER1 radio and they should be able to PERSON1, PERSON3 and other people need to collect real re-speaking sessions to be able to model the speech during a real life session.
+- They also need to record the transcription of the recordings.
+- For OTHER2 and for the other languages, the idea is to create a table with PERSON3 will add the needs for OTHER3 speakers to the spreadsheet.
+- It will be up to the organiser to decide how much time they want to invest in speaker adaptation.
+- PERSON1 has started checking the availability of specific hardware, especially for the re-speakers.
+- PERSON3 will copy a separate line for one Organization for recording and copy that for themselves.
+- PERSON3, PERSON1 and PERSON4 discuss the tasks in the integration work package.
+- One of them is the integration of ASR essential from multiple partners into the ORGANIZATION2's platform.
+- The other is the development of the plot of the publishing platform of the PERSON1, PERSON3 and PERSON4 are going to attend the ORGANIZATION9 congress.
+- Organisations 4 and 2 should also attend the congress.
+- ORGANIZATION4 promised to deliver systems that be ready for starting the integration thing, but it's not certain whether all the prototypes are For each deliverable there has to be a cover letter, a report and a deadline.
+- The deadlines should be in line with the work packages.
+- PERSON3 would like to have some progress visible in the tasks for his multilingual mission translation.
+- PERSON3 wants to have a few months between the development of the software and the report and the integration of the integration work package.
+- He would like to see all the tasks running through all the project duration graded.
+- He doesn't have Microsoft Word, so he will upload a Word document
+
+
+Minuted by: Team Synapse

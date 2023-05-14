@@ -1,0 +1,44 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON2, PERSON6, PERSON7
+
+
+SUMMARY
+- PERSON6 and PERSON7 are having a coffee meeting.
+- They are using the ORGANIZATION2 link for all their meetings.
+- It's not working for PERSON4 or PERSON2.
+- They have problems with the document Minuting annotation guidelines.
+- They need to clean the manually corrected transcript.
+- PERSON6 and PERSON7 have to pay for ORGANIZATION2 meet.
+- They want to make it free for one hour, but it's not going to be free any more.
+- They have the paid version of ORGNOVATION2 for faculty, but there are some pre-paid ORGNIVATION2s that they prepaid.
+- PERSON6 and PERSON7 are working on the PROJECT1 minutes.
+- The documents contain original agenda of the meeting, which was created by PERSON6 or PERSON3 before the meeting and partially extended during the meetings.
+- The agenda is just for the reference of the annotators.
+- It doesn't have the full representation as needed yet, but it can be changed to this presentation and reflects the essence of a meeting.
+- PERSON6 proposes that annotators send the data via GateHub.
+- PERSON7 doesn't know how it should be organised.
+- PERSON2 and PERSON6 agree that the annotators will keep communicating with you in the same way and that they will manage log it up.
+- They need another meeting with PERSON6.
+- PERSON2, PERSON7 and PERSON6 agree that they should not ask someone to push in GateHub.
+- PERSON7 would prefer to have the contact with annotators and send them the data.
+- PERSON6 wants to know how to use the alignment to produce the final output.
+- PERSON6, PERSON7, PERSON4, PERSON2 and PERSON6 have to come up with a manual evaluation measure before the shared task.
+- They have to submit the proposal within the first week of November.
+- There are many automatic measures for summarisation, but none of them works well.
+- PERSON2 wrote a protocol for a human evaluation of energy task entries.
+- If they don't come up with the alignment based manual evaluation, they will do as the other energy tasks.
+- PERSON6 has his own idea about alignments and PERSON7 doesn't know anything about it.
+- PERSON6 and PERSON7 are discussing how they should do the shared task.
+- PERSON7 wants to use alignment annotation for summarisation, whereas PERSON6 wants to follow variant B, which is using human evaluation like readibility and so on, not using the alignment.
+- If variant A doesn't become clear before the proposal submission deadline, they move to variant B. PERSON7 and PERSON2 discuss the data format of the file they are going to create.
+- They are changing the data storage from Sorbow to GateHub repository.
+- They need to prepare a list with the names of the annotators and rename the folder structure.
+- PERSON7 and PERSON2 will meet today in person to discuss renaming the names in the GateHub before pushing to GateHub.
+- They will record the names of the annotators and their full names in a list.
+- They decide to set up another meeting in the morning.
+- PERSON2, PERSON7, PERSON6 and PERSON4 are going to have a meeting tomorrow morning to discuss the team that he's proposing.
+- The password for the meeting pass is MINUTES, which is already there in the meeting.
+- PERSON6 will send the password to ORGANIZATION2 for PERSON4.
+
+
+Minuted by: Team Synapse

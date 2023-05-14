@@ -1,0 +1,67 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON17, PERSON19, PERSON21, PERSON8, PERSON9
+
+
+SUMMARY
+- Today is the deadline for adding new content to the book.
+- PERSON9 and PERSON17 have everything there already.
+- PERSON8 has some to does but not the big to does.
+- The multilinguality is missing.
+- The introduction is to do.
+- The other sections are finished.
+- The text is not final but the content is there.
+- PERSON8 and PERSON9 have 13 hours to arrange the chocolate in the box.
+- They need to copy the pictures from the paper and put them there.
+- They have to check the licence of the paper.
+- If it's from ORGANIZATION1 antology, it's OK, if it's creative comments it's not.
+- PERSON17 and PERSON8 are going to create a book based on Proceedings of something on ORGANIZATION1 web.
+- They need to cite the source and include the creative comments atribution 4.0 international licence.
+- They also need to list the licence.
+- PERSON8 and PERSON9 talk about event fractuality.
+- They discuss how to organize information about the experiments in different tasks.
+- They divide the figure into two pictures.
+- They talk about how to group information into different categories and focus on different parts of the text.
+- PERSON9, PERSON8 and PERSON17 need to revamp the chapter 5.2 and 5.3 of the book.
+- They also need to change the font size and change the text on the text.
+- The text needs to be written by PERSON21 and some parts rewritten.
+- PERSON9, PERSON8, PERSON17 and PERSON21 are working on a book.
+- They need to improve the chapters 3.1, 3.2, 4.1 and 4.2.
+- They also need to train FastText embeddings and Word2vec.
+- PERSON17 and PERSON21 have different colour schemes for different models.
+- The FastText shows the structure of the colour scheme clearly.
+- It's possible for Czechs to show the structure in English but not for English.
+- PERSON8 suggests that the basic numbers should be normalized a bit.
+- The chapter is almost done.
+- PERSON17 and PERSON21 are arguing about the quality of the figures in the book.
+- They decide to leave the ugly figures to the end and improve the figures after it's been sent to the reviewers.
+- The code is terrible, but it's OK to improve it.
+- PERSON9 and PERSON17 are going to change the text and the picture of the figure 4.1 in order to make it easier to read.
+- They are also going to edit the figures 4.6, 4.8 and 4.9.
+- In order to do that, they will have to install Inkscape.
+- PERSON9, PERSON17, PERSON8, and PERSON21 are working on a project.
+- The deadline is today at midnight.
+- They need to make the lines in the PROJECT3 schůzky document, green, and add PCA and ICA.
+- They also need to read all of the book and comment it.
+- PERSON9, PERSON8 and PERSON17 are discussing the structure of the introductions to the books they are going to read.
+- PERSON21 brought some books to have a look at how they are structured.
+- They will have 3 conclusions, a summary and a conclusory.
+- PERSON9, PERSON17 and PENPERSON8 are going to write a book.
+- They will write the summary in English, German, French and translate it into Hindo.
+- The book is going to be shorter than the other books in the series, but they will add some pictures.
+- PERSON9, PERSON8 and PERSON17 will have a meeting at 2 p.m. on Monday, 13th July.
+- The meeting is planned for 12: 30.
+- They will go to lunch before the PROJECT2 meeting at 12:30 and then to the office for a beer.
+- PERSON8 has holiday from Thursday.
+- PERSON9 has holiday the next week.
+- PERSON21 has holiday next week, but he will be working.
+- There are tutorials on Sunday at 2 p.m. on the ORGANIZATION1 website.
+- There will be prerecorded presentations and live QA sessions.
+- The presentations will be broadcasted.
+- PERSON8 will be on the train at 3 p.m. LOCATION1 time.
+- There are a lot of people registered to watch the session.
+- It's possible that one of them could be registered as well.
+- They need to pay for it.
+- If they don't have any paper, they can end the session and end it.
+
+
+Minuted by: Team Synapse

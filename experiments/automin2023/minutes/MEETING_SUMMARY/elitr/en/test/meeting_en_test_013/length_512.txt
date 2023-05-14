@@ -1,0 +1,40 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON14, PERSON15, PERSON4, PERSON8, PERSON9
+
+
+SUMMARY
+- PERSON8 is going to work.
+- PERSON14 is watching a lecture on PROJECT2 ORGANIZATION5.
+- The lecture was live streaming.
+- The transcript is processing.
+- PERSON8 wants to run the byplan and for the audible cell ties before the segmentor and after the segmenter.
+- PERSON14 wants to open lot directed today.
+- PERSON14 doesn't have the input files for this task yet.
+- PERSON14 needs to get all the input files for the evaluation, but she doesn't know where they are.
+- She also needs to check the Excel sheet number 3 forced alignment inputs and see 5.
+- PERSON13, PERSON12, PERSON11, PERSON3, PERSON4 and PERSON14 are on the call.
+- PERSON11 is Belgian, whereas PERSON4 is Polish.
+- The most up to date OST versions are in the repositor.
+- PERSON8 asks PERSON14 to put the path of the files that they are processing here.
+- PERSON8 is copying the Antrecorp files with the texts and the test.
+- PERSON8 wants to know if PERSON15 has started pushing anything into the new repository for PROJECT2 test set.
+- There is a deadline for EMT tomorrow.
+- PERSON14 has opened the forced alignment ALI file.
+- The OSTP and the ASS files are the subtitles for preview.
+- PERSON8 wants PERSON4 to review the part that he has just highlighted.
+- The WAV files should be also from the 16 kilohertz WAV file and they should use the new names, not Austrian and not Dutch.
+- PERSON8 wants to create a case similar to the academy test set they have now.
+- There is a risk that the concatenative file does not exactly merge the split file, because there were some small errors.
+- The full path to the files is not the full path.
+- PERSON8 PERSON14 is working on a caraoke as timeview.
+- The forced aligner is doing the what level timestamping and word level alignments.
+- He created an AAS file using a software.
+- He will make a Python script to subtitle the corpus.
+- PERSON9 is finishing the paper about subtitler for the deadline of 25th.
+- PERSON15 is collecting data for preparing WSLT.
+- PERSON4 is checking the sheet list.
+- PERSON4 wants to know if PERSON2 has a Python script.
+- If so, he will give PERSON14 the pass for all files, including the subtitles for this test.
+
+
+Minuted by: Team Synapse

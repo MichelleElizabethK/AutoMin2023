@@ -1,0 +1,36 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON2, PERSON6, PERSON7
+
+
+SUMMARY
+- PERSON6 explains to PERSON7 how the ORGANIZATION2 link works.
+- People can use it for all their meetings.
+- PERSON4 had another meeting an hour before, so maybe he didn't finish yet.
+- People4 and PERSON2 are connecting.
+- PERSON7 can hear much better with ORGANIZATION2 than with ORGNOVATION2 meet.
+- It's going to be free for one hour, but more than one hour you have to pay.
+- PERSON6 and PERSON3 created the agenda for the PROJECT1 minutes.
+- The documents contain original agenda of the meeting, which was partially sown during the meetings and partially extended after the meetings.
+- The original minutes are for the reference of the annotators.
+- Some of the minutes are short PERSON6 proposed that annotators should send data via GateHub, but at the moment he doesn't know how it should be organised or if he should have any control over them.
+- PERSON2, PERSON7 and PERSON6 agree that sending data to GateHub is not the best option at the moment.
+- PERSON7 would prefer to have the contact with annotators.
+- PERSON2 would rather use the same strategy that PERSON7 is using.
+- PERSON6 wants to know how PERSON6 and PERSON7 have some experience with alignment and they think it helps, but they don't know if it should be a part of the shared task.
+- There are many automatic measures for summarisation, but none of them works well.
+- PERSON2 wrote a protocol on how to improve human evaluation in nature language generation.
+- PERSON7 wants to use alignment annotation for summarisation, but before November it would be difficult to come up with the alignment score.
+- PERSON6 wants to follow variant B, which is using human evaluation like readibility and so on, not using the alignment.
+- PERSON7 wanted to discuss PERSON2 explains to PERSON7 the data format for a file.
+- PERSON2 wants to centralize the data storage from Sorbow to GateHub repository.
+- PERSON7 wants to keep both the Sorbow and GateHub reposites.
+- PERSON2 and PERSON7 have to rename all the names in the cluster.
+- Before pushing, they have to anonymise the names of the annotators.
+- They will meet today in person to discuss it further.
+- PERSON2, PERSON7, PERSON6 and PERSON4 are going to have a meeting tomorrow morning.
+- PERSON2 is worried about the team that he's proposing and wants to talk to everyone in person.
+- PERSON7 will try to catch him as soon as possible.
+- PERSON4 is writing
+
+
+Minuted by: Team Synapse

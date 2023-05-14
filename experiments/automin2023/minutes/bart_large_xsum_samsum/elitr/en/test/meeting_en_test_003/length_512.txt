@@ -1,0 +1,33 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON12, PERSON4, PERSON6, PERSON8
+
+
+SUMMARY
+- PERSON8, PERSON6, PERSON4, PERSON10 and PERSON12 are on the call.
+- They are going to discuss the proposed development schedule.
+- They will also discuss the status of the PROJECT3 worker.
+- PERSON8 and PERSON10 are working on a proof of concept for a presentation platform.
+- They need to prepare a translation system for partial sentences.
+- The worker should send every segment to PROJECT3 for translation and that's it.
+- PERSON6 and PERSON8 are discussing on Monday how to present partial translations and partial output in a presentation.
+- PERSON8 needs to discuss with PERSON6 the updates versus history of text fields.
+- There is no prototype available at the moment.
+- The first prototype should be ready at the 15th of June.
+- PERSON6 and PERSON8 would like to finish the prototype sooner.
+- PERSON8 wants to start as many workers as possible in ORGANIZATION3.
+- PERSON11 wants to run some of the workers in LOCATION1.
+- PERSON8 suggests to switch to the ORGANIZATION2 platform.
+- ORGANIZATION3 will prepare an image, ORGANIZATION4 will try to get it running.
+- ORGANIZATION10 will set a limit number of workers.
+- PERSON8, PERSON3, PERSON4 and PERSON5 are going to talk to PERSON3 about spreading out the image and having two sides providing the workers.
+- PERSON4 has a problem with offline ASR.
+- PERSON8 advises him to create a script that will replicate the problem and stress test it.
+- PERSON4 wrote to PERSON6, PERSON11 and PERSON9, but they didn't respond.
+- The text client is the same as in the sample, but the script is different.
+- The schedule is all the weeks.
+- There are up to four calls a week and the workshop on Fridays PERSON6 will not be able to help PERSON8 and PERSON4 today.
+- PERSON8 will try to lodge the ORGANIZATION2 file himself.
+- PERSON6 will be in touch next week.
+
+
+Minuted by: Team Synapse

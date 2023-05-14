@@ -1,0 +1,117 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON11, PERSON3, PERSON6, PERSON7, PERSON9
+
+
+SUMMARY
+- PERSON6 will do the submission for the start project this week.
+- The left speaker is to the right, so the sound goes in the wrong direction.
+- The problem can be fixed in the computer but the cabels need to be fixed first.
+- On Thursday and Friday, PERSON11 has a vacation.
+- PERSON6, PERSON9, PERSON11 and PERSON7 are working on PROJECT2 today.
+- They need to prepare a table of contents for the project and send it to the principal investigator of the grant.
+- They also need to write an official email to PERSON5.
+- They want to have a book.
+- PERSON6, PERSON7 and PERSON9 are going to send the book to PERSON5.
+- They want him to start searching for reviewers.
+- The book is not finished yet.
+- In chapter 6 they want to change some of the sections and put in hidden states.
+- PERSON6 will send the book to PERSON5 at the end of this week.
+- After they improve it, they will start discussing with PERSON5 what to do with the reviewers and who will be the reviewers.
+- The deadline for the book is at end of June.
+- PERSON9 doesn't have any holiday plans.
+- PERSON6 wants to submit the paper to PROJECT11 and the paper they haven't sent to ORGANIZATION3 to the deadline at the end of June.
+- They don't have a Google calendar for PROJECT2.
+- They need to put the holidays somewhere so that they know who is when where.
+- PERSON11 plans to be here at least till the fifteenth August.
+- The deadline for the Black box is August 15th.
+- PERSON11 is taking vacation this week from Thursday to Friday and next week on Wednesday.
+- They will have a meeting on July 13th or 14th.
+- If the papers are not accepted, they will send them to Black box.
+- PERSON6, PEN9 and PEN11 will have a meeting on the 13th of July.
+- The next two Tuesdays there will be meetings.
+- The first week of July there is no meeting.
+- The second week is from 6th to 10th July.
+- PERSON6, PERSON9 and PERSON3 will have a meeting on the third of July.
+- On the thirteenth they will have the meetings twenty-twenty-three, thirty, and then thirty-three.
+- If it is a three, there is a meeting.
+- There is calling deadline but nobody submits anything.
+- PERSON6 suggests that they finish the writing and the end of June and have the meeting in the middle of June.
+- The official deadline for the book was the end June, but it can be postponed to July.
+- The outcomes of the grant can also be postponed from December to January.
+- PERSON6 wants to submit the book by the end of January.
+- The project is including the fin, financing and including the money.
+- It's possible to use the money from the project for some conferences that happen in the first half of 2021, but only if they can prove they couldn't attend the conferences.
+- PERSON6 will ask PERSON10 if they can postpone the conference until the 31st of January.
+- If they can't postpone it, they can use the money from the Covid nineteen to use for conferences next year.
+- The organization lady who sits in PERSON12's room is moving to LOCATION1.
+- PERSON6, PERSON7 and PERSON3 have to finish the book by June 30th.
+- The next meeting is July thirteenth.
+- PERSON6 is still working on the attention, attention metrices and different patterns.
+- PERSON3 sent him the visualisations of the PROJECT9 metrices.
+- PERSON6 and PERSON7 noticed that the balustrades in PERSON9 are not as sharp as in LOCATION2.
+- PERSON6 is trying to explain the difference between them and LOCATION 2 by comparing the two data sets and the settings they used.
+- PERSON6 and PERSON3 are discussing a problem with a neural machine translation.
+- They think it might be an artifact of PROJECT1, because the heat maps look slightly different.
+- PERSON6 will go through her chapter and go through it to find out what new content needs to be added.
+- PERSON9 can download and open it in something else.
+- The first part of chapter five must be reviewed.
+- The section about self-attentions and the section about syntactic specific functions in attention heads will be written by PERSON3.
+- The text about the interpretability of the papers will be shortened.
+- PERSON6's book is one hundred and thirty pages long.
+- PERSON11 has written a few paragraphs since he started writing the last week and he thinks it's almost ready to be read, but it's not quite there yet.
+- PERSON6 and PERSON11 are going to read PERSON11's book.
+- PERSON11 will focus on visualisations of embeddings and comparing them with other visualisations.
+- He will not write about the new generative language models as they are based on sub-words and they are not interesting anymore.
+- The old idea of having a story is not doable for him as he doesn't know that much of the history.
+- PERSON11 and PERSON6 are going to discuss their chapters on Slack.
+- They discuss the content of their chapters.
+- PERSON11's chapter is almost there, but there are still some issues with the data and the visualisation.
+- PERSON7 is responsible for chapter four.
+- PERSON11 is going to write an introduction for chapter three.
+- He needs to go through at least the first two articles mentioned in the three, zero, one and rewrite them to make sense.
+- He can't do the zero, zero section, because the sections are just to-do lists.
+- He shares his screen with PERSON9 so that it's better.
+- PERSON7 and PERSON9 discuss the structure of the chapters and the titles of the sections and subsections.
+- PERSON9 wants to change the introduction and the main contents of the chapter.
+- "Who is better" is a very bad title of the section and the title should be rewritten.
+- PERSON9 is reorganizing the information that's already there.
+- He wants to change the structure according to the individual papers and create a new section called "Semantics".
+- He's not sure about the division of the chapters.
+- He's missing some papers which look at semantic stuff.
+- PERSON9, PERSON7 and PERSON6 have a discussion about the topic of text semantics in LOCATION3.
+- They agree that it's safer to use the word coreference instead of "semantics" because it's easier to explain the meaning of the words.
+- PERSON9 wants to split the syntactic section into multiple smaller sections.
+- PONP6 thinks it's better to keep the section as a separate subsection.
+- The break senses are working as they were supposed to, but they don't explain the details of the policy.
+- PERSON9 has covered the linguistic abstractions that people look for.
+- He wants to get a bigger picture on that and put it here.
+- He also wants to have a section on the effect of pre-training task.
+- He has some visualisation, but it's a mess.
+- PERSON9 has a list of papers that he needs to cover.
+- He hasn't covered all of them yet.
+- The multilinguality paper that they submitted to PROJECT4 is still missing.
+- They want to report on it somewhere.
+- PERSON9 would like to take over this section.
+- PERSON9, PERSON6 and PERSON7 want to put the related work from the paper from the dissertation into the chapter.
+- They want to remove the sentence level representations if they decide nobody wants it.
+- They will ask PERSON5 if they can copy the sections from the introduction.
+- PERSON6 wants to organize the missing information into a readable way and send it to PERSON5 on Thursday.
+- PERSON3 is writing a survey about, syntax in, neural networks.
+- He wants to submit it to PROJECT10 but he doesn't know if they will accept it.
+- He also wants to share the survey visualisation.
+- PERSON3 has done 4 comparisons on the task of predicting part of speech, type.
+- He compared 4 pairs of approaches to that task.
+- He also did a comparison for rights, plots, by the type of, pre-training task.
+- The results are mostly from RNNs.
+- PERSON3, PERSON6, PERSON9 and PERSON7 are writing papers on machine translation and machine translation vs. out encoders.
+- They want to include the figures in their papers.
+- PERSON3 also wants to do some visualisation about transformers and talk to PERSON6 about them.
+- PERSON6 is not good at writing the visualisations.
+- He will generate them as in PGF, which is basically Tix with some LaTex macros and all in the same colors and fonts.
+- If the text is OK, he will regenerate them, the format.
+- PERSON6, PERSON7 and PERSON9 are going to discuss deep learning, IMG and PGF in a book repository.
+- They have to update their scripts in the next two weeks as they have only two weeks to do it.
+- They will see each other next week.
+
+
+Minuted by: Team Synapse

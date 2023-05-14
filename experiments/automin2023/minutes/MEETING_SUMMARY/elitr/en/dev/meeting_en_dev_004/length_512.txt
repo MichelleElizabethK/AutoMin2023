@@ -1,0 +1,64 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON14, PERSON17, PERSON28, PERSON5, PERSON6
+
+
+SUMMARY
+- PERSON14 submitted the paper to PROJECT5 and wrote an article in the journal.
+- The group hasn't read their book for the last week.
+- The book is here.
+- PERSON17 and PERSON5 are working on PROJECT4.
+- PERSON6 is still working on his project.
+- PERSON6, PERSON14, PERSON10 and PERSON5 have prepared a paper on architecture.
+- They want to sign the paper so they can comment it.
+- PERSON6 and PERSON14 agree that their work is doing the survey.
+- PERSON5 thinks that it should be their, their general awork.
+- PERSON14, PERSON17 and PERSON6 discuss the way in which people present their work.
+- PERSON6, PERSON5, PERSON27, PERSON23, PERSON7 and PERSON14 agree that their paper is better than other papers.
+- However, they disagree on the citation.
+- PERSON17, PERSON6 and PERSON14 are going to write a book based on the paper they have just received.
+- PERSON17, PERSON14 and PERSON5 discuss deleting two of the language models from the book: PROJECT2 and PROJECT1.
+- PERSON17 thinks the first part of ORGANIZATION2.0 is complete, but there are optional and unsupervised methods that need to be implemented.
+- The facial tutorial mentions PCA and ICA only for visualisation and it's probably not advised to use them quantitatively PERSON6, PERSON5, PERSON17 and PERSON14 discuss the nature of behaviouristic testing.
+- PERSON17 wants to add a section about behaviour after the unsupervised methods.
+- PERSON14 will watch the tutorial.
+- PERSON17, PERSON14, PERSON9 and PERSON5 are talking about a 3-hour-long tutorial on how to develop a hypothesis and how to test it.
+- PERSON17 explains to PERSON5 and PERSON14 that there is a difference between supervised and unsupervised methods.
+- PERSON17, PERSON5 and PERSON14 are discussing the pros and cons of different approaches to classification.
+- PERSON9 follows PERSON9 in classifying like the probing and unsupervised methods as structure analysis and the behavioral analysis as the same.
+- PERSON6, PERSON14 and PERSON17 are going to write comments on the chapters for PERSON6 and PERSON14.
+- PERSON14, PERSON6 and PERSON17 are discussing what to do with the comments on comments.
+- PERSON5 wants to know who are the people who discuss interpretation of neural networks in the book.
+- PERSON17 doesn't understand the connection between NLP and machine learning.
+- PERSON5, PERSON6 and PERSON17 agree that the general meaning of NLP should be interpreted in terms of thinking general.
+- They agree to change the name of the chapters to stories.
+- PERSON6, PERSON17 and PERSON5 discuss the structure of the book.
+- They agree that the introduction is good and the second part are the of findings.
+- The third part is the summary.
+- PERSON6, PERSON14 and PERSON17 are arguing about the structure of the summary of the book.
+- They agree on the first, first chapter being called summary, but they disagree on the second and third chapters being called chapters.
+- PERSON6, PERSON14 and PERSON17 discuss the structure of the text of the book they are reading.
+- The book has not have a summary.
+- The book is almost finished.
+- It has a glossary, but it doesn't have summary index.
+- It's possible to read only parts of it, and other parts are not so much.
+- People should read the whole book, and comment on what is missing.
+- PERSON14, PERSON6 and PERSON17 are going to work on the project tonight.
+- PERSON14 will probably not attend the PROJECT4 meeting written on July 21st.
+- PERSON14 deleted all the meetings, starting from the next year.
+- PERSON6 is having all the Tuesdays.
+- They almost have everything they promised, except for the annulation.
+- PERSON14, PERSON17 and PERSON5 will meet on the 21st of July at 11.
+- They will discuss the problems in the book and respond to the recomments as PERSON17.
+- PERSON14 and PERSON6 are going to meet on 28th of March.
+- They need to find the reviewers for the book.
+- PERSON14 will ask doctor PERSON4 from LOCATION2 to review it.
+- PERSON12 suggested non-Czech reviewers.
+- PERSON26 told PERSON14 that PERSON14 is an assistant professor.
+- PERSON12, PERSON13, PERSON16, PERSON5 and PERSON17 are full professors.
+- PERSON6, PERSON17, PERSON5, PERSON26, PERSON8 and PERSON14 are looking for people who could review their book.
+- PERSON5, PERSON6, PERSON17 and PERSON14 are trying to find a speech recognition expert to help them with interpreting the text of PROJECT3.
+- PERSON17 wants to write a book.
+- PERSON14 would like to see many comments there.
+
+
+Minuted by: Team Synapse

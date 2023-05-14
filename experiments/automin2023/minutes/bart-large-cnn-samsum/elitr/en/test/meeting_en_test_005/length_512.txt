@@ -1,0 +1,128 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON11, PERSON12, PERSON3, PERSON6, PERSON7, PERSON8, PERSON9
+
+
+SUMMARY
+- PERSON12, PERSON7, PERSON11, PERSON9, PERSON4, PERSON10 and PERSON6 are on a conference call.
+- The microphone was muted, but the voice level of the amplification should be reasonable now.
+- The presentation platform is not working, so the way they are presenting the subtitles is only directly when the worker at PERSON11's notebook speaks.
+- PERSON11, PERSON12, PERSON7 and ORGANIZATION3 will try to test German ASR, German to English translation and German to Czech.
+- They have only one English segmenter, so they can only run two segmenters at once, and they don't have PERSON4.
+- PERSON11, PERSON7 and PERSON12 are having a workshop.
+- They are short of German interpreters for the last 20 minutes of the workshop, so they need to use the German ASR.
+- The German interpreter is available for 20 minutes at a time, and then it's unavailable for another 20 minutes.
+- They need to test it with the other mike.
+- PERSON11, PERSON7, PERSON12 and PERSON6 are trying to translate German words.
+- There are a lot of repetitions.
+- They need to talk to ORGANIZATION3 to fix the problem.
+- They are going to translate the same phrase six times and translate it five times.
+- PERSON7 will write the conclusion from the discussion and put it in the Google doc at the end of today's blog.
+- PERSON9 will open the Pexip and take the second headset.
+- The HD button view full motion presentation is used to improve the frame rate of the presentation.
+- PERSON7, PERSON11 and PERSON12 are having problems with screen sharing.
+- They had to take a screenshot of the screen sharing to solve the problem.
+- They have PERSON3 on the call as well and he can hear them.
+- They are trying to help them solve the issue.
+- PERSON9, PERSON11 and PERSON12 can't hear each other, so they need to add another headset for PERSON11.
+- They need to send one audio for each output language.
+- They also need to test the multiple input request functionality of the client.
+- PERSON11, PERSON3, PERSON7 and ORGANIZATION4 are trying to figure out how to improve the machine translation for the June fair-The June meeting.
+- They are getting the same request multiple times, sometimes four to five times the same input.
+- PERSON11 started some workers yesterday, but yesterday, he tried only the debugging workers.
+- PERSON4 shared with him a Python script last night, who manage the ASR output, filtering out only final hypothesis.
+- It works on beginning and not on offset.
+- ORGANIZATION4 people said that the empty worker cannot distinguish between January repetition and January repetition.
+- PERSON7, PERSON12 and PERSON11 are having problems with the translation.
+- They are not receiving any more translation.
+- The workers are not running, and the audio is not working properly.
+- It's possible that the problem is with the English ASR.
+- The solution is to double check the output.
+- PERSON12 and PERSON3 are trying to test the presentation platform.
+- The German segmenter is not working, so they have to use the English machine translation.
+- They are following two channels, one of which is intended for English speakers and the other one for German speakers.
+- PERSON3 can't write anything in Google Doc except to where he doesn't want to write.
+- He can't share these right now, because it's up and running.
+- He will share his screen with PERSON12 so that they can see his demo and he can share with presentation.
+- PERSON3 and PERSON12 are working on a presentation platform for VLC.
+- They need the source code of the web page to run it themselves.
+- They also need the link between the webpage and the screencast to test the integration between VLC and the presentation platform.
+- PERSON12 and PERSON3 need to move to UTF8 for the Czechs.
+- They need to isolate one and two workers at the same time.
+- PERSON11 has the workers running, but PERSON3 doesn't have the HD button, so he can't share the screen.
+- They want to have a notebook initiating the session and send the audio and presentation platform showing the subtitles corresponding to that.
+- PERSON3, PERSON11 and PERSON12 are trying to connect to an EU pub.
+- The worker who manages the publication is transparent and transparent, so the packets he receives send back exactly as he has received them, but as a kind of processing it publish subtitle on the text file.
+- PERSON3 and PERSON11 are trying to perform a test on their computers but they can't see the results of the test.
+- They think it's a matter of the browser they're using.
+- They try to share the screen sharing between their computers, but it doesn't work.
+- PERSON12 is looking for a Linux machine with Google Chrome to test it.
+- It works, but it hasn't been tested for multiple publication yet.
+- There are still some problems with characters in coding and with the Java integration.
+- The main focus of the test is to fix the logic in the ASR.
+- Next Monday, PERSON3 will perform a massive test on Monday.
+- PERSON12, PERSON3, PERSON11, PERSON4, PERSON6 and PERSON7 are going to have a test call on Monday from 11 am to 3 pm.
+- On Friday they will have the same type of test call again at the same time again.
+- Pexip will be used to relieve the workers from the ORGANIZATION2 load for the session.
+- PERSON12 wants to improve the segmentation quality for the workshop.
+- PERSON3 is available for some time and suggests using VLC streaming to improve it.
+- PERSON12 and PERSON9 prepare an M3U8 starting from VLC.
+- They need to copy the same format as the one included in the Google doc.
+- The play should be only play and pause, but no way of jumping in time.
+- The playlist M3u8 already has all the available chunks bit of chunks.
+- PERSON12 can't manage the presentation in real time.
+- The configuration page where you are able to set the and the stream provided for each language is not available to each user.
+- PERSON4 is available on Slack, but he's still in green.
+- The presentation platform is not working properly.
+- PERSON3 has to manage the multiple output, font size, number of words displayed and the multiple sources for the same language.
+- The administrator interface can't be accessed without registering to the system.
+- Pexip can provide a snapshot of the administrator interface, but the slash admin does not exist.
+- PERSON12 is trying to add himself as an administrator on Slack.
+- He needs to share his screen with PERSON3 so they can verify if he's doing it right.
+- The default available languages are Czech, Polish, Hungarian, and the language sources are the audio sources.
+- PERSON11, PERSON12 and PERSON3 need a map of all the fingerprints used by the different workers in the process.
+- They need to know what the worker should be registered as, and then what should be displayed.
+- The map is needed for the overall connection of the workers.
+- PERSON12, PERSON11 and PERSON3 need fingerprints before the 27th of June meeting.
+- They need to create a map with the fingerprints of all the workers connected to the mediator.
+- PERSON11 created a bridge worker and updated the SMT worker so they can specify the fingerprints arguments and disconcert the bridge between workers.
+- PERSON12, PERSON3 and PERSON9 are trying to access the fingerprints map drawing.
+- They need the full list of languages to see the presentation platform digest these fingerprints ENEU pub.
+- PERSON9 found a way to paste the set of languages they need to cover.
+- PERSON3 and PERSON12 need CSCZ pub to accept more fingerprints.
+- The presentation platform needs an update on the home page to accept the new languages.
+- Backend needs to know about the languages to connect to the clients and give them the text they want.
+- PERSON12 wants to change the set of languages and add Spanish to the front page, but he needs a worker registered with it mediator that emits the Spanish Spain pub fingerprint.
+- For English they are using EU, for Dutch it's spoken in Belgium and the Netherlands, and for French it's ORGANIZATION5.
+- PERSON9 cannot hear from Pexip because of a problem with Windows 10 and Windows 7.
+- The problem is related to Windows firewall.
+- PERSON12 is running Linux.
+- The presentation platform should be optimized for mobile devices.
+- The slides are too small for PERSON9.
+- PERSON12 shares his screen with PERSON9 for a workshop in two weeks.
+- The screen is not suitable for the workshop.
+- The slides are reduced too much and there is a lot of blank blue space.
+- They would like to make better use of the space of the screen.
+- They want it optimized for the desktop.
+- PERSON9 and PERSON12 are unhappy with the current design of the website.
+- They want it to be optimized for vertical mode.
+- They also want the subtitle to be displayed bigger and at least 2 languages available.
+- The website will be available for download in June.
+- PERSON12 wants to use the presentation platform of the console client presentation platform.
+- He wants to extract the worker logic from it to use it in the video mixer.
+- It would be useful for the purposes of the video mixing.
+- It could also be used to send back the published subtitles.
+- PERSON12 wants to know if it's possible to register the worker when you're starting the worker that feeds the presentation platform.
+- The most important thing for now is the map of the fingerprints.
+- The publication worker is running on PERSON3's local PC.
+- When it's stable, it will be deployed on asure.
+- PERSON3, PERSON12 and PERSON4 are on a conference call.
+- The goal for Monday was to test more languages in the presentation platform.
+- On Friday they have to check the multiple language fingerprint path selection, the multiple publishing system and custom different video streams.
+- The conference call didn't work today.
+- PERSON12 says thank you to PERSON12.
+- PERSON12 thanks PERSON12 for the compliment.
+- "PERSON12" replies "Yeah, thank you, bye"   .
+- i   in reply to PERSON12's "PERSON12"
+
+
+Minuted by: Team Synapse

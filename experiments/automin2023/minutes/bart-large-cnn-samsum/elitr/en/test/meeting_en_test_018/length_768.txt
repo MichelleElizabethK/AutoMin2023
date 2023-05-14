@@ -1,0 +1,57 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON12, PERSON3, PERSON4, PERSON6, PERSON7
+
+
+SUMMARY
+- PERSON7 and PERSON12 will meet on Monday the 20th of May at 10 to discuss the development of the presentation platform.
+- The first prototype should be ready on the 7th of June.
+- PERSON4 refuses the ORGANIZATION2 tutorial as he is taking a look at the some work.
+- PERSON4 is going to start coding next week and hopes to have a prototype within a couple of weeks.
+- PERSON7 is continuing translation of the sentence level transformer for the incomplete sentences.
+- PERSON6 explains how the ASR works and how it works for the MT part.
+- PERSON4 and PERSON7 are sharing a screen with PERSON6 and they are showing the output of the segmentation worker at the mock conference with the interpreters.
+- They are trying to train the system to work on sentences starting at the beginning of the sentence and ending at the end.
+- PERSON7 is translating partial sentences and even more sentences in one go.
+- The first segmentation is fine, but the second one is off the eye.
+- ORGANIZATION6 needs to improve the segmentation worker so that it emits the timestamps to handle the translation well.
+- PERSON7, PERSON3, PERSON6 and ORGANIZATION6 are working on a translation workshop.
+- They have some sample data, but they don't know the timestamps for the individual parts of the translation.
+- They need to ask someone from ORGANIZATION6 to help them create reliable locks from the ASR workers.
+- PERSON4, PERSON7, PERSON6 and PERSON3 are working on the integration of PROJECT4.
+- They need to train the models to accept partial sentences and badly segmented inputs.
+- The segmentation worker trained for Czech is still missing.
+- The project will be re-implemented next week.
+- PERSON6 and PERSON7 need to prepare a language model adaptation.
+- They need to send plain text files with relevant well slides and work granularity.
+- PERSON6 is not sure how detailed the text has to be.
+- PERSON7 will ask back ASR people.
+- PERSON7 will let PERSON3 know next week what will be supported at PROJECT3.
+- The workshop runs in English.
+- There will be one interpretation of from English into Czech and one interpretation from Czech into German.
+- The integration and segmentation worker for Czech will be called.
+- The connector to the main client will be changed.
+- PERSON7 is collecting data for the machine translation systems.
+- The student he has for this is not delivering anything, so he needs to get the data from someone else.
+- He will work back from Wednesday, June 19th.
+- The German to English translation system is probably the best translation system transform model.
+- He needs to fine tune it.
+- PERSON12, PERSON7, PERSON6 and PERSON3 are working on a machine translation project.
+- They are using German ASR, German to English machine translation, and English to anything machine translation and the presentation platform at the end.
+- The project is called ORGANIZATION6 German English empty, ORGANIZATION6 English whatever, Whatever empty and then presentation.
+- PERSON6 tried to fine tune the model on sub sentence window of size three to fifty words, but it didn't work.
+- PERSON7 has a new idea to take paralel text only corpus, text to speech on it, and then ASR.
+- PERSON6, PERSON7, PERSON3, PERSON10 and PERSON4 are planning to train on real ASR from docks for the workshop at the end of June.
+- They need to run ORGANIZATION6 ASR on the docks, record the locks and timestamps, and then fiddle with the alignments and segmentation.
+- They will let you know the next week if they succeeded or failed.
+- PERSON7 wants to know if someone from the project is planning to come in person to see the presentation platform.
+- He wants to avoid broken workers while starting a client.
+- It's not possible to ban broken workers, but it's possible to create a test session for each of the workers.
+- PERSON7 and PERSON12 are discussing the presentation platform the PERSON7 experiments.
+- They are having problems with their ASR clients not working.
+- They will try to fix the problem themselves.
+- They have sessions four to six times a day and the worker is busy.
+- PERSON6 reminds PERSON6 that next time they would like to make of such failure to debug, and let's let's talk in five minutes again, maybe not all of them, but the general PROJECT2 call.
+- There are too many things to discuss, so PERSON12 and PERSON7 have to say goodbye.
+
+
+Minuted by: Team Synapse

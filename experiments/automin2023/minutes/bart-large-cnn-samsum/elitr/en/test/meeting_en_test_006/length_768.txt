@@ -1,0 +1,61 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON11, PERSON13, PERSON15, PERSON16, PERSON4, PERSON8
+
+
+SUMMARY
+- PERSON4, PERSON11, PERSON8, PERSON15 and PERSON13 are talking on the phone.
+- They are talking about the changes in the rules regarding meeting up to 10 people and going to the forest.
+- There will be at least two more meetings in May and one in June.
+- PERSON11, PERSON7, PERSON1, PERSON8, PERSON4, PERSON16 and ORGANIZATION5 have to postpone one of their regular meetings in September.
+- They need to work on deliverables due in June.
+- They have to choose an internal review person for each of them.
+- PERSON8, PERSON13, PERSON11 and PERSON3 are going to write a project management guide.
+- They need to cross-review it with ORGANIZATION3 and the management guy.
+- The best position would be ORGANIZATION1, because they have coordinated a number of projects.
+- PERSON8, PERSON11, PERSON15 and PERSON1 are organizing the project management guides for QT21.
+- They need to prepare the internal reviews by mid June at the latest, so that they have two weeks to finish the review.
+- The final review should be on the 8th of June.
+- The previous milestones of the project are already set up.
+- PERSON8 and PERSON9 will discuss the layout of the PROJECT1 test sets.
+- They want to have it populated and described by the August date so that they can submit it as a deliverable for the ORGANIZATION4 Congress.
+- The repository is a directory of file lists.
+- The files are curated to serve well, linebay, segmented, everything.
+- The set of documents that you will test against will depend on the set of languages.
+- PERSON8, PERSON15 and PERSON1 discuss the concept of curated test sets and file lists.
+- They agree that the public use of these test sets should be limited to a few of them and they should be curated for the particle purpose.
+- They discuss the idea of adding FLAC to sacrebleu PROJECT1 test set and the file list name.
+- PERSON8 is working on the SLTF for the evaluation of spoken language translation.
+- The SLTF is a private repository and you can see it.
+- The primary evaluation will be the translation quality and the ASR and translation quality regardless of delay or wasted effort.
+- It was not a requirement for the audible SLT task this year, but in the next year it might be.
+- PERSON15 needs to send the source code of the lock file to set the time stamps for the translation task.
+- The forced alignment is risky with the lock files, because people can misinterpret what time stamps should be used.
+- The only reliable way to compare the results fairly is to run the models or serve the model.
+- PERSON1 and PERSON9 made progress in getting translations out of the auditing websites.
+- The project was started when the EU still existed.
+- The current people have signed up work agreements with the short-term contracts with the four languages.
+- If they are unable to find speech domain and auditing domain, they will ask the people to find the text monolingually and translate it back to Czech.
+- PERSON8 wants ORGANIZATION5 to manage and make sure that the demo is delivered.
+- PERSON6 is finishing the overview of the audible SLT test set.
+- If PERSON12 doesn't start, then PERSON6 will take over supervision and manage the annotators for PROJECT1 test set if PERSON12 hasn't started.
+- PERSON8 would like retranslations to be evaluated on humans towards the end of the project.
+- It's possible that retranslation go back a lot with the transition to end-to-end ASR.
+- The MT only translate will be get from ASR and it will inject instability into the translation.
+- PERSON15 doesn't know how to low latency ASR works.
+- The integration of the ASR and MT will remain a problem even once the new generation of the models is there.
+- People will have to choose whether to wait for the German verb or guess and put there some English verb.
+- People are trying to run GPT tool to predict the tail of the sentence.
+- It doesn't work very well.
+- The demo should be on May 17th.
+- Organizer 5 will supervise the organization of the demo.
+- They will create a Doodle Poll with time slots for PERSON5 and directly con PERSON5.
+- The demo will be in French.
+- It will be shown on screen sharing and screen broadcasting.
+- PERSON1, PERSON4, PERSON8 and PERSON15 discuss the ASR domains.
+- They discuss how to present the demo in different languages and how to improve the performance of the machine translation.
+- They decide to use a TED talk instead of a subtitling tool.
+- PERSON8, PERSON4, PERSON5, PERSON13, PERSON15 and PERSON11 will run the demo for themselves from the week from the 11th before they run it for themselves.
+- They will be in touch for the demo in the coming days.
+
+
+Minuted by: Team Synapse

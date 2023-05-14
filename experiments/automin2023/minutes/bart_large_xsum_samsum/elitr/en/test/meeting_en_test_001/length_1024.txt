@@ -1,0 +1,37 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON11, PERSON12, PERSON15, PERSON16, PERSON19, PERSON2, PERSON20, PERSON21, PERSON23, PERSON3, PERSON5, PERSON6, PERSON9
+
+
+SUMMARY
+- PERSON5, PERSON23 and PERSON20 are working on the presentation today.
+- PERSON4 will join them a little bit later.
+- They are trying to get everything running on their side so that they have more interchannels.
+- The real video mixer is ordered and will be PERSON5 wants PERSON9 to do the switching by killing off the -lines and using the bridge selecting different bridge workers and starting up the -line again.
+- The voice quality is not perfect.
+- PERSON5 is coming to South Premises on Wednesday.
+- PERSON9 is coming PERSON5, PERSON3, PERSON9 and PERSON23 are going to discuss how to set up the interpreter's booths.
+- They are also going to collect feedback from the participants.
+- PERSON5 wants to record a video from outside of the building or at the workshop room.
+- Organizer 3 will decide on Monday if they allow it.
+- PERSON5 has a student journalist, a PhD student of journalism, who should be able to record some parts of the video.
+- Person PERSON5, PERSON16, PERSON3, PERSON5 and PERSON11 are going to record a video.
+- They need to have a nondisclosure agreement for the interpreter and a code of conduct for the journalist.
+- There are concerns from participants that the participants will be talking about PERSON5, PERSON3, PERSON11, PERSON13 and PERSON20 are on a conference call.
+- They are working on a project.
+- There are some problems with the presentation platform and with the translation service.
+- PERSON5 is having problems with the ASR.
+- The ASR is not working at the moment.
+- There are two ASR workers available, but only one of them is working.
+- PERSON3, PERSON9, PERSON5, and PERSON21 are working on a project.
+- They need German and Polish subtitles to pass the translation system from ORGANIZATION1.
+- PERSON10 didn't receive the e-mail from PERSON5.
+- PERSON3 was conducting a conversation with PERSON7 and maybe also you about the workers.
+- PERSON11 is not on the call.
+- PERSON2 and PERSON9 are trying to make a recording from last year's workshop, but they can't see any output.
+- The second instance of the segmenter doesn't output anything, but it's connected and it's outputting text.
+- PERSON9 and PERSON19 will arrive on Wednesday in the evening.
+- PERSON2 will prepare a microtest script with a test case and upload it to the crise control repo.
+- They will come back in the afternoon to check the source language in the presentation platform.
+
+
+Minuted by: Team Synapse

@@ -1,0 +1,41 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON5, PERSON7
+
+
+SUMMARY
+- PERSON7 and PERSON5 are meeting to discuss the structure of the deliverable documents.
+- They need to define the presentation platforms of live, transcript and subtitle.
+- Overleaf doesn't compile for them, but they can use it as a plain text editor.
+- PERSON7, PERSON1, PERSON5 and PERSON3 are discussing the structure of the deliverable for the ORGANIZATION7 presentation.
+- They need to follow the requirements in the description of work and the D platform updates.
+- The deliverable is going to be scrolling and the text will be public.
+- PERSON5 and PERSON7 need to prepare a document for the ORGANIZATION7 platform, but they are late with the preparation.
+- They need someone to review the document.
+- PERSON5 will send the documents to ORGONIZATION6 and ORGANZION5 today.
+- PERSON5 will spend the afternoon putting the info inside the deliverables and on Monday preparing the ORGANIZATION4 paper and the progress to the template for the EAMT demo paper.
+- The deadline for the ELG is February 21st.
+- The full content should be ready by Wednesday for PERSON1.
+- PERSON5, PERSON7, PERSON1 and PERSON6 need the ELG paper from that and the paper is due next Friday, February 21st.
+- The document doesn't compile, so PERSON7 needs to work on the plain text content.
+- PERSON6 has a problem with cloning.
+- PERSON5 and PERSON7 are going to write a deliverable for ORGANIZATION7.
+- They need to cover the functional main functionals of the architecture, the user interface, the workflow and the logo.
+- They also need to provide a link to the ORGANIZATION4 demo paper.
+- PERSON5 will mail the deliverable today.
+- PERSON7 will modify the make file to make it compile seamlessly for PERSON5.
+- PERSON1 is a colleague of PERSON7's colleague from 13 years ago.
+- PERSON7 and PERSON1 will discuss how to use the make command.
+- PERSON5 is not in the local copy of the Git repository.
+- PERSON5 doesn't know how to install the Tex Live package manager.
+- He needs to update all the files.
+- The Tex Live manager is a PVS maker.
+- It's installed, but it's not working properly.
+- It needs to be restarted and updated.
+- PERSON5 is going to install Overleaf for the paper.
+- It's well done but doesn't let him in for the other paper.
+- He will finish installing the dependencies and commit his modification and pull his modifications locally.
+- It finally works.
+- PERSON1 will work on the document over night or over night.
+
+
+Minuted by: Team Synapse

@@ -1,0 +1,99 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON10, PERSON2, PERSON3, PERSON6, PERSON7, PERSON9
+
+
+SUMMARY
+- PERSON1, PERSON10 and PERSON9 are waiting for someone from ORGANIZATION3 to join the call.
+- They need to register a new user for the presentation platform, which now requires a password.
+- PERSON10 is going to create a new credential for simple end users.
+- The high load is because of the missing multiplexing in the platform.
+- ORGANIZATION3 has a problem with this.
+- PERSON9 will share the screen with PERSON9 to try and solve the problem, but it doesn't work on the browser he's using.
+- PERSON9 is listening on another machine than PERSON1.
+- EB client is converting English sound to one of the target languages and then converting it to machine translation output.
+- The log file from EB client has ten lines like that.
+- PERSON1 would like to see the conversion done only once and then in English.
+- PERSON9 and PERSON10 are having problems with the ORGANIZATION2 project.
+- There are not enough ASR workers for the project.
+- PERSON1 is looking for someone who can explain the problem to them.
+- PERSON11 is giving the lecture today.
+- PERSON1, PERSON9 and ORGANIZA3 are having problems with the machine translation workers.
+- They are unable to feed them with the input.
+- The solution is to change the text communication to send the audios to the mediator and get the segment output from the segmenter mediator.
+- PERSON1 needs someone to implement the C code the EB client, modified to do the multiplexing internally.
+- PERSON7 is available on Wednesday, Thursday and Friday, but not tomorrow.
+- PERSON2 can't help because PERSON12 is on holiday.
+- PERSON9 needs to rewrite the script.
+- PERSON1, PERSON5, PERSON9 and PERSON6 are having problems with the presentation platform.
+- The ASR workers in the Google document are working, but the publishers are idle and available only in admin web as idle.
+- There are still six available ASRs.
+- The new version of the platform has been released.
+- PERSON1, PERSON9 and PERSON5 are trying to set up a presentation platform running locally within sol Wired Network.
+- They need the URL with RTMP protocol with the stream subtitles to work from for their notebooks.
+- They have failed streaming the slides both from their notebooks and from their desktop.
+- PERSON6 can run the configuration he's been posting on the local network.
+- He's in the middle of pushing the same file in some additional instructions on cruise control.
+- The file will be pushed with the instructions.
+- They will connect the two machines to an access point, the router or a switch, and connect one machine to the ORGANIZATION2 presentation platform web page.
+- PERSON1 restarted the browser and it works.
+- PERSON10 and PERSON14 will probably arrive on Wednesday around the 16 or 17.
+- They will join ORGANIZATION1 if they don't get kicked out.
+- The presentation platform, except for the logging parts, will be implemented soon.
+- PERSON1 suggests to choose the preferred English stream at the beginning, and the performer translation only of eternal tone of all the possible combinations.
+- PERSON9 confirms that it is possible to have the English subtitles presented from the main round table and the translations from the respeakers.
+- PERSON1 and PERSON10 need to prepare the X1 configuration, X1 X2, and deliver subtitles to the interpreters booth.
+- They need to test the setup tomorrow and the day after tomorrow.
+- On Wednesday PERSON10 will be travelling, so he won't be able to help.
+- PERSON1, PERSON10, PERSON5 and ORGANIZATION2 are going to meet on Wednesday.
+- PERSON10 will provide support during his travel.
+- They need to fix some issues with the subtitles.
+- They also need to test streaming of slides and debug ASR workers.
+- PERSON1 and PERSON10 will remove the logic from the presentation platform.
+- The segmenter worker will prepare longer phrases for the machine translation.
+- The presentation platform will show the two lines at the same time.
+- The empty should ignore the empty and just path to the true.
+- PERSON1, PERSON10, PERSON12 and PERSON1 are going to test a new machine translation solution tomorrow afternoon.
+- They need to confirm availability for the call on slack so that they can decide on the solution they prefer.
+- PERSON1 will copy availabilities from Google Document and fill them in.
+- PERSON9, PERSON1 and PERSON10 are having problems with the ASR system.
+- They are having issues with the availability of workers.
+- PERSON12 joined them on slack and restarted the system on their request.
+- It is updated every two seconds, but only seven of the workers are available.
+- PERSON9 is concerned about empty workers not being used, while the they should be.
+- There is a delay in the mediator in the admin interface.
+- English is going to be the preferred source language for the presentation.
+- If someone switches to German or Czech, the subtitles will not be published.
+- PERSON1, PERSON10, PERSON9, PERSON11, PERSON12, and PERSON13 are trying to connect the file but they haven't succeeded yet.
+- They are going to keep working on it this afternoon and tomorrow.
+- They will be in touch during the afternoon and also tomorrow during the times that you have inicated.
+- PERSON1, PERSON3 and PERSON12 need to restart the ASR workers as soon as possible.
+- They need to do it on Wednesday, Thursday and Friday.
+- PERSON1 suggests setting up a CGI script to send a fixed URL to a worker that is not working properly.
+- PERSON1 explains how the ASR workers work.
+- They start by emitting the session ID when they get it from the from the mediator.
+- They need to save their process ID when processing the log.
+- It's possible to create a webpage that would be accesible for the workers, but it's difficult to do.
+- PERSON1 and PERSON3 want to know how to restart the workers.
+- The log files produced by the workers produce log files with no session IDs.
+- There are no ASR workers in this list.
+- The system is not just used in the detail, but also in the more automated system.
+- PERSON1 would like to know how to tell a dead worker from a working one.
+- PERSON9 is going to test all of ASR and segmenters.
+- The log output will indicate if the worker is idle and is in fact new connection at the log output.
+- PERSON1 suggests that the log files should contain one more line to specify the session ID and restart the worker for this session ID.
+- It will save a lot of time for and it will speed up the restarts of the worker.
+- PERSON3 will discuss the issue with PERSON1.
+- PERSON1 is trying to access the source code of his workers.
+- The workers are running on different services.
+- They don't use the provided library.
+- They need a function call that would extract the session ID from the precompiled library.
+- There is an open port 22 4443 and 4444 on the machine where the workers are.
+- PERSON1 is trying to connect to the university firewall but it doesn't work.
+- It might be possible to restart the other workers, but restarting the other servers will also load the other two servers, one of which is not accessible.
+- The session ID in the log would be useful for PERSON1.
+- PERSON1 needs to modify worker so that it shows session ID.
+- If he runs the script on the wrong machine, the worker will tell him to run on the other machine.
+- He needs someone to keep working with PERSON9 and speak to him on slack tomorrow.
+
+
+Minuted by: Team Synapse

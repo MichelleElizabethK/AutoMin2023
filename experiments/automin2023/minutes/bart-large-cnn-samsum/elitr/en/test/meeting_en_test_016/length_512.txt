@@ -1,0 +1,62 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON3, PERSON5, PERSON6, PERSON9
+
+
+SUMMARY
+- PERSON3 is recording a session for the purposes of minuting.
+- The head of the particle division of the ORGANIZATION1 was angry because the technology is not usable for people who don't speak OTHER3.
+- The next planned session with PERSON5 will be watching some video that they are curious about.
+- PERSON3, PERSON10 and PERSON3 are going to have a talk in OTHER6.
+- They will try to rely on live generated translations into OTHER3 and they will also diagnose the flicker.
+- The presentation machine takes screenshots regularly.
+- If the screenshots change, it sends an updated picture to the browser.
+- PERSON6 is studying computer science in LOCATION2 and PERSON10 is studying at ORGANIZATION3.
+- PERSON7 is visiting master students for semester here and is going to leave back for LOCATION 2 or LOCATION 3.
+- PERSON3 suggests a solution for static slides.
+- PERSON7 agreed to join the surge.
+- On Monday at 2, PERSON3 is giving a talk on the Monday seminar.
+- He wants to know if PERSON9 was successful with his exams and if he can help with domain adaptation.
+- He also needs to work on computational linguistics language model for the talk.
+- PERSON9 wants to know how to replace a word with a replacement one from the LOCATION3 language model.
+- The replacement word should be some random feminine noun with a similar declaration pattern and the corresponding form.
+- PERSON3 is not sure if it's necessary to process the dictionary.
+- There will be a technical talk in OTHER3 on Monday.
+- PERSON3, PERSON9 and PERSON6 will have files ready for the Monday talk.
+- PERSON5 will get in touch with PERSON5 to pass on the files to him so he can use them for the talk.
+- PERSON3 needs to synchronize with PERSON9 to get the language model data related to her talk on Monday.
+- She needs it from PERSON6, PERSON10 and then PERSON11 to get it to the first people who are online, so that they can use it.
+- PERSON10 worked on three different things this week.
+- He implemented a real time audio visualization tool on the old realization tool.
+- He also made it so that it colors in different colors depending on the volume.
+- The last problem is how to stand thresholds.
+- PERSON5 will email the scripts to test the thresholds.
+- PERSON3, PERSON10 and PERSON5 are working on their project.
+- They need to improve the visualisation and train the paraphrasing model.
+- They are going to get training today and hope to have some results by the end of the weekend.
+- PERSON10 had to do a project in PROJECT5, but it wasn't trained on TPU support, so he will have to export it as.
+- open neural network exchange format.
+- The format is called PROJECT4, but the critical thing is to know the architecture of the network and in the architecture.
+- PERSON3 and PERSON10 are trying to figure out if they are running LOCATION3 OTHER3 from PROJECT1 or TensorFlow.
+- They are mostly using PROJECT5 models, which are trained in a similar way, but they don't have the connection to the integration of OTHER1 models.
+- They want to collect data from their models within 2 weeks.
+- PERSON10 worked on data collection this week in five languages.
+- He will make a model where he would throw away the lower source languages and use the main ones.
+- He needs to translate the monolingual data to create synthetic parallel data.
+- PERSON11 will translate all the languages into OTHER3 and OTHER3.
+- PERSON3, PERSON10 and PERSON11 are going to do offline translations of large data.
+- The languages can be used.
+- The parallel data extraction will be done by ORGANIZATION2.
+- PERSON6 is going back to work next week.
+- If he has more time, he will work on PROJECT5.
+- PERSON5 spent most of the week preparing for the dry run and organizing the ORGANIZATION1 event yesterday.
+- He also worked on implementing the segmenter worker on and freezing some issues.
+- PERSON12 helped him integrate buffer in the LOCATION3 segmenter.
+- PERSON5 is looking for LOCATION3 data set with the correct transcripts.
+- He will send an email to PERSON6 to get the data set.
+- PERSON10 proposes to make a Wikipedia page with all the data sets that they are using and they plan to use.
+- PERSON2 is on vacation this week, so PERSON3 is organizing the data exchange.
+- PERSON10 has some processed data that he collected, so he needs to send it somewhere.
+- Next week he will email everybody again, at the latest on Wednesday, when are they meeting next week, and Doodle.
+
+
+Minuted by: Team Synapse

@@ -1,0 +1,28 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON11, PERSON3, PERSON5, PERSON6, PERSON8
+
+
+SUMMARY
+- PERSON3, PERSON5, PERSON6, PERSON11, PERSON8 and PERSON5 are meeting today to discuss the project.
+- The project is called PROJECT3.
+- PERSON6 is preparing the paper for the PROJECT1.
+- ORGANIZATION6 is the next project.
+- There are only two people who finished the project in the last 10 days.
+- ORGANIZATION7 is not expected to have any data.
+- PERSON3, PERSON5 and PERSON8 are going to organize the ORGANIZATION1 Calendar to help PERSON11 prepare for the conference in 3 weeks.
+- They are also going to have weekly meetings for the task 3.4 to discuss it more in detail.
+- PERSON3, PERSON5, PERSON6, PERSON8, PERSON11, PERSON3, and PERSON5 are meeting today to discuss PROJECT7 and ORGANIZATION2.
+- They are going to find translators to do the post-editing on the documents for PROJECT7.
+- PERSON11 and PERSON6 are frustrated with the organization 7's lack of interest in the project.
+- They want to ask PERSON12 to take over the project, but they need someone with native English to do the writing and so on.
+- They already had ten people do the experiment, which is five times more than what they already have.
+- PERSON11 is running the back translation of monolingual data for PROJECT5.
+- He will have all the data translated in 2-3 days and train the systems with the translated data.
+- The AC ORGANIZATION6 deadline has been shifted to October 7th, so there is still time to finish the project.
+- PERSON5 wants to participate with a system demonstration tract in ORGANIZATION6.
+- PERSON5 is going to write to PERSON12 to manage things in ORGANIZATION7.
+- PERSON11 is dissatisfied with the way they disseminate the advert for native English speakers for PROJECT3.
+- PERSON6 is leaving the project and they need to have this piece of work published.
+
+
+Minuted by: Team Synapse

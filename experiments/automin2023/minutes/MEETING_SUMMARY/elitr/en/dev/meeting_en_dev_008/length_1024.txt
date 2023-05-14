@@ -1,0 +1,28 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON5, PERSON7
+
+
+SUMMARY
+- PERSON7 is trying to fix the program in Overleaf.
+- The main purpose of the meeting is to define a structure of the deliverable documents.
+- Overleaf has some serious troubles.
+- People need to put both the ORGANIZATION1 presentation platform and the ORGNIZATION7 PERSON7 explains to PERSON1 and PERSON5 the structure of the deliverable and how it should be prepared.
+- It is says there is a task, it doesn't work.
+- There is a description of the requirements of work and the D platform updates.
+- It says that the PERSON5 is responsible for ORGANIZATION3, PERSON5 and PERSON1 for ORIGATION4.
+- They should have their full content ready by Wednesday.
+- PERSON7 should email all of them and tell them that they are late with the preparation.
+- PERSON5 has several internal documents PERSON1, PERSON2, PERSON3, PERSON4, PERSON5, PERSON6 and PERSON7 are going to work on the documentation for the project.
+- It should be ready towards the end of next week.
+- The documentation is mainly a demonstrator and not a report.
+- It comp PERSON7 will send PERSON5 a link to the ORGANIZATION4 demo paper.
+- PERSON5 is trying to troubleshoot a problem with the make and compiler.
+- He doesn't know how to do it.
+- He has to install a package manager.
+- PERSON5 is updating all the files.
+- PERSON1 is trying to find Paragraph view text.
+- It doesn't work for PERSON5.
+- PERSON1 will work on it.
+
+
+Minuted by: Team Synapse

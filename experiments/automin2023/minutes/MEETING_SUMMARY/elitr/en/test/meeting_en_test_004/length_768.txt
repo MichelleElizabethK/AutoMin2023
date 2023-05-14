@@ -1,0 +1,43 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON13, PERSON14, PERSON3, PERSON7
+
+
+SUMMARY
+- PERSON15 is on vacation.
+- PERSON6 from ORGANIZATION5 is on holidays.
+- PERSON8 is absent.
+- The presentation platform is slowly taking shape.
+- PERSON10, PERSON3, PERSON5, PERSON13, PERSON14 and PERSON15 are working on a project.
+- They want to have a text client for debugging and a production client for testing.
+- PERSON14, PERSON5, PERSON7, PERSON3 and PERSON10 are working on a project.
+- The project is mainly concerned with improving the online operational mode and training machine translation.
+- The offline ASR is reasonably close to what online ASR produces.
+- The segmentation is fine, but the moduls are not trained on the segmentation.
+- PERSON14 is not sure how close it will be, but it works fine.
+- The machine translation quality is not affected by mismatching segmentation between the training mode and the operation mode.
+- The machine translation system is trained on the current state of the art.
+- PERSON13, PERSON14, PERSON10, PERSON5, PERSON6 and PERSON7 are working on a project.
+- The demo is terrible, they need to improve it and redo the segmentation worker.
+- There is a problem with the batch mode of operation.
+- The ASR worker PERSON7 created a text to text client, but it didn't work.
+- The segmentation workers in Organization ORGANIZATION5 don't work with the CTM client.
+- The CTM is the word level output of ASR.
+- The ASR workers are reliable but not reliable enough to debug PERSON10, PERSON13, PERSON15, PERSON3 and PERSON6 are trying to solve a bug in the ASR worker.
+- They need more hands-on debugging session to solve the problem.
+- PERSON10 wants to know if ORGANIZATION2 is receiving the segmented output or the CTM.
+- ORGANIZATION14 is not sure what is happening with the presentation platform.
+- ORGANIZATION5 is responsible for the labeling, the labourer, the trained model and the published scripts.
+- ORGANIZATION6 is responsible PERSON5, PERSON3, PERSON10, PERSON13, PERSON14 and PERSON7 are working on a project.
+- The project will be ready for a test next week.
+- PERSON10 and PERSON3 are working on a project involving non-native English speakers speaking their native language in a conference room, interpreters, students of interpretation, and a presentation platform.
+- They need to decide online which of the streams in concatenation with the ASR and The presentation platform will receive English, German, French, Spanish and other languages as subtitle.
+- It will be possible to monitor the output of the re-speakers cabins.
+- If one of the cabins is bad, the machine translation will be stopped.
+- If the other cabins are PERSON10 explains to PERSON3 how the presentation platform works.
+- PERSON10 is responsible for making the Polish output using the best ASR, another one for making Spanish and one for deciding which of the MT outputs is the best.
+- There are 4000 people connected on the same WiFi network.
+- ORGANIZATION1 can order whatever devices they want for the people.
+- PERSON10, PERSON3, PERSON5 and PERSON13 will talk again next Friday.
+
+
+Minuted by: Team Synapse

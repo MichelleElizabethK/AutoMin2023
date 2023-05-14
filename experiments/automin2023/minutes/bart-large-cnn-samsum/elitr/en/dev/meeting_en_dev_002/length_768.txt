@@ -1,0 +1,50 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON10, PERSON11, PERSON14, PERSON5, PERSON9
+
+
+SUMMARY
+- PERSON10 and PERSON14 are having the ORGANIZATION4 promoting today at the same time.
+- They are waiting for PERSON9 and PERSON1 to join them.
+- They need to create a lockfile with time stamps and use PERSON6's replay scripts to feed it to AB client and to the presentation workers.
+- PERSON9, PERSON14, PERSON5, PERSON11 and PERSON1 are going to have a video demo for the project officer and other guests.
+- They need a simple set up so they don't have to share a screen.
+- PEN1 worked on the plan A and is working on a plan C. PERSON9, PERSON1, PERSON10, PERSON5 and PERSON11 are going to discuss the technical set up of the project.
+- They need to identify the video file and perform a test of the machine translation on cascade.
+- The project officer will focus on the quality of the provided translation.
+- PERSON11 recommends a TEDx talk playlist of German TEDx talks.
+- The German segmentation is not as good as the English one, but it was ok.
+- The schedule for the project officer is Tuesday, Thursday and Friday.
+- PERSON14, PERSON9, PERSON5 and PERSON11 will focus on the selection of the input and test it separately.
+- PERSON9 and PERSON14 have to fix the set up, fix the quality and fix the presentation.
+- They will use a standard Youtube iFrame within the presentation platform.
+- The iFrame will only show the video, the pre-recorded one that they want to subtitle and the subtitles will show instructions.
+- The instructions will be injected into all the languages.
+- The presentation platform has its own worker.
+- PERSON1's Youtube account is not working yet, so he can't test the new plan C. The plan C is to demo the system transcribing and translating their speech as the meeting goes and to show the subtitling of the meeting.
+- The system does not pass through the service architecture.
+- PERSON9, PERSON14, PERSON1, PERSON5, and PERSON11 are going to test the online text flow and the presentation platform on Thursday, tomorrow afternoon.
+- The project officer will come on Thursday and Friday.
+- Friday is a national holiday in the Czech Republic.
+- PERSON9, PERSON5 and PERSON11 are going to work on the technical set up of the presentation platform.
+- PERSON11 will share the German ASR and English ASR script to run multiple translations simultaneously for PERSON11.
+- For all the others, PERSON9 copies the cruise control Github repo.
+- PERSON9, PERSON10 and PERSON1 are trying to stream text to the presentation platform.
+- They need to upload the video file to the ORGANIZATION5's web server and upload the files to AB client.
+- They also need to write the playlist file M3U8 directly to the public directory.
+- PERSON9 is trying to stream a 3-second-long video on his laptop, but it's taking too long.
+- He's going to fix the problem with the FFM command.
+- It's a local apache server installed on the laptop and the exposed directory is switchable via web browser.
+- PERSON9 and PERSON10 are working on a presentation platform for a conference.
+- The project officer will see the demo through the screen.
+- They have 35 minutes to fix the problem before they have to leave for lunch.
+- They will try another test session tomorrow in the afternoon.
+- PERSON9, PERSON10, PERSON1, PERSON5, and PERSON11 are going to meet tomorrow at half past 10 to fix audax.
+- They need to put everything on a different machine and let the demo run remotely.
+- PERSON10 will contact PERSON2 to join the meeting.
+- PERSON9 is responsible for preparing the call link for the call for all the participants.
+- PERSON7 needs to book the Zoom meeting slot.
+- PERSON1 will have the next test session tomorrow at half past 10.
+- The source language for the meeting will be English or German.
+
+
+Minuted by: Team Synapse

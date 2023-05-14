@@ -1,0 +1,29 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON2, PERSON6, PERSON7
+
+
+SUMMARY
+- PERSON6 and PERSON7 are going to have a coffee meeting.
+- They want to know how the organization organizes its meetings.
+- They have problems with ORGANIZATION2.
+- It's not free, it's going to be paid.
+- PERSON6 wants to know if Organizing Committee 2 can be used for their coffee meetings.
+- PERSON7 thinks it can be, if they don't cross with other courses that are going on at the university.
+- PERSON6, PERSON7 and PERSON2 had a meeting today.
+- PERSON6 proposed that annotators should send data via GateHub.
+- PERSON7 proposed that they should do it themselves.
+- PERSON2 thinks it's better for them to do it that way.
+- PERSON7, PERSON2, PERSON6 and PERSON6 agree not to do the team for the moment.
+- PERSON7 would prefer to build on the existing system.
+- PERSON6 and PERSON2 agree on the need for alignment, but they do not agree on how to use it.
+- Person There are many automatic measures for summarising papers, but none of them works as well as PERSON4 realised.
+- Most research evaluations are based on human evaluation.
+- PERSON7 wants to discuss the format of the basic sample trial with PERSON1 before they proceed with the shared task.
+- PERSON6 is worried about what the proposal should look like.
+- PERSON7 and PERSON2 have to prepare a list with the full names of the annotators, their full names and their annot01, annot02, annot03, annot04, annot05, annot06, annot07, annot08, annot09, annot10, annot PERSON7's task is to rename the files.
+- PERSON2's and PERSON6's tasks are to prepare the annotation tool for new idea.
+- PERSON7 and PERSON2 are worried about the team that he's proposing, so they want to meet in person to discuss several things.
+- They
+
+
+Minuted by: Team Synapse

@@ -1,0 +1,53 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON4, PERSON7, PERSON9
+
+
+SUMMARY
+- PERSON4 hasn't heard from his professor yet, so he's not sure if PERSON2 will be joining.
+- He sent an email to the professor.
+- The professor is in Prague.
+- PERSON7 is already in Iran, but for a month or two, and she's afraid to go to New Delhi.
+- PERSON4 is looking for a person to work on a project.
+- The project is to develop a tool to help annotators with their work.
+- PERSON2 can't do it, because he has to focus on his master thesis.
+- PERSON7 will work on the project over the weekend.
+- PERSON4, PERSON7 and PERSON4 need to prepare the XML for the annotators.
+- They need to put the annotations into all the files, at the appropriate places and then they need to do the same thing at the token level.
+- The annotators need to browse the instances of words, the undecided ones, and decide them.
+- PERSON4, PERSON7 and PERSON9 are sharing the procedure for annotating documents.
+- PERSON4 suggests to use bolding and italicisation and color-coding to make it easier for annotators to do their job.
+- PERSON9 sends a link to the de-identified minutes.
+- PERSON4, PERSON7 and PERSON1 are going to create a custom XML markup for the event.
+- They need someone to annotate the document.
+- The markup should be clear, about the stages of the processing, and the annotation itself should be unambiguous.
+- PERSON4, PERSON1, PERSON7, PERSON9 and PERSON1 are going to create a presentation for annotating documents.
+- They will send them to ORGANIZATION4 Word and they will do the bold facing and italicisation of all the documents in a text editor.
+- PERSON4, PERSON7 and PERSON1 need to prepare a test document for the de-identification procedure.
+- They need to do a challenge with the Scientific Committee, so that they can put the web page into the email and send it to the prospective programmers.
+- PERSON9 will make the website ready within one or two hours.
+- He will send the link to the PROJECT1 website to PERSON4 and PERSON7.
+- PERSON4 will send PERSON1 a link to a document about the Russian students.
+- PEN1 will send a link about the Russians to PEN4.
+- PERSON9 and PERSON7 are in the process of submitting the PROJECT3 proposal.
+- They need to have all the data processed by February mid.
+- PERSON7 will prepare a demo of the document for the annotators.
+- They will catch up next week, on Monday.
+- PERSON9 and PERSON7 met with PERSON1 to talk about the proposal.
+- It's snowing outside.
+- There is a new vaccine for people with a comorbidity.
+- It has the potential to disload all the forms, but it's weaker than the old one.
+- PERSON9 and PERSON1 have to submit a project proposal for PROJECT3.
+- They need to submit it by today.
+- They have to send a link to the website.
+- The link is for the website, in the website you won't find this link.
+- It is just for the committee to review.
+- PERSON9 and P1 will have another call at half an hour past one tomorrow.
+- They need to get all the proposal submission stuffs done by January 10th so they can focus back to their research part.
+- P1 and P9 are having restings tomorrow.
+- PERSON9 and PERSON1 can skip tomorrow and keep on working.
+- They will contact each other anytime if they need to discuss something.
+- They can also contact PERSON5 if they want to meet up soon.
+- They will see each other in person.
+
+
+Minuted by: Team Synapse

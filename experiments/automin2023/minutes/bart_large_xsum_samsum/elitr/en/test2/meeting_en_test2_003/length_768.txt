@@ -1,0 +1,38 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON4, PERSON7, PERSON9
+
+
+SUMMARY
+- PERSON4 hasn't heard from PERSON2 yet, so she's not sure if he will be joining.
+- PERSON1 sent an email to him.
+- He's in Prague.
+- PERSON7 is already in Iran, but only for a month or two, and then she's moving to Canada PERSON9 wants to talk to professor PERSON4 about the issue of the money.
+- PERSON2 can't join the project, because he needs to finish his master thesis.
+- The project is to develop a tool, but it's not to prepare the files for annotators and then, the insertion of the annotations into the data set and polishing, cleaning up the data PERSON4 explains to PERSON7 that some of the words that PERSON1 prepared are not named entities in any of the contexts, and some of them have to be decided by the by instances.
+- PERSON7 needs to put the first round of annotations at the type level and the second round It is up to PERSON4, PERSON7 and PERSON1 to decide what to do about annotating the documents.
+- PERSON4 shares with PERSON7 and PERSON9 the de-identification procedure for the minutes.
+- PERSON4, PERSON7 and PERSON1 are going to do the markup for the workshop.
+- PERSON4 will try to find someone else to do it on the weekends.
+- PERSON4, PERSON7 and PERSON1 are discussing how to present the full documents to the annotators.
+- PERSON1, PERSON4, PERSON9 and PERSON7 are discussing how to communicate with people who are interested in the organization's documents.
+- PERSON1, PERSON4 and PERSON7 are discussing how to mark non-per non-named entities.
+- PERSON9 will make the website ready within one or two hours and send it to PERSON4 and PERSON1.
+- They will do a challenge with the Scientific Committee and submit it to them during the afternoon.
+- PERSON5 is not on the call.
+- PERSON9 will put the names of the people who will be added to the sheet, to the prospective, Scientific Committee.
+- They are in the process of submitting the PROJECT3 proposal to a conference in Toronto or Calgary.
+- They want to host PERSON7 will try to prepare a demo of the document for the annotators.
+- They need to have all the data processed by February mid.
+- The deadline depends on the time it will take for annotators and the annotation tool.
+- The first sample should be ready by the end of this PERSON9 will send a PROJECT2 proposal to PERSON1.
+- It's snowing outside.
+- PERSON9 and PERSON1 are waiting for the mass immunisation program.
+- They have to submit a PROJECT3 proposal.
+- The vaccine has the ability to stop the spread, even if it's not 100 percent accurate.
+- PERSON9 and PERSON1 have to submit a project by today, but they don't have a Scientific Committee, outline of the program, invited speakers and website requirements.
+- PERSON1 should have sent the source of the proposal to PERSON9, but she didn't, so she has to send it to PERSON4 instead.
+- They have to submit the proposal by January tenth.
+- They haven't heard back from PERSON5 recently, so PERSON1 has to write PERSON9 and PERSON1 will meet tomorrow at half past one.
+
+
+Minuted by: Team Synapse

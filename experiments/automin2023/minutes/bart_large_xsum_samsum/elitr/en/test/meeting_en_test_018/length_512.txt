@@ -1,0 +1,54 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON12, PERSON3, PERSON4, PERSON6, PERSON7
+
+
+SUMMARY
+- PERSON7 and PERSON12 are going to have a technical discussion on the presentation platform on Monday morning at 12 o'clock.
+- The first prototype should be ready by the end of June.
+- PERSON7 and PERSON12 will meet on Monday the 20th of May at 10.
+- They will discuss the platform and then with PROJECT4.
+- PERSON4 will start coding next week and should have a prototype within a couple of weeks.
+- PERSON7 has tried creating corpus of incomplete sentences, but the training diverged, so they need to try a few more times.
+- The ASR does not close sentences at all, it continues sequent.
+- If you request in the EB client text, the ASR will place a PERSON6 and PERSON7 are working on PROJECT4.
+- They need to create the segmenters for all the ASR languages.
+- They should train their empty systems to work on the individual lines of the segmented output.
+- PERSON6 and PERSON7 will share screen with PERSON4.
+- They will change their training data for the MT systems to handle input like this.
+- PERSON7 and PERSON4 are working on a project.
+- They need to train sentence to sentence models.
+- The first segmentation is fine, but the second one is off the eye.
+- There is a problem with the timestamps.
+- PERSON7 would like ORGANIZATION6 to improve the segmentation worker so that it emits the timestamps.
+- This would improve the quality of the translation.
+- PERSON3 or someone from ORGANIZATION6 would like to validate the locks from ASR workers and create a baseline for the workshop.
+- PERSON7 would prefer to translate incomplete and slightly damaging sentences rather than waiting for full sentences.
+- PERSON4 would like to synchronize the code for the empty worker.
+- PERSON4, PERSON6 and PERSON7 will try to train the models to be ready to accept partial sentences, and even inputs that started at the middle of sentence.
+- They need to train MT or fine tune send level models to gracefully handle badly segmented input.
+- The segmentation PERSON6 and PERSON7 are working on the production connectors.
+- The main message is that the EB client will now in a different connector.
+- PERSON6 will ask back ASR people.
+- The workshop runs in English.
+- There will be one interpretation of from English into Czech and one interpretation from Czech into German.
+- PERSON6 and PERSON7 are talking about the project.
+- There is no change to the main client's structure, but there will be another deployment there.
+- The daily testing so far is manually done.
+- The install and test scripts are run every now and then.
+- The machine translation systems are PERSON7 will work back from Wednesday, June 19 to get the data needed for the fine tuning of the MT domain dependent data.
+- PERSON7 asks PERSON12 and PERSON12 to co-ordinate the development of a system that supports pivoting.
+- PERSON3, PERSON7 and PERSON6 are discussing the implementation of ASR.
+- They have a paralel subsentence corpus of two million words, about one thousand documents.
+- They want to run ASR on this corpus and train on the output from ASR with errors against PERSON6 wants to postpone the workshop until the end of June.
+- PERSON7 wants to be the first one to train on real ASR from docks.
+- They need to run ORGANIZATION6 ASR on the docks, Record the timestamps, and then fiddle with PERSON7 wants someone from the project to come in person to see the presentation platform in practice.
+- ORGANIZATION6 is running age ASR workers for English, but four of them don't emit any output.
+- ORGANIZATION12 wants a ban of not working workers.
+- PERSON12 and PERSON7 are discussing on Monday whether it's possible to set up a system where the mediator is able to provide the service.
+- If it's not possible, they discuss other options.
+- PERSON7 is going to share her experiment with PERSON12 this afternoon in order to be more prepared on Monday.
+- Some of the ASR clients are not working, so they need to tell PERSON9 and PERSON3 what is going on.
+- PERSON3, PERSON6, PERSON7 and PERSON12 are having a general PROJECT2 call.
+
+
+Minuted by: Team Synapse

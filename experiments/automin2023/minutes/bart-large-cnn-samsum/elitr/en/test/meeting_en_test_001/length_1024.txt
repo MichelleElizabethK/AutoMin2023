@@ -1,0 +1,49 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON11, PERSON12, PERSON15, PERSON16, PERSON19, PERSON2, PERSON20, PERSON21, PERSON23, PERSON3, PERSON5, PERSON6, PERSON9
+
+
+SUMMARY
+- PERSON5 is trying to get everything running on his side so that they have more interchannels.
+- The presentation platform is not available yet.
+- The real video mixer is ordered and will be there, so this is something that they can experiment with and hopefully they can get it running.
+- PERSON5 wants to check the quality of the voice quality.
+- He wants to use the setup which he used in the past.
+- The voice quality is not perfect.
+- Wednesday is available for the full guesting at South Premises.
+- Tuesday lunchtime would be a sensible arrival time.
+- ORGANIZATION5 will bring enough laptops.
+- PERSON5, PERSON3, PERSON9, PERSON23 and PERSON12 want to discuss how to set up the network load.
+- They want to collect feedback from the participants on the presentation platform and create a free feedback form.
+- They will edit the final content of the form on Wednesday and give it to participants.
+- PERSON5 wants to record a video from a student journalist.
+- ORGANIZATION3 needs to approve that the journalist can enter the building and that he can be there with the equipment.
+- PERSON16's microphone is not working, so he can't record anything.
+- PERSON5, PERSON16, PERSON5 and PERSON9 are running a video experiment.
+- They need to have a nondisclosure agreement between them and the journalists.
+- They also need to make sure the quality of the video is good and that the participants are not going to leak anything.
+- The participants are running the experiment.
+- PERSON5 suggests to keep connected to the call and to do the debugging.
+- The video broadcast of PROJECT2 is not working properly.
+- There is an incremental transcription problem to be solved out.
+- There are some old English subtitles in the English channel.
+- There's a way to flush the cash within the presentation platform.
+- PERSON5, PERSON3, PERSON21, PERSON9, PERSON11, and PERSON13 are on a Skype call.
+- The call is not working.
+- Two ASR workers from English are available, but one of them is not responding to their emails.
+- The last published message is three minutes old.
+- PERSON9, PERSON3 and PERSON5 are trying to send an audio file to a different client.
+- They are having problems with the segmentation.
+- The publisher, PERSON22, is running the workers right now.
+- They need to pass the translation system from ORGANIZATION1.
+- PERSON5, PERSON10 and PERSON3 are having problems connecting to the Internet.
+- PERSON11 is the LG-code from ORGANIZATION1 and he will take care of the agenda for the meeting.
+- PEN1 wants HTTPS to be mandatory on the presentation interface.
+- PERSON15 and PERSON9 are trying to make a recording from last year's workshop with French subtitles from English source from NEU-lecture hybrid into NEU text.
+- The second instance of the segmenter doesn't produce any output.
+- PERSON11 is off the line for an hour or so.
+- PERSON9, PERSON19 and PERSON3 will come to the meeting in the afternoon.
+- They need to change the bridge fingerprints on the client side.
+- PERSON2 will write a microtest script with a test case and upload it to the crise control repo.
+
+
+Minuted by: Team Synapse

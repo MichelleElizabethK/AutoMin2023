@@ -1,0 +1,40 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON5, PERSON7
+
+
+SUMMARY
+- PERSON7 is trying to fix the program in Overleaf.
+- The main purpose of this meeting is to define the structure of the deliverable documents.
+- The documents should be on the presentation platform, and the ORGANIZATION7 presentation platform.
+- PERSON7 and PERSON5 are trying to edit a presentation on Overleaf, but it doesn't work.
+- They need to connect from the laptop to the Overleaf app.
+- PERSON7 wants to discuss the structure of the deliverable.
+- PERSON5 wants to share the internals of the project.
+- PERSON7 explains to PERSON5 and PERSON2 the requirements of the deliverable.
+- PERSON7 will email all of them to explain why they are late with the preparation.
+- The project has to be internally reviewed and the deadline is today, but there is no one to do it.
+- PERSON5 will spend the today afternoon summarising several internal documents describing architecture, the function The deadline for the ELG is February 21st.
+- People should have their full content ready by Wednesday.
+- People 1 and 2 were not on the call.
+- PERSON1, PERSON4, PERSON5 and PERSON8 will review the deliverable towards the end of next week.
+- The deliverable should be two pages long.
+- It should have links to menus and descriptions in it, and it should have some notes regarding the user interface.
+- PERSON7 is writing the requests for yours.
+- The content should be there towards the end of the next week.
+- The document doesn't compile outside of Overleaf.
+- The ELG paper is due next Friday, 21st February.
+- PERSON5 will e-mail ORGANIZATION7 the deliverable.
+- ORGANIZATION7 will review the platform.
+- PERSON1 cloned the file and tried to make a PDF document from it, but it didn't work.
+- PERSON7 helped him.
+- PERSON1 followed the structure suggested in the Overleaf document and the PDF got created.
+- PERSON5 has some questions about the make and compiler.
+- He has made a local copy of the file, pulled all the last modifications and is trying to compile it.
+- PERSON1 is recording the Git command.
+- PERSON5 is trying to figure out how to use the Tex Live package manager.
+- PERSON1 and PERSON5 are having problems with YAM install tex live dash.
+- PERSON5 has finally worked out how to repost a file on Overleaf.
+- PERSON1 will work on it over night.
+
+
+Minuted by: Team Synapse

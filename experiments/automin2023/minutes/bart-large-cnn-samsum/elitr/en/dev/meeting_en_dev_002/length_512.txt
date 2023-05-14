@@ -1,0 +1,78 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON10, PERSON11, PERSON14, PERSON5, PERSON9
+
+
+SUMMARY
+- PERSON10's system froze for 30 seconds when he was trying to start Zoom.
+- He tried to create fake time stamps, but it didn't work for him.
+- The easiest way is to replay a lockfile and feed it to AB client and to the presentation workers.
+- PERSON14 is waiting for PERSON9 and PERSON1 to join the ORGANIZATION1 of from their building.
+- There was a PIN, but it wasn't used.
+- They are also having the promotion of ORGANIZATION4 at the same time.
+- PERSON10 will e-mail PERSON14 about it.
+- PERSON11, PERSON14, PERSON9 and PERSON1 are going to have a video demo.
+- They need a simple set-up so they don't have to share a screen.
+- PERSON1 worked on a plan A and a plan B and is now focusing on plan C. PERSON9 is publishing on his local host.
+- He is not able to publish on a public server because of issues with the pipe.
+- He can play the video from VLC and from a presentation platform.
+- The video box takes in input a public M3U8 URL.
+- It is possible to stream and simultaneously provide inputs to AB client.
+- There is also firewall issues.
+- PERSON10 should try it.
+- PERSON9, PERSON14, PERSON1, PERSON10, PERSON5 and PERSON11 are going to conduct a demo.
+- They need to run the FFM peg streams local to the web server to stream both video, audio and AB clients.
+- The most critical part is to identify the video file and to start performing test of.
+- machine translation on cascade.
+- The project officer will focus on the quality of the provided translation and not on technical issues.
+- PERSON14, PERSON11, PERSON5, PERSON9, PERSON10 and PERSON1 will focus on the technical aspect of the project.
+- The schedule for the project officer is 3 days a week, Tuesday, Thursday and Friday.
+- PERSON11 and PERSON14 will test the transcribing and translation models separately.
+- PERSON9 proposes Thursday and Friday to fix the set up, fix the quality and fix the presentation.
+- The plan B is to use the standard Youtube iFrame within the presentation platform.
+- The iFrame will not have the auto play on.
+- Instead it will only show the video, the pre-recorded one that we want to subtitle.
+- The subtitles will show instructions and the participants will have to click the play button.
+- PERSON9 and PERSON14 are working on a presentation platform.
+- The presentation platform has its own worker.
+- It's a matter of making the script and synchronizing the workers.
+- They need to inject into all the languages.
+- The plan C is the re-broad casting on PERSON1 side.
+- PERSON1's personal Youtube account is not working yet, so he can't test the system.
+- The plan was to present Youtube videos in the PROJECT1 window, but it's not able for streaming yet.
+- Instead, they will demo the system transcribing and translating their speech as the meeting goes and then show the subtitling of the meeting.
+- PERSON9, PERSON1, PERSON10, PERSON12, PERSON5, and PERSON11 will test the performance of the project officer on Thursday and Friday.
+- The next test will take place on Thursday, tomorrow afternoon, because Friday is a national holiday in the Czech Republic.
+- PERSON9 and PERSON14 are having a demo of the online text flow and the presentation platform developed for face-to-face conferences.
+- They need to test restarts and recover from a failure.
+- PERSON10 should take out the internet cable and try to kill workers and slow down the machines.
+- PERSON11 wants to test his presentation on the cruise control set up.
+- He needs to pipe audio into the ORIZATION6 mediator and see the output of that system.
+- PERSON10 has the scripts to run multiple translations simultaneously for PERSON11 and shares them with PERSON11.
+- PERSON10 will be using 2 machines during the demo.
+- One machine will run the set up and the other one will inter to talk with VS.
+- The idea is to log in on the ORGANIZATION5's web server and upload the video file, have the FFM tool installed and upload also AB client with its libraries.
+- PERSON9 needs a couple of minutes to recap their stream text to the presentation platform, while PERSON1 is testing the idea of plan C. The internet connection is not stable, so PERSON9 can't share his screen with PERSON10 and PERSON11.
+- They see only the shell.
+- PERSON9 and PONP10 are trying to fix a problem with the performance of the acati docs streamer.
+- The streamer is a local apache server installed on their laptop.
+- They are going to fix it by using the FFM command.
+- PERSON9 has a self signed SSL certificate on his laptop, but on the ORGANIZATION5 web server there's a regular certificate installed.
+- The project officer will see the demo through the screen so they'll be able to present both online text flow and the subtitles of the presentation.
+- PERSON9, PERSON10 and PERSON5 are having a live video conference.
+- They are having problems with internet connection.
+- They have 35 minutes to solve the problem before they have to leave for lunch.
+- In the afternoon PERSON9 is in another meeting.
+- They will try to schedule another test session for tomorrow.
+- PERSON9 suggests putting everything on a different machine and letting the demo run remotely.
+- PERSON10 will contact PERSON2 to join the meeting.
+- If he agrees, they will be able to fix audax instantaneously.
+- The meeting will take place tomorrow at 11.
+- PERSON9, PERSON5, PERSON7, PERSON1, and PERSON11 are going to have the next test session tomorrow at half past 10.
+- The source language for the meeting will be English or some other language.
+- For the video file it would be German.
+- PERSON9 will send the command to pipe the text to the presentation platform as soon as possible.
+- The list of videos in the section the finder demo input in the Google document will be used during the demo session.
+- If they have no more to discuss, PERSON10 will leave.
+
+
+Minuted by: Team Synapse

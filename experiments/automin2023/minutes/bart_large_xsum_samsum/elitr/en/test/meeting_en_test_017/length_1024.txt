@@ -1,0 +1,34 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON11, PERSON3, PERSON6, PERSON7, PERSON9
+
+
+SUMMARY
+- PERSON6, PERSON3, PERSON11, PERSON9, PERSON14, and maybe PERSON8 are going to meet in LOCATION4 this week to record a project.
+- The left speaker is to the right, so the sound will go in the other direction.
+- The deadline for the PERSON6, PERSON7 and PERSON9 are preparing a book for PERSON5.
+- They want to send the book to him before the end of June so that he can start searching for reviewers.
+- There is a callish deadline on July the first.
+- PERSON9, PERSON6 and PERSON11 don't plan to submit anything, but they will send some papers to Black box in August.
+- PERSON6, PERSON9 and PERSON3 are going to have a project meeting on the 13th of July.
+- They will have regular meetings on Tuesdays from June to July.
+- PERSON6 suggests to postpone the deadline for the book until the end of July.
+- PERSON6, PERSON9, PERSON11, PERSON12 and PERSON7 are going to meet on July thirteenth to talk about the preparations for the conference.
+- The conference is due on the 31st, 31st of January.
+- They need to spend all the money for the book PERSON6 noticed that some heat maps are completely different from balustrades in PROJECT8, PROJECT9 and PROJECT5.
+- PERSON6 and PERSON7 are going to work on the chapters five and 11.
+- PERSON11 is going to write a book about the new generative language models.
+- She wants to talk about the data and the visualisation.
+- PERSON9 has restructured the section and rearranged the structure of the introduction.
+- The introduction should be more coherent.
+- The section six point two should be divided into several subsections.
+- PERSON9, PERSON7 and PERSON6 discuss the semantics of coreference resolution in LOCATION3.
+- PERSON9 will re-split the text into multiple smaller sections.
+- PERSON9 has a lot of work to do on typic problem.
+- She needs to cover more abstractions, morphology, syntax, pre-training task, visualisation and multilinguality.
+- PERSON7, PERSON9, PERSON6 and PERSON3 are writing dissertations on the hidden states of multilingual PROJECT9.
+- PERSON3 has done 4 comparisons of different papers on the task of predicting part of speech, type.
+- He has also done a comparison of language models and machine translation.
+- PERSON6, PERSON7 and PERSON3 discuss how to prepare the visualisations and how to set up the LaTeX format.
+
+
+Minuted by: Team Synapse

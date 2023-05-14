@@ -1,0 +1,71 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON4, PERSON9
+
+
+SUMMARY
+- PERSON9 and PERSON4 are working on a project together.
+- They are just two people.
+- PERSON10 wants to join them, but he needs to be in the meeting.
+- PERSON13 is not going to finish the project, because he stopped responding to the emails.
+- PERSON4 and PERSON9 are going to write an annotated document for the first shared task on automated minuting for the Coffee Meetings from the middle of December.
+- They need to get in touch with PERSON7 to confirm that he can do the processing.
+- If he doesn't respond, they have to recreate the document.
+- PERSON10, PERSON9 and PERSON4 explain the annotating process to PERSON9.
+- PERSON9 needs to see an example to understand the process.
+- PERSON4 makes a copy of a document and renames it to make it easier to follow the procedure.
+- PERSON4 and PERSON10 need to have the full collection of documents with all named entities replaced by place holders.
+- They need to proceed at the two levels: the word type level and the word token level.
+- They want to do the annotation of the documents at the level of the words.
+- PERSON4 doesn't need to finish the annotation, because someone can pick it up from that point.
+- The list of candidates was created by PERSON7.
+- It has a bad quality, there are a lot of typos and most of the output is not a named entity.
+- It could be better if name tag was used.
+- PERSON4 doesn't think the program included all the words beginning from cPROJECT4tal.
+- It's important to know who said what and when someone referred to someone else.
+- It would be better also to preserve the identity of project names or whatever.
+- For the sake of time, for the summarization, they can ignore the identity or tracing of the identities of projects.
+- PERSON4, PERSON10 and PERSON9 are going to create a data set.
+- They need to create an outline on a time frame and get in touch with the person frame to extract the information from him.
+- If they don't, they need to offload some of the data to someone else.
+- PERSON10 wants to organize a de-identification procedure.
+- She wants to talk to PERSON4 about it with PERSON14, who is working on it since the beginning of January.
+- She needs to read the regulations and decide what data should be de-identified.
+- PERSON9 and PERSON10 are waiting for PERSON14 to finish reading the regulations and agree on a timeline.
+- They need to discuss with her what the strategy is and what the guidelines will be.
+- They also need to agree on the de-identification and consent forms.
+- PERSON4 and PERSON10 have to create two consent forms for working with the data and for publishing it.
+- The existing consent forms are not perfect, but they are signed by 30% of participants.
+- PERSON10 will focus on the second form, which is the consent to publish the data.
+- PERSON10, PERSON9 and PERSON4 are going to prepare a pre-release of the corpus.
+- The first form will be on the content to process the data and deidentify it with the forcing goal of publication.
+- The second form is to have the permission to publish the data in the anonymous form.
+- PERSON4 has just made a sample of the names of participants from the minutes of the meetings.
+- It's a big task to extract the names manually.
+- The best way is to create a master sheet and extract the name of the participants from each of the minutes and give that to all of them.
+- PERSON9 and PERSON10 are going to create individualized sheets for the participants of the task.
+- They will have the remarks column with colour and based on that, they will refine it.
+- The de-identification procedure and the check with the consents should be done by the end of February.
+- The trial data is 16 March but training data is first April.
+- PERSON9 wants to have the data de-identification from the participants by the end of February, and they should do the consent in the first week of March.
+- PERSON4 will be finished with the work type level annotation in two days.
+- The coding of the Xml.
+- and the removal of the text from the document should happen by mid February.
+- PERSON9 and PERSON4 are going to create a mock committee for the application of Russian PhD students.
+- They are not sure if they should be invited to the Scientific Committee, because many of them are master's students.
+- It is a very special task to look through these people.
+- PERSON9 and PERSON10 need to submit the proposal for the project within the January 7th or 8th.
+- They need to make several copies of the document with the invitation email and contact the people they want to invite to serve on the project.
+- They also need to cancel some people.
+- PERSON10, PERSON9 and PERSON4 are going to have a scientific committee meeting.
+- They are also going to ask the experienced people from the ORGANIZATION8 corpus to be the key note speakers for the summarization of the data.
+- PERSON10 will be added to the PROJECT2 repo.
+- PERSON9, PERSON10 and PERSON4 will send the proposal to ORGANIZATION7 on January 10th and to ORGONIZATION2 on January 15th.
+- They will try to get some response from both PERSON14 and PERSON7.
+- PERSON4 wants them to send the letter in English to his Russian candidates.
+- PERSON4 and PERSON10 are going to meet this afternoon to talk in English to validate Russian words.
+- They agree it's better to do it in English than in Russian, so they will do it this afternoon.
+- .
+- -
+
+
+Minuted by: Team Synapse

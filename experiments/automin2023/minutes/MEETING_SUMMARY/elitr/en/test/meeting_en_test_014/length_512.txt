@@ -1,0 +1,58 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON12, PERSON13, PERSON2, PERSON4, PERSON5, PERSON6, PERSON7, PERSON8, PERSON9
+
+
+SUMMARY
+- PERSON5, PERSON8, PERSON9 and PERSON6 are on a conference call.
+- The recording has already started.
+- The connection is slow.
+- People can't see each other, but they can hear each other.
+- The conference call is being recorded and will be made public.
+- The purpose of the meetings is for everybody to say what they are working on and what they have in mind for the upcoming weeks, and for me to collect credits.
+- PERSON5 wants to know what others have been working on this week.
+- PERSON10 is going to bring a chair.
+- PERSON5 asks others to download the ORGANIZATION1 database data only once and convert it to plain text.
+- There is the university open day next Wednesday, for The next event will be held in English.
+- There will be one more of session, and then there will be the final session on the ORGANIZATION2.
+- If the system can be adapted for the domain, then even better.
+- Then the Monday seminars will start again.
+- PERSON8 is working on transcribing the YouTube videos, preparing the transcript for the Monday seminar, working on the empty models and doc translation, and integrating office and text additions from PERSON4.
+- PERSON3 successfully managed to run the models and he is developing.
+- PERSON8 is trying to do the same.
+- PERSON5 is downloading all plenary session from your parliament since July 2018.
+- PERSON4 is downloading corpora of interpret spoken language.
+- PERSON5 is on the call.
+- PERSON6 is not.
+- The data that PERSON4 gathered would be used to retrain the ASR models.
+- PERSON4's main goal until the Feb 6th deadline is to experiment with multiple translation.
+- If it works, it will be used in the surge PERSON8 was busy preparing for the Monday seminar and didn't have time to deal with audio compression.
+- PERSON9 is going to instruct all these to PERSON8.
+- PERSON5 wants to see the evaluation in two ways: via a mediator and without one.
+- PERSON9 wants to work on systems.
+- PERSON2 is working on the framework or for example test set for evaluation of simultaneous translation.
+- He proposes some novel ideas for calculating the delay, BLEU score and, all of them.
+- PERSON2 is preparing a tool to evaluate submissions for the shared task at IWSLT.
+- PERSON5 wants to set up a testing booth to conduct regular evaluation of their systems.
+- PERSON12 worked on data collection to find the monolingual languages for 42 European languages.
+- Italian is not included in the list.
+- They need to download all the PDF documents.
+- PERSON7 and PERSON12 need to synchronize on the tools they use to convert PDFs and other file formats.
+- PERSON10's job is to have an overview of the data that we use for the ORGANIZATION1 Congress.
+- He's also working with the people that do the manual work to give them tasks to do.
+- PERSON5 is working on the IWSLT test set, that's spoken language translation from English into two languages, Czech and German.
+- Once this test set is stable, PERSON8 will regularly process the test sets with pipelines and use the evaluation tool by E PERSON2.
+- PERSON PERSON5 is working on English to Czech languages back translation.
+- There is multiple occasions on which they can use these systems.
+- The first occasion is the talk by PERSON1 on Wednesday.
+- If it's not feasible, the systems should be ready by Wednesday.
+- People need to gather better models PERSON5 asks PERSON8 to process PERSON1's dry run of the talk.
+- On Monday, PERSON8 will evaluate the existing systems.
+- On Tuesday, PERSON4 will fine tune the system and on Wednesday morning, they will decide which one to deploy for the event.
+- PERSON8 wants to know if there is any data on PERSON1's talk.
+- There is a source audio, the transcript and the evaluation tool.
+- The evaluation tool should be ready next week.
+- PERSON8 will use this week to train a new segmenter.
+- PERSON2, PERSON4 and PERSON5 will meet on Thursday and have the session on Wednesday.
+
+
+Minuted by: Team Synapse

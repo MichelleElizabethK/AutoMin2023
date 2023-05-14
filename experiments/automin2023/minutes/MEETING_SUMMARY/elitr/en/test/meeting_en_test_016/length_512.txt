@@ -1,0 +1,48 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON3, PERSON5, PERSON6, PERSON9
+
+
+SUMMARY
+- There was a live workshop dry run at the LOCATION2 on Wednesday.
+- The presentations went well for people who could understand OTHER3, but for those who couldn't, they got lost.
+- The head of the particle division of the ORGANIZATION1 was angry about it.
+- The PERSON3, PERSON10 and other people will watch a talk in OTHER6.
+- They will try to rely on live generated translations into OTHER3, and they will see how bad the translations are.
+- The video and subtitles need to be on the same screen.
+- Taking screenshots is better than There is a current setup for static slides for the Monday seminars.
+- It's intended for slides only.
+- There is one more person who just came and he's going to leave for LOCATION2.
+- PERSON11 is studying at ORGANIZATION3.
+- PERSON6 is studying in LOCATION On Monday at 2 PM PERSON3 is giving a talk on the Monday seminar.
+- PERSON7 will join them for the surge.
+- PERSON9 will work on domain adaptation to feed in computational linguistics language model for OTHER3 talk.
+- PERSON9 wants to know if it is necessary to process the dictionary before using it.
+- PERSON3 will have some files ready for the Monday talk.
+- PERSON9 will get in touch with PERSON5 and make sure they can feed the files to him.
+- PERSON3 wants to synchronize with PERSON9 to collect data related to her talk on Monday, so she can try to put this to Monday.
+- PERSON10 worked on three different things this week.
+- The visualization tool on the old realization tool is a back end and the front end is a server in C that reads the microphone signal and sends it over web socket to the client in JavaScript.
+- It's possible to visualize the sound from the microphone PERSON3, PERSON10 and PERSON5 are working on machine translation and visualisation.
+- PERSON10 had to train a neural network in PROJECT5, but it wasn't trained on TPU, so he will probably have to export it.
+- There is an open neural network exchange format called PROJECT4.
+- It can be safely used for the paraphrasing server, PERSON3 and PERSON10 are running Tensorflow models on PROJECT5 instead of PROJECT1.
+- The other LOCATION3 model is on OTHER1 serving.
+- It's trained in a similar way.
+- It has better performance in OTHER3 than in other languages.
+- PERSON3, PERSON10 and PERSON11 are working on a project.
+- They are collecting monolingual data and translating it into synthetic parallel data.
+- PERSON3, PERSON10 and PERSON6 are going to do offline translations of large data.
+- The parallel data extraction will be done by ORGANIZATION2.
+- PERSON11 will send the path to all the source files to PERSON11 and PERSON11 will apply the models.
+- Person This week PERSON5 spent most of his time preparing for the dry run and organizing the ORGANIZATION1 event yesterday and working on implementing the segmenter worker.
+- PERSON12 helped him integrate buffer in the LOCATION3 segmenter.
+- The installation was succesful.
+- PERSON5 is looking for data for LOCATION3 in domain data.
+- PERSON5 will send an e-mail to PERSON6 to ask for help.
+- PERSON2 is on vacation this week.
+- PERSON10 has some processed data that she needs to send somewhere.
+- Other data also work for PERSON2.
+- PERSON3 will email everybody again on Wednesday.
+
+
+Minuted by: Team Synapse

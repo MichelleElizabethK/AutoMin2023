@@ -1,0 +1,30 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON12, PERSON13, PERSON2, PERSON4, PERSON5, PERSON6, PERSON7, PERSON8, PERSON9
+
+
+SUMMARY
+- PERSON5, PERSON8, PERSON9 and PERSON6 are on a conference call.
+- The call is being recorded and will be released publicly.
+- The purpose of the meetings is for everybody to say what they are working on and what they have in mind for the upcoming weeks.
+- PERSON5 wants everyone to give a summary of what they have been working on this week.
+- Next Wednesday there will be a dry run of the workshop for the ORGANIZATION1 congress.
+- The workshop will be held in English.
+- PERSON8's main goal is to get ORGANIZATION4 models used in the pipelines.
+- PERSON3 successfully managed to run these models and he is using them for the paraphrasing.
+- PERSON5 is downloading all the plenary session from your parliament since July 2018.
+- PERSON6 PERSON9 is working on the PROJECT1 thing this week.
+- PERSON5 wants to know how to improve the efficiency of the compression.
+- PERSON8 wants to help with the ORGANIZATION1 Congress with the revision of the transcript.
+- PERSON2 is working on the framework or test set for evaluation of simultaneous translation.
+- PERSON8 is in India until the end of January and is arriving in early February.
+- PERSON7 and PERSON12 are going to work on a project together.
+- They need to download PDF documents and convert them to different file formats.
+- They also need to use different tools.
+- PERSON10's job is to have an overview of all the data, we use for the ORGANIZATION1 Congress.
+- She's supervising and supervising the people who do the manual work, such as creating test sets, test sets using them.
+- She is also supervising PERSON5, PERSON8, PERSON13, PERSON4 and PERSON4 are going to prepare a speech processing pipeline on PERSON1's talk.
+- They need to know what data set can be used for Czech to English translation and which one is the best.
+- PERSON2, PERSON8, PERSON4, and PERSON5 are going to meet on Thursday to discuss the availability of the tool and train a new segmenter.
+
+
+Minuted by: Team Synapse

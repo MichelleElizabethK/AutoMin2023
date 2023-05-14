@@ -1,0 +1,50 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON5, PERSON7, PERSON8
+
+
+SUMMARY
+- PERSON5, PERSON7 and PERSON8 are discussing how to implement the negotation.
+- PERSON8 prepared some crieteria, so the guidelines for the evaluation, but they are not fully ready yet.
+- PERSON7 uploaded the ORGANIZATION3 sources and made the alignment script.
+- PERSON7 wants to know more about the ORGANIZATION3 website.
+- He will skip a meeting later this week because he just connected with him.
+- For each transcript in the website, for each minutes, for example, for 2009 to 2014, they need to search for the name of the person.
+- PERSON5 and PERSON7 are looking for the minutes of a meeting taking place in 2011.
+- They are in the ORGANIZATION3 website, but they are within the corpus created for machine translation purposes.
+- They have a snapshot of the interface which they have done for the annotation tool for the valuation.
+- PERSON5 and PERSON7 need to see the snapshot of the fact-based content weighting and the example of it can be shown to the human annotators.
+- The snapshot is at the end of the paper.
+- The paper has an interface, but it's based on a web application.
+- PERSON8 will create a web application for a paper from 2020 September.
+- He will send it to PERSON5.
+- PERSON5 will help him with the user rating and user queries.
+- They will discuss whether they should have a web interface or not.
+- PERSON8 will do the implemetation.
+- PERSON8 proposes to build a web base interface for the annotators to help them with the evaluation of the papers.
+- The annotators will be able to evaluate the papers in a better way if the interface is good for shared task.
+- They will have the transcript and the reference in the interface, and then they build inteface which shows the transcipt and the summarisation.
+- PERSON7 and PERSON8 want to build an interface for their shared training data.
+- PERSON7 is not sure how the manual evaluation works.
+- PERSON8 will send them both drafts of the draft.
+- PERSON5 and PERSON5 discussed that for the drafting of each draft should be finalized.
+- PERSON8 will share the draft of the equation with the coherence and read ability and the constant value.
+- The human judgement will be based on the cautions one to five and the equation will be computered automatically.
+- PERSON5 will choose two small minutes to evaluate the measures.
+- PERSON7, PERSON5 and PERSON8 will all annotate a single minute and judge it based on PERSON8's criteria.
+- They will get transcripts and two different minutes and they will judge.
+- PERSON5 will prepare the minutes.
+- PERSON7 wants to keep everything as simple as possible for the first shared task.
+- Once they have experience on that, they will go ahead with innovations or novelties.
+- PERSON7 and PERSON8 need to share the evaluation criteria and they would all annotate the document.
+- PERSON5 has sent them the meeting with one transcript and two minutes of time with the transcript and they will share it with PERSON7 and PENPERSON8.
+- PERSON7, PERSON5 and PERSON8 are going to prepare a draft for the 6 years of the europarl.
+- They need to align minutes and transcripts between the transcript and the minutes.
+- The meeting is about to end in two minutes so they need to finish it for today.
+- PERSON7 will link them in 5 minutes.
+- PERSON8 has them on the cluster and he will do the same thing there.
+- He has already done the implementation on.
+- the cluster, so he can link them.
+- He is just opening the cluster.
+
+
+Minuted by: Team Synapse

@@ -1,0 +1,92 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON17, PERSON19, PERSON21, PERSON8, PERSON9
+
+
+SUMMARY
+- Today is the deadline for adding new content to the book.
+- Everything is there already.
+- Multilinguality is missing.
+- The introduction is to do.
+- The paper that cited there the PERSON5 for the multilinguality will appear there.
+- The last one is the last one.
+- PERSON17 should have been commenting on the next phase of the project in the next week.
+- The content is there, but the text is not final, so it's not adding new content.
+- It's rearranging what's already in the box.
+- The pictures are extracted from a paper and copied so pictures are there.
+- PERSON8 needs to extract a png from the paper and put it into the file and png.
+- If it's from ORGANIZATION1 antology it's OK, if it's created comments it's creative comments.
+- The licence of the paper needs to be specified.
+- It's in the archive.
+- PERSON17 and PERSON8 need to explain the creative comments atribution 4.0 international licence.
+- They need to cite the source.
+- The figure number is better than the page number.
+- The pictures they would like to have in the book should be their own.
+- PERSON9 and PERSON8 are going to write a chapter on event fractuality.
+- They will include some pictures from the other papers, but not much more than what is in the original paper.
+- There are two more papers about name entities, grammatical error correction and experiments.
+- PERSON9 has it easier in the attentions than in the other tasks.
+- The pictures at the end of the chapter are at Page 15 or 5.
+- Half of the figure is for attentions and the other half is for probing.
+- The figure is divided into two pictures.
+- PERSON19, PERSON8 and PERSON9 need to change the font size of their pictures to make them smaller.
+- They need to regenerate the text.
+- The problem is that the lighting doesn't want to do the words through, through Overlap.
+- PERSON9 has written 5.2, 5.3 and 5.4 chapters, but some parts still need to be rewritten and some pictures missing.
+- PERSON21 will write 5.5 and will share his screen with PERSON9 and PERSON17 so they can read it together.
+- PERSON9, PERSON17 and PERSON21 are going through a book.
+- They need to edit chapters 3.1, 3.2 and 3.3.
+- They also need to change the introduction of chapters 5 and 6 of the book and move some text from chapter 5 to this one.
+- PERSON17 and PERSON8 discuss the differences between the FastText embeddings and the original Glove image that they both trained.
+- They think that the colour scheme of the embedding might have been changed to make the image more visible, but it doesn't seem to be the case.
+- PERSON8's embeddings are different from PERSON19's.
+- FastText shows the structure but the others don't.
+- PERSON17 thinks PERSON21's figure is ugly.
+- He will either move it to the chapter 4.1 or delete it.
+- The chapter will be done tonight.
+- PERSON9 suggests deleting some of the ugly figures and making a better one for PERSON21.
+- The original PERSON13 model had some dashed lines, which are connected directly between embeddings and the soft max layer.
+- The code is terrible, but it will get fixed.
+- PERSON17 and PERSON9 are going to improve the figures after they have been sent to the reviewers.
+- The text and the text is the highest priority.
+- The figure 4.1 will be deleted and the figures 4.6 and 4.7 will be changed.
+- PERSON21 will transform a bit map into a proper text in Inkscape and save it as a PDF with Latex text labels.
+- It will take 170 MB of disk space and half a giga byte of space.
+- It is possible to replot the map so it has the same font as a book.
+- The deadline is today at midnight.
+- PERSON9, PERSON8, PERSON9's and PERSON21's part is to make the lines in the PROJECT3 schůzky document, green, so that the chocolate is reordered in the box.
+- They need to move 4.1, 4.2 and write something about probing.
+- PERSON9, PERSON8 and PERSON17 are going to ask someone to review the book "Sentiment in Czech".
+- The book is 160 pages long.
+- The preface is nice, but it's not abstract.
+- After the preface there is a background and a summary.
+- PERSON8 and PERSON9 are discussing the structure of book summaries and book conclusions.
+- PERSON21 brought some books to have a look at how they are structured.
+- There are no rules in the books series that they should have a summary and a summary in Czech.
+- PERSON8, PERSON9, PERSON17 and PERSON21 are writing a book summary in Czech, German and French.
+- They will translate the summary into Hindo.
+- The book with the longest summary would be the light lexikons, which is the longest in the series.
+- PERSON9, PERSON17, PERSON10, 158, PERSON6, 162, PERSON22, 149, PERSON4, 119, PERSON19, 110, PERSON26, 110.
+- There is no book shorter than their.
+- They will add some of the, some pictures and will be there.
+- They have to write a text and solve the errors.
+- The next meeting is on Monday 13th July at 2 p.m. in the office.
+- There will be a PROJECT2 meeting, PROJECT3 meeting and ORGANIZATION4 beer.
+- The meeting is planned for 12: 30.
+- The next PRO PROJECT2 meeting is at 12:30.
+- The PRO PROJECT3 meeting is scheduled for 3:30 pm.
+- PERSON8, PERSON17 and PERSON21 are planning to watch the ORGANIZATION1 lectures during the next week.
+- PERSON9 will probably not do anything the whole next week, because he has holiday from Thursday.
+- He will probably do some work even in the holiday.
+- There are prerecorded presentations and live QA sessions.
+- PERSON17 is registered for the tutorials.
+- The presentations will be broadcast live.
+- For each paper there are two time slots.
+- People all over the world can watch it.
+- People can ask questions live on ORGANIZATION6.
+- It is 3 p.m. LOCATION1 time.
+- PERSON17 is registered, PERSON2 is registered and maybe PERSON20 is registered.
+- It's possible that one of them could be registered as well, but they need to pay for it.
+- If they don't have any paper, they can end this session and see each other later.
+
+
+Minuted by: Team Synapse

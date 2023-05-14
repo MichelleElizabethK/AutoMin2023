@@ -1,0 +1,65 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON115, PERSON116, PERSON117, PERSON119, PERSON120, PERSON121, PERSON122, PERSON123, PERSON124, PERSON125, PERSON126, PERSON128, PERSON129, PERSON130, PERSON131, PERSON132, PERSON133, PERSON134, PERSON135, PERSON136, PERSON137, PERSON138, PERSON139, PERSON140, PERSON141, PERSON142, PERSON143, PERSON144, PERSON145, PERSON146, PERSON147, PERSON148, PERSON149
+
+
+SUMMARY
+- The next item is the debate on the oral questions on the new PNR agreement and SWIFT B6-0001/2007.
+- The European Commission recommends the beginning of negotiations with the USA on a new passenger data agreement.
+- The EU's negotiating mandate for the Council Presidency, which the Commission endorses, will be adopted and laid down in February.
+- The German Presidency of the Council will press for a legally watertight arrangement The Council is still engaged in the investigations into possible links between SWIFT and the American authorities.
+- Since investigations are still ongoing, the Council has no idea whether these matters will impact Regulation 1781 of 15 November 2006 on the information on the payer accompanying transfers of funds.
+- The temporary agreement on PNR data with the United States will expire by the end of July this year.
+- The Commission has recommended to the Council that it authorises the Presidency, assisted by the Commission, to open negotiations on the basis of a set of negotiation directives.
+- I hope by mid-February There are two important issues at stake: legal protection for personal data that are transferred and legal certainty for all parties concerned.
+- According to the technical explanations, it would be impossible or highly unlikely for the Automated Targeting System to be used for processing SWIFT data, because the system is part of the Department of Homeland Security, which deals with the protection of borders and people passing through the US.
+- SWIFT After September 11 the nature of relations between SWIFT and the US authorities changed.
+- The Commission has acknowledged that there is a problem and has begun to put forward proposals.
+- Central Bank confirmed what it had said to us at the hearing.
+- SWIFT must bear some responsibility for the data it passes on.
+- Parliament is ready to discuss the transfer of data via SWIFT.
+- The European Central Bank has heeded the lesson that it should demand customer consent.
+- There are concerns about transatlantic relations and the manner in which data are used in something of a spirit of free, unbridled competition In a few months' time, the interim agreement on air passenger data will expire.
+- The previous agreement was annulled by the Court, it was based on an assessment of the adequacy of data protection in the United States.
+- The data transmission system that should have been in operation since PERSON120, the chairman of the Committee on Civil Liberties, Justice and Home Affairs, is concerned about the access of the American authorities to data relating to financial transfers.
+- The Group of the Christian Democrats and European Democrats is working towards consistent compliance with the acquis communitaire and all the documents that uphold the values of European civilisation and protect the freedom and personal integrity of each individual.
+- They are opposed to any unlawful conduct which restricts such freedoms and works against the According to Personal123, there is an urgent need to draw up a global framework for the transmission and protection of personal data within the context of trans-Atlantic relations.
+- Europe understands the United States' need for security and wants to enhance its cooperation with American partners.
+- Europe is in favour of The Commission has held talks with the American Treasury department with a view to finding a solution to the transfer of banking data between Europe and the United States.
+- In 2006, Parliament adopted its Alvaro report on the regulation stipulating the personal data that must accompany transfers of funds and under what conditions The European Parliament member asks President Obama to consult Parliament on the mandate for negotiations on PNR, SWIFT and ATS.
+- She also wants to know about other categories of data being accessed by the US authorities.
+- According to the chairman of the Committee on Civil Liberties, Justice and Home Affairs, the SWIFT system has had a positive impact on fighting terrorism.
+- However, the European Central Bank (ECB) limited itself to negotiating data protection mechanisms with the US Treasury Department without obtaining further safeguards.
+- The Mrs in 't Veld is unwell, but still in good health.
+- She would like to carry on where she left off.
+- She wants to know from the Council how it intends to address the issue of the collection of personal data of EU citizens by the United States.
+- The Automatic Targeting System (ATS) was used for years to target passengers without anyone's knowledge.
+- The European Union has been negotiating PNR agreements with the United States in order to guarantee the protection of their citizens' fundamental rights.
+- EU member states are astonished that the ATS system was According to previous speakers, the fight against terrorism is largely related to risk analysis, the calculation of probability, and processing of commercial data on top of personal data pure and simple.
+- European citizens in the USA should enjoy the same level of data protection as those in Europe.
+- The US Administration has The European Union should insist on the USA's commitment to data protection and ban the use of data for purposes unrelated to the fight against terrorism.
+- It should also ban direct access to airline company files.
+- The European Parliament wants an inquiry into the transfer of European Union citizens' personal data to the United States.
+- The group of liberals and Democrats for Europe requested a hearing on the issue.
+- PERSON134: Mr President, we need a thorough assessment in the run-up to an agreement.
+- Any future agreement must be based on the push system.
+- The transfer of passenger data needs to be strictly limited in terms of the purposes for which it can be used and the amount of data The President, Commissioner Frattini, the Commissioner and the President-in-Office are discussing the SWIFT case in the House of Representatives and the transatlantic relationship in the context of terrorism and privacy.
+- The European Parliament is discussing the issue of the transfer of airline passenger data between the EU and the US.
+- The President, Mr Gloser, Commissioner and others have heard the same refrain right across the political groups: we do of course need a transatlantic partnership and that we are allies in the fight against terrorism.
+- The Commissioner praised the data protection aspects of the agreement, but I do not believe PERSON141 questions the European Commission's response to the SWIFT privacy abuses.
+- PERSON143: Mr President, Commissioner Frattini's commitment to the negotiations on the SWIFT agreement is as firm as it was made public.
+- The new agreement should have the same level of protection for personal data as the interim one.
+- As soon as an act of terrorism is suspected The President of the European Commission wants to address issues related to PNR and SWIFT.
+- He is happy to take up Radwan's idea.
+- The European Union has no influence over data that is transferred and that is, as it were, ready to be called up elsewhere.
+- Commissioner Frattini did make it clear in giving precedence to people's safety and to legal protection.
+- According to President, Europe must find a global balance between the right to pursue and investigate terrorists and the duty to protect fundamental rights, such as the privacy of personal data.
+- President, he is in favour of European institutions and Parliament being politically involved even when the Treaties do not allow it According to PERSON146, the number of data items needed to process passenger information in the PNR system should be reduced from 34 to 15.
+- If there is no agreement at the end of July, then the passengers' rights will be limited to the private sphere of the air carriage contract.
+- There will be new negotiations to cut down the number of data items and in such a way that reducing the amount of data does not jeopardise the fight against terrorism.
+- In connection with the ATS system, I have received written assurances from the United States regarding compliance with the PNR agreement There was a debate in the European Parliament on the issue of data transmission between the EU and the US concerning the SWIFT case.
+- The EU is working on a political agreement with the US on personal data processing.
+- The European Parliament will vote on it during the next part-session.
+- The German Presidency of the Council and the Commission have confirmed that they will continue to satisfy US demands by holding files on all European citizens and handing over their personal data to the US secret security services.
+
+
+Minuted by: Team Synapse

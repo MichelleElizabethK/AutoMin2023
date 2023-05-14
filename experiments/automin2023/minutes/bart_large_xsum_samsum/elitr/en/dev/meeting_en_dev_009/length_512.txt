@@ -1,0 +1,43 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON2, PERSON6, PERSON7
+
+
+SUMMARY
+- PERSON6 and PERSON7 are going to use the rolling ORGANIZATION2 link for all their meetings.
+- PERSON6 and PERSON7 are discussing the Minuting annotation guidelines.
+- They have problems with ORGANIZATION2 meet.
+- It's free for one hour, but more than one hour you have to pay.
+- PERSON7 and PERSON6 are having a coffee meeting.
+- They are going to collect data and send it to the annotator.
+- The annotator reads the transcript and corrects it.
+- He or she also creates the minutes.
+- PERSON6 and PERSON3 created the agenda for the PROJECT1 minutes.
+- The documents contain original agenda of the meeting, which was created by PERSON6 or PERSON3 before the meeting and partially s extended during the meetings, or sometimes after the meetings.
+- Some of the minutes are very short and PERSON7 sent the ASR to the server via file sender and sent back the manually corrected ASR.
+- PERSON6 proposed that annotators should push and pull the data via GateHub.
+- PERSON7 proposed that they should send the data to the annotators themselves, but it deleted the PERSON2, PERSON7 and PERSON6 had a meeting.
+- After the meeting, PERSON2 suggested to PERSON7 that the teams should be created again, but PERSON6 didn't agree.
+- PERSON2 and PERSON7 agree to let the annotators upload the minute themselves, but PERSON7 PERSON7 and PERSON2 decide not to do the team for the moment.
+- They will use the annotators instead.
+- They need the alignment, but they need to have a measure by which they can use the alignment to produce something.
+- PERSON6 and PERSON7 are discussing how to use alignment in evaluation.
+- They have to submit the proposal within the first week of November.
+- PERSON7 has never had any experiments with shared task and measures and so on.
+- There are many automatic measures for summarisation, but none of them works well.
+- PERSON2 proposed a manual evaluation method similar to how most of the evaluations are done in the community, in the literature.
+- PERSON2, PERSON7 and PERSON6 are going to use human evaluation instead of alignment annotation for summarisation in their speech proposal.
+- PERSON7 wants to discuss the format of the basic sample trial and how to create basic samples with PERSON1.
+- PERSON2 explains the data format.
+- PERSON2 and PERSON7 are going to centralize the data storage from Sorbow to GateHub repository.
+- PERSON2 does all the pushes in the GateHub.
+- Before pushing, he needs to rename the names in the cluster, all the names.
+- For each annotator, he or she has to change the name form ANNOTATOR2 to ANNOTATOR2.
+- PERSON7, PERSON2 and PERSON6 are going to meet today in person to discuss renaming annot01 files.
+- PERSON2, PERSON7 and PERSON6 are going to repeat the meeting today.
+- They have to wait for PERSON1 to finish the annotation tool composed for new idea.
+- PERSON4 is writing.
+- He needs a password to access it.
+- PERSON2 will send the password to PERSON7 wants to return to him, but he doesn't want it.
+
+
+Minuted by: Team Synapse

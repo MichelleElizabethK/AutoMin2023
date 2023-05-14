@@ -1,0 +1,18 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON2, PERSON4, PERSON5
+
+
+SUMMARY
+- PERSON4 and PERSON5 are going to set up the website for the workshop.
+- They need to write the call for participation on Github.
+- PERSON4, PERSON5 and PERSON6 are preparing the proposals for the website.
+- They need to have at least 20 people in the program committee and they need to get the membership right.
+- Organizing 2 doesn't work.
+- PERSON4 and PERSON5 are organizing a workshop, but they don't have enough people with a background in summarization.
+- They need at least one or two people with such a background.
+- They also need to invite prominent people from the summarization community for the input.
+- PERSON5 is going to ask him to be part of the program committee.
+- PERSON4 will ask him if he can join the organizing committee.
+
+
+Minuted by: Team Synapse

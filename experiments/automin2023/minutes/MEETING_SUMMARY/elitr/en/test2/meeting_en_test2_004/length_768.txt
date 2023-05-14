@@ -1,0 +1,36 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON12, PERSON13, PERSON14, PERSON5, PERSON7
+
+
+SUMMARY
+- PERSON13 is back to work after the New Year holidays.
+- He is staying in Mannheim in a private apartment.
+- He has assignments, projects and exams to do.
+- The Holocaust survivor's session has been postponed by a month.
+- PERSON12 is going to the PROJECT6 tomorrow.
+- The second event will be online, pre-recorded and interleaved with a real live discussion.
+- PERSON14 will be available as a back-up person in case of sickness.
+- PERSON7 will prepare simple HTML tables that will be auto generated and put them on the web.
+- PERSON12 will update the demo paper submission, which is due next Friday, and prepare the project reports.
+- PERSON13 will probably not progress over the Christmas.
+- PERSON7 will take a record of the one point five.
+- PERSON12 will revise the PROJECT1 domain and create a translation dictionary.
+- PERSON7 will have a call with PERSON10 next Monday.
+- PERSON12 will get some delay scores for some of the files from the PROJECT2.
+- PERSON7 has done a lot of work towards the end of the year.
+- PERSON12 has been asking for this since August.
+- PERSON5 finally managed to compile the data set and train the model on common voice.
+- PROJECT13 is going to be in Czech.
+- PERSON12 and PERSON15 sent e-mails to ORGANIZATION10 and ORGANIZATION17 asking about links to the data.
+- ORGANIZATION8 has already provided the list of PROJECT4 data and other links to deliverables.
+- PERSON5 is the only person training PROJECT3 system at ORGANIZATION4 these days PERSON13 wants to work on a non native speech automated system as part of his masters thesis.
+- He would like to work with PERSON5 on PROJECT5 PROJECT3.
+- PERSON10 is busy and not available on Friday, so he will probably be available on Monday or Tuesday.
+- PERSON12 is happy that they didn't miss the opportunity for sunchro.
+- PERSON7 wants to know when the replacement for PERSON10 will be appointed.
+- PERSON12 reminds PERSON14 to write down in the briefing summary what is needed for the audio pipeline.
+- PERSON12 and PERSON14 agree that direct bilingual models are better than multilingual ones.
+- PERSON12 will try to record his suggestion about how to use the language ID in their document.
+
+
+Minuted by: Team Synapse

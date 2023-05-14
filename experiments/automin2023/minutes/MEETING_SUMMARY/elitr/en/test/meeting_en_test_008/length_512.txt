@@ -1,0 +1,36 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON5, PERSON7, PERSON8
+
+
+SUMMARY
+- PERSON8 is preparing the link into the corrector.
+- PERSON5 wants to talk to PERSON2, but he's not up at the moment.
+- PERSON7 uploaded the ORGANIZATION3 sources.
+- PERSON7 has just connected with him and maybe will be skipping the meeting later this week.
+- PERSON5 shows him the link to the organiser's website.
+- PERSON5 shows PERSON7 the minutes from the organiser's website.
+- PERSON8 shows them a snapshot of the interface which they have done for the annotation tool.
+- PERSON8 shows PERSON5 and PERSON7 the snapshot of the paper.
+- The interface which can be seen in the snapshot can be found at the bottom implementation details.
+- PERSON8 will form airdraft and send it to PERSON5.
+- PERSON5 will finalize and then PERSON8 will do the implemetation.
+- PERSON8 wants to know if the web base is good for a shared task.
+- PERSON7 wants to understand how the annotators will be able to evaluate the generated minutes by the participants.
+- PERSON8 will send PERSON7 and PERSON5 a draft of the interface for both the training data and the manual evaluation.
+- PERSON8 will share the draft of the paper with the rest of the team.
+- PERSON7 will send them the constant values of the equation.
+- PERSON5 will give them examples of how their cautions work on minutes.
+- PERSON8 will make a different one for each of the two minutes PERSON5 will prepare the minutes.
+- PERSON7 will judge.
+- PERSON8 will annotate a single minute.
+- PERSON5 will implement the existing to matrix.
+- PERSON8 did some evaluation on the paper.
+- It took her a long time to fix some issues with the matrix.
+- PERSON8 will link the papers which she implemented in the agenda.
+- PERSON5 sent her the meeting with one transcript and two minutes.
+- PERSON7 and PERSON5 will draft a draft for the 6 years of data for the project.
+- They need to align the minutes and the transcripts.
+- PERSON8 will link the implementation he's done on the cluster in 5 minutes.
+
+
+Minuted by: Team Synapse

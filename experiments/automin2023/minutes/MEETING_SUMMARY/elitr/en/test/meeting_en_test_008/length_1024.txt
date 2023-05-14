@@ -1,0 +1,19 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON5, PERSON7, PERSON8
+
+
+SUMMARY
+- PERSON8 is preparing the link into the web interface.
+- PERSON5 wants to talk to PERSON2 today, but he didn't show up.
+- PERSON7 will skip the meeting later this week.
+- PERSON5, PERSON7 and PERSON8 are trying to find out what they can do with the minutes and how they have built a tool for annotation of the valuation.
+- PERSON8 proposes to build a web interface for manually evaluation of a paper from 2020 September.
+- PERSON8 will send PERSON7 and PERSON5 a draft of the manual evaluation of the papers.
+- PERSON8 will share the draft with the annotators.
+- PERSON5, PERSON7 and PERSON8 are going to judge the minutes and transcripts.
+- PERSON8 is working on the matrix for the paper, but he doesn't have any progress on the automatic part.
+- PERSON5 and PERSON7 will draft a draft for the 6 years of data for the europarl.
+- PERSON8 will link the implementation of the implementation he's done on the cluster and link the minutes and the transcripts in 5 minutes.
+
+
+Minuted by: Team Synapse

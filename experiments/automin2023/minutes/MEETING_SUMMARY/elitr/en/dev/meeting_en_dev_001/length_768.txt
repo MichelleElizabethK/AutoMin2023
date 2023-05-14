@@ -1,0 +1,49 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON3, PERSON4, PERSON5, PERSON6
+
+
+SUMMARY
+- PERSON4 is getting her visa this Friday.
+- PERSON3, PERSON10, PERSON5 and PERSON6 want to prepare summaries for the ORGANIZATION1 and ORGANIZATION2 meetings.
+- They need to collect around 100 hours of data for the share task.
+- ORGANIZATION1 has one paragraph abstracts of coherent texts.
+- ORGANIZATION2 has two paragraphs of PERSON10, PERSON3 and PERSON6 discuss the data set for a speech recognition training.
+- The data set is too small for the full training, but acceptable for fine tuning and evaluation.
+- The participants will retain half of the data of the test set and half of it will be used PERSON10, PERSON6, PERSON3 and PERSON10 are going to use ORGANIZATION1 data from 2006 to 2011.
+- It will be 50 hours of English and 30 hours of Czech.
+- ORGANIZATION1 will have to hand over the data to the relevant authorities.
+- PERSON10 wants to know if it is possible to prepare a web page with minutes in order to conduct research.
+- PERSON3, PERSON10 and PERSON5 are discussing the structure of the meeting.
+- They are discussing whether or not to approve the approval of 3 years sentence.
+- PERSON6 found some hyperlinks in the ORGANIZATION1 corpus that could have been edited for the purposes of the project.
+- PERSON10 proposes a 3-track project with 3 test sets and 3 tracks: the first test set would be the organiser's corpus, the second PERSON10 wants to download the transcripts automatically and provide them as the training data.
+- PERSON6 wants to repackage it.
+- PERSON3 doesn't know the date of the session.
+- PERSON10 doesn't see PERSON1 on the call.
+- PERSON1 is planning to call PERSON3 tomorrow to discuss something.
+- PERSON6 proposes to divide the ORGANIZATION1 corpus into 3 parts like short meetings and long meetings.
+- PERSON5 suggests to prepare it for the participants to make it easy.
+- PERSON10 suggests to redo the data set.
+- PERSON5, PERSON10 and PERSON3 are working on a project to create a corpus of summarization corpora for the organization.
+- PERSON10 and PERSON6 agree that there will be 3 different data tracks, and they will have different assignments.
+- There will be a summarization, a cross-training and a test set for their shared task.
+- They need to find a person familiar with Wget to prepare the corpus PERSON6 is on vacation this week.
+- PERSON8 is at home.
+- PERSON10 will talk to him about the procedure for downloading the speech parts of the transcripts and the summaries.
+- PERSON3 will create a template for the hard data.
+- PERSON10 wants to formalize their formalization with dashes in the minutes.
+- PERSON3 hasn't seen the presentation by the remote colleague of ORGANIZATION5, who is developing PROJECT3, which took place in Hnanice.
+- PERSON10 wants the presentation in one PERSON3 and PERSON10 discuss the organization's work on saving data in XML format and speaker diarization details for corpora.
+- PERSON1 has a lot of work to do.
+- PERSON2 has uploaded fast, but only in English for the moment.
+- PERSON3 will join them tomorrow and they will ask him if he has time for any such work.
+- PERSON6 will create an automatic script to get the transcript and PERSON5 downloaded to the server the folder with the information about the size of meetings.
+- PERSON6 will process the data and organize it according to the dates and names of the sessions.
+- PERSON6 asks PERSON3 and PERSON5 how to download the data from the ORGANIZATION1 web.
+- PERSON3 sends them a link to the folder containing all the transcripts from 2006 till 2011 and the corresponding minutes for each of them.
+- People 6 and Person PERSON6 and PERSON10 are going to make major decisions tomorrow.
+- PERSON3 is in the forest.
+- It's cold.
+
+
+Minuted by: Team Synapse

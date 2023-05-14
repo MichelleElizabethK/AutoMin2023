@@ -1,0 +1,22 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON14, PERSON15, PERSON4, PERSON8, PERSON9
+
+
+SUMMARY
+- PERSON8 is going to work.
+- PERSON14 is watching the lecture on PROJECT2 ORGANIZATION5.
+- PERSON9 wants to test the script first.
+- PERSON14 needs to get all the input files for the evaluation, but she doesn't know where they are.
+- She needs to ask PERSON4 and PERSON13 for help.
+- She also needs to check the Excel sheet with the forced alignment inputs.
+- PERSON8 and PERSON14 are working on a project.
+- They need to convert 2 WAVs, OST files and the subtitles for the caraoke for preview and the OST format that SLTF evaluates.
+- They also need to create the Antrecorp depth and test PERSON8 asks PERSON4 to synchronize with PERSON14 on the on the SLT test set and depth set forced alignment files.
+- PERSON4, PERSON8, PERSON9, PERSON15 and PERSON14 are meeting tomorrow.
+- They are going to prepare a case similar to academy test set.
+- PERSON9 is writing the paper about subtitler.
+- PERSON14 is working on the AAS file.
+- PERSON14 will create a Python script for the Antrecorp test.
+
+
+Minuted by: Team Synapse

@@ -1,0 +1,104 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON3, PERSON4, PERSON5, PERSON6
+
+
+SUMMARY
+- PERSON3 and PERSON6 are expecting PERSON10 today.
+- PERSON4 is getting her visa this Friday.
+- She has an appointment on visa embassy.
+- She is gathering all the documents right now.
+- She will send a link to the agenda to open the agenda for today.
+- PERSON10 and PERSON3 are going to use the ORGANIZATION1 talk as a contrast for the ORGANIZATION2 and PROJECT1 sessions.
+- They want to do their own minuting for the ORGONIZATION2 and PROJECT1 meetings.
+- PERSON3, PERSON5, PERSON6 and PERSON10 want to create summaries from ORGANIZATION1 for the share task.
+- They are in different languages.
+- The transcripts are very good, but the summaries are useless.
+- They need to prepare more data for the task.
+- PERSON3, PERSON6 and PERSON10 are going to a training session.
+- They are sharing the data about their machine translation.
+- The data set is too small for the full training, but it's acceptable for some form of fine tuning or development.
+- They will retain half of the data of the test set and give away the other half to the participants.
+- PERSON6 has collected 19,000 hours of data for PROJECT1.
+- There was no speed summarization share task for a long time.
+- There is no gold standard for summarization, so you have to have the standards.
+- There were some share tasks that were only 80 hours.
+- PERSON10, PERSON6, PERSON3 and PERSON10 are going to use ORGANIZATION1 for the evaluation of speech training.
+- They will use 25 hours of evaluation for English and 15 hours for Czech.
+- The training will take 50 hours of English and 30 hours of Czech.
+- PERSON3 wants to take the corpus from 2006 to 2011 and add minutes that can be found in the database.
+- For one meeting it will take about 5 to 10 minutes of manual work.
+- The minutes are on their website and can be searched using the name of the transcript.
+- PERSON6 and PERSON10 are trying to find a way to organize a meeting that PERSON5 exerupted.
+- They have a meeting on October 6th, 2011.
+- They need to find the minutes of the previous sitting and find a summary of the session.
+- PERSON3 and PENPERSON10 want to change the format of the summary of the meeting.
+- They want to use the IDs instead of the search form.
+- They need to decide if they want to increase the data or not.
+- They will vote on it today.
+- PERSON3 can't find the correct ID to search for minutes in the ORGANIZATION1 corpus.
+- In some minutes some minutes were like some kind of hyperlinks that left to some other things.
+- The guidelines say to avoid those kind of minutes.
+- The hyperlinks were mostly from the ORORGANIZATION1 side.
+- PERSON10 proposes 3 test sets for the project: the corpus, ORGANIZATION2 and PROJECT1, and ORGANization2 and PROJECT1.
+- They are the test sets that are comparable with the literature.
+- The data set for PROJECT1 is the data set that speech people are familiar with.
+- PERSON10, PERSON6 and PERSON3 agree that the training data for ORGANIZATION2, PROJECT1 should be provided automatically.
+- It would be better to repackage the data and give it to the participants as a test set.
+- If someone refuses to do it, they won't get any money from it.
+- PERSON3 has found a way to search for the minutes from the ORGANIZATION1 corpus with the name of the chapter.
+- There was only one session in that period found in those five years.
+- The program found two outputs on the same day, one of them was some voting.
+- PERSON3 and PERSON10 are looking for someone who can search for the date based on the date and the title of the document.
+- They need to find someone who will do it automatically as it doesn't make sense to do it manually.
+- PERSON1 is planning to call PERSON3 tomorrow to discuss something.
+- PERSON10, PERSON5, PERSON3, and PERSON6 are discussing how they should organize the ORGANIZATION1 meetings.
+- They need to create a downloader of from and reconstruct the structure based on matching of strings.
+- PERSON8 is on vacation this week.
+- PERSON5 and PERSON10 need to redo the data set of ORGANIZATION1 to include it in the share task.
+- The data set should be prepared for the participants by annotators to match the transcripts and the summaries and the minutes.
+- The minutes are there in the web, but they are not variable and they are some form of minutes.
+- PERSON5 is one of the proponents of having other data sets.
+- PERSON5 wants to create a summary of the best transcripts and agregate the subset to the existing data and publish it as a separate document.
+- PERSON10 doesn't want to spend money on annotating the minutes.
+- PERSON3 decided to take the whole ORGANIZATION1 corpus and pack it with existing minutes and invest money in alignment and programming.
+- PERSON10 wants to create a new summarization corpus for ORGANIZATION1 sessions summaries corpus.
+- It will have 3 different tracks, like data tracks.
+- PERSON3 is in LOCATION1, but he's not in PERSON5 yet.
+- He should put some wood to the heating.
+- PERSON10, PERSON6 and PERSON3 will do the summarization, the ORGANIZATION1 minutes corpus and the pairs of transcripts and minutes as the test set for their shared task.
+- They will invite people to cross train for in all these tasks.
+- Any pre-training on CNN, daily mail for the purposes of ORGANction2 and pre- training on ORGAnction1 is welcome.
+- PERSON10, PERSON5, PERSON6, PERSON8 and PERSON3 need to find someone familiar with Wget to download and prepare the corpus.
+- They need to ask him for a session where he could walk them through how to do it.
+- They don't have the uniformal format of their data yet.
+- PERSON3 and PERSON10 are going to create a file with the output of the project 3 presentation by a colleague of ORGANIZATION5 who is developing PROJECT3 in Hnanice.
+- The file should have a format similar to the ORIGINATION1 data set.
+- PERSON10 wants to report on the current downloading of ORGANIZATION1 data.
+- He wants to have the ASR and the corresponding minute in one format.
+- He also wants to share the link of just pasted through the session, where is that chat?
+- PERSON3 can't get the talk he's talking about.
+- His colleague, PERSON7, is developing a web brow for big corpora.
+- He's been on the Czech parliament browser and has a great experience with preserving the original data.
+- He has already gone through decade of corpus annotation and he knows how to preserve everything.
+- The corpora do not have a good speaker diarization details.
+- PERSON10 and PERSON3 agree on the format of the information that should be converted to angle brackets instead of square brackets.
+- They need someone to prepare the data.
+- PERSON1 will join them tomorrow and they will ask him if he has time to work with Czech data.
+- PERSON6, PERSON10 and PERSON3 are going to create an automatic script to convert the transcript and minutes from ORGANIZATION1 to HTML.
+- They will start from ORORGANIZATION1 and reorganise the files that PERSON3 is browsing now to create a directory structure.
+- PERSON6, PERSON3 and PERSON10 want PERSON5 to organize the ORGANIZATION1 folder into the directory structure according to the dates and names of the sessions and then complement it with the minutes.
+- PERSON6 needs to do a print out and the signature for PERSON9.
+- PERSON6, PERSON10, PERSON3, PERSON5 and PERSON6 need to organize the data.
+- PERSON6 will work with the data and PERSON3 will annotate the data with his annotators.
+- The next job is to have the corresponding minutes for each of the transcripts.
+- PERSON3 sent a link to the doctorate for machine translation to PERSON5 and PERSON6.
+- It was for the machine translation work from 2006 to 2011.
+- The minutes for each of those ASR were still 2011, but it was enough to process it.
+- PERSON6 and PERSON3 are satisfied with LOCATION2.
+- It's about five degrees in the forest where PERSON3 is.
+- They are going to check their options for today and tomorrow.
+- PERSON1 will join them tomorrow.
+- It is really cold in LOCATION 2.
+
+
+Minuted by: Team Synapse

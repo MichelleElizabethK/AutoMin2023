@@ -1,0 +1,41 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON12, PERSON13, PERSON14, PERSON5, PERSON7
+
+
+SUMMARY
+- PERSON13 is back to work after the New Year holidays.
+- She is staying in Mannheim in a private apartment in Barbican city.
+- The electricity is back.
+- PERSON12 and PERSON3 are meeting.
+- They are going to talk about the projects PROJECT13 and PROJECT6, which has been postponed by a month.
+- PERSON13 is busy with homework and exams.
+- PERSON14 will be available as a back-up person in case of sickness.
+- PERSON12 is going to prepare HTML tables as a back-up person for the PROJECT13 event and for the recording of PROJECT12.
+- PERSON12 is working on the demo paper submission, which is due next Friday, and preparing the project reports.
+- PERSON7 and PERSON12 are working on a project.
+- They want to get an idea about the conversion, like the world ratio of two languages for a given transcript.
+- For PROJECT3, they need to remove empty lines due to profanity filtering.
+- They need to add complementary PERSON12 and PERSON7 need to prepare a translation dictionary for PROJECT13 domain.
+- They need to improve their segmenter.
+- PERSON7 will get some delay scores for some of the files from the PROJECT2.
+- PERSON7 has done a lot of work towards the end of the year.
+- PERSON12 is happy with the tables that they put into the deliverables.
+- PERSON5 has finally managed to compile the project.
+- PERSON12 wants to choose the system for both PROJECT13 and PROJECT6.
+- PERSON5 is trying to train a model on common voice as the data set for the experiment.
+- PERSON12 and PERSON15 didn't respond to an email about links to the data.
+- PERSON8 has provided the list of PROJECT4 data and other links to deliverables in the work package one.
+- PERSON5 is the only one who is training PROJECT3 system at ORGANIZATION4 these days.
+- PERSON13 is working on building a non native speech-to-audio system for some languages as part of his masters thesis.
+- PERSON5, PERSON12, PERSON13 and PERSON14 are going to meet on Monday or Tuesday to discuss the PROJECT2 project.
+- They are also going to talk about the replacement for PERSON10.
+- PERSON12 and PERSON14 are aiming for the end of the month deadline with a subtitler study paper.
+- PERSON12 asks PERSON7, PERSON7 and possibly PERSON13 to write down what is important in the briefing summary.
+- They need a tool to ship audio to multiple workers, such as the English, German and Czech PROJECT3 and to this language ID worker, and to merge the PERSON12 and PERSON7 want to change the language ID of the PROJECT9 model to make it multilingual.
+- PERSON7 explains to PERSON12 that direct bilingual models are better than models based on English centric data set.
+- PERSON7 will try to find the book and send it to PERSON12 and PERSON14.
+- They need to have it out in the middle of the year.
+- PERSON12 will record her suggestion about how to use the language ID in the document.
+
+
+Minuted by: Team Synapse

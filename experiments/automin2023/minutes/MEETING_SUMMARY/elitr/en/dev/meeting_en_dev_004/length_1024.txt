@@ -1,0 +1,47 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON14, PERSON17, PERSON28, PERSON5, PERSON6
+
+
+SUMMARY
+- PERSON14 submitted the paper to PROJECT5, the second week in a row.
+- PERSON5 and PERSON17 can't hear what is being said, so they need someone to speak up.
+- PERSON5 and PERSON17 need to check the text of the book they are reading PERSON6 prepared a paper on the comparison of individual architecture and wrote a conclusion.
+- PERSON10 prepared a survey related to this.
+- PERSON5 prepared a book on the same topic.
+- PERSON27 and al published a survey book.
+- PERSON14, PERSON17 and PERSON6 discuss how to present their papers in relation to other papers in a book.
+- They also discuss the difference between referring to older papers as one's own and others' work.
+- PERSON6, PERSON5, PERSON17 and PERSON14 are going through the book.
+- They are going to edit the text, delete some chapters and write a new one.
+- PERSON14, PERSON17 and PERSON5 are talking about unsupervised methods for probing and unstructured methods for behaviouristic testing.
+- PERSON17 wants to add a file that says behaviour to the unsupervised methods.
+- PERSON5 wants to discuss interaction.
+- PERSON14 wants to see the slides from the tutorial.
+- The tutorial is 3 hours long.
+- PERSON17, PERSON5 and PERSON14 are discussing unsupervised methods.
+- PERSON17 and PERSON14 discuss how to train a model to do machine translation.
+- They agree that the unsupervised methods should be classified as structure analysis and the behavioral analysis as the other methods.
+- PERSON5 and PERSON17 are going to discuss the comments on comments.
+- PERSON5 claims that machine learning people are more interested in interpretation than in NLP.
+- PERSON17 claims that there is no general consensus on interpretation.
+- PERSON17, PERSON14 and PERSON5 are discussing the structure of a book.
+- PERSON14 and PERSON17 are working on a book.
+- They have almost 150 pages.
+- The book has not have a summary.
+- It has a glossary.
+- The introduction is not on NLP.
+- PERSON6, PERSON14 and PERSON17 want to read the whole book.
+- PERSON6 will check the list of figures and add or remove from the text.
+- They want to have the next meeting in two weeks.
+- PERSON14, PERSON6 and PERSON17 are working on the project.
+- The deadline for the final report has been set for the 28th of July.
+- The next meeting is on the 21st of July at 11.
+- PERSON14 wants to meet with her co-workers PERSON14 is trying to find someone who can review the book for her.
+- She needs someone non-Czech.
+- She is an assistant professor.
+- She got an email from a professor inviting her for a drink in the middle of work day.
+- PERSON14, PERSON5 and PERSON17 are looking for a reviewer for their book.
+- They want someone who can read, write and review the book.
+
+
+Minuted by: Team Synapse

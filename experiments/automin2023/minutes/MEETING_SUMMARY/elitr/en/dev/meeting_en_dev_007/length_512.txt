@@ -1,0 +1,35 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON2, PERSON3, PERSON5
+
+
+SUMMARY
+- PERSON1 and PERSON2 are working on ORGANIZATION1 data set.
+- The deadline for the data is November 30th.
+- PERSON1 will get back to all of them by the end of the week with the data.
+- Today they will discuss the annotations and alignment tool by PERSON PERSON1 would like the shared task to be as simple as possible.
+- PERSON2 would like it to be more complicated.
+- PERSON3 would like to involve annotators.
+- PERSON1 proposes to make the alignment tool part of shared tasks and get the people on exceptive.
+- PERSON2 wants to evaluate some meetings based on the automatic evaluation metrics that they have and compare them with manual ones.
+- PERSON2 wants to know what she should do to be as effective as possible.
+- PERSON1 needs to prepare the data in the form like the PROJECT1 meetings.
+- PERSON2 wants to begin work with annotators, but needs someone who understands the technical part of the tool to explain it to him.
+- PERSON1 would like to transfer the task to PERSON5, but that means after the end of November.
+- PERSON1 and PERSON2 need someone to help them with this task.
+- They need to know how to work within the tool and how to use it.
+- PERSON1 and PERSON4 have a strong intuition that it would help by aligning minutes and transcripts to improve evaluation.
+- PERSON1 supports the idea to start the alignment thing with annotators soon, but is not sure if it should be a shared task.
+- There are still many questions unanswered, like how to download the meeting, what to click and where to put the data.
+- PERSON1 and PERSON2 are working on a project.
+- They want to create the data set before releasing the data of the ORGANIZATION1 thing to be release just part of the shared task.
+- They need to create an alignment toll and a starting align transript summarize.
+- They PERSON2 wants to start the annotation work as soon as possible, because it's going to take a lot of time.
+- The project consists of 130 minutes for English and 110 minutes for Czech.
+- There are going to be some meetings, some other meetings, and I will start with imaging center PERSON1 and PERSON2 will have answers to all of this by the end of this week.
+- They will have a call with annotators and session with your annotators to show them how to do it.
+- PERSON1 has to schedule a session with PERSON5 to help him with some PERSON1 put a proposal to the agenda.
+- It's the proposal that data for ORGANIZATION1 and a tool for Annotators.
+- The deadline for ORGANIZATION2 is the end of the week.
+
+
+Minuted by: Team Synapse

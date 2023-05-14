@@ -1,0 +1,81 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON14, PERSON17, PERSON28, PERSON5, PERSON6
+
+
+SUMMARY
+- PERSON14 submitted the paper to LOCATION3 to PROJECT5 and the second article to the journal PBML last week.
+- This morning PERSON5 couldn't hear PERSON14, because he couldn't read the book.
+- PERSON17 shared the screen with PERSON5 to fix the problem.
+- PERSON6, PERSON17, PERSON5, PERSON10, and PERSON14 are going to read the book and comment it.
+- PERSON6 is still missing the introduction, but he has written the references text and he wrote a conclusion to the book.
+- The rest of the chapter is ready for comments.
+- PERSON5, PERSON6 and PERSON17 discuss the multilinguality section of the paper they are signing.
+- They discuss the difference between referring to their own work and someone else's work.
+- They agree that their work is doing the survey and they want to refer to their work in the same way as the other.
+- PERSON17 thinks that people should present their papers like they would present them to the community.
+- If they refer to their papers as someone else's, they appeal to authority and disassociate themselves from the reader.
+- PERSON5 claims that the multilinguality paper is not really showing the part and espects of the multilingual representation.
+- PERSON17, PERSON6, PERSON14, PERSON5 and PERSON17 are going to write a paper based on the paper they have just written.
+- They are also going to read the book from the beginning to the end to check what is and what is not there.
+- PERSON14, PERSON17 and PERSON5 are going to write a new chapter on the neural language models.
+- They will merge the previous chapter with the new one and delete the section about the GPT and unsupervised methods.
+- They are also going to edit the ORGANIZATION2.
+- PERSON6 wants to use PCA to identify the gender biass component.
+- The ORGANIZATION5 tutorial mentions PCA only for visualisation.
+- PCA is also used for quantitative evaluation.
+- Unsupervised probing is a form of behaviouristic testing.
+- The ICA tutorial talks about behaviour texting.
+- PERSON17 wants to add a section after the unsupervised methods.
+- He has his notes from the tutorials somewhere here.
+- There is also a part about interaction.
+- The interaction part was mentioned separately in the slides 190 of them.
+- The tutorial is almost 3 hours long.
+- PERSON17, PERSON5, and PERSON6 are discussing unsupervised methods.
+- They are discussing a paper on the interactive visualisation of word embeddings.
+- They agree that most of the corel is concerned with the classifires and the discussion around memorization.
+- They also disagree on the topic of the most complex probe.
+- PERSON17, PERSON14 and PERSON6 are discussing different approaches to the problem of learning the linear classifire.
+- They discuss the unsupervised methods and structure analysis.
+- They also discuss the difference between training a model to do machine translation and building a supervised data set.
+- PERSON6, PERSON17, PERSON14 and PERSON5 are going to do a virtual task together.
+- They are also going to write comments on the comments on comments.
+- They will do it for the chapters for PERSON6, for PERSON14 and for PERSON17.
+- PERSON17 and PERSON5 want to discuss a chapter in the book about interpretation of neural networks.
+- The chapter is about the general term, concept of interpretation.
+- There is no general consensus on what interpretation means.
+- The people cited in the chapter are not NLP people but machine learning people.
+- PERSON17, PERSON5, PERSON6, PERSON14 and PERSON17 agree that the title of the book should be about the thinking general and not about NLP.
+- They agree to change the name of the chapters to stories.
+- They don't want to mention who the people are.
+- PERSON6, PERSON5, PERSON17, and PERSON14 are discussing the structure of the book.
+- They agree on two parts, two pages each.
+- The limit is 50 pages each, but they have almost 150 pages so they decide to merge them all together.
+- PERSON6, PERSON14 and PERSON17 are reading a book.
+- It's almost finished.
+- It doesn't have a summary index.
+- It has a glossary, but not the summary.
+- The number the things at the beginning of the book are in PERSON20 numbers.
+- PERSON6, PERSON14, PERSON5, PERSON10, PERSON17 and PERSON6 are going to work on a project together tonight.
+- They need to edit the chapters and find the best way to do it.
+- They also need to add some text to the text.
+- PERSON6, PERSON14 and PERSON17 are going to meet on July 21st, but they don't have time for all the meetings.
+- They have to wait for the arroiton, so they can't write the report.
+- PERSON6 is coming back on Sunday on morning, so she can come in next week.
+- She will comment her chapter.
+- PERSON14, PERSON5, PERSON5 and PERSON17 are going to meet on the 21st of July at 11 to discuss the problems in the book.
+- The meeting after that will be on the 28th.
+- PERSON14 is assistant professor.
+- She needs to find the reviewers for the book and asks doctor PERSON4 from LOCATION2.
+- PERSON6, PERSON17, PERSON14, PERSON5 and PERSON28 are full professors.
+- PERSON14 is an assistant professor.
+- PEN17, PEN14 and PEN28 are professors.
+- The email they received from a professor was strange.
+- They will have lunch and have a drink today.
+- PERSON14, PERSON6, PENPERSON5 and PEN17 are looking for people who can help them with interpreting a book.
+- They need to read the book before they can start the review process.
+- They will ask people from LOCATION3, PERSON4, ORGANIZATION1 and PROJECT3 for help.
+- PERSON14 would like to see many comments on the book so that they know that they should write a book.
+- PERSON5 is going to leave a comment on it as well, as he wants to know that the book is good and that it is worth writing.
+
+
+Minuted by: Team Synapse

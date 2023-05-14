@@ -1,0 +1,26 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON2, PERSON3, PERSON5
+
+
+SUMMARY
+- PERSON1 and PERSON2 are working on organizing the organisational data set.
+- The deadline for the data is November 30th.
+- PERSON1 will send the data by the end of the week.
+- Today they are going to discuss the annotations and alignment tool by PERSON6.
+- By the end PERSON1 and PERSON2 want to make the alignment tool part of shared tasks so that they can get manual evalutions and also automatic metrics.
+- PERSON1 will start writing the works from tomorrow.
+- PERSON2 wants to know what she should do herself to be as efficient as possible.
+- PERSON1 will be busy till November 30th on the shared task proposal.
+- PERSON1 will transfer the task to PERSON5 once he's done with the ORGANIZATION1 thing and after the end of November.
+- PERSON2 needs someone who can explain the technical aspects of the tool to annotators.
+- PERSON1 and PERSON4 have strong intuition that it would help to help to improve the accuracy of machine translation.
+- They want to start the alignment thing with their annotators.
+- PERSON2 wants to transfer the work on the tool to PERSON5 and discuss the technical details.
+- PERSON1 wants to work on it within a week.
+- PERSON2 wants to start the annotation work as soon as possible, because they have a lot of data.
+- He is afraid the annotators will be away, so he is going to ask them to make the alignment.
+- He needs to make it 130 minutes for English and 110 minutes for PERSON1 has to prepare data for ORGANIZATION1 and annotators tool for ORGANIZATION1 by the end of this week.
+- PERSON2 has to do the same for ORGANIZATION2.
+
+
+Minuted by: Team Synapse

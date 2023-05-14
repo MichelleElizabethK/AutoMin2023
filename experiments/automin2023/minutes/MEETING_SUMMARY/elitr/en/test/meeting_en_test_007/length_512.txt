@@ -1,0 +1,32 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON10, PERSON2, PERSON5, PERSON6
+
+
+SUMMARY
+- PERSON2, PERSON3, PERSON6 and PERSON10 are meeting on Thursday at 5 p.m. at their location.
+- There will be a call on Thursday with the project partners.
+- PERSON6, PERSON2, PERSON10 and PERSON1 are having a dinner at a place called LOCATION1 around 1 P.M. from now until 4 days and 1 hour from now.
+- PERSON1 wants PERSON10 to come visit them at least for a limited time.
+- PERSON1 explains to PERSON10 and PERSON6 that they need to come to the Czech Republic and sign a proper work contract.
+- PERSON1 would prefer PENPERSON10 to stay in the country for a longer duration, but it's negotiable.
+- The LOCATION1 cannot apply for a visa.
+- The paperwork will come from PERSON8.
+- The ORGANIZATION4 is closed.
+- There are other people from India who want to come here, but they can't because of organisational issues.
+- PERSON2, PERSON9, PERSON6 and PERSON5 are on the Thursday call.
+- The communication is not completely perfect.
+- There is an objective problem with the quality estimation.
+- The certificate of the plane that PERSON9 is working on expired.
+- PERSON9 should have prepared the leaflets three weeks PERSON2 informs PERSON6 that there are 40 jobs on the cluster.
+- They are low priority, so PERSON2 can skip them.
+- Every job takes two hours, so it's fine if you secure your own job in two hours.
+- PROJECT4 is still going well.
+- P PERSON6 and PERSON10 are sceptical about machine-learned evaluation methods.
+- They agree that it might be useful to keep in mind the argument about the metric being semantically rich representations.
+- PERSON6 and PERSON10 discuss the use of a new metric for evaluation of MT.
+- PERSON2, PERSON6, PERSON10 and PERSON1 are meeting this week to discuss the PROJECT4.
+- PERSON10 will try to come up with an alternative for the task next week.
+- PERSON6, PERSON10 and PERSON2 have finished their meeting.
+
+
+Minuted by: Team Synapse

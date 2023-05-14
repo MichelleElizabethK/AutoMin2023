@@ -1,0 +1,66 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON11, PERSON12, PERSON3, PERSON6, PERSON7, PERSON8, PERSON9
+
+
+SUMMARY
+- PERSON12, PERSON7, PERSON10, PERSON11 and PERSON9 are on a conference call.
+- The microphone was muted.
+- There is no true German speaker on the call.
+- There are two audio recording workers, one for the ASR worker and one for machine translation into Czech.
+- PERSON7, PERSON12, PERSON11 and ORGANIZATION3 are trying to set up a German ASR system for the workshop.
+- They are short of German interpreters.
+- PERSON7, PERSON11 and PERSON3 are having a conversation on a Pexip chat.
+- There are a lot of repetitions.
+- PERSON12 will take a screenshot of the screen sharing for their next call.
+- The issue that they are trying to solve is that when following the screen presented by PERSON11, PERSON11 are still presenting the screen.
+- When following the Pexip screensharing, you see an update PERSON11 will connect one more headset for PERSON11 and one more laptop for PERSON12.
+- PERSON12 will share the screen with other people so they can hear each other.
+- Organizing Committee4 has recorded observations from the test.
+- The multiplexing of audio files is not efficient.
+- PERSON3, PERSON5, PERSON4, PERSON11 and PERSON7 are trying to solve a problem with repetitive input to machine translation.
+- ORGANIZATION6 translates the same ASR multiple times and features out segments in their own application.
+- ORGANIZATION4 has a Python script that manages the ASR PERSON12 explains to PERSON7 and PERSON11 that there is a bug in the presentation platform.
+- It is possible that OrganizationIZATION3 received some more audio and sent an update.
+- The ASR worker double checks the output and never sends the same string again.
+- The German ASR is not working.
+- PERSON11 has one of the German workers translating for him.
+- PERSON3 can't share his screen with PERSON12 to test the new presentation platform.
+- PERSON12 will share the platform instead of him.
+- PERSON12 asks PROJECT1 to upload the webpage that runs the video client so that they can test it.
+- PERSON11 has the workers running, but PERSON12 doesn't.
+- PERSON11 connected the audio and the presentation platform in English and German.
+- PERSON3 and PERSON12 are working on a project.
+- There are some technical issues with web browsers and Windows.
+- They are trying to solve them.
+- PERSON12 is happy with this speed that the subtitles appeared on PERSON11's screen.
+- Next Monday PERSON3 will be on vacation for a couple of days, so he suggests to perform some massive test on Monday so that he can provide his support and they can check everything together.
+- On Friday PERSON12 wants Pexip to check the work load.
+- PERSON3 can provide a VLC file to mimic the format of the streaming from VLC.
+- PERSON3 explains to PERSON9 how the streaming video streaming button works.
+- PERSON12 has issues with the presentation platform.
+- PERSON3 explains to PERSON12 how the administration interface works.
+- PERSON3 is able to display it on his desktop, but can't share it.
+- There will be default available languages displayed in the front page.
+- Czech, Polish, Hungarian, etc.
+- are the available language sources.
+- There will be a big grand map of all the fingerprints you are use through all the process.
+- The map is needed for the overall connection, what is connected PERSON3, PERSON12 and PERSON9 are discussing the implementation of fingerprinting before the 27th June meeting.
+- PERSON12 and PERSON3 have a problem with adding more languages to the list of available fingerprints on the presentation platform.
+- PERSON12 wants to change the set of languages and add also the Spanish.
+- It's necessary for the presentation worker to be registered with ORGANIZATION6.
+- ORGANIZATION6 also runs the French ORGANIZATION5 pub.
+- ORGANIZATION5 is spoken in Belgium and the Netherlands.
+- PERSON12 is running Linux.
+- PERSON9 and PERSON12 complain about the performance of the presentation.
+- They want it to be more efficient for desktop and mobile devices.
+- PERSON9 wants to know what changes can be made to the presentation platform to make it more usable.
+- PERSON3 is working on functionality rather than on the presentation.
+- PERSON12 wants to limit the with of the slides rectangle on the desktop and make the video larger.
+- PERSON3 is not allowed to share the whole worker logic of the presentation platform, but he can share some snippets of it.
+- PERSON12 wants to make it clie the console operation worker.
+- PERSON3, PERSON12 and PERSON4 are on a conference call.
+- The goal for Monday was to test more languages in presentation platform.
+- On Friday they have to check the audio and video inputs and all target languages.
+
+
+Minuted by: Team Synapse

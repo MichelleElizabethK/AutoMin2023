@@ -1,0 +1,58 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON2, PERSON3, PERSON4
+
+
+SUMMARY
+- PERSON3, PERSON2 and PERSON1 are having a meeting today.
+- The agenda for the call is to discuss ORGANIZATION4's status.
+- They want to split the budget that was allocated for ORGANIZATION4 among other parties.
+- They don't want to get any money from the project.
+- PERSON3 and PERSON1 are working on a project to send speech to text translation to remote conference calls.
+- They don't have experience with shipping voice to individual cell phones.
+- The text to speech translation doesn't add much information to the text.
+- The application to provide the subtitle would be an ORGANIZATION6 application.
+- PERSON1 will create the integration work package for the presentation application development for the live meetings.
+- ORGANIZATION4 will contribute to the integration task some month on agreeing on the interface for the ORGONIZATION9 congress and for the workshop style events.
+- PERSON3 wants ORGANIZATION9 to organize at least one workshop-style event per project a year.
+- In the first year there should be one dry-run workshop, one main congress and two follow-up workshops.
+- Organizer2 needs to check if it's possible to organize just one main conference and then one follow up workshop.
+- PERSON1 and PERSON3 need to create a task ORGANIZATION4 events.
+- They need to have one dry run, one main and two follow-up experiments.
+- The integration work package is the one that makes sure that everything runs and delivers the software and the tool to that to the events.
+- The dissemination helps to promote the project and its results.
+- PERSON1 and PERSON3 are looking for an ASR specialist for the OTHER2 language.
+- OTHER2 is one of the official languages of ORGANIZATION4.
+- The ASR work package is not yet populated very much.
+- PERSON1 has been competing for the OTHER2 parliament and reached the accuracy up to ninety eight percent of accuracy.
+- PERSON3 and PERSON2 need to prepare the budget for the ORGANIZATION4.
+- They need to estimate how many person months they should allocate in the data collection work package and how many hours per speaker do they need for to be able to adapt to the speaker.
+- The main conference is four days long.
+- PERSON3 is going to create a proposal to create the baseline acoustic model for the project.
+- It's mandatory to have an acoustic model to start with the adaptation.
+- For OTHER1, PERSON3 is in touch with the OTHER1 radio and they should be able to provide them with a considerable number of hours.
+- PERSON1 suggests to collect real re-speaking sessions in order to model the voice and the way it is during a real life session.
+- PERSON3 will prepare a table with the hours by the different languages that they want to record, and the red sub-table summarises the person-months by a partner.
+- They want to get hold of the actual interpreters, who will be interpreting at the sa ORGANIZATION9 congress.
+- PERSON3 wants to know how many months do they have to have in work package 1 on the data.
+- They need to create some ORGANIZATION3-handled re-speakers for each of the languages.
+- They also need some devices for the audio adaptation.
+- The time is running out and they have 14 days to finish the proposal.
+- PERSON3 and PERSON1 have created the tasks in the integration work package.
+- The integration of ASR essential from multiple partners into the ORGANIZATION2's platform is task 6.1.
+- The development of the plot of the publishing platform of the ORGANIZATION2 is task.
+- 6.4 is the integration of multi target empty engine.
+- The deliverables will probably promise reports only.
+- The automatic minuting will be more involved from ORGANIZATION6.
+- PERSON4 and PERSON3 had to make a few prototypes of the systems for their project.
+- They had to find a prototype a couple of months before the end of the project to allow the integration of it as well.
+- They have to deliver systems that be ready for starting the integration thing.
+- They also have to write a cover letter and a report for each deliverable.
+- They want to make progress visible in the deliverables.
+- They are going to create a work package for each person.
+- PERSON3 wants to start the integration only in the middle of the project.
+- He prefers ORGANIZATION7 doc, because he doesn't have Microsoft Word.
+- He will merge the text into the Overleaf.
+- They will talk again on Thursday and keep exchanging e-mails.
+
+
+Minuted by: Team Synapse

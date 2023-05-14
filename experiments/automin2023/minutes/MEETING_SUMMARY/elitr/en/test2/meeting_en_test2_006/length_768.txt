@@ -1,0 +1,45 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON11, PERSON14, PERSON15, PERSON2, PERSON3, PERSON4, PERSON7, PERSON8
+
+
+SUMMARY
+- PERSON2, PERSON7, PERSON3 and PERSON15 are taking part in a conference call organised by ORGANIZATION2.
+- The goal is to synchronize the group, and the date and time of the conference is chosen, so that it fits to most of the participants.
+- PERSON11 will There is an ORGANIZATION7 conference in early December.
+- The conference will serve as a test event for the Organizing Committee as they need to be as prepared as they would be for the main organiser's conference, if it doesn't happen.
+- PERSON11 is looking for a data set for a parallel corpus mining algorithm.
+- ORGANIZATION6corpus.org has released a data and a model for mining parallel data in one hundred languages.
+- ORGANIZATION15 is not ORGANIZATION6Corpus, it's ORGANIZATION15.
+- PERSON11 has discovered that some of the testing data sets from PROJECT6 are not much better than the best Edinburgh model.
+- The organization needs monolingual data to create synthetic data.
+- PERSON8 is responsible for the PROJECT5 test set.
+- PERSON9 is moving towards system integration PERSON12 couldn't attend the call, so he wrote his report there.
+- PERSON8 will speak on behalf of him.
+- The PROJECT5, the PROJECT2 is completely finished.
+- PERSON3 created a new index for the project.
+- PERSON3 wants to make PROJECT5 the standard evaluation tool for spoken language translation.
+- He asks everyone who is doing it to make sure they use PROJECT2 on the test set.
+- PERSON3 wants both versions of the tool.
+- PERSON8 wants the previous version.
+- PERSON3 prefers the same tool.
+- Next week PERSON8 and PERSON14 will work on the paper.
+- PERSON3 wants to talk to PERSON10 and help him with the evaluation of the cruise control.
+- He also wants to know more about the censorship pipeline.
+- PERSON14, PERSON10, PERSON12, maybe PERSON15 and PERSON15 are taking over what PERSON14 did.
+- PERSON4 has worked on multi-target machine translation for his master thesis, which was successfully defended.
+- He is working on PROJECT5 as a part-time employee.
+- PERSON3, PERSON10, PERSON7 and Umar are working on the data augmentation for PROJECT4.
+- PERSON3 wants to integrate the CTC end-to-end model and the cascaded model from PERSON7's thesis.
+- PERSON3, PERSON7, PERSON15 and PERSON16 want to train on the same augmented data set.
+- PERSON4 wants to try some transfer learning on of double encoder model on small GPus.
+- PERSON7 is working on a project which aims to improve the robustness of the PROJECT4.
+- PERSON3 is the host of the call.
+- PERSON15 wants to know if they are working on the same task as the ORGANIZATION14 challenge.
+- PERSON7 is using a common voice data set.
+- The main objective of the project is to train a robust English PROJECT4.
+- PERSON7 uses the ORGANIZATION4toolkit.
+- PERSON15 wants to use the same data from the English and Czech PROJECT4 evaluation for the ORGANIZATION13 evaluation.
+- PERSON7 suggests using the ORGANIZATION11Common voice data set.
+
+
+Minuted by: Team Synapse

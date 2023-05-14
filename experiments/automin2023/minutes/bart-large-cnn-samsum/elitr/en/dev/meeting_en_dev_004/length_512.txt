@@ -1,0 +1,103 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON14, PERSON17, PERSON28, PERSON5, PERSON6
+
+
+SUMMARY
+- PERSON14 submitted the paper to LOCATION3 to PROJECT5, PRO PROJECT5, and the second article to the journal PBML.
+- PERSON5 can't hear PERSON14 and PERSON17, because the sound settings are not good.
+- PERSON6 will read the book.
+- PERSON17 and PERSON5 share the screen with PERSON6.
+- PERSON6 is still missing the introduction and morfology, but the rest of the chapter is ready for comments.
+- PERSON17 needs to fix some mistakes in the text and PERSON6 needs to do some polishing.
+- PERSON6, PERSON5, PERSON14 and PERSON10 are going to read the multilinguality paper they have with PERSON5.
+- They will comment on it.
+- They want to sign the paper so they can pretend it's their work and play it as someone else's.
+- PERSON6, PERSON5 and PERSON17 disagree on the definition of "odborná kniha" and how it should be defined.
+- PERSON14 thinks it's better if they refer to their work in the same way as another person's work.
+- PERSON14, PERSON17 and PERSON6 think that if you refer to your papers in a different way to the other papers in the book, the whole book looks more like that you present your work in context of the other.
+- PERSON5 claims that the evaluation of the multilinguality representation is not really showing the part and espects of multilingual representations and they take a really critical view on other papers.
+- PERSON5, PERSON6, PERSON17, PERSON14, and PERSON17 agree that the citation and reference should be there in the book.
+- They also agree that some of the authors should write "we" instead of "they" in order to show the authority of the paper.
+- PERSON17, PERSON5, PERSON6, and PERSON14 are going to write a paper based on a paper they have just in.
+- They will write a book based on the paper and have someone read it from the beginning to the end and comment on it.
+- PERSON17 will probably delete Word2vec and Transformer from PROJECT2.
+- The section about the neural language models should be merged to the previous chapter or deleted if it's superfilus.
+- GPT is used a lot in PROJECT1 and GPT wri.
+- PERSON17 and PERSON14 are looking for information in ORGANIZATION2.
+- The first part is complete and in the second part there are optional things to do.
+- Unsupervised methods need to be merged.
+- The facial tutorial mentions these methods only in the visualisation section.
+- PERSON5, PERSON17, PERSON14 and PERSON6 are discussing the topic of unsupervised probing and behaviouristic testing.
+- They don't want to mention behaviour texting in the chapter on the ICA tutorial, because it's not defined in their notes.
+- PERSON17 wants to add a section after the unsupervised methods about behaviour and interactivity.
+- He has sent a link to a brief tutorial to the slack and asks PERSON14 and PERSON5 to watch it there.
+- They agree to do it.
+- PERSON9, PERSON14, PERSON17 and PERSON5 are discussing the presentation of their book ORGANIZATION2.
+- The presentation took almost 3 hours.
+- The slides are all 190 of them.
+- There is an interactive visualisation with the Java script and other methods mentioned separately.
+- PERSON17, PERSON5, PERSON14 and PERSON9 are discussing unsupervised methods.
+- They discuss the difference between supervised and unsupervisory methods and the current research on the subject.
+- They discuss whether the classifires should be simple or should they be powerfull and memorization.
+- PERSON17, PERSON5, PERSON6, and PERSON14 are discussing the theory of the most complex probe.
+- They discuss the difference between the methods used in behavioral analysis and unsupervised methods.
+- They agree that there is a difference between them.
+- PERSON17 and PERSON14 discuss the structure analysis.
+- They discuss the difference between the supervised and unsupervised methods of structure analysis and the behavioral analysis.
+- PERSON17 suggests following PERSON9 in classifying the two types of data analysis.
+- The structure analysis is similar to the virtual task or finding data set.
+- PERSON17, PERSON14 and PERSON6 are going to write a section on the hidden states, corespondence and clustering.
+- They are also going to do a section about word sense subword.
+- PERSON6 will write it here.
+- PERSON14, PERSON5 and PERSON17 are going to discuss what to do with the comments on comments.
+- They want to discuss the importance of NLP in the general machine learning community.
+- PERSON14 wants to let the comments stand as they are now and comment when they read them.
+- PERSON5 explains to PERSON17 that the people he's citing in the previous chapter are machine learning people.
+- They have nothing to common with NLP or linguistics.
+- The chapter is about interpretation of neural networks.
+- There is no general consensus on what interpretation means.
+- PERSON5, PERSON6, PERSON17, and PERSON14 agree that they should talk about the interpretation of the in general, not NLP.
+- If there is something specifical for NLP, they should say in NLP usual.
+- Next they will talk about stories.
+- PERSON6, PERSON5, PENPERSON17 and PEN14 are discussing the name of the sections on the book.
+- They agree on two sections, one of them should be called the introduction, the other the conclusion and the third the summary.
+- PERSON6, PERSON14 and PERSON17 agree that the summary of the book should be separated into two parts.
+- They agree on the first, first chapter and the second, second and third.
+- They decide to merge them into two pages each.
+- They have almost 150 pages.
+- PERSON6, PERSON14 and PERSON17 are discussing the text of a book.
+- They want to use deep learning for the first time.
+- The book does not have a summary.
+- It is not really part of the text.
+- The number the things at the beginning are in PERSON20 numbers.
+- PERSON17, PERSON6, PERSON14 and PERSON6 are going to read a book that is almost finished.
+- They need to comment on it and show it and rewrite it as they say with Google.
+- It has a glossary, but no summary index.
+- PERSON14, PERSON6, PERSON5, PERSON17, and PERSON6 are going to work on a project tonight.
+- They need to add something to the last section of the project.
+- They have time to read the text.
+- The next meeting is next week.
+- PERSON6, PERSON14 and PERSON17 are going to meet on July 21st for PROJECT4 meeting, but they don't have any PERSON6.
+- They have to wait for the arroiton, so they can't write the final report.
+- They can write the annulation, but it's not easy.
+- PERSON14, PERSON17, PERSON5, and PERSON6 are going to meet on the 21st of July at 11.
+- They will discuss the problems in the book and comment on it.
+- They can move the meeting to after lunch if they want to.
+- PERSON14 and PERSON6 have to shift something because of the PROJECT6 meeting or the deadlines.
+- They need to find the reviewers for the book.
+- PERSON14 is assistant professor, while PERSON17 is a participant, participate and Researcher.
+- PERSON17, PERSON5, PERSON6, PERSON12, PERSON14, PERSON16 and PERSON28 are full professors.
+- They are working at LOCATION1.
+- They all are professors.
+- The email they got from PERSON24 was strange as it invited them for a drink in the middle of the work day.
+- PERSON6, PERSON17, PERSON5, PERSON14 and PERSON5 are looking for someone who could review their book.
+- They are going to meet for lunch and have wine.
+- They want to find someone from the MT community who could help them with the review process.
+- PERSON17, PERSON5, PENPERSON6 and PEN14 are going to read the book.
+- They need to find a reviewer who knows about speech recognition and interpretability.
+- They will ask someone from LOCATION3 and someone from PERSON4.
+- PERSON14 would like to see many comments on the book so that they know that they should write a book.
+- PERSON5 is going to leave a comment on it as well, as he wants to know that the book is good and that it is worth writing.
+
+
+Minuted by: Team Synapse

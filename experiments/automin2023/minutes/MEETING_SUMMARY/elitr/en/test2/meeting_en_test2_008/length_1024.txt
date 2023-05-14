@@ -1,0 +1,40 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON4, PERSON9
+
+
+SUMMARY
+- PERSON9 was about to have a meeting with PERSON10 and PERSON4.
+- PERSON13 wanted to join them, but he stopped responding to their messages.
+- PERSON7 stopped annotating the document, so it's not clear if he will be able to help them.
+- PERSON4 will send a link to the agenda so that PERSON10 and PERSON9 can access it.
+- The agenda is in the master document.
+- The process of annotating documents is documented to the finest level.
+- PERSON4 made a copy of his document not to delete the lists.
+- PERSON10 would like to have the full collection of documents with all named entities replaced by place holders.
+- PERSON10 explains to PERSON4 that creating a list is easy, but there are problems with the quality of the list.
+- PERSON10 and PERSON4 agree that for the sake of time they should ignore tracing of the identity of the projects and speakers.
+- PERSON10 wants to de-identify the corpus.
+- PERSON9 thinks it's doable.
+- PERSON14 is working on it.
+- PERSON10 is waiting for PERSON14 to finish work on the PROJECT1 data.
+- ORGANIZATION6 does not go through the same procedures as PERSON4.
+- PERSON4 needs to discuss with PERSON14 about de-identification and consent forms.
+- PERSON10 wants to focus on the second consent form only for the purpose of the release of the corpus and forget about the first form for the new meetings that they will be collecting even after.
+- PERSON10 wants to know who was a participant of what meeting.
+- PERSON4 has made a sample of the data, but not all of it is complete.
+- They need to extract the names of participants from the minutes of the meeting and create a master sheet.
+- PERSON9 and PERSON10 agree that the participants should get their data de-identification consent by the end of February and the final version of the master sheet should be ready by March 16th.
+- PERSON10 has created a webpage during Christmas holidays.
+- The agenda document is in the agenda document.
+- The list of participants in the Scientific Committee is not finalised.
+- There are at least half of them master's students and PhD students.
+- PERSON10 and PERSON9 are working on a project.
+- They have to prepare a proposal within the next ten days.
+- They need to divide the participants into a scientific committee and send them an invitation email.
+- PERSON10 will take part in the call only.
+- PERSON4 will write to PERSON14 and ask them to be on the committee.
+- PERSON10 wants to meet with PERSON4 and PERSON9 this afternoon.
+- He wants them to cooperate more with him because he is a foreigner and they have points for cooperating with foreigners.
+
+
+Minuted by: Team Synapse

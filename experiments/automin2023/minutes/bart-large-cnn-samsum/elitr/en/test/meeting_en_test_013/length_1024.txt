@@ -1,0 +1,31 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON14, PERSON15, PERSON4, PERSON8, PERSON9
+
+
+SUMMARY
+- PERSON8 and PERSON14 are working on a project.
+- They need to prepare the audio data for the Transcript.
+- PERSON8 is still working on the calculation of for Czech transcript with or without transcript.
+- PERSON14 is planning to open a lot of files today itself.
+- PERSON14 needs to get all the input files for the evaluation.
+- The files are VDD in VDD format, one sentence per line.
+- Some of the files are too long and some are broken into smaller chunks.
+- There is some inconsistency of names.
+- The most up to date OST versions are in the in some repositor.
+- PERSON8 and PERSON14 are going to process the files.
+- They need to convert the files to the subtitles for the caraoke for preview and the OST format that SLTF evaluates.
+- They also need 16 kilohertz WAVs for the forced alignment and the Antrecorp depth and test directories.
+- PERSON8 wants to know if PERSON15 has started pushing anything into the new repository for PROJECT2 test set.
+- PERSON8 asks PERSON4 to synchronize with PERSON14 on the on the SLT test set and depth set forced alignment files.
+- The deadline for EMT is tomorrow.
+- PERSON4 will create a case similar to academy test set for preparing WSLT.
+- PERSON8 will prepare test the level of Polish and Polish, German, and Russian.
+- 3,000 sentences were collected for 3 languages, almost cleaned, and after cleaning, I will collect from 43 languages.
+- PERSON14 is working on the caraoke as timeview and spent on time introdate comes on.
+- PERSON9 is finishing the paper about subtitler.
+- PERSON8 asks PERSON8 to process this Antrecorp test which is an 17 and 18 and 19 in VDD format.
+- PERSON14 has the Python script for it and will create a script for the rest of the files in two hours.
+- This week work was slow for PERSON9, so he can leave.
+
+
+Minuted by: Team Synapse

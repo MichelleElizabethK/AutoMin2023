@@ -1,0 +1,66 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON11, PERSON12, PERSON15, PERSON16, PERSON19, PERSON2, PERSON20, PERSON21, PERSON23, PERSON3, PERSON5, PERSON6, PERSON9
+
+
+SUMMARY
+- PERSON5 is taking part in a conference call.
+- PERSON23 and PERSON4 will join a little later.
+- The goal for today is to get everything money on the full workload.
+- The logistics are important for those coming from abroad.
+- PERSON5 would like to see the full workload today, all imputs and target languages in the presentation platform and to switch the -line during someone's talk.
+- The presentation platform available is not yet updated.
+- A working copy will be deployed next week.
+- PERSON5 wants PERSON9 to switch between different bridge workers for a check today.
+- The voice quality is not perfect.
+- Wednesday is also available for the full guesting at South Premises.
+- Wednesday morning, Tuesday afternoon and Wednesday evening are also available.
+- PERSON5 invites PERSON9, PERSON4, PERSON2 and PERSON12 to Tuesday lunchtime.
+- PERSON5 wants them to check if they can connect formal laptops to the Internet to improve the quality of the interpreter's subtitles.
+- PERSON5, PERSON3, PERSON23 and PERSON9 are going to meet to discuss how to set up the interpreter's booths in a way that the network load is reduced.
+- PERSON5 is collecting feedback from ASR participants on how to set up a little path out from the main path, which goes through the translation and all that to the presentation platform.
+- On Wednesday they will finalise the content of the feedback form and give it to the participants on Thursday PERSON5 wants to record a video.
+- Organizing Committee 3 will decide on Monday whether or not to allow a student journalist to go to the premises and record the video.
+- The student journalist should be more skilled in journalism.
+- ORGANIZATION4 needs to approve his right to enter the building and PERSON5 wants to record some parts of the video.
+- Organizing3 has to confirm that they are fine with that.
+- The room where the video was recorded is not in the street regime, it's in the lecture room and you don't need an ID card to enter it.
+- PERSON5 wants to record the setting and what they do there, so the wires and an empty room, or interpreter's booth or maybe to watch their participants from behind.
+- They will have a nondisclosure agreement for the journalists and they will not do any bad thing.
+- PERSON5, PERSON2, PERSON9, PERSON4, PERSON11 and PERSON3 are conducting an experiment.
+- There are concerns about the participants' privacy.
+- Some of the sessions should be close and others should be more open.
+- The microphone is working well, but the subtitles are wrong PERSON5 wants to keep connected to the call and they will do the debugging at various places.
+- German is going to be published.
+- There are only two English segmenters so they can run at most two languages at once.
+- There is an English to German translator but it's not working PERSON3, PERSON5, PERSON11, PERSON13 and PERSON9 are trying to solve a transcription problem.
+- There is a way to flush the cash within the presentation platform, but there are still some issues with the implementation.
+- PERSON11, PERSON5, PERSON3, PERSON21 and PERSON3 are trying to figure out why the Romanian subtitles are not working.
+- PERSON5, PERSON3, PERSON9 and PERSON11 are on a conference call.
+- The ASR is not working.
+- There are two ASR workers available but only one of them is working.
+- PERSON5 is trying to reach the people on Skype, but it doesn't connect.
+- They have two ASR workers, but there are only two segmenters, one in English and one in German.
+- PERSON14 is out of office at the moment, so she can't help.
+- PERSON3, PERSON5, PERSON9 and PERSON21 launch the translator.
+- German subtitles from a mock-interpreter conference are displayed.
+- Polish subtitles are also displayed.
+- The input is from audio.
+- The publisher is going to start the workers now.
+- PERSON5 wants to talk to the worker, but it might be a bit difficult because PERSON7 is not here today for medical reasons.
+- PERSON10 didn't receive doodle any more so he's not sure if they're on the same page.
+- PERSON11 is the LG-code now from ORGANIZATION1.
+- The first agenda is metaphorum.
+- There are some issues with HTTPS on the presentation interface at the moment.
+- PERSON20, PERSON3 and PERSON15 are having problems with connecting the Internet.
+- There is a problem with managing user's data for the GDPR.
+- There was no need to store any data in the previous version of the presentation platform, but now there is a need for more deep PERSON2 launched two instances of ebclient, one was from NEU-lecture hybrid, and the other was the same and it didn't output anything.
+- PERSON19 has ten instances of this running all off putting hard files.
+- PERSON11 is off the phone for an hour or two.
+- PERSON2 is going to write a microtest script and upload it to the crise control repo.
+- PERSON9 and PERSON2 need to correct the source language in the presentation platform.
+- They need to restart the cients, change the publishing workers and check the speakers languages.
+- They will come back in the afternoon.
+- PERSON2 will send PERSON9 the script to the control repo.
+
+
+Minuted by: Team Synapse

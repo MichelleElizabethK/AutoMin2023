@@ -1,0 +1,24 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON2, PERSON6, PERSON7
+
+
+SUMMARY
+- PERSON6 and PERSON7 are going to have a coffee meeting.
+- They need to pay for a rolling ORGANIZATION2 link for all their meetings.
+- PERSON6 and PERSON7 are having coffee meetings with ORGANIZATION2.
+- They are discussing the organization's procedures for collecting data and preparing the minutes.
+- They discuss the differences between the organisation's procedures and the original minutes.
+- PERSON6, PERSON7 and PERSON2 are arguing about how to send data via GateHub to annotators.
+- They need another meeting with PERSON6.
+- PERSON7, PERSON2, PERSON6 and PERSON7 will probably not do this team for the moment.
+- They will probably submit the proposal within the first week of November.
+- PERSON7 has never had any experiments with shared task and measures and so on.
+- There are many automatic measures for summarisation, but none of them works well.
+- PERSON7 wants to discuss with PERSON1 how to prepare basic samples for the shared task and how to do the data format.
+- PERSON7 and PERSON2 have to prepare a list with their collaborators' full names and their annot01, annot02, annot03 names and put them in the folders.
+- They need to do the same for their annotators.
+- They are centralizing the data storage from Sorbow PERSON2, PERSON7 and PERSON6 are going to meet today in person to discuss some issues that they didn't have time to discuss in the meeting today.
+- PERSON2 is worried about the team that he's proposing, so he wants to talk to everyone in person
+
+
+Minuted by: Team Synapse

@@ -1,0 +1,29 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON12, PERSON4, PERSON6, PERSON8
+
+
+SUMMARY
+- PERSON12, PERSON8, PERSON6, PERSON7, PERSON10 and PERSON6 are on the call.
+- They are discussing the development schedule for the project.
+- The plan is for ORGANIZATION1 to send sentences to PROJECT3 for translation and for Python Sorrow to handle the timestamps.
+- PERSON6 and PERSON8 need to discuss how to present partial translations and partial output in the presentation.
+- The presentation platforms must update the text incoming messages, but there is no logic to manage the partial hypoteses and partial translation output.
+- The textfield content can be sent to the presentation platform several times as an update.
+- The history of previous texts fields would be supported.
+- The first prototype should be ready by the 15th of June.
+- PERSON6, PERSON8, PERSON10 and PERSON11 are working on the project.
+- They are going to switch to the ORGANIZATION2 platform.
+- They will start as many workers as possible in ORIGONIZATION3.
+- PERSON8, PERSON4, PERSON6, PERSON3 and PERSON11 are working on a presentation for the workshop.
+- The presentation needs to be spread out for the various reasons, but the priority of this image is not high.
+- After the call, PERSON8 will reboot to windows and connect to the room to see if he can see the workers.
+- PERSON4 has a problem with offline ASR.
+- PERSON11 needs to create a script to replicate it.
+- PERSON4 will resend the email to PERSON6, PERSON11, PERSON9 and PERSON8 to confirm that the text client is the same ebclient as in the sample.
+- The schedule is all weeks and there are up to four calls a week.
+- There is a workshop next Friday.
+- The workshop dates are an hour earlier than today on Fridays.
+- It's still too early to solidify the final lists in the MT models.
+
+
+Minuted by: Team Synapse

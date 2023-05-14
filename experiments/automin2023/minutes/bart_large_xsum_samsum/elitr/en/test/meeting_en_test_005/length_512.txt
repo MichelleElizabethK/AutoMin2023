@@ -1,0 +1,83 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON11, PERSON12, PERSON3, PERSON6, PERSON7, PERSON8, PERSON9
+
+
+SUMMARY
+- PERSON12, PERSON7, PERSON10, and PERSON11 are on a conference call.
+- The microphone was muted.
+- The presentation platform is not working properly.
+- There is no true German speaker on the call.
+- There are some problems with the presentation platform.
+- PERSON12 wants PERSON11 and PERSON11 to start a third window to do the machine translation into German.
+- They have only one English segmenter and two segmenters at once, so they have to give up on one of them.
+- PERSON11, PERSON12, PERSON7 and PERSON3 are going to test the German ASR.
+- They are short of interpreters for the workshop.
+- PERSON12 will get the batteries for the second mike.
+- PERSON7 will translate the German into English.
+- PERSON11, PERSON12 and PERSON7 are working on a project.
+- They need to talk to ORGANIZATION3 about some issues.
+- PERSON7 will write the conclusion from the discussion in the Google doc at the end of today's blog.
+- PERSON12 will put critical observations from the test in the doc.
+- There is a problem with screensharing in Pexip.
+- When following the screen presented by PERSON11, PERSON11 is still presenting the screen, but when following the page updates every one or two seconds.
+- When the screen updates only every two seconds, the HD button is shown.
+- PERSON9 and PERSON11 can't hear what PERSON12 is saying.
+- They need to enable both headset and multiplexing.
+- They also need to send one audio for each output language.
+- PERSON11 will try to improve the multiplexing functionality.
+- PERSON11, PERSON3, PERSON4 and PERSON12 are trying to solve a problem with repetitive input to machine translation.
+- PERSON7, PERSON12 and PERSON11 are working on a call.
+- They are not getting any more translation.
+- PERSON12 and PERSON11 are trying to test the presentation platform, but the German ASR is not working.
+- PERSON3 wants to share his screen with PERSON12, but she doesn't have a button for presenting.
+- She will share the platform instead.
+- PERSON3 and PERSON12 want to test the presentation platform and the video client.
+- They need the source code of the web page to do that.
+- They want to send a screencast through VLC in Linux.
+- PERSON11 has the workers running, but she doesn't know how to set up a notebook to start the session.
+- PERSON12 will write it in the slack channel.
+- PERSON3, PERSON11 and PERSON12 are working on a publication.
+- The worker who manages the publication is transparent, the packets he receives send back exactly as he has received them, but as a kind of processing it publish subtitle on the.
+- PERSON3 and PERSON12 are trying to perform a test, but it's not working.
+- The worker is correctly engaged and he says that it's publishing at Winx, but PERSON3 can't see anything in the presentation platform.
+- PERSON11 is going to kill the test PERSON3 is going to test the project on a Linux machine with Google Chrome next Monday.
+- PERSON3, PERSON12, PERSON11 and PERSON7 are available from 11 am to 3 pm on Monday.
+- PERSON4 is not available on Friday, so they plan to have the same type of test call on Friday the same time again.
+- PERSON8 won't be available next week PERSON12, Pexip and PERSON3 are going to work on a project to relieve the workers from the ORGANIZATION2 load.
+- They need to set up the set up that runs the ASR, connects all the machine translation into all the target languages, and the presentation platform.
+- PERSON12 and PERSON9 are trying to mimic the M3U8 streaming tool from PROJECT1.
+- PERSON12 has problems with the presentation platform.
+- The configuration page where you are able to set the and the stream provided for each language is not available to each user.
+- There are also issues with character in coding, subtitles not appearing and Google Chrome on Linux.
+- The presentation platform is correct PERSON3 and PERSON12 are working on multiple output and multiple sources for the same language.
+- PERSON3 is able to display it on his desktop, but can't share it with Pexip.
+- PERSON3 asks ORGANIZATION6 to add her as admin.
+- ORGANIZATION6 accepts the credential, but it requires the credential.
+- ORGANIZATION6 asks for the e-mail address of PERSON3 at Gmail dot com.
+- PERSON3 sends ORGANIZATION6 the address and it works.
+- There is a video with PERSON12, PERSON11 and PERSON3 need a big map of all the fingerprints they use through all the process.
+- They need the map because different institutions who are starting the different workers and if they misregistered the worker there is no way to make use of that worker.
+- PERSON12, PERSON11 and PERSON3 need fingerprints before the 27 of June meeting.
+- PERSON3 is not going to LOCATION1 for the workshop as he needs to check and provide technicals.
+- PERSON9 found a shortcut to paste the full list of languages that the presentation platform responds to.
+- PERSON12 and PERSON3 need CSCZ pub to accept more fingerprints on the presentation platform.
+- They need to agree on who is playing the client role.
+- PERSON12 wants to change the set of languages and add Spanish and French on the front page, but it's necessary for the mediator to be registered with the Spanish pub.
+- PERSON9 won't do it.
+- PERSON9's presentation is not working properly on Windows 10 or Windows 7.
+- The presentation platform should be already optimized for mobile usage.
+- PERSON12 and PERSON9 complain about the presentation for the workshop.
+- They want it to be better optimised for desktop rather than for the mobile phone.
+- PERSON3 is working on functionality rather than on the design.
+- PERSON9 thinks it's better to have it optimized for being vertical, because then there is more space for the subtitles.
+- PERSON12 thinks it would be better to make the video larger and to have at least 2 languages PERSON12 wants PERSON3 to share the code for the bare bones of the presentation platform with them.
+- PERSON12 wants to know if it's possible to register the worker when you're starting the worker that feeds the presentation platform.
+- The presentation platform is running on PERSON3's local PC at the moment, but when it's stable it will be deployed on asure.
+- PERSON3 will not be available for part of the week.
+- The goal for Monday was to test more languages in presentation platform.
+- On Friday they have to check the audio and video inputs and all target languages in the platform.
+- PERSON2 and PERSON4 will be absent.
+- PERSON12 thanks PERSON12 for the information.
+
+
+Minuted by: Team Synapse

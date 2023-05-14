@@ -1,0 +1,89 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON11, PERSON12, PERSON3, PERSON6, PERSON7, PERSON8, PERSON9
+
+
+SUMMARY
+- PERSON7, PERSON12, PERSON9, PERSON4, PERSON10, and PERSON11 are on a call.
+- The microphone was muted, but the voice level of the amplification should be reasonable.
+- There is no true German speaker at the moment, so the presentation platform is not available.
+- The problem is solved by sharing the screen.
+- PERSON7, PERSON12 and ORGANIZATION4 will try German ASR for the workshop.
+- They are short of German interpreters.
+- The German signal will be available for 20 minutes, then 20 minutes break and 20 minutes again.
+- They will use the other mike.
+- PERSON7, PERSON6, PERSON3, PERSON11 and PERSON12 are having a discussion about the quality of the German translation.
+- They need to talk to ORGANIZATION3 about it.
+- They also need to solve another issue with presentation.
+- They want someone to write the conclusion from the discussion to the Google doc.
+- PERSON7, PERSON11 and PERSON12 are trying to solve a problem with screen sharing.
+- The issue is that when following the screen presented by PERSON11, they are still presenting the screen.
+- In Pexip screensharing, you see an update of the whole page every two seconds.
+- The HD button is the thing that will let you see it in live without the delay.
+- PERSON3, PERSON11, PERSON12 and ORGANIZATION4 have a meeting today.
+- They discuss the issues with the communication system.
+- They need to improve the quality of the communication.
+- They also need to test the multiple input request functionality of the client.
+- PERSON3, PERSON5, PERSON4, PERSON11, PERSON7 and PERSON12 are trying to solve the problem of repetitive input to machine translation in their presentation layer.
+- The problem is with the ORGANIZATION6 workers, who translate multiple times the same ASR output.
+- PERSON12, PERSON7 and PERSON3 are having problems with the presentation platform.
+- They are not receiving any more translation updates.
+- The workers are not running.
+- PERSON11 can't get audio into his laptop.
+- PERSON3 prepared a German ASR using the German segmenter, but it failed.
+- PERSON12 and PERSON3 are trying to use the German ASR, but the machine translation is not working.
+- They need to use a different machine translation, and publish an English subtitle.
+- PERSON3 shares his screen with PERSON12 to share the presentation platform with him.
+- PERSON12 and PERSON3 are working on the presentation platform for the exam.
+- They need the source code of the web page that runs the video client to test it.
+- They also need to isolate one and two files at the same time in order to solve some issues.
+- PERSON12 wants to set up a tool to send audio and presentation platform showing the subtitles corresponding to that.
+- It works for German, Italian and English.
+- It doesn't work in the presentation platform yet, so PERSON11 shares the screen with Pexip to try and fix it.
+- PERSON3, PERSON9 and PERSON7 are having problems with the presentation platform.
+- They are trying to share the screen sharing between their computers.
+- It turns out it's a matter of Chrome and Firefox, not Windows Firewall.
+- The team will talk about it with the team, but it works.
+- PERSON12, PERSON3, PERSON11 and PERSON4 are going to have a test on Monday next Monday.
+- They are also going to do the same test on Friday on the same time again.
+- PERSON2, PERSON8, Pexip, ORGANIZATION4 and PERSON7 will be available next Friday.
+- Pexip will be used to relieve the workers from the ORGANIZATION2 load for the session.
+- PERSON12 wants to improve the segmentation quality for the workshop.
+- He asks PERSON3 how to use the streaming from VLC that works for him.
+- PERSON3 can provide him with the exact file.
+- PERSON3 explains to PERSON9 and PERSON12 how to use the playlist M3U8 to play a video in real-time.
+- There are issues with the presentation platform and the configuration page where you are able to set the and the stream provided for each language is not available to each user.
+- PERSON4 will join the call.
+- PERSON3 shares his screen with PERSON12 to show him how to access the administration interface.
+- PERSON3 is able to display it on his desktop, but can't share it as it requires a login.
+- PERSON12 needs to share his screen to verify if it works.
+- PERSON3, PERSON11 and PERSON12 are working on the configuration of the presentation platform.
+- They need a big map of all the fingerprints used by the different workers to make it easier to choose the correct path for each worker.
+- They also need a list of all workers and the list of input and output.
+- PERSON3 is going to LOCATION1 for the workshop, so she needs to be there to check and provide technicals.
+- She needs to create a Google drawing document with fingerprints before the 27 of June meeting.
+- PERSON11 created a bridge worker and updated the backend SMT worker to specify the fingerprints arguments.
+- PERSON9 paste the list of languages that they need to cover to CSCZ.
+- The presentation platform needs to be updated to accept more fingerprints.
+- The home page reloaded and more languages are added to the list.
+- The client is not connecting to the workers, it just recieves the text.
+- PERSON12 wants to change the set of languages and add Spanish to the front page, but he needs a worker with the Spanish Spain pub fingerprint to do it.
+- For English, they use EU, for Dutch it's spoken in Belgium and the Netherlands, and for French it's ORGANIZATION5.
+- Pexip is asking if he's running Windows 10.
+- He's running Linux.
+- PERSON9 and PERSON12 are having problems with their presentation for the workshop in two weeks.
+- The slides are too small and the full screen mode of the web browser does not work properly.
+- They need to make the slides bigger and the video more configurable to make better use of the screen space.
+- PERSON9 suggests that the presentation code should be optimized for being vertical, so that there is more space for the subtitles.
+- PERSON12 suggests that for the desktops it would be better to have the subt subt the video larger.
+- The code for the presentation platform is available for June, but it's not ready for the full screen mode yet.
+- PERSON3 wants to create a presentation platform for the video mixer.
+- The most important thing for now is to prepare the map of the fingerprints.
+- The presentation platform is running on PERSON3's local PC.
+- It will be deployed on asure when it's stable.
+- PERSON3, PERSON12 and PERSON4 are on a conference call.
+- The goal for Monday was to test more languages in the presentation platform.
+- On Friday they have to check the multiple language fingerprint path selection, the multiple publishing system and custom different video streams.
+- They also need a break before the main call.
+
+
+Minuted by: Team Synapse

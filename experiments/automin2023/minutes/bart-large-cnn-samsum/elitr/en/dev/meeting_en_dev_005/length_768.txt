@@ -1,0 +1,39 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON11, PERSON12, PERSON14, PERSON17, PERSON2, PERSON5, PERSON7
+
+
+SUMMARY
+- PERSON9 will give a presentation on PROJECT2 on the Monday seminar on the 17th February.
+- The goal of the office would be to describe the pipeline and invite more people to join them.
+- This is the early session for the adaptation.
+- There will be other Monday seminars.
+- PERSON14 is having a first dry run of the domain adaptation for NLP and PROJECT2 on the 12th and the 17th of February.
+- The students firm fair is on the 18th and till 20th March and for that they need to have profanity filtering.
+- PERSON11 and PERSON14 are working on the collection is business for English and OTHER3.
+- They need to organize the data.
+- They will work with member PERSON6 to create a language model for the collection.
+- There is a problem with compress sound going always to network and decompress before begin sent.
+- PERSON14 and PERSON10 are working on the paper for exceptement on profanity filtering.
+- PERSON17 has finished the evaluation framework and it's ready.
+- He needs to do some small changes to it for some test.
+- PERSON4 didn't say "šoupátko" again so the scrotum didn't reappear.
+- PERSON14, PERSON1, PERSON2, PERSON11 and PERSON17 are going to do the evaluation of the MI Corporas.
+- They need to break the long recording into shorter segments.
+- They have the correct English transcript and they have a limited file only in LOCATION1.
+- PERSON7 has been listening to the adaptation of czech ASR for PERSON4 talk that took place yesterday.
+- He was quite happy with the result.
+- Now he's working on a next version of the c Czech ASR system that should be trained on even more data.
+- He's also working on sound segmentation.
+- PERSON2 needs feedback from PERSON13 on how his segmenter works.
+- There are problems with speaker diarization on fly and windows overlapping.
+- The last person on the team is PERSON8, who worked on the project last June.
+- He has to work on paraphrasing.
+- PERSON5 is waiting for a virtual machine for the paraphrasing server.
+- The visualisation of sound is something that PERSON11 would check.
+- FastSpeech is three hundred times faster for ASR.
+- It's available as a code, but PERSON5 hasn't tried it yet.
+- PERSON14, 7, 5, 2, and 2 are going to meet on Friday instead of Thursday next week.
+- They will do a call for a doodle instead of meeting on Thursday because some things changed for others and they need to cover different topics.
+
+
+Minuted by: Team Synapse

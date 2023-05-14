@@ -1,0 +1,70 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON12, PERSON13, PERSON2, PERSON4, PERSON5, PERSON6, PERSON7, PERSON8, PERSON9
+
+
+SUMMARY
+- PERSON5, PERSON8 and PERSON6 are on the call.
+- They are talking to PERSON9.
+- The connection is slow.
+- They need to turn off the camera to save bandwidth.
+- They also need to mute themselves when they are not talking to each other.
+- PERSON7 is on the call.
+- The purpose of the call is to collect credits for the Surge 2020 organization.
+- The google sheet with all the things that you have done will be used before the data is released.
+- Next week the meetings should be on Thursday and then until the end of exam period it would be Thursdays.
+- PERSON5, PERSON10, PERSON7, PERSON5 and PERSON5 are having a conference call.
+- They are going to discuss what they have been working on this week.
+- There is a university open day next Wednesday and a workshop on the 12th of February for the ORGANIZATION1 congress.
+- PERSON5, PERSON7, PERSON8 and PERSON5 are going to try the domain adaptation surge again.
+- The next event will be in English and will be held in the domain of competition fix, that there is tools.
+- If they don't manage to adapt their systems, they will be recording the session anyway.
+- The important thing is whether the people remotely present can confirm that they've understood at least something.
+- PERSON8 started transcribing the YouTube videos shared by PERSON10.
+- He also prepared the transcript for the Monday seminar, got the ASR, followed by segmenter, voice domain adaptation and domain adaptation, and talk adaptation and speaking of the words.
+- The next task is to focus more on sentence, boundary detection on both English and Czech segmenter.
+- In the coming days, he needs to integrate PERSON9's audio compression on YouTube videos, progress more on the PERSON3 36 empty models and doc translation, and integrate office and text additions from PERSON4.
+- PERSON5, PERSON8, PERSON3 and PERSON4 are working on different projects.
+- PERSON4 is downloading 1.7 terabytes of audios and videos interpreting in 22 languages from parliament since July 2018.
+- PERSON5's main project until 6th of March is multi-source spoken language translation research for ORGANIZATION1 event.
+- PERSON5, PERSON4, PERSON11, PERSON6 and PERSON9 are on the call.
+- The data that they have gathered would be used to retrain the ASR models.
+- PERSON4's main goal until the Feb 6th deadline is to experiment with multiple translation.
+- If it works, it will be used in the surge afterwards.
+- PERSON5 and PERSON8 are going to take the Monday seminar revised transcript as a test set.
+- They are also going to do a compressed pipeline and again check the word error rate.
+- They will share their statistics and how much laws are they able to make.
+- PERSON5 wants to see the evaluation in two ways, one without a mediator and one via the mediator.
+- PERSON9 wants to collaborate with PERSON4 and what they did for the ORGANIZATION1 Congress.
+- The list of wanted things is in the document of Monday's test.
+- PERSON2 is working on the framework or test set for evaluation of simultaneous translation.
+- He proposes a new idea for calculating the delay, BLEU score and, all of them.
+- There is a problem of segmentation when calculating delay, because some words are repeated more than once and it could make some problem.
+- PERSON5 wants to set up a regular evaluation of the pipelines to help PROJECT2 in the ORGANIZATION1 Congress.
+- He wants to have a regular measurements of the ASR, end-to-end, quality, delay, delay and flicker.
+- PERSON5, PERSON2, PERSON10, PERSON9, PERSON8, and PERSON12 are collecting monolingual data on 42 European languages.
+- The Italian language is not included in the data, so they need to download all the PDF documents from the website.
+- PERSON5 and PERSON12 need to convert PDF files to plain text.
+- They need to use different tools for different tasks.
+- They want to decide which of the tools is easy to use and produces good results.
+- They decide to use a tool like G or for German.
+- PERSON7 will get in touch with PERSON12 and whatever is needed.
+- PERSON10's job is to have an overview of all the data, we use for the ORGANIZATION1 Congress, to integrate it and to create test sets, test sets using them.
+- PERSON5 is working on the IWSLT test set, that's spoken language translation from English into Czech and German.
+- Once this test set is stabilized, PERSON8 should process the test sets with pipelines and use the evaluation tool by E PERSON2.
+- PERSON10 should collect the numbers and do a sanity check of the system.
+- PERSON6 has done the forced alignment.
+- PERSON5 and PERSON13 are working on a back translation of English to Czech languages.
+- They need to gather better models for all the ASR languages to the English and then from English into all the target languages.
+- The talk by PERSON1 is on Wednesday and they need to find better systems to be deployed by Wednesday.
+- PERSON5 asks PERSON8 to evaluate on PERSON1's recorded talk.
+- On Monday, PERSON8 will evaluate the existing systems.
+- On Tuesday, PERSON4 will fine tune the system and on Wednesday morning, they will decide on which one to deploy for the event.
+- PERSON5, PERSON8 and PERSON4 will try to translate a 20-minute-long recording of a conversation between PERSON1 and PERSON11.
+- They will use the data from European data to train the segmenter and use PERSON2's evaluation tool to see how it's working.
+- PERSON8 will use this week to train and get in touch with PERSON4 and get European data to train a new segmenter.
+- PERSON2 is available next week.
+- PERSON4 is not available on Thursday and Friday next week, so they will meet on Thursday.
+- The next week they have a session on Wednesday.
+
+
+Minuted by: Team Synapse

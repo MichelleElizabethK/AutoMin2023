@@ -1,0 +1,55 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON11, PERSON12, PERSON15, PERSON16, PERSON19, PERSON2, PERSON20, PERSON21, PERSON23, PERSON3, PERSON5, PERSON6, PERSON9
+
+
+SUMMARY
+- PERSON5 is taking part in a call.
+- PERSON4 will join a little later.
+- The goal for today is to get everything money on the full workload.
+- The real video mixer is ordered and it will be ready on Wednesday.
+- PERSON5 wants to see the full workload, all of imputs and target languages in the presentation platform.
+- He wants to switch the -line during someone's talk and switch the subtitles to present another source of English.
+- Wednesday is available for the full guesting at South Premises.
+- PERSON5 invites PERSON9, PERSON4, PERSON2 and PERSON23 to Tuesday lunchtime.
+- PERSON5 wants to improve the quality of the interpreter's booths and provide the interpreters with feedback.
+- ORGANIZATION5 will try to get more laptops and fake language labels for interpreters.
+- PERSON5 wants to collect feedback from the participants regarding the presentation platform.
+- PERSON5 is preparing a video from which they want to record a PhD student journalist.
+- Organizing Committee 3 will decide on Monday whether or not to allow him to go to the premises and record the video.
+- ORGANIZATION3 also needs to approve that he can enter the building and what he PERSON5 wants to record the participants during the presentation.
+- Organizing 3 has to confirm that they are fine with that.
+- There is a requirement for the confidentiality or no disclosure.
+- There are concerns from the participants that the participants will talk too much and the content of the video will leak PERSON5, PERSON9, PERSON3, PERSON20 and PERSON11 are conducting an experiment.
+- Some of the sessions should be very close and some should be more like close.
+- There are two English segmenters so they can run at most two languages at once.
+- There is a PERSON3 switched English off and started German.
+- The project is using PROJECT2.
+- com's translation service.
+- Romanian is the only language available on the project.
+- There is a way to flush the cash, but there is still an incremental transcription problem.
+- PERSON5 is having problems with the ASR.
+- The ASR is not working properly.
+- The last published message is three minutes old and no one is publishing it.
+- There is no one taking part in the call.
+- PERSON3, PERSON5, PERSON12, and PERSON9 are working on a project.
+- There are two ASR workers available, but one of them is not working.
+- There is only one English segmenter and two German ones.
+- PERSON17 is out of the office PERSON3, PERSON5, PERSON9 and PERSON21 are trying to pass the translation system from ORGANIZATION1 to other languages.
+- It's not working.
+- The input from audio is from German to Polish English.
+- There's one segmenter again.
+- PERSON3 PERSON5 wants to make sure they are reaching out to people.
+- There is a problem with managing user's data for the GDPR.
+- It would be nice to have HTTPS mandatory on the presentation interface.
+- PERSON9 explains to PERSON2 and PERSON15 that there is a problem with storying a used data in the presentation platform.
+- It was not planned, but it turned out to be the case with the previous version of the platform.
+- The new version does not require username and PERSON19 and PERSON11 are trying to troubleshoot a computer program.
+- It's not producing output.
+- The audio is not being sent correctly.
+- PERSON2 is going to upload a test case and upload it to the crise control repo.
+- They want pre-voice to PERSON9 wants to make sure that the correct source language is provided in the presentation platform.
+- PERSON2 is going to finish the script and send it to the control repo.
+- PERSON3 will be available in ten minutes.
+
+
+Minuted by: Team Synapse

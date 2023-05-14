@@ -1,0 +1,55 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON11, PERSON13, PERSON15, PERSON16, PERSON4, PERSON8
+
+
+SUMMARY
+- PERSON4, PERSON11, PERSON15 and PERSON8 are at home.
+- The Czech Republic government has lifted the rules.
+- They can go out even if it's not necessary.
+- They have to wait until the 4th of June for the free circulation of people.
+- They will have to postpone one of their regular meetings.
+- PERSON8, PERSON1, PERSON11, PERSON16, PEN1 and PEN4 are going to contribute to an ASR system.
+- They need someone to review the summarization, ORGANIZATION1 will review the technical issues and ORORGANIZATION5 will review three points one.
+- The project management guide needs to be updated.
+- PERSON1, PERSON8, PERSON11 and PERSON15 are trying to find a project management guide for a new EU project.
+- They need it by the 8th of June.
+- If they don't have it, they will have to wait until the end of June for the internal reviews.
+- PERSON8 and PERSON9 will discuss the layout of the PROJECT1 test sets.
+- They want to have it populated and described by the August date so that they can submit it as a deliverable for the ORGANIZATION4 Congress.
+- The repository is a directory of file lists.
+- The files are curated to serve well, linebay, segmented, everything.
+- The set of documents that you will test against will depend on the set of languages.
+- PERSON8 is working on the SLTF, which is a private repository.
+- When finished, when curated, they all should be curated for the particle purpose.
+- The file list should be essentially like fine graph so that you list all the files, and check that you have all the languages that you want.
+- It should be stored there as a fixed file list.
+- The public use of these test sets should be limited to few of those.
+- PERSON8 explains to PERSON15 how to set up the SLTF for spoken language translation evaluation effect to reward the same unless you need symetrics.
+- The primary evaluation will be the translation quality, and the ASR and translation quality regardless of delay or time stamps.
+- PERSON8 and PERSON1 are working on a project.
+- They want to improve the quality of the translation of the locks files.
+- They need help with finding and curating the translations.
+- They are also looking for people who can translate the files into different languages.
+- PERSON1, PERSON8, PERSON11, PERSON13, PERSON16 and ORGANIZATION5 are working on a demo for the project.
+- The project was started when the EU still existed.
+- Irish is equally important to the project as other languages.
+- They need to improve the stability of the retranslation and improve the segmentation.
+- PERSON1, PERSON8, PERSON11 and PERSON15 discuss the issue of retranslating data to the end-to-end ASR.
+- They are in the middle of the project.
+- The new generation of models previously based on transformers will be translated in direct translator.
+- PERSON8, PERSON1, PERSON4 and PERSON13 are going to have a preforma on 14th May 17th.
+- They are trying to run GPT tool to predict the tail of the sentence.
+- It doesn't work very well, so they are trying guessing.
+- The date is important as it's too close to the end of the project.
+- PERSON13 will supervise the organization of the demo.
+- PERSON4, PERSON8, PERSON1, PERSON15 and PERSON1 are going to do a subtitling demo next week.
+- They will use the same set-up without the.
+- the.
+- different web pages.
+- The demo will be in German.
+- The presentation will include a TEDx talk.
+- PERSON8, PERSON4, PERSON5, PERSON13, PERSON15 and PERSON11 will run the demo for themselves from the week from the 11th before they run it for themselves.
+- They will be in touch for the demo in the coming days.
+
+
+Minuted by: Team Synapse

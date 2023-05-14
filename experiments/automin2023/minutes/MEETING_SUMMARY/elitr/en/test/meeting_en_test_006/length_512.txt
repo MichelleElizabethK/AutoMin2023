@@ -1,0 +1,62 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON11, PERSON13, PERSON15, PERSON16, PERSON4, PERSON8
+
+
+SUMMARY
+- PERSON4 is in Trento and his family lives in Bolzano.
+- The Czech Republic government has lifted the restrictions on people going out.
+- People can go out with up to 10 people starting from Monday.
+- PERSON11, PERSON8, PERSON4, PERSON3, PERSON14 and PERSON7 will have to postpone one of their regular meetings.
+- It will be in September.
+- There will be at least one more meeting in May, one in June, and one in May and June.
+- There PERSON1, PERSON8, PERSON11, PERSON16 and PERSON13 are going to contribute to the ASR system.
+- They are also going to ask for an extension for this deliver because Congress has not taken place.
+- PERSON8, PERSON13, PERSON11, PERSON3 and PERSON1 are writing a project management guide for ORGANIZATION1.
+- ORGANIZATION1 has coordinated a number of projects.
+- ORGANIZATION2 has written it.
+- ORGANIZATION3 has not.
+- PERSON11 will write a project management guide for PROJECT2.
+- The internal reviews should be ready by mid June at the latest.
+- The deadline for the projects should be the end of June.
+- People who would like to coordinate future projects should start writing.
+- There is one more milestone, the Organizing Committee Congress.
+- It should be held on 8th of There will be one more deliverable at the end of August.
+- There will be another one in December.
+- Project ORGANIZATION1 is responsible for this deliverable.
+- PERSON8 explains to PERSON9 the layout of the PROJECT1 test sets.
+- They are a collection of documents that can be tested against.
+- The annotators are searching for poll documents and in many of the languages.
+- PERSON12 is slow and he's not feeding them with the prepared files.
+- PERSON8 and PERSON1 have enough time for August, but if they were really wanting this for the ORGANIZATION4 Congress they PERSON8 explains to PERSON1 how the system should work.
+- PERSON1, PERSON8 and PERSON15 discuss the design of the sacrebleu PROJECT1 test set.
+- They agree it should be limited to 3 file lists.
+- PERSON8 explains the evaluation of spoken language translation to PERSON1, PERSON15 and PERSON13.
+- PERSON15 will send the python code to PERSON8 and PERSON8.
+- According to PERSON8, it is risky with the lock files, because people can misinterpret what time stamps should be used.
+- The forced alignment, which finds the words in the sound is not reliable for us either.
+- PERSON8 and PERSON1 do both finding and curating the translations.
+- If they are unable to find speech domain and auditing domain, they will ask the people to find the text monolingually and translate it back to Czech.
+- PERSON1 translates a lot of material into Irish.
+- The project was started before the EU existed.
+- Irish is equally important to the project as other languages.
+- PERSON8 wants ORGANIZATION7 to manage and make sure the demo is delivered.
+- ORGANIZATION7 has been working on the retranslation approach for the past years and the users seem to prefer a delay.
+- PERSON8 would like the project to be evaluated on humans towards the end of the project.
+- PERSON1 would like it to be done a bit earlier.
+- PERSON15 is not an ASR person, but it's entirely possible that retranslation go back with the transition to end-to- PERSON1, PERSON15 and PERSON8 are talking about ASR.
+- The quality of ASR is getting better.
+- There is research going on to improve ASR and low-latency translation.
+- PERSON8 and PERSON1 discuss the integration of ASR and MT.
+- The ASR is bad, so they are trying to run GPT tool to predict the tail of the sentence, but it doesn't work.
+- The demo should be held on 14th May 17th the sooner the better.
+- Organizing Committee 5 should supervise the organization of the demo.
+- The deadline for the demo is too close to the end of May, so PERSON8 suggests to post the final proposal informaly as a Doodle PERSON8 wants to present the results of the Czech talk to the project officer via screenshare and screen broadcasting.
+- PERSON4 thinks they should put the same set up without subtitles.
+- PERSON1, PERSON4 and PERSON8 didn't understand what the topic was.
+- PERSON15 will propose some German talks as a primer language to test the machine translation next week.
+- Early next week, someone should send an e-mail to the PERSON5 regarding the date of the demo.
+- The demo should be ready by the end of the week from the 11th.
+- Before that, people should run the demo for themselves.
+
+
+Minuted by: Team Synapse

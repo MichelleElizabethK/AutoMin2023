@@ -1,0 +1,24 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON2, PERSON4, PERSON5
+
+
+SUMMARY
+- PERSON4 thanks PERSON5 for preparing the ORGANIZATION2 forms for alignment annotations.
+- PERSON5 is going to set up a website for the organiser.
+- The website should have the call for participation and the dates and the submission information type in the review process, location and stuff.
+- He will write the first version of the website on Github with the participants' input.
+- PERSON5 will share with both of them a e-mail for resending to people they know and they want to invite for the share task.
+- PERSON4 and PERSON2 have already brought three people who agree to review at least one or two papers.
+- PERSON4 and PERSON5 are trying to prepare the proposals for the website, but ORGANIZATION2 Docs doesn't work.
+- They have to get the membership right.
+- PERSON5 will send the email draft of the workshop to PERSON4 and PERSON6.
+- They need to prepare the content similar to the challenges for the last year and their websites.
+- They have to work extra hard as none of them is from the summarization background.
+- The organizing PERSON5 and PERSON6 are planning a scientific workshop, but they don't have any content.
+- They need some speakers with a background in summarization and they need to invite some prominent people from the community for the input.
+- PERSON5 is going to ask PERSON6 to be part of the program committee.
+- PERSON4 will write an e-mail to PERSON6.
+- They are going to drop for today.
+
+
+Minuted by: Team Synapse

@@ -1,0 +1,38 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON17, PERSON19, PERSON21, PERSON8, PERSON9
+
+
+SUMMARY
+- It's the deadline for adding new content into the book.
+- PERSON9 and PERSON17 have a lot of work to do.
+- They haven't defined what it means to add new content.
+- The text is there, the pictures are there, but the multilinguality is missing.
+- PERSON9, PERSON8 and PERSON17 are discussing whether or not they need to cite the source of the paper in their book.
+- They need to specify the creative comments at the end of the document.
+- PERSON9 and PERSON8 are going to write a paper on event fractuality.
+- PERSON19 is going to do the same.
+- PERSON19, PERSON9 and PERSON17 are working on a project.
+- They need to regenerate the text and make changes to the text.
+- PERSON9, PERSON17, PERSON8 and PERSON21 are working on a project.
+- They are trying to train FastText embeddings.
+- PERSON21 and PERSON17 are arguing about the structure of the text they are writing in Czech.
+- PERSON21 wants to change some of the figures in the text, but they are not completely the same.
+- PERSON9 and PERSON17 are working on a bit map.
+- PERSON21 will generate a tix file and replot it so it has the same font as a book.
+- PERSON21, PERSON9 and PERSON8 are working on a book.
+- They need to add PCA and ICA, but they need to reorder the chocolate.
+- They also need to write a summary of the book and an introduction to the book.
+- PERSON21 brought some books to PERSON9 and PERSON8 to have a look at how they are structured.
+- The summary in English must be in every Czech book, but there is no rule on the length of the summary.
+- They will write the summary in Czech and translate it into English PERSON9 is working on the project.
+- There are some citations that are not in the Zotero format.
+- The next meeting is in two weeks.
+- The meeting is on Monday, 13th July at 2 p.m. in the office.
+- There will be lunch, PROJECT2 PERSON8 didn't check the ORGANIZATION1 website.
+- The presentations will be broadcasted and QA sessions will be live.
+- People who are registered can ask questions live on ORGANIZATION6.
+- It is 3 p.m. their time.
+- PERSON17, PERSON19 and PERSON8 are saying goodbye.
+
+
+Minuted by: Team Synapse

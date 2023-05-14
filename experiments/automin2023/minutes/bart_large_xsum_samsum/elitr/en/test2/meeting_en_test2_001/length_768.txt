@@ -1,0 +1,22 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON2, PERSON4, PERSON5
+
+
+SUMMARY
+- PERSON4 thanks PERSON5 for preparing the ORGANIZATION2 forms for alignment annotations.
+- They need to set up the website for the workshop proposal.
+- They will do it on Github.
+- PERSON5 will send a draft e-mail with the call for participation to PERSON4 and PERSON2.
+- She will also ask them to try to invite them as reviewers for the share task.
+- PERSON4 can't open the new ORGANIZATION2 documents, it doesn't work.
+- ORGANIZATION2 is busy today.
+- People have to prepare the proposals for the website and get the membership right.
+- They have to work extra hard as none of them are from the summarization background PERSON5 and PERSON6 are organizing a workshop on summarization.
+- The organizing committee is very big.
+- They need at least one or two people with a background in summarization, but they do not have scientific input.
+- They also need to invite some famous people from the summarization community PERSON5 is going to ask him to be a part of the program committee.
+- PERSON4 doesn't know anybody who could deliver the keynote.
+- PERSON4 and PERSON5 will take a rest.
+
+
+Minuted by: Team Synapse

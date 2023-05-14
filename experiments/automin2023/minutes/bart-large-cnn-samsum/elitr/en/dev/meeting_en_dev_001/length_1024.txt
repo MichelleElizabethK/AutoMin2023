@@ -1,0 +1,55 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON3, PERSON4, PERSON5, PERSON6
+
+
+SUMMARY
+- PERSON6, PERSON3, PERSON4, PERSON5 and PERSON10 are meeting today.
+- They need to collect data sets for ORGANIZATION1 and ORGANIZATION2.
+- They also need to test the subtitling of the ORGANIZATION1 sessions.
+- PERSON3, PERSON5, PERSON6 and PERSON10 need to prepare a summary of the data for the share task.
+- The data set is too small for the full training, but it's acceptable for fine tuning and evaluation.
+- It will be 50 hours for the test set and 30 percent for the development set.
+- PERSON6 needs a general share task for speed summarization.
+- They decide to use ORGANIZATION1.
+- They will prepare a web page on their lab page with links to the minutes.
+- For each meeting, they should find the minutes and copy paste them to the website.
+- PERSON10 wants to know if automation is possible.
+- P3 shows him a screen with a summary of the minutes of the previous sitting.
+- It's for the session on 6th October, 2011.
+- It is a contrast of the data set.
+- The question is if it is possible to increase the data.
+- PERSON10, PERSON3 and PERSON6 want to change the way the search form is prepared.
+- They want to have 3 test sets of data sets and 3 tracks: ORGANIZATION1 track, PROJECT1 track and ORGANISATION2 track.
+- PERSON10, PERSON6 and PERSON3 discuss how to prepare the training data for ORGANIZATION2, PROJECT1 and ORGANIZATION1.
+- They decide to repackage the data and provide it as the test set training to the participants.
+- PERSON10 explains to them how to do it.
+- PERSON3, PERSON10, PERSON5, and PERSON6 are on the call.
+- They need to redo what has already been done and create a downloader of all ORGANIZATION1 meetings.
+- It's possible to do it automatically, but it's not clear how much data they should get out of it.
+- PERSON5, PERSON10 and PERSON3 are discussing how to prepare ORGANIZATION1 for the share task.
+- The first step is to find and download the pairs of transcript and the minutes for all the sessions that are there.
+- The minutes are there in the web but they are not usable.
+- PERSON5 prefers to have other data sets in the task.
+- PERSON10, PERSON5, PERSON6 and PERSON3 are going to do a project on summarization.
+- They need to prepare the ORGANIZATION1 sessions summaries corpus.
+- They will take a small portion of it as the test set for their shared task.
+- They want to invite people to cross train across all the tasks.
+- PERSON6, PERSON10 and PERSON8 will ask PERSON8 for a session on how to download the speech part of the presentation by PERSON7.
+- PERSON3 will ask ORGANIZATION5, who is developing PROJECT3, for help with the format of the data.
+- PERSON6, PERSON10, PERSON3, and PERSON7 are discussing how to prepare the data for the current downloading of ORGANIZATION1 data.
+- They need to have the ASR and the corresponding minute in one format.
+- They also need to convert the transcript to angle brackets instead of square brackets and use the speaker diarization.
+- PERSON10, PERSON3, PERSON6, and PERSON5 are going to work on organizing the data of the meetings.
+- They need to organize the data into a directory structure according to the dates and names of the sessions.
+- PERSON6 is going to create an automatic script to get the transcript and get the minutes.
+- PERSON10 is organizing the ORGANIZATION1 corpus.
+- PERSON6 will organize it according to the dates and the names of the sessions.
+- PERSON5 has already downloaded the data from the website and sent it to the cluster.
+- It was for machine translation work.
+- PERSON6, PERSON5, PERSON3 and PERSON10 are going to work on a project.
+- They need to translate a text from 2006 to 2011.
+- It's about five degrees in LOCATION2.
+- PERSON3 is in the forest and it's really cold.
+
+
+Minuted by: Team Synapse

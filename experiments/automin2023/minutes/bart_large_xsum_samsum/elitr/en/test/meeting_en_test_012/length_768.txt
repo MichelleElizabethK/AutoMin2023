@@ -1,0 +1,41 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON12, PERSON19, PERSON20, PERSON3, PERSON9
+
+
+SUMMARY
+- PERSON20 and PERSON12 are going to go to LOCATION1.
+- There is a pandemic in India and in Czech Republic.
+- People don't report it because they are afraid of panics.
+- PERSON9, PERSON12 and PERSON20 are talking about the data set.
+- PERSON9 wants to use a named entity recognition model for English and Czech meetings.
+- PERSON9 and PERSON12 have good named entity recognition models at their institute, but they have some problems with their system.
+- They need to ask PERSON3 for help.
+- PERSON12 and PERSON9 are going to change the text of the transcript to keep the information that the speakers changed.
+- They have to create a map that maps the letters to the real names.
+- They need to give PERSON3 a mark.
+- PERSON3 will join the meeting at 00:00.
+- PERSON12 will send him an e-mail with the link to the meeting.
+- PERSON12 and PERSON3 are discussing the grey cases for named entities.
+- PERSON3, PERSON9 and PERSON12 agree on the two step manual annotation.
+- PERSON3 suggests to assign the task to the annotators.
+- PERSON3, PERSON9 and PERSON12 are working on a system of name tag.
+- They need to make sure it works on the web as well as on the text file.
+- PERSON3, PERSON12 and PERSON9 are discussing how to prepare a name tag for annotators.
+- PERSON9 will use named entity recognition for English meetings and after that for Czech meetings.
+- PERSON3 explains to PERSON9 how to process the corpus from top to bottom.
+- PERSON9, PERSON3 and PERSON12 are discussing how to anonymize the names of the speakers in the transcripts.
+- PERSON3 suggests that when doing the anonymization, one should preserve the full name like PERSON10 here on line one.
+- When doing the post-processing, the IDs should be the same ID as in the anonymized version.
+- The hash should be MT five sum.
+- PERSON15 is starting his Phd on speech recognition in Slovakia.
+- PERSON3 wants him to limit his involvement in the minuting and the tool for that and transfer it to PERSON20, who will be the technical support person.
+- PERSON12, Ondra, PERSON19, PERSON20 and PERSON9 are going to take a leave today.
+- They will work as annotators and two evaluators to annotate the transcripts and read the minutes.
+- PERSON12, PERSON19 and PERSON20 are working on a project.
+- They need to choose the number of meetings and send them to PERSON20 and PERSON12, who is more familiar with the meetings, and they need to decide how long the meetings should be.
+- They also need to PERSON12, PERSON19 and PERSON20 are going to annotate and then evaluate twenty minutes of transcripts for one of the annotators.
+- They are not going to create minutes as they do not understand the task.
+- They will meet tomorrow.
+
+
+Minuted by: Team Synapse

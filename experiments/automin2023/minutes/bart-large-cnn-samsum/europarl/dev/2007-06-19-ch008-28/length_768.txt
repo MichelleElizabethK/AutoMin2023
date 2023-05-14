@@ -1,0 +1,13 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON165
+
+
+SUMMARY
+- PERSON165 votes "yes" and the vote is concluded.
+- -      .
+- "No" was the only vote cast.
+- "Yes" was "No".
+- "That concludes the vote"  "The vote has been taken".
+
+
+Minuted by: Team Synapse

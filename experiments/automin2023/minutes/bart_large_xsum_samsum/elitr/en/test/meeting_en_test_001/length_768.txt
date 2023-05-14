@@ -1,0 +1,47 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON11, PERSON12, PERSON15, PERSON16, PERSON19, PERSON2, PERSON20, PERSON21, PERSON23, PERSON3, PERSON5, PERSON6, PERSON9
+
+
+SUMMARY
+- PERSON5, PERSON23 and PERSON20 are taking part in a call.
+- PERSON4 will join a little bit later, but he won't have headsets.
+- The real video mixer is ordered and will be available on Wednesday.
+- PERSON5 wants to see the full workload of imputs and target languages in the presentation platform.
+- He wants to switch the -line during someone's talk.
+- The platform is not yet updated.
+- The voice quality is not perfect.
+- PERSON9 is coming to South Premises on Wednesday.
+- PERSON5 invites PERSON9, PERSON4 and PERSON2 to come at Tuesday lunchtime.
+- They will do the testing in the second, once PERSON3 has put everything together and on, and so on.
+- They want to provide the interpreters with the immediate feedback.
+- PERSON5, PERSON3, PERSON9 and PERSON12 are going to discuss how to set up a little path out from the main path, which goes through the translation and to the presentation platform.
+- They will collect feedback from the participants.
+- PERSON5 wants to record a video from the inside the building or at ORGANIZATION5, but they need to confirm that the journalist can enter the building and record there.
+- PERSON5 and PERSON2 are going to record a presentation.
+- Organizing3 has to confirm that they are fine with that.
+- There is a requirement for the confidentiality or no disclosure of the participants.
+- There are concerns from the participants that the content of the presentation will be leaked.
+- PERSON5, PERSON9, PERSON3, PERSON20 and PERSON11 are going to do an experiment.
+- PERSON3, PERSON11 and PERSON5 are working on a project.
+- They have an English to German translator and a Romanian one.
+- They are trying to solve some problems with the presentation platform.
+- PERSON5, PERSON3 and PERSON21 are having problems with the ASR.
+- The ASR is not working at the moment.
+- The last published message is three minutes old, so no one is publishing right now.
+- PERSON3, PERSON5, PERSON12, and PERSON9 are working on a project.
+- One of the ASR workers is not working.
+- There are only two segmenters available, one in English and one in German.
+- PERSON3, PERSON5, PERSON9 and PERSON21 are trying to pass the translation system from ORGANIZATION1 to other languages, but it's not working.
+- The input is from audio, so they have German to Polish English, but the subtitles are not working PERSON5 wants to make sure that they are reaching all the people on the call.
+- There is a problem with managing user's data.
+- There are no requirements for user authentication at the moment, but it would be nice to have it mandatory.
+- PERSON9 explains to PERSON2 and PERSON15 that there is a problem with storying a used data.
+- The presentation platform didn't store any data.
+- It's easy to reason about it and it's available for the platform developer.
+- PERSON19 and PERSON11 are working on a project.
+- PERSON2 is going to write a microtest script with a test case and upload it to the crise control repo.
+- PERSON11 is flying today, so she won't be in touch with PERSON19 and PERSON9 and PERSON2 will come back in the afternoon to check the source language in the presentation platform.
+- PERSON3 will be available in ten minutes.
+
+
+Minuted by: Team Synapse

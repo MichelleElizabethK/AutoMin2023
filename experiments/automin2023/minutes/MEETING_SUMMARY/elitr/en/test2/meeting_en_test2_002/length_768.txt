@@ -1,0 +1,54 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON12, PERSON15, PERSON16, PERSON18, PERSON24, PERSON3, PERSON7
+
+
+SUMMARY
+- PERSON15 wants to hear from the people that he hasn't talked to for a while.
+- PERSON1, PERSON15, PERSON7, PERSON12, PERSON16, PERSON10, and finally, PERSON24.
+- They need to complete the GPU test and to know which version of PRO PERSON12 and PERSON15 want to do some experiments with multi-source text based data.
+- PERSON24 and PERSON12 want to have a separate call tomorrow at 2 pm.
+- PERSON15 will send a link to the calendar.
+- The tasks that PERSON10 is leaving for today's call are: language model checking of ASR outputs, live monitoring of whether the ASR is producing sensible results and integration of tools that PERSON8 and PERSON3 should incorporate.
+- PERSON15 wants to make sure that the profanity filtering is integrated and tested.
+- It was tested on locks, but now it's time to test it on the life pipelines.
+- It would be better if PERSON3 explains to PERSON6 how to do it, so that he can run PERSON15 and PERSON3 discuss the profanity filtering and especially the spasm detection and removal.
+- The new ASR, the end to end ASR also suffers from the same issues as the E2E ASR.
+- There was a self or to do it yourself integration.
+- There is PERSON15 is confusing the PERSON6 and the PERSON10.
+- They are preparing for the upcoming Monday seminar.
+- On Monday they will hear the Italian English and yesterday they had a chance to hear the Japanese English.
+- The ASR system needs to adapt.
+- The multi-accent English is a PERSON1, PERSON15, PERSON18 and PERSON3 need to record the experience from ORGANIZATION7 and ORGANIZATION1.
+- They need to make sure the whole set up is understandable and regularly tested by others in the team.
+- The system needs users, and the more diverse users the better, PERSON18 explains to PERSON8 how the pipeline works.
+- PERSON15 asks PERSON8, PERSON18 and PERSON3 to set up a call with PERSON8 to discuss the configuration of the pipeline.
+- PERSON16 and PERSON18 are working on a multi-lingual machine learning system.
+- They want to change the structure of the model to limit the number of languages and improve the speed of the system.
+- PERSON15 suggests that as a fall back solution, they should have the PROJECT3 models running as a worker on their side and launch rainbow worker from PERSON14 on their cluster.
+- PERSON3 is going to look into it.
+- PERSON18 is working on shortening and extending models for PROJECT4 rainbow audience.
+- He is running out of storage space and needs to solve some technical issues.
+- PERSON16 wants to know how much space there is available on Troja for storing data.
+- He will ask for more space tomorrow afternoon, before the call with PERSON24 and PERSON12.
+- PERSON15 will have called at half past three with PERSON14 and PERSON24.
+- There is an Indian guy interested in joining the team.
+- He should email his PHD application to ORGANIZATION5.
+- There will be a call at two thirty Prague time with PERSON6 to discuss some PERSON3 will have a call with PERSON7 to discuss the script that automates the ASR evaluation.
+- The script is to generate ASR automatically.
+- The scores should be stored somewhere.
+- The recording of the results is something that PERSON7 will manage.
+- During the last week sessions, PERSON15 learned two important lessons: first, that important people need to be available and second, that they need to know which components they are using and who are the people behind them.
+- PERSON15 is looking for someone who can work on the non native accent.
+- PERSON3 is the only person qualified to do that.
+- PERSON10 is already doing the domain adaptation, but he would like to see the benefit of that in the PROJECT2 set up.
+- PERSON15, P, PERSON3 and PERSON16 are working on a project to improve the ASR.
+- One suggestion is to create a fully neural ASR and do experiments on fine tuning and the other is to steal data from Organisations 3 and 4.
+- PERSON15 and PERSON16 are looking for co-workers to help with filtering profanity and negative sentiment from social media.
+- There was a cable competition for this.
+- People had to make models to detect the tweets or like sentences which were harmful in some ways.
+- There are five categories like fake news, hateful and I don't know like what.
+- In our case, we do not expect speakers to use abusive language PERSON1, PERSON15 and PERSON1 haven't agreed on the bachelors thesis.
+- PERSON3 will ask elderly students who are studying in Prague for the first or second year if they would be interested in doing a project related to shortening MT.
+
+
+Minuted by: Team Synapse

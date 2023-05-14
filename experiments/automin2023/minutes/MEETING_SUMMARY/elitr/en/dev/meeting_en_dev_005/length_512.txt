@@ -1,0 +1,41 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON11, PERSON12, PERSON14, PERSON17, PERSON2, PERSON5, PERSON7
+
+
+SUMMARY
+- PERSON14 is trying to record the call to see if they are able to summarize the document they are talking about.
+- PERSON11 is not sure if he's going to connect.
+- PERSON9 was asked by PERSON9 to give her presentation on PROJECT2 on the Monday seminar.
+- The The Monday seminar on the 17th happens the week after a workshop where we are describing various language technologies and promoting NLP.
+- On Wednesday, the 12th of February, there will be a dry run of the NLP workshop.
+- On the 17th, the final workshop will be held in English.
+- There will be non-native speakers presenting in English at the event.
+- The students' firm fair is taking place On the 18th and 19th of March there will be business presentations of non-native speakers of English.
+- There will be some profanity filtering to filter out bad words.
+- PERSON11 is working on a collection of business documents from 1970 to 1980 for English and for other languages.
+- Person PERSON11 and PERSON6 will co-operate with PERSON6 on developing a language model for English and OTHER3.
+- According to PERSON14, the bad word "šoupátko" was created by an error in the translation system.
+- The idea is to train empty systems on corpora which are refind to contain only higher frequency words.
+- PERSON14's homework is all preservation of quality and avoidance of bad words.
+- He would like to add more words live and prevent them from appearing.
+- He also wants to do a bigger experiment in word multisource and profanity filtering.
+- PERSON17's evaluation framework is ready but he PERSON14 wants to break the recorded from MI Corporas into smaller chunks and use the existing time stamps to break it into smaller segments.
+- There is only one recording translated into LOCATION1 and OTHER3 and it's time stamped.
+- PERSON11 will create a list of files.
+- PERSON14 will prepare a next version of the czech ASR system.
+- PERSON11 has found the appropriate command flacs so that the audio is compress to mp3 then shiped as mp3 to network and then decompress before being sent to the ASR.
+- The sound segmentation is working out well, but some words get cut in the middle.
+- PERSON2 needs feedback from PERSON13 on how the segmenter works.
+- PERSON14 is waiting for PERSON11 to get back to back to LOCATION5 on the weekend.
+- PERSON8 has already worked on the project last June.
+- PERSON5 is waiting for a virtual machine for the paraphrasing server.
+- PERSON12 is working on the division of the levels of microphone.
+- PERSON14 wants to know if there is any code for the FastSpeech for ASR and if it's available as code, so that they can try it in their set up.
+- PERSON5 hasn't tried it yet.
+- PERSON5 is from Kos.
+- PERSON5 is from LOCATION4.
+- PERSON14 is from PLATINUM14.
+- They are meeting on Friday instead of Thursday.
+
+
+Minuted by: Team Synapse

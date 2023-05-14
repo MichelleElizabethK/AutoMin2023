@@ -1,0 +1,34 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON10, PERSON11, PERSON14, PERSON5, PERSON9
+
+
+SUMMARY
+- PERSON10 is having problems with the Zoom app.
+- He is waiting for PERSON9 and PERSON1 to join the session.
+- The easiest way is to replay a lockfile and feed it to the AB client and to the presentation workers.
+- PERSON9 and PERSON11 are working on a project.
+- They need to stream a video file and simultaneously provide inputs to an AB client on the ORGANIZATION5 server and on the server.
+- PERSON9 is trying to set up an account for PERSON14 on a public server PERSON9, PERSON14, PERSON5, PERSON11, PERSON1 and PERSON10 are working on the technical set up of the project.
+- They need to stream both video, audio and text to the web server.
+- The project officer will focus on the quality of the provided translation.
+- PERSON9 and PERSON14 are working on a presentation for Thursday and Friday.
+- They need to fix the set up, fix the quality and prepare the presentation.
+- They also need to inject instructions to the subtitles to all the languages.
+- PERSON1, PERSON9 and PERSON14 are discussing how to present Youtube videos in the PROJECT1 window.
+- They decide to record the meeting in German.
+- They are going to test the system on Thursday and Friday.
+- PERSON1, PERSON9, PERSON10 and PERSON11 are going to work on the technical set up for the presentation platform.
+- PERSON10 explains to PERSON9 and PERSON1 how to stream a video on the ORGANIZATION5's web server.
+- PERSON9 and PERSON10 are trying to stream a 3-second-long video on a conference call.
+- It doesn't work.
+- They have many options to solve the problem.
+- They decide to put the video on the publics server.
+- PERSON9, PERSON10 and PERSON11 are working on a presentation platform and online text flows.
+- PERSON9 will be available starting from 11 am tomorrow.
+- PERSON9 will prepare the call link for the call for all the participants.
+- PERSON10 will show him how to pipe the text into the presentation platform.
+- The source language for the video file will be German.
+- The next test session is tomorrow at half past 10.
+
+
+Minuted by: Team Synapse

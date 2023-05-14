@@ -1,0 +1,32 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON13, PERSON14, PERSON3, PERSON7
+
+
+SUMMARY
+- PERSON10, PERSON15, PERSON6, PERSON7, PERSON8 and PERSON13 are going to play with the presentation platform.
+- PERSON13, PERSON10, PERSON7, PERSON14, PERSON3, PERSON5 and PERSON15 are working on a project to train machine translation on a specific use case.
+- They need to work together with the segmentation and the ASR worker and their presentation platform.
+- PERSON5 needs to test machine translation by looking at the output of the online ASR.
+- PERSON14 will closely resemble the mediator.
+- There are offline ASR systems that are similar to offline ones.
+- There is a risk that if they train on the offline segments from the ASR they will get something different from the online segments in the online mode.
+- The quality of the PERSON10, PERSON14, PERSON5, PERSON6, PERSON13, PERSON7 and PERSON3 are working on a project.
+- There is a problem with the text to text client that needs to be debugged.
+- The segmentation workers in ORGANIZATION5 do not work with the CTM client.
+- The ASR workers are not reliable to debug it.
+- Organized 5 needs to fix it before Friday.
+- PERSON14 is confused about the ASR output in chat.
+- There are a lot of tags removed by the segmentation workers, so in the in the MT input, these tags are not present.
+- PERSON10, PERSON5, PERSON7, PERSON13, PERSON14 and PERSON15 are going to do the ASR integrations next week.
+- They need to decide online which of the streams in concatenation with ASR and the MT is the best set up.
+- They will PERSON3, PERSON10 and PERSON14 discuss a new component of the work project.
+- They discuss how to deal with the issue of ASR.
+- PERSON10 and PERSON3 explain to each other how the presentation platform works.
+- PERSON10 is the integrator.
+- PERSON3 is the software developer.
+- ORGANIZATION1 can order whatever devices they want for the people.
+- ORGANIZATION2 can ask ORGANIZATION1 to organize the people by language.
+- ORGANIZATION3 could ask ORGANIZATION1 to put screens in front of people that want to read
+
+
+Minuted by: Team Synapse

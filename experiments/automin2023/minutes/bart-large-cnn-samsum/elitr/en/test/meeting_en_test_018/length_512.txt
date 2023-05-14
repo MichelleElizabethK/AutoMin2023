@@ -1,0 +1,80 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON12, PERSON3, PERSON4, PERSON6, PERSON7
+
+
+SUMMARY
+- PERSON7 and PERSON6 will meet with PERSON12 on Monday at 12 o'clock on the presentation platform to discuss the functionalities to be checked.
+- The first prototype should be ready on the 7th of June, like the first very first shot with box.
+- PERSON12 and PERSON7 will meet on Monday the 20th of May at 10.
+- They will discuss the presentation platform and the integration with PROJECT4.
+- PERSON4 will start coding next week and he hopes to have a prototype within a couple of weeks.
+- PERSON7 is trying to translate incomplete sentences for the user experience.
+- The cashing client makes the latency too big for the final users.
+- The ASR does not close sentences at all.
+- Sequence labeling task labels the sentences and eventually will place a label to end the sentence.
+- PERSON7 and PERSON6 are discussing the input for PROJECT4 client.
+- They need to create the segmenters for all the ASR languages.
+- They should train their empty systems to work on all the individual lines that they are getting from the segmentation workers.
+- PERSON4, PERSON6, PERSON7 and PERSON4 are going to play with the MT system and change the training data for the MT systems to handle this type of input.
+- The system will be judged by the final translation, which is the output of the mock conference with the interpreters.
+- PERSON7 is translating partial sentences and even more sentences in one go.
+- The first segmentation is fine, but later on the system goes crazy.
+- The problem is probably the timestamps.
+- The segmentation worker is not emitting them.
+- It receives them, but doesn't emit them.
+- ORGANIZATION6 needs to improve the segmentation worker so that it emits the timestamps.
+- The statistics of on the internet will translate only the later part of a sentence.
+- The baseline for the workshop would be to have models that translates this data.
+- PERSON7 suggests changing the cashing worker to keep the segmentation coming from segmentation worker and translate sentences like this instead of waiting for full sentences.
+- PERSON3 doesn't want to because of the risk of false information from the empty worker.
+- PERSON4 agrees and recommends sharing the code for the emptyworker.
+- PERSON7, PERSON4, PERSON6 and PERSON3 need to train the models to accept partial sentences and even sentences that started at the middle of the sentence.
+- The segmentation worker trained for Czech is still missing.
+- The integration of PROJECT4 is still a problem.
+- PERSON6 and PERSON7 are working on the production connector for the cruise control.
+- They are testing it in the dry runs.
+- If it works well, they will send the plain text files and add work granularity.
+- They will also prepare one language model for the workshop.
+- PERSON6 will have to ask back ASR people if they need to adapt the models system any more.
+- There are a lot of effort language models and it's possible that models system don't need adaptation any more, according to PERSON7.
+- PERSON7 will let PERSON3 know next week what will be supported at PROJECT3.
+- The workshop runs in English.
+- There will be one interpretation of from English into Czech and one interpretation from Czech into German.
+- The integration and segmentation worker for Czech is working hard to get the pipeline.
+- PERSON6 and PERSON7 will continue the deployment of the connector to the main client.
+- The daily test is not necessary as they have the install and test scripts and they run them every now and then.
+- The student who is supposed to train PROJECT4 is not delivering anything.
+- They will try to get some data from PERSON8.
+- PERSON7, PERSON4 and PERSON10 are going to fine tune the MT domain dependent data for MT fine tuning by.
+- Wednesday, June 19th.
+- They are collecting the data from the German to English ASR and using the ORGANIZATION2 platform to do the pipoting.
+- PERSON7, PERSON12 and PERSON12 need to test if the platform supports pivoting.
+- If it does, they will replace the PROJECT4 worker that PERSON4 will be developing.
+- PERSON3 confirms that the new ORGANIZATION2 presentation platform works.
+- PERSON6 has created a paralel subsentence corpus of two million words.
+- He wants to train on the output from ASR with errors against the references.
+- PERSON3 would be skeptical about ASR from text to speech.
+- PERSON10 thinks the empty system can prepared for the such errors.
+- PERSON6, PERSON7 and PERSON4 are planning a workshop at the end of June.
+- They need to train on ORGANIZATION6 ASR from docks.
+- They are planning to rely on PROJECT4.
+- PERSON7 is planning to come to LOCATION1 in person.
+- PERSON7 wants to know if someone from the project is planning to come in person to see it live.
+- The last person who came was from PROJECT5.
+- ORGANIZATION6 is running age ASR workers for English, and four of them don't emit any output.
+- If they run the same client, the same pipeline six times, they will end up with ineffective pipelines.
+- PERSON12 has a question regarding the ORGANIZONATION2 platform.
+- He wants to know if the mediator who subscribes the service is able to provide the service.
+- PERSON7 suggests that the platform could have tests of workers.
+- If the test fails, the platform would kill the worker.
+- Another option would be to force the platform to use particular worker for pipeline or session.
+- This is to be discussed on Monday.
+- PERSON7 and PERSON12 want to share with them their experiment this afternoon in order to be more prepared on Monday.
+- PERSON3 would like to press some of the ASR clients or the are not working, and then they can do something about it.
+- The person the worker is not free dubt as mark is busy.
+- PERSON6 reminds that next time they would like to make of such failure to debug.
+- The general PROJECT2 call will be held in 5 minutes.
+- There are too many things to discuss to have it faster, so PERSON12 and PERSON7 have to end the call.
+
+
+Minuted by: Team Synapse

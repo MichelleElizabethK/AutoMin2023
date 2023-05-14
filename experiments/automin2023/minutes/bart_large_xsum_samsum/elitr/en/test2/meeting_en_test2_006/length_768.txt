@@ -1,0 +1,36 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON10, PERSON11, PERSON14, PERSON15, PERSON2, PERSON3, PERSON4, PERSON7, PERSON8
+
+
+SUMMARY
+- PERSON2, PERSON7, PERSON3 and PERSON11 are on a conference call organised by ORGANIZATION2.
+- The goal is to synchronize the group, and the date and time, so that it is fits to most of them.
+- The consent to process data within the team is not There is an ORGANIZATION7 conference in early December.
+- The conference will serve as a test event for the Organizing16 Congress.
+- Organizing12 and ORGANIZATION7 will use the next year's conference as a demo event for PROJECT5 project.
+- PERSON11 is looking for a way to collect spoken data for the ORGANIZATION6corpus.
+- She will write to PERSON13 as soon as possible.
+- PERSON11 has discovered that on some of the testing data sets from PROJECT6, the models are not much better than the best Edinburgh model.
+- The organization needs monolingual data for, domain adaptation and parallel data as much as possible.
+- PERSON9 is moving towards system integration and PERSON8 will run PROJECT2 on data for around one hour and make some minor changes.
+- PERSON3 wants to make PROJECT5 test set and PROJECT2 the standard evaluation tool for spoken language translation.
+- PERSON3 wants the previous version of the tool and the PROJECT5 test set.
+- PERSON8 wants both of them.
+- Next week they will finalize everything.
+- PERSON3 wants to talk to PERSON10 and help him with the evaluation of all the systems running through PROJECT5 test set.
+- PERSON14 and PERSON10 are taking over what PERSON14 did.
+- PERSON15 is the second lost person.
+- PERSON4 has worked on multi-target machine translation for his master thesis.
+- He is also part-time employed on PROJECT5 to develop multi source, models.
+- His task PERSON3, PERSON10, Umar and PERSON15 are working on multilingual PROJECT4 systems.
+- PERSON7 is working on data augmentation for offline processing.
+- PERSON3, PERSON7, PERSON15, PERSON16 and PERSON4 are going to train as a comparin comparison in using the same training data.
+- PERSON10 suggests transfer learning on of double encoder model on small GPus.
+- PERSON7 is working on the same task as the ORGANIZATION14 challenge.
+- PERSON7 is using the ORGANIZATION11 common voice data set.
+- The main objective is to train PROJECT7 in English PROJECT4.
+- PERSON15 wants to use the same data for ORGANIZATION13 evaluations as for PROJECT4.
+- PERSON7 suggests using the ORGANIZATION11Common voice data set.
+
+
+Minuted by: Team Synapse

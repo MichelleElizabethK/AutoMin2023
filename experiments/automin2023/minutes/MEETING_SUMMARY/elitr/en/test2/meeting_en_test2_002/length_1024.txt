@@ -1,0 +1,41 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON12, PERSON15, PERSON16, PERSON18, PERSON24, PERSON3, PERSON7
+
+
+SUMMARY
+- PERSON15 is gathering information about the work of the project.
+- He wants to know if there is enough progress in multi-source research and if there are any problems with the deliverable.
+- PERSON12 and PERSON15 are going to have a separate call tomorrow at 2 or 3 p.m. to test the multi-source method.
+- PERSON10 is leaving the call and will finish the language model checking of ASR outputs.
+- PERSON15 reminds PERSON3 about the profanity filtering and especially the spasm detection and removal.
+- He also reminds them about the do it yourself integration and the need to provide them with the full pipeline so they can integrate and test it themselves.
+- PERSON15 is having a call with PERSON10 later today.
+- PERSON1 is preparing a speech by an Italian speaker for a seminar on Monday.
+- PERSON1, PERSON15, PERSON18, PERSON3 and PERSON8 need to record the experience from the training pipeline.
+- PERSON10 will be leaving the organization.
+- Yesterday, PERSON8 and PERSON14 couldn't properly use the pipeline.
+- PERSON18 wants PERSON15, PERSON8 and PERSON3 to set up a call with PERSON8 to discuss how to make the configuration cleaner.
+- PERSON16 wants to limit the number of languages supported in the worker to one.
+- PERSON16, PERSON15, PERSON18 and PERSON3 are discussing how to improve the performance of the PROJECT3 model.
+- PERSON16 is working on shortening and extending the models.
+- He is running out of storage space and needs to ask for more.
+- PERSON15, PERSON16 and PERSON18 are working on a project.
+- The deadline for applying for PHD one is at the end of the year.
+- A man from Zabrican is interested in joining the project.
+- PERSON15 is trying to send an invite to ORGANIZATION2 tomorrow at 2 pm.
+- They haven't had the call last week.
+- The evaluation of all systems and files in the PROJECT5 test set needs to be automated.
+- There will be a call with PERSON7 later There are two lessons learned from the last week sessions: 1.
+- Management and 2.
+- Dealing with non native accents.
+- PERSON15, P, PERSON3 and PERSON16 are working on a machine learning project.
+- They want to develop a fully neural ASR and do experiments on fine tuning of the existing one.
+- PERSON1, PERSON3 and PERSON15 discuss how to deal with profanity, negative sentiment and how to train neural networks for sentiment analysis.
+- PERSON3 will ask elderly students who are already in Prague for the first or second year if they would be interested in supervising a student.
+- PERSON15 wants to be the first one to arrive in Prague.
+- They will have one more Thursday call next week.
+- There will be two weeks break between Christmas and New Year's Eve.
+- Then they will meet again next week and January.
+
+
+Minuted by: Team Synapse

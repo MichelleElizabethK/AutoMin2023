@@ -1,0 +1,24 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON4, PERSON5, PERSON6, PERSON7, PERSON9
+
+
+SUMMARY
+- PERSON9, PERSON6, PERSON5, PERSON7 and PERSON4 are trying to talk to each other, but only one of them is able to hear them.
+- They want to do some probing on transformer networks.
+- PERSON5, PERSON7 and PERSON1 are trying to solve a problem with the tactogrammatical treebanks.
+- They want to come to LOCATION1 for two weeks and collaborate on something with the people in LOCATION3.
+- PERSON1, PERSON7 and PERSON9 discuss the structure of their research paper.
+- PERSON1 is in LOCATION2 until half of December.
+- PERSON7 is in the same place.
+- PERSON5, PERSON6, PERSON9 and PERSON1 will meet each other personally in December.
+- PERSON9 wants to know what is going on with PROJECT5 and PROJECT4.
+- PERSON5 is working on the manual hewit paper and is trying to get it more reliable.
+- PERSON6 and PERSON9 are working on a project.
+- PERSON9, PERSON5 and PERSON1 are working on a project.
+- PERSON9 wants to set up a language model to train a model for machine translation.
+- PERSON9 and PERSON2 will send the paper to the dean.
+- They will also send it to PERSON6 and PERSON4.
+- They need at least one month to prepare it.
+
+
+Minuted by: Team Synapse

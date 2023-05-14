@@ -1,0 +1,35 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON5, PERSON7, PERSON8
+
+
+SUMMARY
+- PERSON8 is preparing the link into the web interface.
+- PERSON5 is looking for some reference to the evaluation.
+- PERSON7 has uploaded the ORGANIZATION3 sources.
+- PERSON7 will skip the meeting with PERSON3 later this week.
+- PERSON5 shows him a link to the ORGANIZATION3 website.
+- PERSON5 and PERSON7 are trying to access the minutes from the organiser's website, but the index does not correspond to the index for the transcripts.
+- They find out that they are within the corpus created for machine translation purposes.
+- They also find out how the tool for annotation PERSON5 and PERSON8 are sharing a screen.
+- PERSON5 wants to know where the snapshot is.
+- The snapshot is at the end of the paper.
+- There is an interface which can be seen in web application.
+- In the implementation details they have the summary and transcript of the PERSON8 will form an airdraft and send it to PERSON5 and finalize the implemetation.
+- PERSON8 proposed to build a web base interface for annotators to help them with manually evaluation of the data.
+- PERSON7 wants to understand how it would work.
+- PERSON8 will send PERSON7 and PERSON5 a draft of both the training data and the manual evaluation of the annotators.
+- PERSON8 wants to share the draft of the paper with the rest of the group.
+- He wants to know how to add some constant values to the equation.
+- He also wants to compare the automatic matrix with the cautions one to five so that they can have the same set up of PERSON7, PERSON5 and PERSON8 will judge the minutes.
+- They will get transcripts and two different minutes and they will judge.
+- They are not going ahead with the alignment thing.
+- PERSON8 is working on her evaluation paper.
+- It took her a long time because she didn't do something new in the beginning of the paper.
+- She has to link the papers which she implemented in the agenda.
+- She is trying to do the summarisation with their data and not the PERSON7, PERSON5 and PERSON8 will draft a draft for the 6 years of data for the project.
+- They will also send the paper they want to and discuss it offline.
+- PERSON8 is linking them.
+- She will link them in 5 minutes.
+
+
+Minuted by: Team Synapse

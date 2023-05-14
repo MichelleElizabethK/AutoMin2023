@@ -1,0 +1,67 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON11, PERSON12, PERSON3, PERSON6, PERSON7, PERSON8, PERSON9
+
+
+SUMMARY
+- PERSON12, PERSON7, PERSON10, and PERSON11 are on a conference call.
+- The microphone was muted.
+- The presentation platform is not working properly.
+- There is no true German speaker at the moment.
+- There are some technical issues with the presentation platform and the ASR processing.
+- PERSON12, PERSON7, PERSON11 and PERSON3 are going to test the ASR.
+- They are short of German interpreters for the workshop, so they will use ASR instead.
+- PERSON3, PERSON7, PERSON11 and PERSON9 are working on a presentation.
+- There are a lot of repetitions of the same sentence six times in a row.
+- They need to talk to ORGANIZATION3 about it.
+- They also need to add the critical observations from the test to There is a problem with screensharing in Pexip.
+- When following the screen presented by PERSON11, PERSON11 is still presenting the screen, but when following the page updates every one or two seconds.
+- People can't hear what is being said on the other end of the call PERSON11 will connect one more headset for PERSON12 and one more laptop for PERSON3.
+- PERSON3 will share the screen with everyone.
+- They need to send one audio for each output language.
+- There are some issues with multiplexing.
+- PERSON3, PERSON5, PERSON4, PERSON11 and PERSON12 are trying to figure out how to improve the behavior of ORGANIZATION6's workers.
+- ORGANIZATION6 manages the ASR output multiple times in the displace server and features out segments in their own application.
+- ORGANIZATION4 shared PERSON12, PERSON7, PERSON11 and PERSON3 are trying to solve a bug in the presentation platform.
+- It turns out it's the same string repeated.
+- The solution is that the ASR worker double checks it's output and never sends the same message again.
+- PERSON3 and PERSON12 are working on a presentation platform.
+- The German ASR was working, but now it's not working.
+- PERSON12 asks for the source code of PROJECT1 to upload the webpage that shows the video and the link with the screencast that they are going to send.
+- PERSON12 and PERSON11 are trying to set up a system to send audio and a presentation platform with subtitles to start the session.
+- It's not working.
+- PERSON11 connected English and German speakers.
+- PERSON3 and PERSON12 are working on a project.
+- They are having problems with web browsers and Windows Firewall.
+- PERSON3 will talk about it with the team.
+- PERSON12 is happy with this speed that the subtitles appeared on PERSON11's screen.
+- PERSON3 is working on the complete pipe.
+- PERSON12 wants to perform a massive test on Monday next Monday.
+- PERSON4 is not available on Friday, so they will meet on Friday the same time PERSON12 wants to relieve the workers from the ORGANIZATION2 load.
+- They need Pexip to check the work load and connect all the machine translation into all the target languages.
+- They don't have access to VLC, so they will try to mimic the streaming from VLC.
+- PERSON3 explains to PERSON9 how M3U8 works.
+- PERSON12 has issues with the presentation platform.
+- PERSON3 and PERSON12 are working on the administration interface.
+- PERSON3 is able to display the admin interface on his desktop, but can't share it with Pexip.
+- PERSON3, PERSON12 and PERSON11 are working on a project.
+- They need a big map of all the fingerprints they are using through all the process.
+- They also need a list of the audio sources.
+- PERSON3, PERSON11 and PERSON12 are working on fingerprinting before the 27 of June meeting.
+- PERSON3, PERSON9 and PERSON12 are working on a presentation platform.
+- They need to add more languages to the list of available fingerprints, but the system is not working properly.
+- PERSON12 wants to change the set of languages and add Spanish to the front page, but she doesn't know how to do it.
+- PERSON9 doesn't have a microphone, so he can't hear her.
+- PERSON3, PERSON9 and PERSON12 are having problems with the presentation platform.
+- The slides are too small and the slides are reduced too much.
+- They want to make sure it's for the workshop in two weeks.
+- PERSON3 is working on functionality rather than on the presentation platform.
+- PERSON9 and PERSON12 want to make some changes to the presentation.
+- They want to limit the with of the slides rectangle on the desktop to the whole width of the screen and to have at least 2 languages PERSON3 is not allowed to share the whole presentation platform's logic with the rest of the team, but he can share some snippets of it.
+- The presentation platform is running on his local PC.
+- PERSON3 will not be available for part of the week.
+- The goal for Monday was to test more languages in presentation platform.
+- On Friday they have to check the audio and video inputs and all target languages in the platform.
+- PERSON2 and PERSON4 will be absent.
+
+
+Minuted by: Team Synapse

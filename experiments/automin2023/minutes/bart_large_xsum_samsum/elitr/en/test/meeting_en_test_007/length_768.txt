@@ -1,0 +1,22 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON10, PERSON2, PERSON5, PERSON6
+
+
+SUMMARY
+- PERSON10, PERSON2, PERSON3, and PERSON6 are going to have a meeting on Thursday at around 1 PM.
+- There will be a call with the project partners.
+- They are waiting for someone to join them, but it's not necessary.
+- PERSON1 wants PERSON10 to come and visit her for a limited time.
+- She needs to enter a proper work contract first.
+- PERSON1 wants to apply for a visa, but LOCATION1 can't apply as the ORGANIZATION4 is closed and other people who want to come here from India can't, because they don't have papers they need.
+- PERSON9 is preparing leaflets, he would be handing them out to participants and that's it.
+- The certificate on the server of the plane who does the just expired.
+- There are 40 jobs on the cluster, they are already running, but every job takes two hours, so it's PERSON6 is sceptical about machine-learned evaluation methods, because they might be sensitive to domain shift and, and such.
+- PERSON10 and PERSON2 think that a non-standard metric could be useful for both paraphrasing and for evaluation.
+- PERSON6, PERSON2 and PERSON10 are going to focus on the constraint decoding part of the project.
+- They will try to have a meeting with PERSON1 next week to discuss it further.
+- PERSON6 and PERSON10 have discussed everything they needed.
+- They will see each other next week.
+
+
+Minuted by: Team Synapse

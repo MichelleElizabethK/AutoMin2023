@@ -1,0 +1,42 @@
+DATE : 2023-05-14
+ATTENDEES : PERSON1, PERSON4, PERSON5, PERSON6, PERSON7, PERSON9
+
+
+SUMMARY
+- PERSON4, PERSON9, PERSON6, PERSON5 and PERSON7 are trying to talk to each other on Skype, but only one of them can hear them.
+- They agree that PERSON7 will do some probing on transformer networks, and PERSON5 will probe on PROJECT5, PROJECT8 or PROJECT9.
+- PERSON5 and PENPERSON7 are going to do a paper on attention and compution scores.
+- They need to focus on the other 10s.
+- They also need to do the tactogrammatical treebanks annotated on OTHER9 and OTHER7.
+- PERSON7 wants to come to LOCATION1 for 2 weeks and collaborate on something with the people in LOCATION3.
+- He will organize a Skype call with the leader of the group and then let the rest of the people know if they can come.
+- PERSON1 has created a transformer attention matrices.
+- PERSON1 is training about the dependency trees.
+- The higher layer for components depend subjects was called balustrade layer.
+- It's constructure which some heads correlates with relation in different laytions in syntactic tree.
+- The shorter phrases can be in different balustrades in different heads.
+- The different heads do different things in different ways.
+- PERSON1 is in LOCATION2 until the 15th December.
+- PERSON7 will be taken in the beginning of December.
+- They want to switch to another network like PROJECT5.
+- PERSON1 wants to extract the graph structures from the syntactic trees and compare it with the extract from the attentions.
+- PERSON5, PERSON9 and PERSON7 will meet in 14 days to work on their master thesis.
+- They will write a paper on the project they are working on.
+- They need to write the final review e-mail and get the semantic score.
+- PERSON9, PERSON5 and PERSON6 are working on a project.
+- They are analysing a model of a Transformer, which is trained in neuromantee, trained by PERSON4.
+- The model is based on multiligual PROJECT5 and PROJECT4.
+- Transformer trained for machine translation would be more syntactic and PRO PROJECT5 less.
+- PERSON5 is preparing her master thesis.
+- She will submit it lenght tomorrow.
+- She needs to create a training model for it.
+- PERSON9 suggests to set up a one-on-one meeting with PERSON2 to talk about it more often.
+- She should also prepare a video.
+- PERSON9 has to send the paper to PERSON2 and PERSON2 adds in.
+- The dean has to approve it.
+- PERSON5 should have some experiments.
+- PERSON6 and PERSON4 will write the paper together with PERSON9.
+- They will send it to the dean.
+
+
+Minuted by: Team Synapse
